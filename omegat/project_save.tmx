@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Continue?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061407Z" creationid="Yifei Ding" creationdate="20190211T061407Z">
+        <seg>继续？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dashboard</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -90,6 +98,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061335Z" creationid="Yifei Ding" creationdate="20190211T061335Z">
         <seg>安装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061354Z" creationid="Yifei Ding" creationdate="20190211T061354Z">
+        <seg>密码错误</seg>
       </tuv>
     </tu>
     <tu>
