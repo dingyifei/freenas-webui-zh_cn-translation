@@ -1054,6 +1054,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Password for the SSH Username account.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T214812Z" creationid="Yifei Ding" creationdate="20190211T214812Z">
+        <seg>SSH账户的密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password for the username.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T214831Z" creationid="Yifei Ding" creationdate="20190211T214831Z">
+        <seg>用户名的密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Passwords cannot contain a &lt;b&gt;?&lt;/b&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055113Z" creationid="Yifei Ding" creationdate="20190211T055113Z">
@@ -1066,6 +1082,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055125Z" creationid="Yifei Ding" creationdate="20190211T055125Z">
         <seg>密码不匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paste the certificate for the CA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T214852Z" creationid="Yifei Ding" creationdate="20190211T214852Z">
+        <seg>粘贴CA证书</seg>
       </tuv>
     </tu>
     <tu>
