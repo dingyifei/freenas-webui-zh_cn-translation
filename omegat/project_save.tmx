@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055556Z" creationid="Yifei Ding" creationdate="20190211T055556Z">
+        <seg>启用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter a server description.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023704Z" creationid="Yifei Ding" creationdate="20190211T023704Z">
@@ -408,16 +416,16 @@
       <tuv lang="EN-US">
         <seg>Passphrase changed for pool</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055020Z" creationid="Yifei Ding" creationdate="20190211T055020Z">
-        <seg>已修改存储池密码</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055833Z" creationid="Yifei Ding" creationdate="20190211T055020Z">
+        <seg>修改存储池密码完成</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Passphrase created for pool</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055030Z" creationid="Yifei Ding" creationdate="20190211T055030Z">
-        <seg>已创建存储池密码</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055842Z" creationid="Yifei Ding" creationdate="20190211T055030Z">
+        <seg>创建存储池密码完成</seg>
       </tuv>
     </tu>
     <tu>
@@ -690,6 +698,54 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055535Z" creationid="Yifei Ding" creationdate="20190211T055535Z">
         <seg>重新连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Serial Port</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055637Z" creationid="Yifei Ding" creationdate="20190211T055637Z">
+        <seg>串口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Serial Speed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055732Z" creationid="Yifei Ding" creationdate="20190211T055732Z">
+        <seg>波特率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Service failed to start</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055803Z" creationid="Yifei Ding" creationdate="20190211T055803Z">
+        <seg>服务启动失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Service failed to stop</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055807Z" creationid="Yifei Ding" creationdate="20190211T055807Z">
+        <seg>服务停止失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Service started</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055815Z" creationid="Yifei Ding" creationdate="20190211T055815Z">
+        <seg>服务启动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Services</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055819Z" creationid="Yifei Ding" creationdate="20190211T055819Z">
+        <seg>服务</seg>
       </tuv>
     </tu>
     <tu>
