@@ -27,3 +27,7 @@ Options	选项
 Path	路径
 Log in	登录
 Mirror	镜像
+Error	错误
+Guest	访客
+lagg	链路聚合	忘记哪里找到的了
+Dataset	数据集
