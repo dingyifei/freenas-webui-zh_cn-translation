@@ -1470,6 +1470,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reserved space for this dataset</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231827Z" creationid="Yifei Ding" creationdate="20190211T231827Z">
+        <seg>此数据集的保留空间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reserved space for this dataset and all children</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231840Z" creationid="Yifei Ding" creationdate="20190211T231840Z">
+        <seg>此数据集及其子数据集的保留空间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset Config</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061055Z" creationid="Yifei Ding" creationdate="20190211T061055Z">
@@ -1518,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Restore default</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231855Z" creationid="Yifei Ding" creationdate="20190211T231855Z">
+        <seg>重置为默认</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Root Password</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061008Z" creationid="Yifei Ding" creationdate="20190211T061008Z">
@@ -1530,6 +1554,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061010Z" creationid="Yifei Ding" creationdate="20190211T061010Z">
         <seg>Root密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run Now</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231905Z" creationid="Yifei Ding" creationdate="20190211T231905Z">
+        <seg>现在运行</seg>
       </tuv>
     </tu>
     <tu>
