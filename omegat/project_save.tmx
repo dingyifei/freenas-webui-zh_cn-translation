@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose a memorable name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060734Z" creationid="Yifei Ding" creationdate="20190211T060734Z">
+        <seg>选择一个好记的名字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dashboard</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -942,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060456Z" creationid="Yifei Ding" creationdate="20190211T060456Z">
+        <seg>类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Updates Available</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T025859Z" creationid="Yifei Ding" creationdate="20190211T025859Z">
@@ -1038,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Users &amp; Groups</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060545Z" creationid="Yifei Ding" creationdate="20190211T060545Z">
+        <seg>用户与群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Version</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030147Z" creationid="Yifei Ding" creationdate="20190211T030147Z">
@@ -1066,6 +1090,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030219Z" creationid="Yifei Ding" creationdate="20190211T030219Z">
         <seg>虚拟化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WARNING: Adding data vdevs with different numbers of disks is not recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060615Z" creationid="Yifei Ding" creationdate="20190211T060615Z">
+        <seg>警告： Adding data vdevs with different numbers of disks is not recommended.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WARNING: Exporting/disconnecting '</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060626Z" creationid="Yifei Ding" creationdate="20190211T060626Z">
+        <seg>警告：Exporting/disconnecting '</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1178,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030409Z" creationid="Yifei Ding" creationdate="20190211T030409Z">
         <seg>是</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZFS Filesystem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060717Z" creationid="Yifei Ding" creationdate="20190211T060717Z">
+        <seg>ZFS文件系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZFS Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060656Z" creationid="Yifei Ding" creationdate="20190211T060656Z">
+        <seg>ZFS存储池</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
