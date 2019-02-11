@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b&gt;Example:&lt;/b&gt; &lt;i&gt;1,2,3,4&lt;/i&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213547Z" creationid="Yifei Ding" creationdate="20190211T213547Z">
+        <seg>&lt;b&gt;例子：&lt;/b&gt; &lt;i&gt;1,2,3,4&lt;/i&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Account</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -440,8 +448,16 @@
       <tuv lang="EN-US">
         <seg>Importing Pool</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213257Z" creationid="Yifei Ding" creationdate="20190211T213257Z">
-        <seg>导入存储池</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213319Z" creationid="Yifei Ding" creationdate="20190211T213257Z">
+        <seg>导入存储池中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Importing Pool...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213312Z" creationid="Yifei Ding" creationdate="20190211T213312Z">
+        <seg>导入存储池中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -450,6 +466,54 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061335Z" creationid="Yifei Ding" creationdate="20190211T061335Z">
         <seg>安装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation Media</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213425Z" creationid="Yifei Ding" creationdate="20190211T213425Z">
+        <seg>安装介质</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installing plugin...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213436Z" creationid="Yifei Ding" creationdate="20190211T213436Z">
+        <seg>安装插件中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213442Z" creationid="Yifei Ding" creationdate="20190211T213442Z">
+        <seg>接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interface Description</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213451Z" creationid="Yifei Ding" creationdate="20190211T213451Z">
+        <seg>接口描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interface Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213456Z" creationid="Yifei Ding" creationdate="20190211T213456Z">
+        <seg>接口名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interfaces</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213459Z" creationid="Yifei Ding" creationdate="20190211T213459Z">
+        <seg>接口</seg>
       </tuv>
     </tu>
     <tu>
