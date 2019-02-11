@@ -166,6 +166,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T194302Z" creationid="Yifei Ding" creationdate="20190211T194302Z">
+        <seg>错误：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export Certificate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T194338Z" creationid="Yifei Ding" creationdate="20190211T194338Z">
+        <seg>导出证书</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195639Z" creationid="Yifei Ding" creationdate="20190211T195639Z">
+        <seg>失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File Permission</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T013600Z" creationid="Yifei Ding" creationdate="20190211T013600Z">
