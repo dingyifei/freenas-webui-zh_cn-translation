@@ -32,3 +32,10 @@ Guest	访客
 lagg	链路聚合	忘记哪里找到的了
 Dataset	数据集
 Warning	警告
+Passphrase	密码
+Proceed	继续
+Service	服务
+Legacy User Interface	经典用户界面
+Port	端口
+Tasks	任务
+Groups	群组
