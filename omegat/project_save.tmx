@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IPv6 Interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200412Z" creationid="Yifei Ding" creationdate="20190211T200412Z">
+        <seg>IPv6接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061506Z" creationid="Yifei Ding" creationdate="20190211T061506Z">
@@ -410,6 +418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061533Z" creationid="Yifei Ding" creationdate="20190211T061533Z">
         <seg>导入磁盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Importing Disk</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T201802Z" creationid="Yifei Ding" creationdate="20190211T201802Z">
+        <seg>导入磁盘中</seg>
       </tuv>
     </tu>
     <tu>
