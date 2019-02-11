@@ -1742,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show/Hide Passwords</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232558Z" creationid="Yifei Ding" creationdate="20190211T232558Z">
+        <seg>显示/隐藏密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shut Down</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060801Z" creationid="Yifei Ding" creationdate="20190211T060801Z">
@@ -1798,6 +1806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Snapshots</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232722Z" creationid="Yifei Ding" creationdate="20190211T232722Z">
+        <seg>快照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055917Z" creationid="Yifei Ding" creationdate="20190211T055917Z">
@@ -1826,6 +1842,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060023Z" creationid="Yifei Ding" creationdate="20190211T060023Z">
         <seg>IPMI 网络接口静态IPv4地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Static Routes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232754Z" creationid="Yifei Ding" creationdate="20190211T232754Z">
+        <seg>静态路由</seg>
       </tuv>
     </tu>
     <tu>
@@ -2002,6 +2026,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232131Z" creationid="Yifei Ding" creationdate="20190211T232131Z">
         <seg>测试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the serial number of the disk.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232853Z" creationid="Yifei Ding" creationdate="20190211T232853Z">
+        <seg>磁盘的序列号</seg>
       </tuv>
     </tu>
     <tu>
