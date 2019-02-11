@@ -96,8 +96,8 @@
       <tuv lang="EN-US">
         <seg>Enter any notes about the jail here.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T180015Z" creationid="Yifei Ding" creationdate="20190211T180015Z">
-        <seg>此处输入这个Jail的笔记。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T180102Z" creationid="Yifei Ding" creationdate="20190211T180015Z">
+        <seg>此处输入这个Jail的备注。</seg>
       </tuv>
     </tu>
     <tu>
@@ -105,6 +105,14 @@
         <seg>Enter any notes about this dataset.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T180055Z" creationid="Yifei Ding" creationdate="20190211T180055Z">
+        <seg>此处输入这个数据集的备注。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter any notes about this disk.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T181027Z" creationid="Yifei Ding" creationdate="20190211T181027Z">
         <seg>此处输入这个数据集的备注。</seg>
       </tuv>
     </tu>
