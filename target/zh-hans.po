@@ -24,7 +24,7 @@ msgid " disks, new vdev has "
 msgstr ""
 
 msgid "% of all cores"
-msgstr ""
+msgstr "所有核心(%)"
 
 msgid ""
 "' is encrypted! If the passphrase for this encrypted pool has been lost, "
@@ -59,7 +59,7 @@ msgid "0=Disabled, blank=inherit"
 msgstr ""
 
 msgid "20 characters is the maximum length."
-msgstr ""
+msgstr "20字符是极限长度。"
 
 msgid ": Automatic update check failed. Please check system network settings."
 msgstr ""
@@ -423,18 +423,18 @@ msgid ""
 msgstr ""
 
 msgid "Accounts"
-msgstr ""
+msgstr "账户"
 
 msgid "Acoustic Level"
-msgstr ""
+msgstr "声学等级"
 
 msgid "Activate"
-msgstr ""
+msgstr "启用"
 
 msgid ""
 "Activates the configuration. Unset to disable the                  "
 "configuration without deleting it."
-msgstr ""
+msgstr "启用配置Unset to disable the                  configuration without deleting it."
 
 msgid ""
 "Activates the process for ZFS to transparently reuse a single copy of "
@@ -457,16 +457,16 @@ msgid "Adapter Type:"
 msgstr ""
 
 msgid "Add Additional IPv4 Alias"
-msgstr ""
+msgstr "添加额外的IPv4别名"
 
 msgid "Add Additional IPv6 Alias"
-msgstr ""
+msgstr "添加额外的IPv6别名"
 
 msgid "Add Additional Path"
-msgstr ""
+msgstr "添加额外路径"
 
 msgid "Add Cache"
-msgstr ""
+msgstr "添加缓存"
 
 msgid "Add Cloud Credential"
 msgstr ""
@@ -475,7 +475,7 @@ msgid "Add Data"
 msgstr ""
 
 msgid "Add Dataset"
-msgstr ""
+msgstr "添加数据集"
 
 msgid "Add Log"
 msgstr ""
@@ -490,10 +490,10 @@ msgid "Add Zvol"
 msgstr ""
 
 msgid "Add a name for the new snapshot"
-msgstr ""
+msgstr "给新的快照添加一个名字"
 
 msgid "Add a name for the new snapshot."
-msgstr ""
+msgstr "给新的快照添加一个名字。"
 
 msgid ""
 "Add an <a href=\"%%docurl%%/system.html%%webversion%%#certificates\" "
@@ -506,7 +506,7 @@ msgid ""
 "target=\"_blank\">sshd_config(5)</a> options not covered in this screen. "
 "Enter one option per line. These options are case-sensitive. Misspellings "
 "can prevent the SSH service from starting."
-msgstr ""
+msgstr "Add any more <a href=\"https://www.freebsd.org/cgi/man.cgi?query=sshd_config\" target=\"_blank\">sshd_config(5)</a> options not covered in this screen. Enter one option per line. 这些选项是大小写敏感的Misspellings can prevent the SSH service from starting."
 
 msgid "Add any notes about this zvol."
 msgstr ""
@@ -602,7 +602,7 @@ msgid ""
 msgstr ""
 
 msgid "Address"
-msgstr ""
+msgstr "地址"
 
 msgid "Address space limit in bytes for the jail."
 msgstr ""
@@ -625,19 +625,19 @@ msgid ""
 msgstr ""
 
 msgid "Administrator Password"
-msgstr ""
+msgstr "管理员密码"
 
 msgid "Adv. Power Management"
-msgstr ""
+msgstr "Adv. 电源管理"
 
 msgid "Advanced"
-msgstr ""
+msgstr "高级"
 
 msgid "Advanced Mode"
-msgstr ""
+msgstr "高级模式"
 
 msgid "Advanced Power Management"
-msgstr ""
+msgstr "高级电源管理"
 
 msgid ""
 "After entering the <b>Hostname, Username</b>, and <b>Password</b>, click "
@@ -645,7 +645,7 @@ msgid ""
 msgstr ""
 
 msgid "Alert"
-msgstr ""
+msgstr "警告"
 
 msgid "Alert Services"
 msgstr ""
@@ -690,7 +690,7 @@ msgid "Allow Execute Always"
 msgstr ""
 
 msgid "Allow Guest Access"
-msgstr ""
+msgstr "允许访客访问"
 
 msgid "Allow Kerberos authentication"
 msgstr ""
@@ -699,13 +699,13 @@ msgid "Allow Local User Login"
 msgstr ""
 
 msgid "Allow New Files"
-msgstr ""
+msgstr "允许创建新文件"
 
 msgid "Allow Root Login"
-msgstr ""
+msgstr "允许Root登入"
 
 msgid "Allow TCP port forwarding"
-msgstr ""
+msgstr "允许TCP端口转发"
 
 msgid "Allow Transfer Resumption"
 msgstr ""
@@ -849,13 +849,13 @@ msgid "Amount of locked memory in bytes for the jail."
 msgstr ""
 
 msgid "An update is already applied. Please reboot the system."
-msgstr ""
+msgstr "An update is already applied. 请重启系统"
 
 msgid "Anonymous User Download Bandwidth"
-msgstr ""
+msgstr "匿名用户下载速度"
 
 msgid "Anonymous User Upload Bandwidth"
-msgstr ""
+msgstr "匿名用户上传速度"
 
 msgid "Appdefaults Auxiliary Parameters"
 msgstr ""
@@ -951,10 +951,10 @@ msgid ""
 msgstr ""
 
 msgid "Auto-start"
-msgstr ""
+msgstr "自启动"
 
 msgid "Autoconfigure IPv6"
-msgstr ""
+msgstr "自动配置IPv6"
 
 msgid ""
 "Automatically compress data written to the zvol. Choose a <a "
@@ -991,22 +991,22 @@ msgid "Auxiliary parameters"
 msgstr ""
 
 msgid "Available Disks"
-msgstr ""
+msgstr "可用磁盘"
 
 msgid "Available Themes"
-msgstr ""
+msgstr "可用主题"
 
 msgid "Available space threshold (%)"
 msgstr ""
 
 msgid "Average of all cores"
-msgstr ""
+msgstr "所有核心平均"
 
 msgid "Awesome! Now let's explore FreeNAS's cool features."
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 msgid ""
 "Backblaze B2 Application Key. Log in to                  the B2 account and "
@@ -1026,7 +1026,7 @@ msgid ""
 msgstr ""
 
 msgid "Bandwidth Limit"
-msgstr ""
+msgstr "带宽限制"
 
 msgid "Base DN"
 msgstr ""
@@ -1038,16 +1038,16 @@ msgid "Base64 encoded key for the Azure account."
 msgstr ""
 
 msgid "Basic Mode"
-msgstr ""
+msgstr "基本模式"
 
 msgid "Basic Properties"
-msgstr ""
+msgstr "基本属性"
 
 msgid "Begin"
-msgstr ""
+msgstr "开始"
 
 msgid "Begin Time"
-msgstr ""
+msgstr "开始时间"
 
 msgid ""
 "Beginning UID/GID number for which this system is                  "
@@ -1080,22 +1080,22 @@ msgid "Block (iSCSI)"
 msgstr ""
 
 msgid "Block size"
-msgstr ""
+msgstr "块大小"
 
 msgid "Boot Environments"
-msgstr ""
+msgstr "启动环境"
 
 msgid "Boot Loader Type"
 msgstr ""
 
 msgid "Boot Method"
-msgstr ""
+msgstr "启动方式"
 
 msgid "Boot Pool"
-msgstr ""
+msgstr "启动池"
 
 msgid "Boot Pool Status"
-msgstr ""
+msgstr "启动池状态"
 
 msgid "Browsable to Network Clients"
 msgstr ""
@@ -1208,19 +1208,19 @@ msgid "CN Realm"
 msgstr ""
 
 msgid "CPU"
-msgstr ""
+msgstr "处理器"
 
 msgid "CPU Temperatures"
-msgstr ""
+msgstr "处理器温度"
 
 msgid "CPU Usage"
-msgstr ""
+msgstr "处理器使用量"
 
 msgid "CPU and Memory"
-msgstr ""
+msgstr "处理器和内存"
 
 msgid "CPU and Memory configuration."
-msgstr ""
+msgstr "处理器和内存配置"
 
 msgid "CSRs"
 msgstr ""
@@ -1252,13 +1252,13 @@ msgid "Change Device Order"
 msgstr ""
 
 msgid "Change Passphrase"
-msgstr ""
+msgstr "修改密钥"
 
 msgid "Change Password"
-msgstr ""
+msgstr "修改密码"
 
 msgid "Change Pool Passphrase"
-msgstr ""
+msgstr "修改存储池密钥"
 
 msgid "Change User & Group Ownership"
 msgstr ""
@@ -1270,7 +1270,7 @@ msgid ""
 msgstr ""
 
 msgid "Change log"
-msgstr ""
+msgstr "修改日志"
 
 msgid ""
 "Change the default password to improve system security. The new password "
@@ -1321,7 +1321,7 @@ msgid "Check Release Notes"
 msgstr ""
 
 msgid "Check for Updates"
-msgstr ""
+msgstr "检查更新"
 
 msgid "Check for Updates Daily and Download if Available"
 msgstr ""
@@ -1413,7 +1413,7 @@ msgid ""
 msgstr ""
 
 msgid "Choose a color scheme."
-msgstr ""
+msgstr "选择颜色主题"
 
 msgid "Choose a location to store the installer image file."
 msgstr ""
@@ -7050,7 +7050,7 @@ msgid "Show tracebacks in case of fatal error"
 msgstr ""
 
 msgid "Show/Hide Passwords"
-msgstr ""
+msgstr "显示/隐藏密码"
 
 msgid "Shut Down"
 msgstr "关机"
@@ -7104,7 +7104,7 @@ msgid "Snapshot successfully taken."
 msgstr ""
 
 msgid "Snapshots"
-msgstr ""
+msgstr "快照"
 
 msgid "Source"
 msgstr ""
@@ -7191,7 +7191,7 @@ msgid "Static IPv4 address of the IPMI web interface."
 msgstr "IPMI 网络接口静态IPv4地址"
 
 msgid "Static Routes"
-msgstr ""
+msgstr "静态路由"
 
 msgid "Status"
 msgstr "状态"
@@ -7666,7 +7666,7 @@ msgid "This is the boot environment to be cloned."
 msgstr ""
 
 msgid "This is the serial number of the disk."
-msgstr ""
+msgstr "磁盘的序列号"
 
 msgid ""
 "This number selects the routing table (<a "
@@ -7807,7 +7807,7 @@ msgid ""
 msgstr ""
 
 msgid "Until"
-msgstr ""
+msgstr "直到"
 
 msgid "Unused"
 msgstr "未使用"
@@ -7825,7 +7825,7 @@ msgid "Update Period"
 msgstr ""
 
 msgid "Update successful. Please reboot for the update to take effect. Reboot now?"
-msgstr "更新成功Please reboot for the update to take effect. 现在重启？"
+msgstr "更新成功。请重启以便更新生效。现在重启？"
 
 msgid "Updates Available"
 msgstr "可用更新"
