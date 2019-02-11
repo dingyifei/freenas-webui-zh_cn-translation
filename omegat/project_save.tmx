@@ -22,6 +22,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter an IPv6 address.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T011004Z" creationid="Yifei Ding" creationdate="20190211T011004Z">
+        <seg>输入IPv6地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Permission</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T013600Z" creationid="Yifei Ding" creationdate="20190211T013600Z">
+        <seg>文件权限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Permissions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T013556Z" creationid="Yifei Ding" creationdate="20190211T013556Z">
+        <seg>文件权限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filesystem type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T013541Z" creationid="Yifei Ding" creationdate="20190211T013541Z">
+        <seg>文件系统类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>System</seg>
       </tuv>
       <tuv lang="ZH-CN">
