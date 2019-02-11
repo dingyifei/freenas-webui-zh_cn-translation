@@ -718,6 +718,78 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Restart Services</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061033Z" creationid="Yifei Ding" creationdate="20190211T061033Z">
+        <seg>重启服务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restart Web Service</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061040Z" creationid="Yifei Ding" creationdate="20190211T061040Z">
+        <seg>重启网络服务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restart the system?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061022Z" creationid="Yifei Ding" creationdate="20190211T061022Z">
+        <seg>重启系统？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Root Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061008Z" creationid="Yifei Ding" creationdate="20190211T061008Z">
+        <seg>Root密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Root password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061010Z" creationid="Yifei Ding" creationdate="20190211T061010Z">
+        <seg>Root密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060924Z" creationid="Yifei Ding" creationdate="20190211T060924Z">
+        <seg>保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save Config</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060928Z" creationid="Yifei Ding" creationdate="20190211T060928Z">
+        <seg>保存设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save Network Interface Changes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060944Z" creationid="Yifei Ding" creationdate="20190211T060944Z">
+        <seg>保存网络接口更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Serial Number</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060921Z" creationid="Yifei Ding" creationdate="20190211T060921Z">
+        <seg>序列号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Serial Port</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055637Z" creationid="Yifei Ding" creationdate="20190211T055637Z">
@@ -786,6 +858,54 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T032215Z" creationid="Yifei Ding" creationdate="20190211T032215Z">
         <seg>共享</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shut Down</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060801Z" creationid="Yifei Ding" creationdate="20190211T060801Z">
+        <seg>关机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shut down</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060802Z" creationid="Yifei Ding" creationdate="20190211T060802Z">
+        <seg>关机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shut down the system?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060809Z" creationid="Yifei Ding" creationdate="20190211T060809Z">
+        <seg>关闭系统？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shutdown Command</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060816Z" creationid="Yifei Ding" creationdate="20190211T060816Z">
+        <seg>关机命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shutdown Mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060822Z" creationid="Yifei Ding" creationdate="20190211T060822Z">
+        <seg>关机模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shutdown Timer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060829Z" creationid="Yifei Ding" creationdate="20190211T060829Z">
+        <seg>关机倒计时</seg>
       </tuv>
     </tu>
     <tu>
