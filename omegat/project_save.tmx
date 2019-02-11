@@ -334,6 +334,70 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IPv4 interface for the jail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200109Z" creationid="Yifei Ding" creationdate="20190211T200109Z">
+        <seg>Jail的IPv4接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv4 netmask for the jail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200234Z" creationid="Yifei Ding" creationdate="20190211T200234Z">
+        <seg>Jail的IPv4子网掩码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv6 Address</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200240Z" creationid="Yifei Ding" creationdate="20190211T200240Z">
+        <seg>IPv6地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv6 Addresses</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200246Z" creationid="Yifei Ding" creationdate="20190211T200246Z">
+        <seg>IPv6地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv6 Auto Configure</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200256Z" creationid="Yifei Ding" creationdate="20190211T200256Z">
+        <seg>自动配置IPv6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv6 Default Gateway</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200304Z" creationid="Yifei Ding" creationdate="20190211T200304Z">
+        <seg>IPv6默认网关</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv6 Default Route</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200313Z" creationid="Yifei Ding" creationdate="20190211T200313Z">
+        <seg>IPv6默认路由</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv6 Default Router</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200405Z" creationid="Yifei Ding" creationdate="20190211T200405Z">
+        <seg>IPv6默认路由</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061506Z" creationid="Yifei Ding" creationdate="20190211T061506Z">
