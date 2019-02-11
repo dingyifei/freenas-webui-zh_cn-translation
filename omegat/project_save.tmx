@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default is &lt;i&gt;3260&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060401Z" creationid="Yifei Ding" creationdate="20190211T060401Z">
+        <seg>默认设置是 &lt;i&gt;3260&lt;/i&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055556Z" creationid="Yifei Ding" creationdate="20190211T055556Z">
@@ -870,10 +878,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Swap size in GiB</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060225Z" creationid="Yifei Ding" creationdate="20190211T060225Z">
+        <seg>交换空间大小(GiB)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch to Legacy User Interface?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060253Z" creationid="Yifei Ding" creationdate="20190211T060253Z">
+        <seg>切换到经典用户界面？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sync</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060321Z" creationid="Yifei Ding" creationdate="20190211T060321Z">
+        <seg>同步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>System</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TCP Port</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060344Z" creationid="Yifei Ding" creationdate="20190211T060344Z">
+        <seg>TCP端口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TCP port</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060346Z" creationid="Yifei Ding" creationdate="20190211T060346Z">
+        <seg>TCP端口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tasks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060425Z" creationid="Yifei Ding" creationdate="20190211T060425Z">
+        <seg>任务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temperature</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060430Z" creationid="Yifei Ding" creationdate="20190211T060430Z">
+        <seg>温度</seg>
       </tuv>
     </tu>
     <tu>
