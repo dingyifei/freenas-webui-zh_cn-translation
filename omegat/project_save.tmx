@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter the SSH Port of the remote system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T182317Z" creationid="Yifei Ding" creationdate="20190211T182014Z">
+        <seg>输入远程系统的SSH端口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File Permission</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T013600Z" creationid="Yifei Ding" creationdate="20190211T013600Z">
