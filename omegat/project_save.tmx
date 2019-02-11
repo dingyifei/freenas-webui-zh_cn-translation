@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>% of all cores</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233223Z" creationid="Yifei Ding" creationdate="20190211T233223Z">
+        <seg>所有核心(%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>20 characters is the maximum length.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233307Z" creationid="Yifei Ding" creationdate="20190211T233307Z">
+        <seg>20字符是极限长度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b&gt;Example:&lt;/b&gt; &lt;i&gt;1,2,3,4&lt;/i&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213547Z" creationid="Yifei Ding" creationdate="20190211T213547Z">
@@ -18,6 +34,30 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Acoustic Level</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233439Z" creationid="Yifei Ding" creationdate="20190211T233439Z">
+        <seg>声学等级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233418Z" creationid="Yifei Ding" creationdate="20190211T233418Z">
+        <seg>启用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activates the configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233410Z" creationid="Yifei Ding" creationdate="20190211T233410Z">
+        <seg>启用配置</seg>
       </tuv>
     </tu>
     <tu>
