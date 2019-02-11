@@ -1694,6 +1694,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set font size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232448Z" creationid="Yifei Ding" creationdate="20190211T232448Z">
+        <seg>设置字体大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the share name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232503Z" creationid="Yifei Ding" creationdate="20190211T232503Z">
+        <seg>设置共享名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Share Name</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T032239Z" creationid="Yifei Ding" creationdate="20190211T032239Z">
