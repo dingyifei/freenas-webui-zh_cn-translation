@@ -1006,6 +1006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Partition</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T214750Z" creationid="Yifei Ding" creationdate="20190211T214750Z">
+        <seg>分区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Passphrase</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055004Z" creationid="Yifei Ding" creationdate="20190211T055004Z">
