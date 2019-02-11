@@ -390,6 +390,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Organization</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T054727Z" creationid="Yifei Ding" creationdate="20190211T054727Z">
+        <seg>组织</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Passphrase</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055004Z" creationid="Yifei Ding" creationdate="20190211T055004Z">
+        <seg>密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Path</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023849Z" creationid="Yifei Ding" creationdate="20190211T023849Z">
