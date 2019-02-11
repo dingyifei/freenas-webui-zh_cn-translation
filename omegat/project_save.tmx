@@ -254,6 +254,118 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Average of all cores</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234117Z" creationid="Yifei Ding" creationdate="20190211T234117Z">
+        <seg>所有核心平均</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Back</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234123Z" creationid="Yifei Ding" creationdate="20190211T234123Z">
+        <seg>返回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandwidth Limit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234136Z" creationid="Yifei Ding" creationdate="20190211T234136Z">
+        <seg>带宽限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basic Mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234152Z" creationid="Yifei Ding" creationdate="20190211T234152Z">
+        <seg>基本模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basic Properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234156Z" creationid="Yifei Ding" creationdate="20190211T234156Z">
+        <seg>基本属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Begin</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234202Z" creationid="Yifei Ding" creationdate="20190211T234202Z">
+        <seg>开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Begin Time</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234207Z" creationid="Yifei Ding" creationdate="20190211T234207Z">
+        <seg>开始时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Block size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234224Z" creationid="Yifei Ding" creationdate="20190211T234224Z">
+        <seg>块大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boot Environments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234230Z" creationid="Yifei Ding" creationdate="20190211T234230Z">
+        <seg>启动环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boot Method</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234254Z" creationid="Yifei Ding" creationdate="20190211T234254Z">
+        <seg>启动方式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boot Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234313Z" creationid="Yifei Ding" creationdate="20190211T234259Z">
+        <seg>启动池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boot Pool Status</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234310Z" creationid="Yifei Ding" creationdate="20190211T234310Z">
+        <seg>启动池状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CPU Usage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234338Z" creationid="Yifei Ding" creationdate="20190211T234338Z">
+        <seg>CPU使用量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CPU and Memory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234344Z" creationid="Yifei Ding" creationdate="20190211T234344Z">
+        <seg>CPU和内存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can only contain alphanumeric characters (Aa-Zz 0-9), dashes (-), or underscores (_).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231618Z" creationid="Yifei Ding" creationdate="20190211T231618Z">
