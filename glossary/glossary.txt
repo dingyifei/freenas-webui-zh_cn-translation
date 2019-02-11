@@ -31,3 +31,4 @@ Error	错误
 Guest	访客
 lagg	链路聚合	忘记哪里找到的了
 Dataset	数据集
+Warning	警告
