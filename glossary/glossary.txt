@@ -41,3 +41,4 @@ Tasks	任务
 Groups	群组
 Disk	磁盘
 ...	…
+selected	选中的
