@@ -2674,7 +2674,7 @@ msgid ""
 msgstr ""
 
 msgid "Enabled"
-msgstr ""
+msgstr "启用"
 
 msgid ""
 "Enables the autotune script which attempts to optimize                the "
@@ -4091,7 +4091,7 @@ msgid "Input the pre-defined container to use."
 msgstr ""
 
 msgid "Install"
-msgstr ""
+msgstr "安装"
 
 msgid "Install Manual Update File"
 msgstr ""
@@ -4126,7 +4126,7 @@ msgid "Interval"
 msgstr ""
 
 msgid "Invalid password"
-msgstr ""
+msgstr "密码错误"
 
 msgid "Invalid regex filter"
 msgstr ""
@@ -4140,12 +4140,12 @@ msgstr ""
 msgid ""
 "It is not recommended to create a pool with vdevs containing different "
 "numbers of disks. Continue?"
-msgstr ""
+msgstr "It is not recommended to create a pool with vdevs containing different numbers of disks. 继续？"
 
 msgid ""
 "It is not recommended to extend a pool with one or more vdevs containing "
 "different numbers of disks. Continue?"
-msgstr ""
+msgstr "It is not recommended to extend a pool with one or more vdevs containing different numbers of disks. 继续？"
 
 msgid "Jail"
 msgstr ""
@@ -4156,10 +4156,10 @@ msgid ""
 msgstr ""
 
 msgid "Jail Name"
-msgstr ""
+msgstr "Jail名称"
 
 msgid "Jail Properties"
-msgstr ""
+msgstr "Jail属性"
 
 msgid "Jail core dump size in bytes."
 msgstr ""
@@ -4337,7 +4337,7 @@ msgid "Locality"
 msgstr ""
 
 msgid "Location"
-msgstr ""
+msgstr "位置"
 
 msgid "Lock"
 msgstr ""
@@ -4641,7 +4641,7 @@ msgid "NIS servers"
 msgstr ""
 
 msgid "NO"
-msgstr ""
+msgstr "否"
 
 msgid "NTLMv1 Auth"
 msgstr ""
@@ -4755,7 +4755,7 @@ msgid ""
 msgstr ""
 
 msgid "Next"
-msgstr ""
+msgstr "下一步"
 
 msgid "Nic to attach:"
 msgstr ""
@@ -4778,10 +4778,10 @@ msgid ""
 msgstr ""
 
 msgid "No update found."
-msgstr ""
+msgstr "未找到更新"
 
 msgid "No updates available."
-msgstr ""
+msgstr "没有可用更新"
 
 msgid "No, continue with import"
 msgstr ""
@@ -4802,7 +4802,7 @@ msgid "Notes"
 msgstr ""
 
 msgid "Number of CPUs"
-msgstr ""
+msgstr "处理器数量"
 
 msgid ""
 "Number of SysV semaphores modified in a single <a "
@@ -4854,7 +4854,7 @@ msgid ""
 "Number of virtual CPUs to allocate to the virtual machine. The maximum is "
 "16, or fewer if the host CPU limits the maximum. The VM operating system "
 "might also have operational or licensing restrictions on the number of CPUs."
-msgstr ""
+msgstr "分配给虚拟机的虚拟处理器数量The maximum is 16, or fewer if the host CPU limits the maximum. The VM operating system might also have operational or licensing restrictions on the number of CPUs."
 
 msgid ""
 "Numeric start priority for the jail at boot time. Valid priorities are "
@@ -4872,7 +4872,7 @@ msgid "OK"
 msgstr ""
 
 msgid "OS Version"
-msgstr ""
+msgstr "系统版本"
 
 msgid "Obey Pam Restrictions"
 msgstr ""
@@ -4980,7 +4980,7 @@ msgid "Operation"
 msgstr ""
 
 msgid "Optional comment."
-msgstr ""
+msgstr "可选评论。"
 
 msgid "Optional description."
 msgstr "可选说明。"
@@ -4989,7 +4989,7 @@ msgid "Optional description. Portals are automatically assigned a numeric group 
 msgstr "可选说明。Portals are automatically assigned a numeric group ID."
 
 msgid "Optional user-friendly name."
-msgstr ""
+msgstr "可选用户友好别名"
 
 msgid "Optional."
 msgstr "可选的。"
@@ -5007,7 +5007,7 @@ msgid ""
 msgstr ""
 
 msgid "Organization"
-msgstr ""
+msgstr "组织"
 
 msgid "Outgoing Mail Server"
 msgstr ""
@@ -5035,19 +5035,19 @@ msgid "Partition"
 msgstr ""
 
 msgid "Passphrase"
-msgstr ""
+msgstr "密码"
 
 msgid "Passphrase changed for pool "
-msgstr ""
+msgstr "修改存储池密码完成 "
 
 msgid "Passphrase created for pool "
-msgstr ""
+msgstr "创建存储池密码完成 "
 
 msgid "Password"
-msgstr ""
+msgstr "密码"
 
 msgid "Password Server"
-msgstr ""
+msgstr "密码服务器"
 
 msgid "Password Suffix"
 msgstr ""
@@ -5076,10 +5076,10 @@ msgid ""
 "Passwords cannot contain a <b>?</b>. Passwords should       be at least "
 "eight characters and contain a mix of lower and       upper case, numbers, "
 "and special characters."
-msgstr ""
+msgstr "密码不能包含 <b>?</b>。Passwords should       be at least eight characters and contain a mix of lower and       upper case, numbers, and special characters."
 
 msgid "Passwords do not match"
-msgstr ""
+msgstr "密码不匹配"
 
 msgid "Paste the certificate for the CA."
 msgstr ""
@@ -5145,7 +5145,7 @@ msgid "Physical interface of the selected member."
 msgstr ""
 
 msgid "Please configure the Web UI interface ("
-msgstr ""
+msgstr "请配置网络界面（"
 
 msgid "Please enter the correct password."
 msgstr "请输入正确的密码。"
@@ -5185,7 +5185,7 @@ msgid "Pool"
 msgstr "存储池"
 
 msgid "Pool Available Space Threshold (%)"
-msgstr ""
+msgstr "存储池可用空间百分比 (%)"
 
 msgid "Pool Manager"
 msgstr "存储池管理器"
@@ -5273,22 +5273,22 @@ msgid "Private Key"
 msgstr ""
 
 msgid "Proceed"
-msgstr ""
+msgstr "继续"
 
 msgid ""
 "Proceed with upgrading the pool? WARNING: Upgrading a pool is a one-way "
 "operation that might make some features of the pool incompatible with older "
 "versions of FreeNAS: "
-msgstr ""
+msgstr "继续并升级存储池？警告: Upgrading a pool is a one-way operation that might make some features of the pool incompatible with older versions of FreeNAS: "
 
 msgid "Processor"
-msgstr ""
+msgstr "处理器"
 
 msgid "Promote Dataset"
 msgstr ""
 
 msgid "Protocol"
-msgstr ""
+msgstr "协议"
 
 msgid "Provider"
 msgstr ""
@@ -5372,25 +5372,25 @@ msgid "Re-keyed Pool"
 msgstr ""
 
 msgid "Read Only"
-msgstr ""
+msgstr "只读"
 
 msgid "Read Only Access"
-msgstr ""
+msgstr "只读权限"
 
 msgid "Read-Only"
-msgstr ""
+msgstr "只读"
 
 msgid "Read-only"
-msgstr ""
+msgstr "只读"
 
 msgid "Read/Write Access"
-msgstr ""
+msgstr "读/写权限"
 
 msgid "Realm"
 msgstr ""
 
 msgid "Reboot After Update"
-msgstr ""
+msgstr "更新后重启"
 
 msgid "Rebuild Directory Service Cache"
 msgstr ""
@@ -5408,7 +5408,7 @@ msgid ""
 msgstr ""
 
 msgid "Reconnect"
-msgstr ""
+msgstr "重新连接"
 
 msgid "Record Size"
 msgstr ""
@@ -5543,7 +5543,7 @@ msgstr ""
 msgid ""
 "Required unless <b>Enable password login</b> is                      "
 "<i>No</i>. Passwords cannot contain a <b>?</b>."
-msgstr ""
+msgstr "Required unless <b>Enable password login</b> is                      <i>No</i>. 密码不能包含 <b>?</b>。"
 
 msgid ""
 "Required. Can only contain alphanumeric characters (Aa-Zz 0-9), dashes (-), "
@@ -5567,10 +5567,10 @@ msgid "Reserved space for this dataset and all children"
 msgstr ""
 
 msgid "Reset Config"
-msgstr ""
+msgstr "重置设置"
 
 msgid "Reset font size to default value"
-msgstr ""
+msgstr "重置字体大小到默认值"
 
 msgid ""
 "Resident set size in bytes. See <a "
@@ -5585,25 +5585,25 @@ msgid "Resolution"
 msgstr ""
 
 msgid "Restart"
-msgstr ""
+msgstr "重启"
 
 msgid "Restart Services"
-msgstr ""
+msgstr "重启服务"
 
 msgid "Restart Web Service"
-msgstr ""
+msgstr "重启网络服务"
 
 msgid "Restart the system?"
-msgstr ""
+msgstr "重启系统？"
 
 msgid "Restore default"
 msgstr ""
 
 msgid "Root Password"
-msgstr ""
+msgstr "Root密码"
 
 msgid "Root password"
-msgstr ""
+msgstr "Root密码"
 
 msgid "Rsync Tasks"
 msgstr ""
@@ -5640,7 +5640,7 @@ msgid "Run this rsync now?"
 msgstr ""
 
 msgid "S.M.A.R.T. Enabled"
-msgstr ""
+msgstr "S.M.A.R.T. 启用"
 
 msgid "S.M.A.R.T. Options"
 msgstr "S.M.A.R.T. 选项"
@@ -5698,13 +5698,13 @@ msgid "SUDO Suffix"
 msgstr ""
 
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 msgid "Save Config"
-msgstr ""
+msgstr "保存设置"
 
 msgid "Save Network Interface Changes"
-msgstr ""
+msgstr "保存网络接口更改"
 
 msgid "Save VLAN Interface Changes"
 msgstr ""
@@ -6181,13 +6181,13 @@ msgid "Serial"
 msgstr ""
 
 msgid "Serial Number"
-msgstr ""
+msgstr "序列号"
 
 msgid "Serial Port"
-msgstr ""
+msgstr "串口"
 
 msgid "Serial Speed"
-msgstr ""
+msgstr "波特率"
 
 msgid "Serve UDP NFS clients"
 msgstr ""
@@ -6208,16 +6208,16 @@ msgid "Service Account"
 msgstr ""
 
 msgid "Service failed to start"
-msgstr ""
+msgstr "服务启动失败"
 
 msgid "Service failed to stop"
-msgstr ""
+msgstr "服务停止失败"
 
 msgid "Service started"
-msgstr ""
+msgstr "服务启动"
 
 msgid "Services"
-msgstr ""
+msgstr "服务"
 
 msgid "Set Keep Flag"
 msgstr ""
@@ -6997,13 +6997,13 @@ msgid ""
 msgstr ""
 
 msgid "Share Name"
-msgstr ""
+msgstr "共享名称"
 
 msgid "Share Type"
-msgstr ""
+msgstr "共享类型"
 
 msgid "Sharing"
-msgstr ""
+msgstr "共享"
 
 msgid "Sharing Controls"
 msgstr ""
@@ -7053,22 +7053,22 @@ msgid "Show/Hide Passwords"
 msgstr ""
 
 msgid "Shut Down"
-msgstr ""
+msgstr "关机"
 
 msgid "Shut down"
-msgstr ""
+msgstr "关机"
 
 msgid "Shut down the system?"
-msgstr ""
+msgstr "关闭系统？"
 
 msgid "Shutdown Command"
-msgstr ""
+msgstr "关机命令"
 
 msgid "Shutdown Mode"
-msgstr ""
+msgstr "关机模式"
 
 msgid "Shutdown Timer"
-msgstr ""
+msgstr "关机倒计时"
 
 msgid "Sidebar Controls"
 msgstr ""
@@ -7077,7 +7077,7 @@ msgid "Sign CSR"
 msgstr ""
 
 msgid "Sign in"
-msgstr ""
+msgstr "登录"
 
 msgid "Signing Certificate Authority"
 msgstr ""
@@ -7173,31 +7173,31 @@ msgid "Speeds up the initial synchronization      (seconds instead of minutes)."
 msgstr ""
 
 msgid "Start"
-msgstr ""
+msgstr "启动"
 
 msgid "Start Scrub"
 msgstr ""
 
 msgid "Start on Boot"
-msgstr ""
+msgstr "开机启动"
 
 msgid "Starting job..."
 msgstr ""
 
 msgid "State"
-msgstr ""
+msgstr "状态"
 
 msgid "Static IPv4 address of the IPMI web interface."
-msgstr ""
+msgstr "IPMI 网络接口静态IPv4地址"
 
 msgid "Static Routes"
 msgstr ""
 
 msgid "Status"
-msgstr ""
+msgstr "状态"
 
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 msgid "Stop Scrub"
 msgstr ""
@@ -7206,7 +7206,7 @@ msgid "Stop this service?"
 msgstr ""
 
 msgid "Storage"
-msgstr ""
+msgstr "存储"
 
 msgid "Storage & Groups"
 msgstr ""
@@ -7233,13 +7233,13 @@ msgid "Subnet mask of the IPv4 address."
 msgstr ""
 
 msgid "Success"
-msgstr ""
+msgstr "成功"
 
 msgid "Successfully Promoted "
 msgstr ""
 
 msgid "Successfully Upgraded "
-msgstr ""
+msgstr "升级成功 "
 
 msgid "Successfully deleted recovery key for "
 msgstr ""
@@ -7254,10 +7254,10 @@ msgid "Successfully re-keyed pool "
 msgstr ""
 
 msgid "Successfully updated."
-msgstr ""
+msgstr "更新成功。"
 
 msgid "Successfully upgraded plugin."
-msgstr ""
+msgstr "插件升级成功。"
 
 msgid "Suffix for LDAP-based users that need superuser access."
 msgstr ""
@@ -7292,19 +7292,19 @@ msgid "Support >16 groups"
 msgstr ""
 
 msgid "Swap size in GiB"
-msgstr ""
+msgstr "交换空间大小(GiB)"
 
 msgid "Switch Train"
 msgstr ""
 
 msgid "Switch to Legacy User Interface?"
-msgstr ""
+msgstr "切换到经典用户界面？"
 
 msgid "Switch update trains?"
 msgstr ""
 
 msgid "Sync"
-msgstr ""
+msgstr "同步"
 
 msgid "Syslog"
 msgstr ""
@@ -7349,13 +7349,13 @@ msgid "System is shutting down..."
 msgstr ""
 
 msgid "TCP Port"
-msgstr ""
+msgstr "TCP端口"
 
 msgid "TCP port"
-msgstr ""
+msgstr "TCP端口"
 
 msgid "TCP port used to access the iSCSI target. Default is <i>3260</i>."
-msgstr ""
+msgstr "TCP port used to access the iSCSI target. 默认设置是 <i>3260</i>."
 
 msgid "TLS Allow Client Renegotiations"
 msgstr ""
@@ -7409,13 +7409,13 @@ msgid "Target Name"
 msgstr ""
 
 msgid "Tasks"
-msgstr ""
+msgstr "任务"
 
 msgid "Team Drive ID"
 msgstr ""
 
 msgid "Temperature"
-msgstr ""
+msgstr "温度"
 
 msgid "Tests are not performed when the system enters the selected power mode."
 msgstr ""
@@ -7723,7 +7723,7 @@ msgid "Tunables"
 msgstr ""
 
 msgid "Type"
-msgstr ""
+msgstr "类型"
 
 msgid "UNIX Charset"
 msgstr ""
@@ -7985,7 +7985,7 @@ msgid "Users"
 msgstr "用户"
 
 msgid "Users & Groups"
-msgstr ""
+msgstr "用户与群组"
 
 msgid "VFS Objects"
 msgstr ""
@@ -8056,10 +8056,10 @@ msgstr ""
 msgid ""
 "WARNING: Adding data vdevs with different numbers of disks is not "
 "recommended."
-msgstr ""
+msgstr "警告： Adding data vdevs with different numbers of disks is not recommended."
 
 msgid "WARNING: Exporting/disconnecting '"
-msgstr ""
+msgstr "警告：Exporting/disconnecting '"
 
 msgid "Wallclock time in seconds."
 msgstr ""
@@ -8219,10 +8219,10 @@ msgid "ZFS Deduplication"
 msgstr ""
 
 msgid "ZFS Filesystem"
-msgstr ""
+msgstr "ZFS文件系统"
 
 msgid "ZFS Pool"
-msgstr ""
+msgstr "ZFS存储池"
 
 msgid "ZFS deduplication"
 msgstr ""
@@ -8231,7 +8231,7 @@ msgid ""
 "ZFS pools must conform to strict naming <a "
 "href=\"https://docs.oracle.com/cd/E23824_01/html/821-1448/gbcpt.html\" "
 "target=\"_blank\">conventions</a>. Choose a memorable name."
-msgstr ""
+msgstr "ZFS pools must conform to strict naming <a href=\"https://docs.oracle.com/cd/E23824_01/html/821-1448/gbcpt.html\" target=\"_blank\">conventions</a>. 选择一个好记的名字。"
 
 msgid "Zero Device Numbers"
 msgstr ""
