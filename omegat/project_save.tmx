@@ -94,6 +94,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Import</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061506Z" creationid="Yifei Ding" creationdate="20190211T061506Z">
+        <seg>导入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import Disk</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061533Z" creationid="Yifei Ding" creationdate="20190211T061533Z">
+        <seg>导入磁盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Importing Disk...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061542Z" creationid="Yifei Ding" creationdate="20190211T061542Z">
+        <seg>导入磁盘中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Install</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061335Z" creationid="Yifei Ding" creationdate="20190211T061335Z">
@@ -1262,6 +1286,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VM Snapshot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061729Z" creationid="Yifei Ding" creationdate="20190211T061729Z">
+        <seg>虚拟机快照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verify passphrase</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061744Z" creationid="Yifei Ding" creationdate="20190211T061744Z">
+        <seg>确认密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Version</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030147Z" creationid="Yifei Ding" creationdate="20190211T030147Z">
@@ -1360,8 +1400,8 @@
       <tuv lang="EN-US">
         <seg>Wiping Disk...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030335Z" creationid="Yifei Ding" creationdate="20190211T030335Z">
-        <seg>擦除磁盘中。。。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061721Z" creationid="Yifei Ding" creationdate="20190211T030335Z">
+        <seg>擦除磁盘中...</seg>
       </tuv>
     </tu>
     <tu>
