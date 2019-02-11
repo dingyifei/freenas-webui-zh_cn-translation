@@ -542,10 +542,122 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>User</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030120Z" creationid="Yifei Ding" creationdate="20190211T030120Z">
+        <seg>用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Username</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030131Z" creationid="Yifei Ding" creationdate="20190211T030131Z">
+        <seg>用户名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Users</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030147Z" creationid="Yifei Ding" creationdate="20190211T030147Z">
+        <seg>版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Virtual CPUs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030202Z" creationid="Yifei Ding" creationdate="20190211T030202Z">
+        <seg>虚拟处理器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Virtual Machines</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030214Z" creationid="Yifei Ding" creationdate="20190211T030214Z">
+        <seg>虚拟机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Virtualization</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030219Z" creationid="Yifei Ding" creationdate="20190211T030219Z">
+        <seg>虚拟化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030235Z" creationid="Yifei Ding" creationdate="20190211T030235Z">
+        <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Web Interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030254Z" creationid="Yifei Ding" creationdate="20190211T030254Z">
+        <seg>网络界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wipe</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030306Z" creationid="Yifei Ding" creationdate="20190211T030306Z">
+        <seg>擦除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wipe Disk</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030311Z" creationid="Yifei Ding" creationdate="20190211T030311Z">
+        <seg>擦除磁盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wipe this disk?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030321Z" creationid="Yifei Ding" creationdate="20190211T030321Z">
+        <seg>擦除这个磁盘？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wiping Disk...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030335Z" creationid="Yifei Ding" creationdate="20190211T030335Z">
+        <seg>擦除磁盘中。。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workgroup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030339Z" creationid="Yifei Ding" creationdate="20190211T030339Z">
+        <seg>工作组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030409Z" creationid="Yifei Ding" creationdate="20190211T030409Z">
+        <seg>是</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
