@@ -39,3 +39,5 @@ Legacy User Interface	经典用户界面
 Port	端口
 Tasks	任务
 Groups	群组
+Disk	磁盘
+...	…
