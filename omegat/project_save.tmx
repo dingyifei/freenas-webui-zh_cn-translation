@@ -254,10 +254,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T054341Z" creationid="Yifei Ding" creationdate="20190211T054341Z">
+        <seg>下一步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023501Z" creationid="Yifei Ding" creationdate="20190211T023501Z">
         <seg>否</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No update found.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T054153Z" creationid="Yifei Ding" creationdate="20190211T054153Z">
+        <seg>未找到更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No updates available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T054226Z" creationid="Yifei Ding" creationdate="20190211T054226Z">
+        <seg>没有可用更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of CPUs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T054140Z" creationid="Yifei Ding" creationdate="20190211T054140Z">
+        <seg>处理器数量</seg>
       </tuv>
     </tu>
     <tu>
