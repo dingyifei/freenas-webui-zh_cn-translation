@@ -598,10 +598,98 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Proceed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055314Z" creationid="Yifei Ding" creationdate="20190211T055314Z">
+        <seg>继续</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proceed with upgrading the pool?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055340Z" creationid="Yifei Ding" creationdate="20190211T055340Z">
+        <seg>继续并升级存储池？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Proceed?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023433Z" creationid="Yifei Ding" creationdate="20190211T023433Z">
         <seg>继续？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Processor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055400Z" creationid="Yifei Ding" creationdate="20190211T055400Z">
+        <seg>处理器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protocol</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055411Z" creationid="Yifei Ding" creationdate="20190211T055411Z">
+        <seg>协议</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055431Z" creationid="Yifei Ding" creationdate="20190211T055431Z">
+        <seg>只读</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read Only Access</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055447Z" creationid="Yifei Ding" creationdate="20190211T055447Z">
+        <seg>只读权限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read-Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055449Z" creationid="Yifei Ding" creationdate="20190211T055449Z">
+        <seg>只读</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read-only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055450Z" creationid="Yifei Ding" creationdate="20190211T055450Z">
+        <seg>只读</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read/Write Access</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055501Z" creationid="Yifei Ding" creationdate="20190211T055501Z">
+        <seg>读/写权限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reboot After Update</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055515Z" creationid="Yifei Ding" creationdate="20190211T055515Z">
+        <seg>更新后重启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reconnect</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055535Z" creationid="Yifei Ding" creationdate="20190211T055535Z">
+        <seg>重新连接</seg>
       </tuv>
     </tu>
     <tu>
@@ -762,6 +850,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030219Z" creationid="Yifei Ding" creationdate="20190211T030219Z">
         <seg>虚拟化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WARNING: Upgrading a pool is a one-way operation that might make some features of the pool incompatible with older versions of FreeNAS:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055353Z" creationid="Yifei Ding" creationdate="20190211T055353Z">
+        <seg>警告: Upgrading a pool is a one-way operation that might make some features of the pool incompatible with older versions of FreeNAS:</seg>
       </tuv>
     </tu>
     <tu>
