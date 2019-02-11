@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Account</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN">
+        <seg>用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Dashboard</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN">
+        <seg>仪表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Enter an IPv6 address.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T011004Z" creationid="Yifei Ding" creationdate="20190211T011004Z">
+        <seg>输入IPv6地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Log in</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012509Z" creationid="Yifei Ding" creationdate="20190211T012509Z">
+        <seg>登录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Logs</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012602Z" creationid="Yifei Ding" creationdate="20190211T012602Z">
+        <seg>日志</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>MAC Address</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012623Z" creationid="Yifei Ding" creationdate="20190211T012623Z">
+        <seg>MAC地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mac Address</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012631Z" creationid="Yifei Ding" creationdate="20190211T012631Z">
+        <seg>MAC地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Memory</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012652Z" creationid="Yifei Ding" creationdate="20190211T012652Z">
+        <seg>内存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Memory Usage</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012724Z" creationid="Yifei Ding" creationdate="20190211T012710Z">
+        <seg>内存使用量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Microsoft Account</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012736Z" creationid="Yifei Ding" creationdate="20190211T012736Z">
+        <seg>微软帐户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Minute</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012744Z" creationid="Yifei Ding" creationdate="20190211T012744Z">
+        <seg>分钟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mirror</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012758Z" creationid="Yifei Ding" creationdate="20190211T012758Z">
+        <seg>镜像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Month</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012830Z" creationid="Yifei Ding" creationdate="20190211T012830Z">
+        <seg>月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Mount points</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012851Z" creationid="Yifei Ding" creationdate="20190211T012851Z">
+        <seg>挂载点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Path</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012244Z" creationid="Yifei Ding" creationdate="20190211T012244Z">
+        <seg>路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Please enter the correct password.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012047Z" creationid="Yifei Ding" creationdate="20190211T012047Z">
+        <seg>请输入正确的密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Please enter your password</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012031Z" creationid="Yifei Ding" creationdate="20190211T012031Z">
+        <seg>请输入您的密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Please enter your password again</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012020Z" creationid="Yifei Ding" creationdate="20190211T012020Z">
+        <seg>请再次输入您的密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Please enter your username</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T011954Z" creationid="Yifei Ding" creationdate="20190211T011954Z">
+        <seg>请输入您的用户名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Please enter your username again</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T011910Z" creationid="Yifei Ding" creationdate="20190211T011910Z">
+        <seg>请再次输入您的用户名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>System</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN">
+        <seg>系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Users</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN">
+        <seg>用户</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
