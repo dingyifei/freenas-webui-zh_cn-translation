@@ -470,6 +470,78 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Updates Available</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T025859Z" creationid="Yifei Ding" creationdate="20190211T025859Z">
+        <seg>可用更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upgrade</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T025904Z" creationid="Yifei Ding" creationdate="20190211T025904Z">
+        <seg>升级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upgrade Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T025911Z" creationid="Yifei Ding" creationdate="20190211T025911Z">
+        <seg>升级存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upgraded</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T025923Z" creationid="Yifei Ding" creationdate="20190211T025923Z">
+        <seg>已升级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upload</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T025933Z" creationid="Yifei Ding" creationdate="20190211T025933Z">
+        <seg>上传</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upload an installer image file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030002Z" creationid="Yifei Ding" creationdate="20190211T030002Z">
+        <seg>上传安装镜像文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uptime</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030042Z" creationid="Yifei Ding" creationdate="20190211T030042Z">
+        <seg>运行时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use DHCP.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030049Z" creationid="Yifei Ding" creationdate="20190211T030049Z">
+        <seg>使用DHCP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use all disk space</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030112Z" creationid="Yifei Ding" creationdate="20190211T030112Z">
+        <seg>使用所有的磁盘空间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Users</seg>
       </tuv>
       <tuv lang="ZH-CN">
