@@ -1530,7 +1530,7 @@ msgid ""
 msgstr ""
 
 msgid "Choose the VM operating system type."
-msgstr ""
+msgstr "选择虚拟机操作系统类型"
 
 msgid ""
 "Choose the backend to map Windows security                   identifiers "
@@ -1612,7 +1612,7 @@ msgid ""
 msgstr ""
 
 msgid "Choose your language."
-msgstr ""
+msgstr "选择你的语言。"
 
 msgid ""
 "Click <b>Browse</b> to select a recovery key to upload. This allows the "
