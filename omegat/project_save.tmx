@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Accounts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233444Z" creationid="Yifei Ding" creationdate="20190211T233444Z">
+        <seg>账户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Acoustic Level</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233439Z" creationid="Yifei Ding" creationdate="20190211T233439Z">
@@ -58,6 +66,110 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233410Z" creationid="Yifei Ding" creationdate="20190211T233410Z">
         <seg>启用配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Additional IPv4 Alias</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233504Z" creationid="Yifei Ding" creationdate="20190211T233504Z">
+        <seg>添加额外的IPv4别名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Additional IPv6 Alias</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233509Z" creationid="Yifei Ding" creationdate="20190211T233509Z">
+        <seg>添加额外的IPv6别名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Additional Path</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233518Z" creationid="Yifei Ding" creationdate="20190211T233518Z">
+        <seg>添加额外路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Cache</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233525Z" creationid="Yifei Ding" creationdate="20190211T233525Z">
+        <seg>添加缓存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Dataset</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233534Z" creationid="Yifei Ding" creationdate="20190211T233534Z">
+        <seg>添加数据集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add a name for the new snapshot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233601Z" creationid="Yifei Ding" creationdate="20190211T233601Z">
+        <seg>给新的快照添加一个名字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add a name for the new snapshot.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233604Z" creationid="Yifei Ding" creationdate="20190211T233604Z">
+        <seg>给新的快照添加一个名字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Address</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233708Z" creationid="Yifei Ding" creationdate="20190211T233708Z">
+        <seg>地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Administrator Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233716Z" creationid="Yifei Ding" creationdate="20190211T233716Z">
+        <seg>管理员密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233723Z" creationid="Yifei Ding" creationdate="20190211T233723Z">
+        <seg>高级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced Mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233729Z" creationid="Yifei Ding" creationdate="20190211T233729Z">
+        <seg>高级模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced Power Management</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233735Z" creationid="Yifei Ding" creationdate="20190211T233735Z">
+        <seg>高级电源管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alert</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233748Z" creationid="Yifei Ding" creationdate="20190211T233748Z">
+        <seg>警告</seg>
       </tuv>
     </tu>
     <tu>
@@ -1318,6 +1430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Power Management</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233720Z" creationid="Yifei Ding" creationdate="20190211T233720Z">
+        <seg>电源管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Previous</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062613Z" creationid="Yifei Ding" creationdate="20190211T062613Z">
@@ -2074,6 +2194,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232131Z" creationid="Yifei Ding" creationdate="20190211T232131Z">
         <seg>测试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These options are case-sensitive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233629Z" creationid="Yifei Ding" creationdate="20190211T233629Z">
+        <seg>这些选项是大小写敏感的</seg>
       </tuv>
     </tu>
     <tu>
