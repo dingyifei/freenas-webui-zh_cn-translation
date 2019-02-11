@@ -5032,7 +5032,7 @@ msgid "Parent Interface"
 msgstr ""
 
 msgid "Partition"
-msgstr ""
+msgstr "分区"
 
 msgid "Passphrase"
 msgstr "密码"
@@ -5067,10 +5067,10 @@ msgid "Password for the Bind DN."
 msgstr ""
 
 msgid "Password for the SSH Username account."
-msgstr ""
+msgstr "SSH账户的密码"
 
 msgid "Password for the username."
-msgstr ""
+msgstr "用户名的密码"
 
 msgid ""
 "Passwords cannot contain a <b>?</b>. Passwords should       be at least "
@@ -5082,7 +5082,7 @@ msgid "Passwords do not match"
 msgstr "密码不匹配"
 
 msgid "Paste the certificate for the CA."
-msgstr ""
+msgstr "粘贴CA证书"
 
 msgid ""
 "Paste the host key of the destination NAS                 for the "
@@ -5270,7 +5270,7 @@ msgid "Privacy Protocol"
 msgstr ""
 
 msgid "Private Key"
-msgstr ""
+msgstr "私钥"
 
 msgid "Proceed"
 msgstr "继续"
@@ -5301,7 +5301,7 @@ msgstr ""
 msgid ""
 "Public IP address or hostname. Set if FTP clients cannot connect through a "
 "NAT device."
-msgstr ""
+msgstr "公网IP地址或域名Set if FTP clients cannot connect through a NAT device."
 
 msgid "Quick"
 msgstr ""
@@ -5432,10 +5432,10 @@ msgid "Redirecting to download. Make sure pop-ups are enabled in the browser."
 msgstr ""
 
 msgid "Release"
-msgstr ""
+msgstr "发行"
 
 msgid "Release Notes"
-msgstr ""
+msgstr "发行备注"
 
 msgid "Remote Auth Token"
 msgstr ""
@@ -5480,16 +5480,16 @@ msgid "Remote ZFS Pool/Dataset"
 msgstr ""
 
 msgid "Remove"
-msgstr ""
+msgstr "移除"
 
 msgid "Remove Additional IPv4 Alias"
-msgstr ""
+msgstr "移除额外IPv4别名"
 
 msgid "Remove Additional IPv6 Alias"
-msgstr ""
+msgstr "移除额外IPv6别名"
 
 msgid "Remove Additional Path"
-msgstr ""
+msgstr "移除额外路径"
 
 msgid "Remove Keep Flag"
 msgstr ""
@@ -5504,7 +5504,7 @@ msgid "Replication Tasks"
 msgstr ""
 
 msgid "Report CPU usage in percentage"
-msgstr ""
+msgstr "以百分比显示CPU使用率"
 
 msgid "Reporting"
 msgstr ""
@@ -5548,23 +5548,23 @@ msgstr "Required unless <b>Enable password login</b> is                      <i>
 msgid ""
 "Required. Can only contain alphanumeric characters (Aa-Zz 0-9), dashes (-), "
 "or underscores (_)."
-msgstr ""
+msgstr "必须。只能包含大小写字母数字(Aa-Zz 0-9)，横杠 (-)，或下划线 (_)."
 
 msgid ""
 "Required. Can only contain alphanumeric characters Aa-Zz 0-9), dashes (-), "
 "or underscores (_)."
-msgstr ""
+msgstr "必须。只能包含大小写字母数字(Aa-Zz 0-9)，横杠 (-)，或下划线 (_)."
 
 msgid ""
 "Requires <b>Allow guest access</b> to also be set. Forces guest access for "
 "all connections."
-msgstr ""
+msgstr "需要<b>Allow guest access</b>也被设置。强制对所有连接使用网络连接。"
 
 msgid "Reserved space for this dataset"
-msgstr ""
+msgstr "此数据集的保留空间"
 
 msgid "Reserved space for this dataset and all children"
-msgstr ""
+msgstr "此数据集及其子数据集的保留空间"
 
 msgid "Reset Config"
 msgstr "重置设置"
@@ -5597,7 +5597,7 @@ msgid "Restart the system?"
 msgstr "重启系统？"
 
 msgid "Restore default"
-msgstr ""
+msgstr "重置为默认"
 
 msgid "Root Password"
 msgstr "Root密码"
@@ -5615,7 +5615,7 @@ msgid "Run As User"
 msgstr ""
 
 msgid "Run Now"
-msgstr ""
+msgstr "现在运行"
 
 msgid ""
 "Run commands in a clean environment. The current environment is discarded "
@@ -5681,15 +5681,15 @@ msgid "SSH Host to connect to."
 msgstr ""
 
 msgid "SSH Public Key"
-msgstr ""
+msgstr "SSH公钥"
 
 msgid "SSH Username."
-msgstr ""
+msgstr "SSH用户名."
 
 msgid ""
 "SSH port number. Leave empty to use the default port                  "
 "<i>22</i>."
-msgstr ""
+msgstr "SSH端口号Leave empty to use the default port                  <i>22</i>."
 
 msgid "SSL"
 msgstr ""
@@ -5725,7 +5725,7 @@ msgid "Schedule the Rsync Task"
 msgstr ""
 
 msgid "Schedule the S.M.A.R.T. Test"
-msgstr ""
+msgstr "Schedule the S.M.A.R.T. 测试"
 
 msgid "Schedule the Scrub Task"
 msgstr ""
@@ -5828,7 +5828,7 @@ msgid "Select a key before decrypting the disks."
 msgstr ""
 
 msgid "Select a keyboard layout."
-msgstr ""
+msgstr "选择键盘布局"
 
 msgid "Select a language localization."
 msgstr ""
@@ -5837,10 +5837,10 @@ msgid "Select a physical interface to associate with the VM."
 msgstr ""
 
 msgid "Select a pool or dataset"
-msgstr ""
+msgstr "选择一个存储池或数据集"
 
 msgid "Select a pool to import."
-msgstr ""
+msgstr "选择一个存储池来导入。"
 
 msgid "Select a pool, dataset, or zvol."
 msgstr ""
@@ -6241,7 +6241,7 @@ msgid ""
 msgstr ""
 
 msgid "Set font size"
-msgstr ""
+msgstr "设置字体大小"
 
 msgid ""
 "Set for <a href=\"https://kb.iu.edu/d/adov\" target=\"_blank\">DHCP</a> to "
@@ -6327,7 +6327,7 @@ msgstr ""
 msgid ""
 "Set the share name. If left empty, share name is the list of selected "
 "<b>Path</b> entries."
-msgstr ""
+msgstr "设置共享名称If left empty, share name is the list of selected <b>Path</b> entries."
 
 msgid ""
 "Set this boolean option to <i>True</i> to look for the "
