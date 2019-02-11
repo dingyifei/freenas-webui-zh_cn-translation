@@ -3614,16 +3614,16 @@ msgid "File Mask"
 msgstr ""
 
 msgid "File Permission"
-msgstr ""
+msgstr "文件权限"
 
 msgid "File Permissions"
-msgstr ""
+msgstr "文件权限"
 
 msgid "Filename Encryption"
 msgstr ""
 
 msgid "Filesystem type"
-msgstr ""
+msgstr "文件系统类型"
 
 msgid "Filter"
 msgstr ""
@@ -4274,7 +4274,7 @@ msgid "Lagg Protocol"
 msgstr ""
 
 msgid "Language"
-msgstr ""
+msgstr "语言"
 
 msgid "Leave empty or select number of existing portal to use."
 msgstr ""
@@ -4352,10 +4352,10 @@ msgid "Lock User"
 msgstr ""
 
 msgid "Log Level"
-msgstr ""
+msgstr "日志级别"
 
 msgid "Log Out"
-msgstr ""
+msgstr "登出"
 
 msgid "Log VDev"
 msgstr ""
@@ -4410,7 +4410,7 @@ msgid "Mail Server Port"
 msgstr ""
 
 msgid "Management"
-msgstr ""
+msgstr "管理"
 
 msgid "Manycast"
 msgstr ""
@@ -4518,7 +4518,7 @@ msgid "Memory"
 msgstr "内存"
 
 msgid "Memory Size (MiB)"
-msgstr ""
+msgstr "内存大小(MiB)"
 
 msgid "Memory Usage"
 msgstr "内存使用量"
@@ -4656,7 +4656,7 @@ msgid "Name Jail and Choose FreeBSD Release"
 msgstr ""
 
 msgid "Name Servers"
-msgstr ""
+msgstr "域名服务器"
 
 msgid "Name of NIS domain."
 msgstr ""
@@ -4675,13 +4675,13 @@ msgid "Name the new raw file."
 msgstr ""
 
 msgid "Nameserver 1"
-msgstr ""
+msgstr "域名服务器 1"
 
 msgid "Nameserver 2"
-msgstr ""
+msgstr "域名服务器 2"
 
 msgid "Nameserver 3"
-msgstr ""
+msgstr "域名服务器 3"
 
 msgid "NetBIOS Alias"
 msgstr ""
@@ -4716,13 +4716,13 @@ msgid "Netwait IP list"
 msgstr ""
 
 msgid "Network"
-msgstr ""
+msgstr "网络"
 
 msgid "Network Interface"
-msgstr ""
+msgstr "网络接口"
 
 msgid "Network Properties"
-msgstr ""
+msgstr "网络属性"
 
 msgid ""
 "Network addresses that can use this initiator. Use <i>ALL</i> or list "
@@ -4736,10 +4736,10 @@ msgid "Network connectivity will be interrupted. "
 msgstr ""
 
 msgid "Network connectivity will be interrupted. Proceed?"
-msgstr ""
+msgstr "Network connectivity will be interrupted. 继续？"
 
 msgid "New Password"
-msgstr ""
+msgstr "新密码"
 
 msgid "New Primary Group"
 msgstr ""
@@ -4761,7 +4761,7 @@ msgid "Nic to attach:"
 msgstr ""
 
 msgid "No"
-msgstr ""
+msgstr "否"
 
 msgid "No Communication Warning Time"
 msgstr ""
@@ -4890,10 +4890,10 @@ msgid "Official"
 msgstr ""
 
 msgid "Offline"
-msgstr ""
+msgstr "离线"
 
 msgid "Ok"
-msgstr ""
+msgstr "是"
 
 msgid ""
 "On the source computer with snapshots to replicate,                 choose "
@@ -4902,10 +4902,10 @@ msgid ""
 msgstr ""
 
 msgid "Online"
-msgstr ""
+msgstr "在线"
 
 msgid "Only Allow Guest Access"
-msgstr ""
+msgstr "仅允许访客访问"
 
 msgid ""
 "Only appears if <i>Device</i> is selected. Select the unformatted disk, "
@@ -4974,7 +4974,7 @@ msgid "Opening download window. Make sure pop-ups are enabled in the browser."
 msgstr ""
 
 msgid "Operating System"
-msgstr ""
+msgstr "操作系统"
 
 msgid "Operation"
 msgstr ""
@@ -4983,22 +4983,22 @@ msgid "Optional comment."
 msgstr ""
 
 msgid "Optional description."
-msgstr ""
+msgstr "可选说明。"
 
 msgid "Optional description. Portals are automatically assigned a numeric group ID."
-msgstr ""
+msgstr "可选说明。Portals are automatically assigned a numeric group ID."
 
 msgid "Optional user-friendly name."
 msgstr ""
 
 msgid "Optional."
-msgstr ""
+msgstr "可选的。"
 
 msgid "Optional. Enter a server description."
-msgstr ""
+msgstr "可选的。输入服务器说明。"
 
 msgid "Options"
-msgstr ""
+msgstr "选项"
 
 msgid ""
 "Order of selected interface within the lagg. Configure a failover to set "
@@ -5148,7 +5148,7 @@ msgid "Please configure the Web UI interface ("
 msgstr ""
 
 msgid "Please enter the correct password."
-msgstr "请输入正确的密码"
+msgstr "请输入正确的密码。"
 
 msgid "Please enter your password"
 msgstr "请输入您的密码"
@@ -5170,40 +5170,40 @@ msgid ""
 msgstr ""
 
 msgid "Please wait"
-msgstr ""
+msgstr "请等待"
 
 msgid "Plugin Name"
-msgstr ""
+msgstr "插件名"
 
 msgid "Plugin installed successfully"
-msgstr ""
+msgstr "插件安装成功"
 
 msgid "Plugins"
-msgstr ""
+msgstr "插件"
 
 msgid "Pool"
-msgstr ""
+msgstr "存储池"
 
 msgid "Pool Available Space Threshold (%)"
 msgstr ""
 
 msgid "Pool Manager"
-msgstr ""
+msgstr "存储池管理器"
 
 msgid "Pool Status"
-msgstr ""
+msgstr "存储池状态"
 
 msgid "Pool to import"
 msgstr ""
 
 msgid "Pool/Dataset"
-msgstr ""
+msgstr "存储池/数据集"
 
 msgid "Pools"
-msgstr ""
+msgstr "存储池"
 
 msgid "Pools & Snapshots"
-msgstr ""
+msgstr "存储池和快照"
 
 msgid "Port"
 msgstr ""
@@ -5643,7 +5643,7 @@ msgid "S.M.A.R.T. Enabled"
 msgstr ""
 
 msgid "S.M.A.R.T. Options"
-msgstr ""
+msgstr "S.M.A.R.T. 选项"
 
 msgid "S.M.A.R.T. Tests"
 msgstr ""
@@ -7675,7 +7675,7 @@ msgid ""
 msgstr ""
 
 msgid "This operation might take a long time. Proceed?"
-msgstr ""
+msgstr "This operation might take a long time. 继续？"
 
 msgid "Threshold days"
 msgstr ""
@@ -7828,16 +7828,16 @@ msgid "Update successful. Please reboot for the update to take effect. Reboot no
 msgstr ""
 
 msgid "Updates Available"
-msgstr ""
+msgstr "可用更新"
 
 msgid "Updates successfully downloaded"
 msgstr ""
 
 msgid "Upgrade"
-msgstr ""
+msgstr "升级"
 
 msgid "Upgrade Pool"
-msgstr ""
+msgstr "升级存储池"
 
 msgid "Upgrade selected jails failed."
 msgstr ""
@@ -7849,7 +7849,7 @@ msgid "Upgrade selected jails succeeded."
 msgstr ""
 
 msgid "Upgraded"
-msgstr ""
+msgstr "已升级"
 
 msgid "Upgrading Jail"
 msgstr ""
@@ -7858,13 +7858,13 @@ msgid "Upgrading Plugin"
 msgstr ""
 
 msgid "Upload"
-msgstr ""
+msgstr "上传"
 
 msgid "Upload Config"
 msgstr ""
 
 msgid "Upload an installer image file"
-msgstr ""
+msgstr "上传安装镜像文件"
 
 msgid ""
 "Upload the Service Account JSON credential file. This <a                  "
@@ -7875,7 +7875,7 @@ msgid ""
 msgstr ""
 
 msgid "Uptime"
-msgstr ""
+msgstr "运行时间"
 
 msgid "Use --fast-list"
 msgstr ""
@@ -7884,7 +7884,7 @@ msgid "Use <i>ALL</i> keyword or a list of initiator hostnames separated by spac
 msgstr ""
 
 msgid "Use DHCP. Unset to manually configure a static IPv4 connection."
-msgstr ""
+msgstr "使用DHCP. Unset to manually configure a static IPv4 connection."
 
 msgid "Use Default Domain"
 msgstr ""
@@ -7896,7 +7896,7 @@ msgid "Use V2 Signatures"
 msgstr ""
 
 msgid "Use all disk space"
-msgstr ""
+msgstr "使用所有的磁盘空间"
 
 msgid "Use as home share"
 msgstr ""
@@ -7933,7 +7933,7 @@ msgid ""
 msgstr ""
 
 msgid "User"
-msgstr ""
+msgstr "用户"
 
 msgid "User Bind Path"
 msgstr ""
@@ -7969,7 +7969,7 @@ msgid "User passed to <i>camcontrol security -u</i> to unlock                SED
 msgstr ""
 
 msgid "Username"
-msgstr ""
+msgstr "用户名"
 
 msgid ""
 "Username for a <a href=\"https://mega.nz/\"                  "
@@ -8027,7 +8027,7 @@ msgid "Verify passphrase"
 msgstr ""
 
 msgid "Version"
-msgstr ""
+msgstr "版本"
 
 msgid "View"
 msgstr ""
@@ -8036,7 +8036,7 @@ msgid "View the contents of the Service Account JSON file."
 msgstr ""
 
 msgid "Virtual CPUs"
-msgstr ""
+msgstr "虚拟处理器"
 
 msgid "Virtual Interface"
 msgstr ""
@@ -8045,10 +8045,10 @@ msgid "Virtual Machine (VM) Wizard type."
 msgstr ""
 
 msgid "Virtual Machines"
-msgstr ""
+msgstr "虚拟机"
 
 msgid "Virtualization"
-msgstr ""
+msgstr "虚拟化"
 
 msgid "Vlan Tag"
 msgstr ""
@@ -8065,10 +8065,10 @@ msgid "Wallclock time in seconds."
 msgstr ""
 
 msgid "Warning"
-msgstr ""
+msgstr "警告"
 
 msgid "Web Interface"
-msgstr ""
+msgstr "网络界面"
 
 msgid "WebDAV Shares"
 msgstr ""
@@ -8180,19 +8180,19 @@ msgid "Windows (SMB) Shares"
 msgstr ""
 
 msgid "Wipe"
-msgstr ""
+msgstr "擦除"
 
 msgid "Wipe Disk"
-msgstr ""
+msgstr "擦除磁盘"
 
 msgid "Wipe this disk?"
-msgstr ""
+msgstr "擦除这个磁盘？"
 
 msgid "Wiping Disk..."
-msgstr ""
+msgstr "擦除磁盘中。。。"
 
 msgid "Workgroup"
-msgstr ""
+msgstr "工作组"
 
 msgid "Write a percentage limit of a single CPU core."
 msgstr ""
@@ -8207,7 +8207,7 @@ msgid ""
 msgstr ""
 
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 msgid "Yes, decrypt the disks"
 msgstr ""
