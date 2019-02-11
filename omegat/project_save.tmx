@@ -22,6 +22,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can only contain alphanumeric characters (Aa-Zz 0-9), dashes (-), or underscores (_).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231618Z" creationid="Yifei Ding" creationdate="20190211T231618Z">
+        <seg>只能包含大小写字母数字(Aa-Zz 0-9)，横杠 (-)，或下划线 (_).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can only contain alphanumeric characters Aa-Zz 0-9), dashes (-), or underscores (_).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231636Z" creationid="Yifei Ding" creationdate="20190211T231636Z">
+        <seg>只能包含大小写字母数字(Aa-Zz 0-9)，横杠 (-)，或下划线 (_).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose a memorable name.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060734Z" creationid="Yifei Ding" creationdate="20190211T060734Z">
@@ -218,6 +234,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T013541Z" creationid="Yifei Ding" creationdate="20190211T013541Z">
         <seg>文件系统类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forces guest access for all connections.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231758Z" creationid="Yifei Ding" creationdate="20190211T231758Z">
+        <seg>强制对所有连接使用网络连接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1426,6 +1450,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231458Z" creationid="Yifei Ding" creationdate="20190211T231458Z">
         <seg>以百分比显示CPU使用率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231525Z" creationid="Yifei Ding" creationdate="20190211T231525Z">
+        <seg>必须。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requires &lt;b&gt;Allow guest access&lt;/b&gt; to also be set.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231703Z" creationid="Yifei Ding" creationdate="20190211T231703Z">
+        <seg>需要&lt;b&gt;Allow guest access&lt;/b&gt;也被设置。</seg>
       </tuv>
     </tu>
     <tu>
