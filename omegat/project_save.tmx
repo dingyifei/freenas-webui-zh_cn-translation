@@ -830,6 +830,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No pools</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213931Z" creationid="Yifei Ding" creationdate="20190211T213931Z">
+        <seg>没有存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No pools exist.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213949Z" creationid="Yifei Ding" creationdate="20190211T213949Z">
+        <seg>没有存储池被创建</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No update found.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T054153Z" creationid="Yifei Ding" creationdate="20190211T054153Z">
@@ -842,6 +858,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T054226Z" creationid="Yifei Ding" creationdate="20190211T054226Z">
         <seg>没有可用更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No, continue with import</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T214015Z" creationid="Yifei Ding" creationdate="20190211T214015Z">
+        <seg>否，继续导入</seg>
       </tuv>
     </tu>
     <tu>
@@ -862,10 +886,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T214041Z" creationid="Yifei Ding" creationdate="20190211T214041Z">
+        <seg>是</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OS Version</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T054533Z" creationid="Yifei Ding" creationdate="20190211T054533Z">
         <seg>系统版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Off by default.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T214054Z" creationid="Yifei Ding" creationdate="20190211T214054Z">
+        <seg>默认为关闭。</seg>
       </tuv>
     </tu>
     <tu>
@@ -898,6 +938,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023605Z" creationid="Yifei Ding" creationdate="20190211T023605Z">
         <seg>仅允许访客访问</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only appears if &lt;i&gt;Device&lt;/i&gt; is selected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T214137Z" creationid="Yifei Ding" creationdate="20190211T214137Z">
+        <seg>只有在&lt;i&gt;Device&lt;/i&gt;被选择时出现。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1026,6 +1074,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055157Z" creationid="Yifei Ding" creationdate="20190211T055157Z">
         <seg>请配置网络界面（</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please create a pool first.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T214003Z" creationid="Yifei Ding" creationdate="20190211T214003Z">
+        <seg>请先创建一个存储池</seg>
       </tuv>
     </tu>
     <tu>
