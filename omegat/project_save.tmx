@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Importing Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213257Z" creationid="Yifei Ding" creationdate="20190211T213257Z">
+        <seg>导入存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Install</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061335Z" creationid="Yifei Ding" creationdate="20190211T061335Z">
