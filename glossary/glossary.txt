@@ -21,3 +21,9 @@ Link Aggregation	链路聚合
 Mount point	挂载点
 Nameserver	域名服务器
 Network	网络
+Hostname	域名
+IP address	IP地址
+Options	选项
+Path	路径
+Log in	登录
+Mirror	镜像
