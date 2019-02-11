@@ -4006,10 +4006,10 @@ msgid "Ignore Builtin"
 msgstr ""
 
 msgid "Import"
-msgstr ""
+msgstr "导入"
 
 msgid "Import Disk"
-msgstr ""
+msgstr "导入磁盘"
 
 msgid "Import a pool that exists but is not connected."
 msgstr ""
@@ -4021,7 +4021,7 @@ msgid "Importing Disk"
 msgstr ""
 
 msgid "Importing Disk..."
-msgstr ""
+msgstr "导入磁盘中..."
 
 msgid "Importing Pool"
 msgstr ""
@@ -5249,7 +5249,7 @@ msgid "Preview JSON Service Account Key"
 msgstr ""
 
 msgid "Previous"
-msgstr ""
+msgstr "上一步"
 
 msgid "Primary DNS server."
 msgstr ""
@@ -7026,7 +7026,7 @@ msgid "Show Hidden Files"
 msgstr ""
 
 msgid "Show Settings"
-msgstr ""
+msgstr "显示设置"
 
 msgid "Show Text Console without Password Prompt"
 msgstr ""
@@ -7203,7 +7203,7 @@ msgid "Stop Scrub"
 msgstr ""
 
 msgid "Stop this service?"
-msgstr ""
+msgstr "停止这个服务？"
 
 msgid "Storage"
 msgstr "存储"
@@ -7319,19 +7319,19 @@ msgid "System"
 msgstr "系统"
 
 msgid "System Dataset"
-msgstr ""
+msgstr "系统数据集"
 
 msgid "System Dataset Pool"
-msgstr ""
+msgstr "系统数据集池"
 
 msgid "System Info"
-msgstr ""
+msgstr "系统信息"
 
 msgid "System Load"
-msgstr ""
+msgstr "系统负载"
 
 msgid "System Processes"
-msgstr ""
+msgstr "系统进程"
 
 msgid "System domain name, like <i>example.com</i>"
 msgstr ""
@@ -7690,13 +7690,13 @@ msgid "Time Server For Domain"
 msgstr ""
 
 msgid "Timeout"
-msgstr ""
+msgstr "超时"
 
 msgid "Times"
 msgstr ""
 
 msgid "Timezone"
-msgstr ""
+msgstr "时区"
 
 msgid ""
 "Token created with <a                  "
@@ -7810,13 +7810,13 @@ msgid "Until"
 msgstr ""
 
 msgid "Unused"
-msgstr ""
+msgstr "未使用"
 
 msgid "Update"
-msgstr ""
+msgstr "更新"
 
 msgid "Update File"
-msgstr ""
+msgstr "更新文件"
 
 msgid "Update File Temporary Storage Location"
 msgstr ""
@@ -7825,13 +7825,13 @@ msgid "Update Period"
 msgstr ""
 
 msgid "Update successful. Please reboot for the update to take effect. Reboot now?"
-msgstr ""
+msgstr "更新成功Please reboot for the update to take effect. 现在重启？"
 
 msgid "Updates Available"
 msgstr "可用更新"
 
 msgid "Updates successfully downloaded"
-msgstr ""
+msgstr "更新下载成功"
 
 msgid "Upgrade"
 msgstr "升级"
@@ -7840,28 +7840,28 @@ msgid "Upgrade Pool"
 msgstr "升级存储池"
 
 msgid "Upgrade selected jails failed."
-msgstr ""
+msgstr "升级选中的Jail失败"
 
 msgid "Upgrade selected jails started."
-msgstr ""
+msgstr "开始升级选中的Jail"
 
 msgid "Upgrade selected jails succeeded."
-msgstr ""
+msgstr "升级选中的Jail成功"
 
 msgid "Upgraded"
 msgstr "已升级"
 
 msgid "Upgrading Jail"
-msgstr ""
+msgstr "升级Jail"
 
 msgid "Upgrading Plugin"
-msgstr ""
+msgstr "升级插件"
 
 msgid "Upload"
 msgstr "上传"
 
 msgid "Upload Config"
-msgstr ""
+msgstr "上传设置"
 
 msgid "Upload an installer image file"
 msgstr "上传安装镜像文件"
@@ -7997,7 +7997,7 @@ msgid "VLANs"
 msgstr ""
 
 msgid "VM Snapshot"
-msgstr ""
+msgstr "虚拟机快照"
 
 msgid "VMWare Sync"
 msgstr ""
@@ -8024,7 +8024,7 @@ msgid "Verbose logging"
 msgstr ""
 
 msgid "Verify passphrase"
-msgstr ""
+msgstr "确认密码"
 
 msgid "Version"
 msgstr "版本"
@@ -8189,7 +8189,7 @@ msgid "Wipe this disk?"
 msgstr "擦除这个磁盘？"
 
 msgid "Wiping Disk..."
-msgstr "擦除磁盘中。。。"
+msgstr "擦除磁盘中..."
 
 msgid "Workgroup"
 msgstr "工作组"
