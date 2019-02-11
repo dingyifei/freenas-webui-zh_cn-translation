@@ -406,10 +406,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Passphrase changed for pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055020Z" creationid="Yifei Ding" creationdate="20190211T055020Z">
+        <seg>已修改存储池密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Passphrase created for pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055030Z" creationid="Yifei Ding" creationdate="20190211T055030Z">
+        <seg>已创建存储池密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055036Z" creationid="Yifei Ding" creationdate="20190211T055036Z">
+        <seg>密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password Server</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055042Z" creationid="Yifei Ding" creationdate="20190211T055042Z">
+        <seg>密码服务器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Passwords cannot contain a &lt;b&gt;?&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055113Z" creationid="Yifei Ding" creationdate="20190211T055113Z">
+        <seg>密码不能包含 &lt;b&gt;?&lt;/b&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Passwords do not match</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055125Z" creationid="Yifei Ding" creationdate="20190211T055125Z">
+        <seg>密码不匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Path</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023849Z" creationid="Yifei Ding" creationdate="20190211T023849Z">
         <seg>路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please configure the Web UI interface (</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055157Z" creationid="Yifei Ding" creationdate="20190211T055157Z">
+        <seg>请配置网络界面（</seg>
       </tuv>
     </tu>
     <tu>
@@ -490,6 +546,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024142Z" creationid="Yifei Ding" creationdate="20190211T024104Z">
         <seg>存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pool Available Space Threshold (%)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055216Z" creationid="Yifei Ding" creationdate="20190211T055216Z">
+        <seg>存储池可用空间百分比 (%)</seg>
       </tuv>
     </tu>
     <tu>
