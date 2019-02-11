@@ -2151,7 +2151,7 @@ msgstr ""
 msgid ""
 "Define the jail CPU affinity. Options are <i>off</i> or a combination of "
 "<i>1-4</i>, separated by commas (,). <b>Example:</b> <i>1,2,3,4</i>"
-msgstr ""
+msgstr "Define the jail CPU affinity. Options are <i>off</i> or a combination of <i>1-4</i>, separated by commas (,). <b>例子：</b> <i>1,2,3,4</i>"
 
 msgid "Define the jail core dump size in bytes."
 msgstr ""
@@ -3022,7 +3022,7 @@ msgid ""
 "Enter accounts that have administrative access. See <a "
 "href=\"http://networkupstools.org/docs/man/upsd.users.html\" "
 "target=\"_blank\">upsd.users(5)</a> for examples."
-msgstr ""
+msgstr "输入有管理员权限的账户See <a href=\"http://networkupstools.org/docs/man/upsd.users.html\" target=\"_blank\">upsd.users(5)</a> for examples."
 
 msgid ""
 "Enter additional <b>smb.conf</b> options. See the <a "
@@ -3037,13 +3037,13 @@ msgid ""
 msgstr ""
 
 msgid "Enter an IPv4 address. This overrides the default gateway provided by DHCP."
-msgstr ""
+msgstr "输入IPv4地址。覆盖DHCP分配的默认网关"
 
 msgid "Enter an IPv6 address. This overrides the default gateway provided by DHCP."
-msgstr "输入IPv6地址。This overrides the default gateway provided by DHCP."
+msgstr "输入IPv6地址。覆盖DHCP分配的默认网关"
 
 msgid "Enter an alias. Limited to 15 characters."
-msgstr ""
+msgstr "输入一个别名。限制15字符。"
 
 msgid ""
 "Enter an alphanumeric name for the certificate.                   "
@@ -3110,19 +3110,19 @@ msgid ""
 msgstr ""
 
 msgid "Enter any notes about the jail here."
-msgstr ""
+msgstr "此处输入这个Jail的备注。"
 
 msgid "Enter any notes about this dataset."
-msgstr ""
+msgstr "输入这个数据集的备注。"
 
 msgid "Enter any notes about this disk."
-msgstr ""
+msgstr "输入这个数据集的备注。"
 
 msgid "Enter any notes."
-msgstr ""
+msgstr "输入备注。"
 
 msgid "Enter comments about the jail."
-msgstr ""
+msgstr "输入Jail的注释。"
 
 msgid ""
 "Enter either <i>root</i> or another valid <i>username</i>. Inside the jail, "
@@ -3180,7 +3180,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter the IP address of the gateway."
-msgstr ""
+msgstr "输入网关的IP地址"
 
 msgid ""
 "Enter the IP address or DNS name of the remote                 system to "
@@ -3214,10 +3214,10 @@ msgid ""
 msgstr ""
 
 msgid "Enter the S3 username."
-msgstr ""
+msgstr "输入S3的用户名"
 
 msgid "Enter the SSH Port of the remote system."
-msgstr ""
+msgstr "输入远程系统的SSH端口。"
 
 msgid "Enter the TCP port which provides the S3 service."
 msgstr ""
@@ -3441,7 +3441,7 @@ msgid "Enter valid VMware ESXI/vSphere credentials to fetch datastores."
 msgstr ""
 
 msgid "Error"
-msgstr ""
+msgstr "错误"
 
 msgid "Error Deleting Key"
 msgstr ""
@@ -3525,7 +3525,7 @@ msgid "Error updating disks."
 msgstr ""
 
 msgid "Error: "
-msgstr ""
+msgstr "错误： "
 
 msgid "Error: Displaying local fetched releases failed."
 msgstr ""
@@ -3549,7 +3549,7 @@ msgid "Exec"
 msgstr ""
 
 msgid "Export Certificate"
-msgstr ""
+msgstr "导出证书"
 
 msgid "Export Password Secret Seed"
 msgstr ""
@@ -3605,7 +3605,7 @@ msgid ""
 msgstr ""
 
 msgid "Failed"
-msgstr ""
+msgstr "失败"
 
 msgid "Fetch and Install Updates"
 msgstr ""
@@ -3758,7 +3758,7 @@ msgid "Guest Access"
 msgstr ""
 
 msgid "Guest Account"
-msgstr ""
+msgstr "访客账户"
 
 msgid "Guest Operating System"
 msgstr ""
@@ -3773,22 +3773,22 @@ msgid "HTTP Authentication"
 msgstr ""
 
 msgid "HTTP Port"
-msgstr ""
+msgstr "HTTP端口"
 
 msgid "HTTP Proxy"
-msgstr ""
+msgstr "HTTP代理"
 
 msgid "HTTPS Port"
-msgstr ""
+msgstr "HTTPS端口"
 
 msgid "Hard Disk"
-msgstr ""
+msgstr "硬盘"
 
 msgid "Hard Disk Size"
-msgstr ""
+msgstr "硬盘容量"
 
 msgid "Hard Disks"
-msgstr ""
+msgstr "硬盘"
 
 msgid "Hide Config"
 msgstr ""
@@ -3876,55 +3876,55 @@ msgid "IPMI"
 msgstr ""
 
 msgid "IPv4 Address"
-msgstr ""
+msgstr "IPv4地址"
 
 msgid "IPv4 Addresses"
-msgstr ""
+msgstr "IPv4地址"
 
 msgid "IPv4 Default Gateway"
-msgstr ""
+msgstr "IPv4默认网关"
 
 msgid "IPv4 Default Router"
-msgstr ""
+msgstr "IPv4默认路由"
 
 msgid "IPv4 Interface"
-msgstr ""
+msgstr "IPv4接口"
 
 msgid "IPv4 Netmask"
-msgstr ""
+msgstr "IPv4子网掩码"
 
 msgid "IPv4 address for the jail."
-msgstr ""
+msgstr "Jail的IPv4地址"
 
 msgid "IPv4 interface"
-msgstr ""
+msgstr "IPv4接口"
 
 msgid "IPv4 interface for the jail."
-msgstr ""
+msgstr "Jail的IPv4接口"
 
 msgid "IPv4 netmask for the jail."
-msgstr ""
+msgstr "Jail的IPv4子网掩码"
 
 msgid "IPv6 Address"
-msgstr ""
+msgstr "IPv6地址"
 
 msgid "IPv6 Addresses"
-msgstr ""
+msgstr "IPv6地址"
 
 msgid "IPv6 Auto Configure"
-msgstr ""
+msgstr "自动配置IPv6"
 
 msgid "IPv6 Default Gateway"
-msgstr ""
+msgstr "IPv6默认网关"
 
 msgid "IPv6 Default Route"
-msgstr ""
+msgstr "IPv6默认路由"
 
 msgid "IPv6 Default Router"
-msgstr ""
+msgstr "IPv6默认路由"
 
 msgid "IPv6 Interface"
-msgstr ""
+msgstr "IPv6接口"
 
 msgid "IPv6 Prefix"
 msgstr ""
@@ -4018,16 +4018,16 @@ msgid "Import an existing pool"
 msgstr ""
 
 msgid "Importing Disk"
-msgstr ""
+msgstr "导入磁盘中"
 
 msgid "Importing Disk..."
 msgstr "导入磁盘中..."
 
 msgid "Importing Pool"
-msgstr ""
+msgstr "导入存储池中"
 
 msgid "Importing Pool..."
-msgstr ""
+msgstr "导入存储池中..."
 
 msgid "In KiB/s. A default of <i>0</i> means unlimited."
 msgstr ""
@@ -4097,22 +4097,22 @@ msgid "Install Manual Update File"
 msgstr ""
 
 msgid "Installation Media"
-msgstr ""
+msgstr "安装介质"
 
 msgid "Installing plugin..."
-msgstr ""
+msgstr "安装插件中..."
 
 msgid "Interface"
-msgstr ""
+msgstr "接口"
 
 msgid "Interface Description"
-msgstr ""
+msgstr "接口描述"
 
 msgid "Interface Name"
-msgstr ""
+msgstr "接口名称"
 
 msgid "Interfaces"
-msgstr ""
+msgstr "接口"
 
 msgid "Internal"
 msgstr ""
@@ -4153,7 +4153,7 @@ msgstr ""
 msgid ""
 "Jail CPU affinity. Options are <i>off</i> or a combination of <i>1-4</i>, "
 "separated by commas (,). <b>Example:</b> <i>1,2,3,4</i>"
-msgstr ""
+msgstr "Jail CPU affinity. Options are <i>off</i> or a combination of <i>1-4</i>, separated by commas (,). <b>例子：</b> <i>1,2,3,4</i>"
 
 msgid "Jail Name"
 msgstr "Jail名称"
@@ -4162,7 +4162,7 @@ msgid "Jail Properties"
 msgstr "Jail属性"
 
 msgid "Jail core dump size in bytes."
-msgstr ""
+msgstr "Jail核心转储大小(bytes)。"
 
 msgid "Jail data size in bytes."
 msgstr ""
@@ -4171,7 +4171,7 @@ msgid "Jail stack size in bytes."
 msgstr ""
 
 msgid "Jail updated successfully."
-msgstr ""
+msgstr "Jail更新成功"
 
 msgid "Jails"
 msgstr ""
@@ -4286,19 +4286,19 @@ msgid ""
 msgstr ""
 
 msgid "Legacy Web Interface"
-msgstr ""
+msgstr "经典用户界面"
 
 msgid "Libdefaults Auxiliary Parameters"
 msgstr ""
 
 msgid "License"
-msgstr ""
+msgstr "许可"
 
 msgid "Lifetime"
 msgstr ""
 
 msgid "Limit (kpbs)"
-msgstr ""
+msgstr "限制 (kpbs)"
 
 msgid ""
 "Limit replication speed to the specified value in                 "
@@ -4534,10 +4534,10 @@ msgid ""
 "href=\"https://docs.microsoft.com/en-us/onedrive/developer/rest-api/getting-"
 "started/authentication\"                  target=\"_blank\">Access "
 "Token</a>."
-msgstr ""
+msgstr "微软Onedrive <a                  href=\"https://docs.microsoft.com/en-us/onedrive/developer/rest-api/getting-started/authentication\"                  target=\"_blank\">Access Token</a>."
 
 msgid "Min. Poll"
-msgstr ""
+msgstr "最小Poll"
 
 msgid "Minimum Passive Port"
 msgstr ""
@@ -4770,12 +4770,12 @@ msgid "No Stat"
 msgstr ""
 
 msgid "No pools"
-msgstr ""
+msgstr "没有存储池"
 
 msgid ""
 "No pools exist. Jails cannot be created or managed until a pool is present "
 "for storing them. Please create a pool first."
-msgstr ""
+msgstr "没有存储池被创建Jails cannot be created or managed until a pool is present for storing them. 请先创建一个存储池"
 
 msgid "No update found."
 msgstr "未找到更新"
@@ -4784,7 +4784,7 @@ msgid "No updates available."
 msgstr "没有可用更新"
 
 msgid "No, continue with import"
-msgstr ""
+msgstr "否，继续导入"
 
 msgid "Not run since last boot"
 msgstr ""
@@ -4869,7 +4869,7 @@ msgid "Numeric value to set the file descriptor table size."
 msgstr ""
 
 msgid "OK"
-msgstr ""
+msgstr "是"
 
 msgid "OS Version"
 msgstr "系统版本"
@@ -4884,7 +4884,7 @@ msgid ""
 "insecure and vulnerable NTLMv1 encryption. This setting allows backward "
 "compatibility with older versions of Windows, but is not recommended and "
 "should not be used on untrusted networks."
-msgstr ""
+msgstr "默认为关闭。When set, <a href=\"https://www.freebsd.org/cgi/man.cgi?query=smbd\" target=\"_blank\">smbd(8)</a> attempts to authenticate users with the insecure and vulnerable NTLMv1 encryption. This setting allows backward compatibility with older versions of Windows, but is not recommended and should not be used on untrusted networks."
 
 msgid "Official"
 msgstr ""
@@ -4910,7 +4910,7 @@ msgstr "仅允许访客访问"
 msgid ""
 "Only appears if <i>Device</i> is selected. Select the unformatted disk, "
 "controller, zvol snapshot, or HAST device."
-msgstr ""
+msgstr "只有在<i>Device</i>被选择时出现。Select the unformatted disk, controller, zvol snapshot, or HAST device."
 
 msgid ""
 "Only appears if a <i>File</i> or zvol is selected. When the specified "
