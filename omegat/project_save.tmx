@@ -294,6 +294,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Number of virtual CPUs to allocate to the virtual machine.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T054425Z" creationid="Yifei Ding" creationdate="20190211T054425Z">
+        <seg>分配给虚拟机的虚拟处理器数量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OS Version</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T054533Z" creationid="Yifei Ding" creationdate="20190211T054533Z">
+        <seg>系统版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Offline</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023516Z" creationid="Yifei Ding" creationdate="20190211T023516Z">
@@ -334,10 +350,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Optional comment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T054637Z" creationid="Yifei Ding" creationdate="20190211T054637Z">
+        <seg>可选评论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Optional description.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023641Z" creationid="Yifei Ding" creationdate="20190211T023641Z">
         <seg>可选说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optional user-friendly name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T054704Z" creationid="Yifei Ding" creationdate="20190211T054704Z">
+        <seg>可选用户友好别名</seg>
       </tuv>
     </tu>
     <tu>
