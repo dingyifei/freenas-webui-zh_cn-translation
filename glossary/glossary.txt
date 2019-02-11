@@ -42,3 +42,5 @@ Groups	群组
 Disk	磁盘
 ...	…
 selected	选中的
+Certificate	证书
+Failed	失败
