@@ -350,18 +350,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CPU</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234407Z" creationid="Yifei Ding" creationdate="20190211T234407Z">
+        <seg>处理器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CPU Temperatures</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234402Z" creationid="Yifei Ding" creationdate="20190211T234402Z">
+        <seg>处理器温度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CPU Usage</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234338Z" creationid="Yifei Ding" creationdate="20190211T234338Z">
-        <seg>CPU使用量</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234353Z" creationid="Yifei Ding" creationdate="20190211T234338Z">
+        <seg>处理器使用量</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>CPU and Memory</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234344Z" creationid="Yifei Ding" creationdate="20190211T234344Z">
-        <seg>CPU和内存</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234356Z" creationid="Yifei Ding" creationdate="20190211T234344Z">
+        <seg>处理器和内存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CPU and Memory configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234418Z" creationid="Yifei Ding" creationdate="20190211T234418Z">
+        <seg>处理器和内存配置</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +402,54 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231636Z" creationid="Yifei Ding" creationdate="20190211T231636Z">
         <seg>只能包含大小写字母数字(Aa-Zz 0-9)，横杠 (-)，或下划线 (_).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change Passphrase</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234430Z" creationid="Yifei Ding" creationdate="20190211T234430Z">
+        <seg>修改密钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234435Z" creationid="Yifei Ding" creationdate="20190211T234435Z">
+        <seg>修改密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change Pool Passphrase</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234442Z" creationid="Yifei Ding" creationdate="20190211T234442Z">
+        <seg>修改存储池密钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change log</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234502Z" creationid="Yifei Ding" creationdate="20190211T234502Z">
+        <seg>修改日志</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check for Updates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234518Z" creationid="Yifei Ding" creationdate="20190211T234518Z">
+        <seg>检查更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose a color scheme.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234546Z" creationid="Yifei Ding" creationdate="20190211T234546Z">
+        <seg>选择颜色主题</seg>
       </tuv>
     </tu>
     <tu>
