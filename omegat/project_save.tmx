@@ -62,6 +62,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter accounts that have administrative access.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T172949Z" creationid="Yifei Ding" creationdate="20190211T172949Z">
+        <seg>输入有管理员权限的账户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter an IPv4 address.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T172857Z" creationid="Yifei Ding" creationdate="20190211T172857Z">
+        <seg>输入IPv4地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter an IPv6 address.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T011004Z" creationid="Yifei Ding" creationdate="20190211T011004Z">
@@ -1242,6 +1258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060430Z" creationid="Yifei Ding" creationdate="20190211T060430Z">
         <seg>温度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This overrides the default gateway provided by DHCP.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T173244Z" creationid="Yifei Ding" creationdate="20190211T173244Z">
+        <seg>覆盖DHCP分配的默认网关</seg>
       </tuv>
     </tu>
     <tu>
