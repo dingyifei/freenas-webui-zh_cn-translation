@@ -214,6 +214,126 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guest Account</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195808Z" creationid="Yifei Ding" creationdate="20190211T195808Z">
+        <seg>访客账户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTP Port</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195822Z" creationid="Yifei Ding" creationdate="20190211T195822Z">
+        <seg>HTTP端口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTP Proxy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195827Z" creationid="Yifei Ding" creationdate="20190211T195827Z">
+        <seg>HTTP代理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTPS Port</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195831Z" creationid="Yifei Ding" creationdate="20190211T195831Z">
+        <seg>HTTPS端口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hard Disk</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195848Z" creationid="Yifei Ding" creationdate="20190211T195848Z">
+        <seg>硬盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hard Disk Size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195905Z" creationid="Yifei Ding" creationdate="20190211T195905Z">
+        <seg>硬盘容量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hard Disks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195910Z" creationid="Yifei Ding" creationdate="20190211T195910Z">
+        <seg>硬盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv4 Address</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195936Z" creationid="Yifei Ding" creationdate="20190211T195936Z">
+        <seg>IPv4地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv4 Addresses</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195940Z" creationid="Yifei Ding" creationdate="20190211T195940Z">
+        <seg>IPv4地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv4 Default Gateway</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195952Z" creationid="Yifei Ding" creationdate="20190211T195952Z">
+        <seg>IPv4默认网关</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv4 Default Router</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200001Z" creationid="Yifei Ding" creationdate="20190211T200001Z">
+        <seg>IPv4默认路由</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv4 Interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200009Z" creationid="Yifei Ding" creationdate="20190211T200009Z">
+        <seg>IPv4接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv4 Netmask</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200026Z" creationid="Yifei Ding" creationdate="20190211T200026Z">
+        <seg>IPv4子网掩码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv4 address for the jail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200051Z" creationid="Yifei Ding" creationdate="20190211T200051Z">
+        <seg>Jail的IPv4地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv4 interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200036Z" creationid="Yifei Ding" creationdate="20190211T200036Z">
+        <seg>IPv4接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061506Z" creationid="Yifei Ding" creationdate="20190211T061506Z">
