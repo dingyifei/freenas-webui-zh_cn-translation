@@ -1566,6 +1566,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SSH Public Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232114Z" creationid="Yifei Ding" creationdate="20190211T232114Z">
+        <seg>SSH公钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SSH Username.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232052Z" creationid="Yifei Ding" creationdate="20190211T232052Z">
+        <seg>SSH用户名.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SSH port number.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232057Z" creationid="Yifei Ding" creationdate="20190211T232057Z">
+        <seg>SSH端口号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060924Z" creationid="Yifei Ding" creationdate="20190211T060924Z">
@@ -1586,6 +1610,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060944Z" creationid="Yifei Ding" creationdate="20190211T060944Z">
         <seg>保存网络接口更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a keyboard layout.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232231Z" creationid="Yifei Ding" creationdate="20190211T232231Z">
+        <seg>选择键盘布局</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a pool or dataset</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231953Z" creationid="Yifei Ding" creationdate="20190211T231953Z">
+        <seg>选择一个存储池或数据集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a pool to import.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232012Z" creationid="Yifei Ding" creationdate="20190211T232004Z">
+        <seg>选择一个存储池来导入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1930,6 +1978,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060430Z" creationid="Yifei Ding" creationdate="20190211T060430Z">
         <seg>温度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232131Z" creationid="Yifei Ding" creationdate="20190211T232131Z">
+        <seg>测试</seg>
       </tuv>
     </tu>
     <tu>
