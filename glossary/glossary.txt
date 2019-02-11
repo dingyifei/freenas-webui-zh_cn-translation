@@ -44,3 +44,4 @@ Disk	磁盘
 selected	选中的
 Certificate	证书
 Failed	失败
+Netmask	子网掩码
