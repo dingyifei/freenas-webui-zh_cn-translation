@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062613Z" creationid="Yifei Ding" creationdate="20190211T062613Z">
+        <seg>上一步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Proceed</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055314Z" creationid="Yifei Ding" creationdate="20190211T055314Z">
@@ -970,6 +978,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T032215Z" creationid="Yifei Ding" creationdate="20190211T032215Z">
         <seg>共享</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062454Z" creationid="Yifei Ding" creationdate="20190211T062454Z">
+        <seg>显示设置</seg>
       </tuv>
     </tu>
     <tu>
