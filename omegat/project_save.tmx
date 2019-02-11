@@ -174,6 +174,86 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allow Guest Access</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233834Z" creationid="Yifei Ding" creationdate="20190211T233834Z">
+        <seg>允许访客访问</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow New Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233846Z" creationid="Yifei Ding" creationdate="20190211T233846Z">
+        <seg>允许创建新文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow Root Login</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233855Z" creationid="Yifei Ding" creationdate="20190211T233855Z">
+        <seg>允许Root登入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow TCP port forwarding</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233904Z" creationid="Yifei Ding" creationdate="20190211T233904Z">
+        <seg>允许TCP端口转发</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anonymous User Download Bandwidth</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233957Z" creationid="Yifei Ding" creationdate="20190211T233957Z">
+        <seg>匿名用户下载速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anonymous User Upload Bandwidth</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234003Z" creationid="Yifei Ding" creationdate="20190211T234003Z">
+        <seg>匿名用户上传速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto-start</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234022Z" creationid="Yifei Ding" creationdate="20190211T234022Z">
+        <seg>自启动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Autoconfigure IPv6</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234029Z" creationid="Yifei Ding" creationdate="20190211T234029Z">
+        <seg>自动配置IPv6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Available Disks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234038Z" creationid="Yifei Ding" creationdate="20190211T234038Z">
+        <seg>可用磁盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Available Themes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234108Z" creationid="Yifei Ding" creationdate="20190211T234108Z">
+        <seg>可用主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can only contain alphanumeric characters (Aa-Zz 0-9), dashes (-), or underscores (_).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231618Z" creationid="Yifei Ding" creationdate="20190211T231618Z">
@@ -1338,6 +1418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232948Z" creationid="Yifei Ding" creationdate="20190211T232943Z">
         <seg>请重启以便更新生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please reboot the system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233934Z" creationid="Yifei Ding" creationdate="20190211T233934Z">
+        <seg>请重启系统</seg>
       </tuv>
     </tu>
     <tu>
