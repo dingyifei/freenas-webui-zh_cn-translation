@@ -774,6 +774,102 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sign in</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055903Z" creationid="Yifei Ding" creationdate="20190211T055903Z">
+        <seg>登录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055917Z" creationid="Yifei Ding" creationdate="20190211T055917Z">
+        <seg>启动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start on Boot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055937Z" creationid="Yifei Ding" creationdate="20190211T055937Z">
+        <seg>开机启动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>State</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055949Z" creationid="Yifei Ding" creationdate="20190211T055949Z">
+        <seg>状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Static IPv4 address of the IPMI web interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060023Z" creationid="Yifei Ding" creationdate="20190211T060023Z">
+        <seg>IPMI 网络接口静态IPv4地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Status</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060032Z" creationid="Yifei Ding" creationdate="20190211T060032Z">
+        <seg>状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060036Z" creationid="Yifei Ding" creationdate="20190211T060036Z">
+        <seg>停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Storage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060042Z" creationid="Yifei Ding" creationdate="20190211T060042Z">
+        <seg>存储</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Success</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060057Z" creationid="Yifei Ding" creationdate="20190211T060057Z">
+        <seg>成功</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Successfully Upgraded</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060107Z" creationid="Yifei Ding" creationdate="20190211T060107Z">
+        <seg>升级成功</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Successfully updated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060131Z" creationid="Yifei Ding" creationdate="20190211T060131Z">
+        <seg>更新成功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Successfully upgraded plugin.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060145Z" creationid="Yifei Ding" creationdate="20190211T060145Z">
+        <seg>插件升级成功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>System</seg>
       </tuv>
       <tuv lang="ZH-CN">
