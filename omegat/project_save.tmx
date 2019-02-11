@@ -542,10 +542,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jail core dump size in bytes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213635Z" creationid="Yifei Ding" creationdate="20190211T213635Z">
+        <seg>Jail核心转储大小(bytes)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jail updated successfully.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213702Z" creationid="Yifei Ding" creationdate="20190211T213702Z">
+        <seg>Jail更新成功</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Language</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023039Z" creationid="Yifei Ding" creationdate="20190211T023039Z">
         <seg>语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Legacy Web Interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213744Z" creationid="Yifei Ding" creationdate="20190211T213744Z">
+        <seg>经典用户界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>License</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213755Z" creationid="Yifei Ding" creationdate="20190211T213755Z">
+        <seg>许可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Limit (kpbs)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213810Z" creationid="Yifei Ding" creationdate="20190211T213810Z">
+        <seg>限制 (kpbs)</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,6 +690,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023309Z" creationid="Yifei Ding" creationdate="20190211T023309Z">
         <seg>微软帐户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft Onedrive &lt;a                  href="https://docs.microsoft.com/en-us/onedrive/developer/rest-api/getting-started/authentication"                  target="_blank"&gt;Access Token&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213848Z" creationid="Yifei Ding" creationdate="20190211T213848Z">
+        <seg>微软Onedrive &lt;a                  href="https://docs.microsoft.com/en-us/onedrive/developer/rest-api/getting-started/authentication"                  target="_blank"&gt;Access Token&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Min.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213857Z" creationid="Yifei Ding" creationdate="20190211T213857Z">
+        <seg>最小</seg>
       </tuv>
     </tu>
     <tu>
