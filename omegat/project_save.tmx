@@ -790,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reboot now?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061914Z" creationid="Yifei Ding" creationdate="20190211T061914Z">
+        <seg>现在重启？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reconnect</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055535Z" creationid="Yifei Ding" creationdate="20190211T055535Z">
@@ -1182,10 +1190,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unused</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061801Z" creationid="Yifei Ding" creationdate="20190211T061801Z">
+        <seg>未使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061757Z" creationid="Yifei Ding" creationdate="20190211T061757Z">
+        <seg>更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061809Z" creationid="Yifei Ding" creationdate="20190211T061809Z">
+        <seg>更新文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update successful.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061902Z" creationid="Yifei Ding" creationdate="20190211T061902Z">
+        <seg>更新成功</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Updates Available</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T025859Z" creationid="Yifei Ding" creationdate="20190211T025859Z">
         <seg>可用更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updates successfully downloaded</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061921Z" creationid="Yifei Ding" creationdate="20190211T061921Z">
+        <seg>更新下载成功</seg>
       </tuv>
     </tu>
     <tu>
@@ -1202,6 +1250,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T025911Z" creationid="Yifei Ding" creationdate="20190211T025911Z">
         <seg>升级存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upgrade selected jails failed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062020Z" creationid="Yifei Ding" creationdate="20190211T061956Z">
+        <seg>升级选中的jail失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upgrade selected jails started.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062027Z" creationid="Yifei Ding" creationdate="20190211T062006Z">
+        <seg>开始升级选中的jail</seg>
       </tuv>
     </tu>
     <tu>
