@@ -49,3 +49,5 @@ Private Key	私钥
 Snapshots	快照
 Command	命令
 detach	分离
+disconnect	断开
+export	导出
