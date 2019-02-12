@@ -48,3 +48,4 @@ Netmask	子网掩码
 Private Key	私钥
 Snapshots	快照
 Command	命令
+detach	分离
