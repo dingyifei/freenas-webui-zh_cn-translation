@@ -438,10 +438,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check Now</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003554Z" creationid="Yifei Ding" creationdate="20190212T003554Z">
+        <seg>立即检查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check Release Notes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003602Z" creationid="Yifei Ding" creationdate="20190212T003602Z">
+        <seg>查看发行备注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check for Updates</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234518Z" creationid="Yifei Ding" creationdate="20190211T234518Z">
         <seg>检查更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check the network connection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003802Z" creationid="Yifei Ding" creationdate="20190212T003802Z">
+        <seg>检查网络连接</seg>
       </tuv>
     </tu>
     <tu>
