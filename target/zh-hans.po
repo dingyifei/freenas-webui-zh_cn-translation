@@ -381,7 +381,7 @@ msgid "ATA Security User"
 msgstr ""
 
 msgid "About"
-msgstr ""
+msgstr "关于"
 
 msgid "Access Key"
 msgstr ""
@@ -414,13 +414,13 @@ msgid "Account Key"
 msgstr ""
 
 msgid "Account Name"
-msgstr ""
+msgstr "用户名"
 
 msgid ""
 "Account to be used for guest access. Default is nobody. Account is required "
 "to have permissions to the shared pool or dataset. When the Guest Account "
 "user is deleted it resets to nobody."
-msgstr ""
+msgstr "Account to be used for guest access. 默认是“nobody”. Account is required to have permissions to the shared pool or dataset. When the Guest Account user is deleted it resets to nobody."
 
 msgid "Accounts"
 msgstr "账户"
@@ -684,7 +684,7 @@ msgid "Allow DNS updates"
 msgstr ""
 
 msgid "Allow Empty Password"
-msgstr ""
+msgstr "允许空密码"
 
 msgid "Allow Execute Always"
 msgstr ""
@@ -943,7 +943,7 @@ msgid "Authorized Networks"
 msgstr ""
 
 msgid "Auto configure IPv6"
-msgstr ""
+msgstr "自动配置IPv6"
 
 msgid ""
 "Auto-populates with information from the <b>Realm</b> when the settings in "
@@ -997,7 +997,7 @@ msgid "Available Themes"
 msgstr "可用主题"
 
 msgid "Available space threshold (%)"
-msgstr ""
+msgstr "可用空间百分比 (%)"
 
 msgid "Average of all cores"
 msgstr "所有核心平均"
@@ -1065,19 +1065,19 @@ msgid "Bind DN"
 msgstr ""
 
 msgid "Bind IP Addresses"
-msgstr ""
+msgstr "Bind IP地址"
 
 msgid "Bind Interfaces"
-msgstr ""
+msgstr "Bind接口"
 
 msgid "Bind Password"
-msgstr ""
+msgstr "Bind密码"
 
 msgid "Bind interfaces"
-msgstr ""
+msgstr "Bind接口"
 
 msgid "Block (iSCSI)"
-msgstr ""
+msgstr "块(iSCSI)"
 
 msgid "Block size"
 msgstr "块大小"
@@ -1234,19 +1234,19 @@ msgid ""
 msgstr ""
 
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 msgid "Case Sensitivity"
-msgstr ""
+msgstr "大小写敏感"
 
 msgid "Category"
-msgstr ""
+msgstr "类别"
 
 msgid "Certificate"
-msgstr ""
+msgstr "证书"
 
 msgid "Certificates"
-msgstr ""
+msgstr "证书"
 
 msgid "Change Device Order"
 msgstr ""
@@ -1275,7 +1275,7 @@ msgstr "修改日志"
 msgid ""
 "Change the default password to improve system security. The new password "
 "cannot contain a space or <b>#</b>."
-msgstr ""
+msgstr "修改默认密码以提高系统安全。The new password cannot contain a space or <b>#</b>."
 
 msgid ""
 "Changing SDK version is not a supported operation. Activate an existing "
@@ -1315,10 +1315,10 @@ msgid "Check Interval"
 msgstr ""
 
 msgid "Check Now"
-msgstr ""
+msgstr "立即检查"
 
 msgid "Check Release Notes"
-msgstr ""
+msgstr "查看发行备注"
 
 msgid "Check for Updates"
 msgstr "检查更新"
@@ -1327,10 +1327,10 @@ msgid "Check for Updates Daily and Download if Available"
 msgstr ""
 
 msgid "Check the network connection"
-msgstr ""
+msgstr "检查网络连接"
 
 msgid "Check the network connection."
-msgstr ""
+msgstr "检查网络连接。"
 
 msgid ""
 "Check the update server daily for                                   any "
@@ -1471,7 +1471,7 @@ msgid "Choose an encryption mode to use with LDAP."
 msgstr ""
 
 msgid "Choose an encryption mode."
-msgstr ""
+msgstr "选择一个加密模式。"
 
 msgid ""
 "Choose an existing ZFS Pool to allow the                               "
@@ -1634,10 +1634,10 @@ msgid "Client secret for the Amazon Drive account."
 msgstr ""
 
 msgid "Clients"
-msgstr ""
+msgstr "客户端"
 
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 msgid "Cloud Credentials"
 msgstr ""
@@ -1815,16 +1815,16 @@ msgid ""
 msgstr ""
 
 msgid "Confirm"
-msgstr ""
+msgstr "确认"
 
 msgid "Confirm Options"
-msgstr ""
+msgstr "确认选项"
 
 msgid "Confirm Passphrase"
-msgstr ""
+msgstr "确认密钥"
 
 msgid "Confirm Password"
-msgstr ""
+msgstr "确认密码"
 
 msgid "Confirm Privacy Passphrase"
 msgstr ""
@@ -1845,13 +1845,13 @@ msgid "Confirm it is okay to proceed with Detach."
 msgstr ""
 
 msgid "Confirm password"
-msgstr ""
+msgstr "确认密码"
 
 msgid "Confirm the GELI passphrase."
 msgstr ""
 
 msgid "Confirm these settings."
-msgstr ""
+msgstr "确认这些设置。"
 
 msgid ""
 "Connecting to NAS... Make sure the NAS system is powered on and connected "
@@ -1859,10 +1859,10 @@ msgid ""
 msgstr ""
 
 msgid "Connections"
-msgstr ""
+msgstr "连接"
 
 msgid "Connectivity Check"
-msgstr ""
+msgstr "连接性测试"
 
 msgid "Console Keyboard Map"
 msgstr ""
@@ -1874,10 +1874,10 @@ msgid "Container"
 msgstr ""
 
 msgid "Continue"
-msgstr ""
+msgstr "继续"
 
 msgid "Continue with download?"
-msgstr ""
+msgstr "继续并下载？"
 
 msgid "Control left sidebar's display style."
 msgstr ""
@@ -1900,40 +1900,40 @@ msgid "Copies"
 msgstr ""
 
 msgid "Country"
-msgstr ""
+msgstr "国家"
 
 msgid "Country Code"
-msgstr ""
+msgstr "国家代码"
 
 msgid "Create"
-msgstr ""
+msgstr "创建"
 
 msgid "Create CA"
-msgstr ""
+msgstr "创建CA"
 
 msgid "Create Certificate"
-msgstr ""
+msgstr "创建证书"
 
 msgid "Create Passphrase"
-msgstr ""
+msgstr "创建密钥"
 
 msgid "Create Pool"
-msgstr ""
+msgstr "创建存储池"
 
 msgid "Create Pool Passphrase"
 msgstr ""
 
 msgid "Create Snapshot"
-msgstr ""
+msgstr "创建快照"
 
 msgid "Create a new Pool."
-msgstr ""
+msgstr "创建一个新的存储池。"
 
 msgid "Create a new, empty pool."
 msgstr ""
 
 msgid "Create a pool:"
-msgstr ""
+msgstr "创建一个存储池："
 
 msgid "Create a recommended formation of vdevs in a pool."
 msgstr ""
@@ -1942,25 +1942,25 @@ msgid "Create a snapshot of the dataset before pushing data."
 msgstr ""
 
 msgid "Create new Pool"
-msgstr ""
+msgstr "创建新存储池"
 
 msgid "Create new disk image"
-msgstr ""
+msgstr "创建新磁盘映像"
 
 msgid "Create new pool"
-msgstr ""
+msgstr "创建新存储池"
 
 msgid "Create or Import Pool"
-msgstr ""
+msgstr "创建或导入存储池。"
 
 msgid "Create or Import pool"
-msgstr ""
+msgstr "创建或导入存储池。"
 
 msgid "Creating Jail"
-msgstr ""
+msgstr "创建Jail"
 
 msgid "Creating Jail..."
-msgstr ""
+msgstr "创建Jail中..."
 
 msgid ""
 "Creating or editing a <i>sysctl</i> immediately                  updates "
@@ -1989,21 +1989,21 @@ msgid "DHCP"
 msgstr ""
 
 msgid "DHCP Autoconfigure IPv4"
-msgstr ""
+msgstr "DHCP自动配置IPv4"
 
 msgid "DNS Forwarder"
 msgstr ""
 
 msgid "DNS Timeout"
-msgstr ""
+msgstr "DNS超时"
 
 msgid "DNS timeout"
-msgstr ""
+msgstr "DNS超时"
 
 msgid ""
 "DNS timeout in seconds. Increase this value if DNS                  queries "
 "timeout."
-msgstr ""
+msgstr "DNS超时（秒）Increase this value if DNS                  queries timeout."
 
 msgid "DOS Charset"
 msgstr ""
@@ -2412,31 +2412,31 @@ msgid "Discovery Auth Method"
 msgstr ""
 
 msgid "Disk"
-msgstr ""
+msgstr "磁盘"
 
 msgid "Disk Size"
-msgstr ""
+msgstr "磁盘容量"
 
 msgid "Disk sector size"
-msgstr ""
+msgstr "磁盘块大小"
 
 msgid "Disk successfully imported"
-msgstr ""
+msgstr "磁盘导入成功"
 
 msgid "Disk to wipe."
 msgstr ""
 
 msgid "Disks"
-msgstr ""
+msgstr "磁盘"
 
 msgid "Disks in Use"
-msgstr ""
+msgstr "使用中的磁盘"
 
 msgid "Display Login"
 msgstr ""
 
 msgid "Display System Processes"
-msgstr ""
+msgstr "显示系统进程"
 
 msgid ""
 "Display console messages in real time                at the bottom of the "
@@ -2559,7 +2559,7 @@ msgid ""
 msgstr ""
 
 msgid "Enable"
-msgstr ""
+msgstr "启用"
 
 msgid "Enable AD Monitoring"
 msgstr ""
@@ -2589,7 +2589,7 @@ msgid "Enable Serial Console"
 msgstr ""
 
 msgid "Enable Service"
-msgstr ""
+msgstr "启用服务"
 
 msgid "Enable TLS"
 msgstr ""
@@ -2695,7 +2695,7 @@ msgid "Encrypted pool disks must be decrypted prior to import."
 msgstr ""
 
 msgid "Encryption"
-msgstr ""
+msgstr "加密"
 
 msgid "Encryption Cipher"
 msgstr ""
@@ -2724,10 +2724,10 @@ msgid ""
 msgstr ""
 
 msgid "End"
-msgstr ""
+msgstr "结束"
 
 msgid "End Time"
-msgstr ""
+msgstr "结束时间"
 
 msgid ""
 "Ending UID/GID number for which this system is                  "
@@ -3555,7 +3555,7 @@ msgid "Export Password Secret Seed"
 msgstr ""
 
 msgid "Export Private Key"
-msgstr ""
+msgstr "导出私钥"
 
 msgid "Export Read Only"
 msgstr ""
@@ -3704,7 +3704,7 @@ msgid "GUI SSL Certificate"
 msgstr ""
 
 msgid "Gateway"
-msgstr ""
+msgstr "网关"
 
 msgid "General"
 msgstr ""
@@ -3728,7 +3728,7 @@ msgid "Global Catalog Server"
 msgstr ""
 
 msgid "Global Configuration"
-msgstr ""
+msgstr "全局配置"
 
 msgid "Global auxiliary parameters"
 msgstr ""
@@ -3740,22 +3740,22 @@ msgid "Go Back to Jails"
 msgstr ""
 
 msgid "Group"
-msgstr ""
+msgstr "群组"
 
 msgid "Group Bind Path"
 msgstr ""
 
 msgid "Group ID"
-msgstr ""
+msgstr "群组ID"
 
 msgid "Group Suffix"
 msgstr ""
 
 msgid "Groups"
-msgstr ""
+msgstr "群组"
 
 msgid "Guest Access"
-msgstr ""
+msgstr "访客访问"
 
 msgid "Guest Account"
 msgstr "访客账户"
@@ -3850,7 +3850,7 @@ msgid "Hosts Deny"
 msgstr ""
 
 msgid "Hour"
-msgstr ""
+msgstr "小时"
 
 msgid "Hover to expand"
 msgstr ""
@@ -4379,7 +4379,7 @@ msgid "Logical block size"
 msgstr ""
 
 msgid "Login Attempts"
-msgstr ""
+msgstr "登录尝试"
 
 msgid "Logs"
 msgstr "日志"
@@ -4389,7 +4389,7 @@ msgid ""
 "allowed. See the <i>Constructing iSCSI names using the iqn.format</i> "
 "section of <a href=\"https://tools.ietf.org/html/rfc3721.html\" "
 "target=\"_blank\">RFC3721</a>."
-msgstr ""
+msgstr "允许小写字母、“.”、“-”, 和“:”。See the <i>Constructing iSCSI names using the iqn.format</i> section of <a href=\"https://tools.ietf.org/html/rfc3721.html\" target=\"_blank\">RFC3721</a>."
 
 msgid "MAC Address"
 msgstr "MAC地址"
@@ -4442,10 +4442,10 @@ msgid ""
 msgstr ""
 
 msgid "Max. Connections"
-msgstr ""
+msgstr "最大连接"
 
 msgid "Max. Poll"
-msgstr ""
+msgstr "最大Poll"
 
 msgid "Maximum Passive Port"
 msgstr ""
@@ -4767,7 +4767,7 @@ msgid "No Communication Warning Time"
 msgstr ""
 
 msgid "No Stat"
-msgstr ""
+msgstr "没有数据"
 
 msgid "No pools"
 msgstr "没有存储池"
@@ -4790,16 +4790,16 @@ msgid "Not run since last boot"
 msgstr ""
 
 msgid "Note"
-msgstr ""
+msgstr "备注"
 
 msgid "Note: Legacy jails created before FreeNAS 11.2 must be managed from the"
-msgstr ""
+msgstr "备注：管理在FreeNas 11.2 之前版本创建的经典Jail必须从"
 
 msgid "Note: Legacy plugins created before FreeNAS 11.2 must be managed from the"
-msgstr ""
+msgstr "备注：管理在FreeNas 11.2 之前版本创建的经典插件必须从"
 
 msgid "Notes"
-msgstr ""
+msgstr "备注"
 
 msgid "Number of CPUs"
 msgstr "处理器数量"
@@ -5237,7 +5237,7 @@ msgid "Prefer"
 msgstr ""
 
 msgid "Preferences"
-msgstr ""
+msgstr "偏好"
 
 msgid "Preserve extended attributes"
 msgstr ""
@@ -5649,7 +5649,7 @@ msgid "S.M.A.R.T. Tests"
 msgstr ""
 
 msgid "S.M.A.R.T. extra options"
-msgstr ""
+msgstr "S.M.A.R.T. 额外选项"
 
 msgid "SASL wrapping"
 msgstr ""
@@ -7444,7 +7444,7 @@ msgid ""
 "iqn.format</i> section of <a "
 "href=\"https://tools.ietf.org/html/rfc3721.html\" "
 "target=\"_blank\">RFC3721</a>."
-msgstr ""
+msgstr "The base name is automatically prepended if the target name does not start with <i>iqn</i>. 允许小写字母、“.”、“-”, 和“:”。See the <i>Constructing iSCSI names using the iqn.format</i> section of <a href=\"https://tools.ietf.org/html/rfc3721.html\" target=\"_blank\">RFC3721</a>."
 
 msgid ""
 "The beginning UID/GID for which this system is authoritative. Any UID/GID "
