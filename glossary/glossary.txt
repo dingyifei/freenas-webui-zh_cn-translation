@@ -51,3 +51,4 @@ Command	命令
 detach	分离
 disconnect	断开
 export	导出
+Cloud Sync	云同步
