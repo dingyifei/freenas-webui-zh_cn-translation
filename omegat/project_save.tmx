@@ -1886,6 +1886,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter a name for the VM.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225301Z" creationid="Yifei Ding" creationdate="20190212T225235Z">
+        <seg>给这个虚拟机取个名字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a name for the clone of this boot                      environment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225325Z" creationid="Yifei Ding" creationdate="20190212T225250Z">
+        <seg>给这个启动环境的克隆取个名字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a name for the cloned snapshot.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225329Z" creationid="Yifei Ding" creationdate="20190212T225317Z">
+        <seg>给这个快照克隆取个名字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a name for the share.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225349Z" creationid="Yifei Ding" creationdate="20190212T225349Z">
+        <seg>给这个共享取个名字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a netmask.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225422Z" creationid="Yifei Ding" creationdate="20190212T225422Z">
+        <seg>输入一个子网掩码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a number of degrees in Celsius.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225509Z" creationid="Yifei Ding" creationdate="20190212T225509Z">
+        <seg>输入一个摄氏度的数字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter a server description.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023704Z" creationid="Yifei Ding" creationdate="20190211T023704Z">
