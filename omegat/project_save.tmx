@@ -1054,6 +1054,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default Router For IPv4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060437Z" creationid="Yifei Ding" creationdate="20190212T060437Z">
+        <seg>IPv4默认路由</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default Router For IPv6</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060442Z" creationid="Yifei Ding" creationdate="20190212T060442Z">
+        <seg>IPv6默认路由</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default Routes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060452Z" creationid="Yifei Ding" creationdate="20190212T060452Z">
+        <seg>默认路由</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default is &lt;i&gt;3260&lt;/i&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060401Z" creationid="Yifei Ding" creationdate="20190211T060401Z">
