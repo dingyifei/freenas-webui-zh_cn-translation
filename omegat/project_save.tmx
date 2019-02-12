@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose the type of filesystem on the disk.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T182229Z" creationid="Yifei Ding" creationdate="20190212T182229Z">
+        <seg>选择磁盘的文件系统类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose your language.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234905Z" creationid="Yifei Ding" creationdate="20190211T234905Z">
