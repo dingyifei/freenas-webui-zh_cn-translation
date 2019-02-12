@@ -1278,6 +1278,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete this device?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T183839Z" creationid="Yifei Ding" creationdate="20190212T183839Z">
+        <seg>删除这个设备？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete zvol</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T183847Z" creationid="Yifei Ding" creationdate="20190212T183847Z">
+        <seg>删除zvol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173546Z" creationid="Yifei Ding" creationdate="20190212T173546Z">
