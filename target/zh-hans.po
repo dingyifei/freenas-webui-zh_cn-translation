@@ -702,7 +702,7 @@ msgid "Allow New Files"
 msgstr "允许创建新文件"
 
 msgid "Allow Root Login"
-msgstr "允许Root登入"
+msgstr "允许Root登录"
 
 msgid "Allow TCP port forwarding"
 msgstr "允许TCP端口转发"
@@ -1150,13 +1150,13 @@ msgstr ""
 msgid ""
 "Browse to the existing path on the remote host to                sync with. "
 "Maximum path length is 255 characters"
-msgstr ""
+msgstr "Browse to the existing path on the remote host to                sync with. 极限路径长度是255字符"
 
 msgid "Browse to the keytab file to upload."
 msgstr ""
 
 msgid "Browse to the operating system installer image file."
-msgstr ""
+msgstr "浏览操作系统安装镜像文件"
 
 msgid ""
 "Browse to the path to be copied. Path lengths cannot                be "
@@ -1193,7 +1193,7 @@ msgid ""
 "By default, the VM receives an auto-generated random MAC address. Enter a "
 "custom address into the field to override the default. Click <b>Generate "
 "MAC Address</b> to add a new randomized address into this field."
-msgstr ""
+msgstr "在默认情况下，虚拟机将会获得一个自动生成的随机MAC地址输入一个自定义的地址来覆盖默认。Click <b>Generate MAC Address</b> to add a new randomized address into this field."
 
 msgid "CA ID"
 msgstr ""
@@ -1231,7 +1231,7 @@ msgstr ""
 msgid ""
 "Can be set to <i>0</i>, left empty for FreeNAS to assign a port when the VM "
 "is started, or set to a fixed, preferred port number."
-msgstr ""
+msgstr "可以被设置为<i>0</i>，留空FreeNas将会在虚拟机启动时自动分配端口，输入一个端口号以让其不变。"
 
 msgid "Cancel"
 msgstr "取消"
@@ -1261,7 +1261,7 @@ msgid "Change Pool Passphrase"
 msgstr "修改存储池密钥"
 
 msgid "Change User & Group Ownership"
-msgstr ""
+msgstr "变更用户和群组的所有人"
 
 msgid ""
 "Change from <i>public</i to increase system security. Can only contain "
@@ -1275,7 +1275,7 @@ msgstr "修改日志"
 msgid ""
 "Change the default password to improve system security. The new password "
 "cannot contain a space or <b>#</b>."
-msgstr "修改默认密码以提高系统安全。The new password cannot contain a space or <b>#</b>."
+msgstr "修改默认密码以提高系统安全。新的密码不能包含空格或<b>#</b>。"
 
 msgid ""
 "Changing SDK version is not a supported operation. Activate an existing "
@@ -1419,7 +1419,7 @@ msgid "Choose a location to store the installer image file."
 msgstr ""
 
 msgid "Choose a pool or dataset for jail storage"
-msgstr ""
+msgstr "选择一个存储池或数据集作为Jail的存储"
 
 msgid "Choose a pool or dataset for the new zvol."
 msgstr ""
@@ -1590,13 +1590,13 @@ msgid ""
 "             each type. Some types will degrade performance or              "
 "  take disks offline. Avoid scheduling S.M.A.R.T. tests                "
 "simultaneously with scrub or resilver operations."
-msgstr ""
+msgstr "选择测试类型。See <a                href=\"https://www.smartmontools.org/browser/trunk/smartmontools/smartctl.8.in\"                target=\"_blank\">smartctl(8)</a> for descriptions of                each type. Some types will degrade performance or                take disks offline. Avoid scheduling S.M.A.R.T. tests                simultaneously with scrub or resilver operations."
 
 msgid ""
 "Choose the type of filesystem on the disk. Refer to the guide section on <a "
 "href=\"%%docurl%%/storage.html%%webversion%%#import-disk\" "
 "target=\"_blank\">importing disks</a> for more details."
-msgstr ""
+msgstr "选择磁盘的文件系统类型。Refer to the guide section on <a href=\"%%docurl%%/storage.html%%webversion%%#import-disk\" target=\"_blank\">importing disks</a> for more details."
 
 msgid "Choose the type that matches the type of client accessing the pool/dataset."
 msgstr ""
@@ -1921,7 +1921,7 @@ msgid "Create Pool"
 msgstr "创建存储池"
 
 msgid "Create Pool Passphrase"
-msgstr ""
+msgstr "创建存储池密钥"
 
 msgid "Create Snapshot"
 msgstr "创建快照"
@@ -2225,7 +2225,7 @@ msgid ""
 msgstr ""
 
 msgid "Delay Updates"
-msgstr ""
+msgstr "延迟更新"
 
 msgid "Delay connection until VM is up"
 msgstr ""
@@ -2249,7 +2249,7 @@ msgid "Delete Stale Snapshots on Remote System"
 msgstr ""
 
 msgid "Delete Zvol"
-msgstr ""
+msgstr "删除Zvol"
 
 msgid "Delete all users with this primary group?"
 msgstr ""
@@ -2274,10 +2274,10 @@ msgid ""
 msgstr ""
 
 msgid "Delete this device?"
-msgstr ""
+msgstr "删除这个设备？"
 
 msgid "Delete zvol"
-msgstr ""
+msgstr "删除zvol"
 
 msgid "Deleted Recovery Key"
 msgstr ""
@@ -2297,40 +2297,40 @@ msgid "Describe the scrub task."
 msgstr ""
 
 msgid "Describe this service."
-msgstr ""
+msgstr "描述这个服务。"
 
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 msgid "Description (max. 25 characters)"
-msgstr ""
+msgstr "描述（限制25字符）"
 
 msgid "Description of the VLAN."
-msgstr ""
+msgstr "VLAN描述"
 
 msgid "Description of the lagg interface."
 msgstr ""
 
 msgid "Description:"
-msgstr ""
+msgstr "描述:"
 
 msgid "Destination"
-msgstr ""
+msgstr "目标"
 
 msgid "Destination Path"
-msgstr ""
+msgstr "目标路径"
 
 msgid "Destroy data on this pool?"
-msgstr ""
+msgstr "销毁这个池里的数据？"
 
 msgid "Detach"
-msgstr ""
+msgstr "分离"
 
 msgid "Detach Pool"
-msgstr ""
+msgstr "分离存储池"
 
 msgid "Details"
-msgstr ""
+msgstr "详情"
 
 msgid ""
 "Determine which information the processes in a jail are able to obtain "
@@ -2367,7 +2367,7 @@ msgid ""
 msgstr ""
 
 msgid "Device"
-msgstr ""
+msgstr "设备"
 
 msgid "Device Order"
 msgstr ""
@@ -2385,13 +2385,13 @@ msgid "Direction"
 msgstr ""
 
 msgid "Directory"
-msgstr ""
+msgstr "文件夹"
 
 msgid "Directory Mask"
 msgstr ""
 
 msgid "Directory Permission"
-msgstr ""
+msgstr "文件夹权限"
 
 msgid "Directory Services"
 msgstr ""
@@ -2400,7 +2400,7 @@ msgid "Directory/Files"
 msgstr ""
 
 msgid "Disable FreeNAS Cache"
-msgstr ""
+msgstr "禁用FreeNas缓存"
 
 msgid "Disable physical block size reporting"
 msgstr ""
@@ -2424,7 +2424,7 @@ msgid "Disk successfully imported"
 msgstr "磁盘导入成功"
 
 msgid "Disk to wipe."
-msgstr ""
+msgstr "擦除磁盘。"
 
 msgid "Disks"
 msgstr "磁盘"
@@ -2433,7 +2433,7 @@ msgid "Disks in Use"
 msgstr "使用中的磁盘"
 
 msgid "Display Login"
-msgstr ""
+msgstr "显示登录"
 
 msgid "Display System Processes"
 msgstr "显示系统进程"
@@ -2459,7 +2459,7 @@ msgid "Docker VM"
 msgstr ""
 
 msgid "Docker VM successfully Created"
-msgstr ""
+msgstr "成功创建Docker VM"
 
 msgid "Domain"
 msgstr ""
@@ -2486,19 +2486,19 @@ msgid "Domain name"
 msgstr ""
 
 msgid "Done"
-msgstr ""
+msgstr "完成"
 
 msgid "Download Encrypt Key"
-msgstr ""
+msgstr "下载加密密钥"
 
 msgid "Download Logs"
-msgstr ""
+msgstr "下载日志"
 
 msgid "Download Sucessful"
-msgstr ""
+msgstr "下载成功"
 
 msgid "Download Update"
-msgstr ""
+msgstr "下载更新"
 
 msgid "Drive Account Type"
 msgstr ""
@@ -2507,34 +2507,34 @@ msgid "Drive ID"
 msgstr ""
 
 msgid "Driver"
-msgstr ""
+msgstr "驱动"
 
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 msgid "Edit Disk(s)"
-msgstr ""
+msgstr "编辑磁盘"
 
 msgid "Edit Idmap"
 msgstr ""
 
 msgid "Edit Interface"
-msgstr ""
+msgstr "编辑接口"
 
 msgid "Edit Members"
-msgstr ""
+msgstr "编辑成员"
 
 msgid "Edit Note"
-msgstr ""
+msgstr "编辑备注"
 
 msgid "Edit Options"
-msgstr ""
+msgstr "编辑选项"
 
 msgid "Edit Permissions"
-msgstr ""
+msgstr "编辑权限"
 
 msgid "Edit Zvol"
-msgstr ""
+msgstr "编辑Zvol"
 
 msgid "Editing the following disks:"
 msgstr ""
@@ -2546,10 +2546,10 @@ msgid ""
 msgstr ""
 
 msgid "Email"
-msgstr ""
+msgstr "邮件"
 
 msgid "Email Subject"
-msgstr ""
+msgstr "邮件主题"
 
 msgid ""
 "Emulating an <i>Intel e82545 (e1000)</i> Ethernet card provides "
@@ -2565,40 +2565,40 @@ msgid "Enable AD Monitoring"
 msgstr ""
 
 msgid "Enable Atime"
-msgstr ""
+msgstr "启用Atime"
 
 msgid "Enable Browser"
-msgstr ""
+msgstr "启用浏览器"
 
 msgid "Enable Debug Kernel"
-msgstr ""
+msgstr "启用Debug内核"
 
 msgid "Enable FXP"
-msgstr ""
+msgstr "启用FXP"
 
 msgid "Enable NFSv4"
-msgstr ""
+msgstr "启用NFSv4"
 
 msgid "Enable S.M.A.R.T."
-msgstr ""
+msgstr "启用S.M.A.R.T."
 
 msgid "Enable SMB1 support"
-msgstr ""
+msgstr "启用SMB1支持"
 
 msgid "Enable Serial Console"
-msgstr ""
+msgstr "启用串口控制台"
 
 msgid "Enable Service"
 msgstr "启用服务"
 
 msgid "Enable TLS"
-msgstr ""
+msgstr "启用TLS"
 
 msgid "Enable TPC"
-msgstr ""
+msgstr "启用TPC"
 
 msgid "Enable Time Machine backups on this share."
-msgstr ""
+msgstr "在这个共享上启用时间机器备份"
 
 msgid ""
 "Enable Unix privileges supported by OSX 10.5 and higher. Do not enable this "
@@ -2607,15 +2607,15 @@ msgid ""
 msgstr ""
 
 msgid "Enable VNC"
-msgstr ""
+msgstr "启用VNC"
 
 msgid ""
 "Enable a VNC (Virtual Network Computing) remote connection. Requires "
 "<i>UEFI</i> booting."
-msgstr ""
+msgstr "Enable a VNC (Virtual Network Computing) remote connection. 要求<i>UEFI</i>引导。"
 
 msgid "Enable autotune"
-msgstr ""
+msgstr "启用自动优化"
 
 msgid "Enable if Mac clients will be connecting to the SMB share."
 msgstr ""
@@ -2624,7 +2624,7 @@ msgid "Enable netwait feature"
 msgstr ""
 
 msgid "Enable password login"
-msgstr ""
+msgstr "启用密码登录"
 
 msgid ""
 "Enable password logins and authentication to SMB                      "
@@ -2633,12 +2633,12 @@ msgid ""
 msgstr ""
 
 msgid "Enable service"
-msgstr ""
+msgstr "启用服务"
 
 msgid ""
 "Enable this Cloud Sync Task. Unset to disable this Cloud Sync Task without "
 "deleting it."
-msgstr ""
+msgstr "启用这个云同步任务。Unset to disable this Cloud Sync Task without deleting it."
 
 msgid ""
 "Enable this cron job. When unset, disable the                cron job "
@@ -2648,15 +2648,15 @@ msgstr ""
 msgid ""
 "Enable this rsync task. Unset to disable this                rsync task "
 "without deleting it."
-msgstr ""
+msgstr "启用这个rsync任务。Unset to disable this                rsync task without deleting it."
 
 msgid "Enable this service?"
-msgstr ""
+msgstr "启用这个服务？"
 
 msgid ""
 "Enable this task. Unset to disable the task without                deleting "
 "it."
-msgstr ""
+msgstr "启用这个服务。Unset to disable the task without                deleting it."
 
 msgid ""
 "Enable this tunable. Unset to disable this tunable                  without "
@@ -2775,25 +2775,25 @@ msgid ""
 msgstr ""
 
 msgid "Enter a description of the CA."
-msgstr ""
+msgstr "输入这个CA的描述。"
 
 msgid "Enter a description of the Cloud Sync Task."
-msgstr ""
+msgstr "输入这个云同步任务的描述。"
 
 msgid "Enter a description of the S.M.A.R.T. test."
-msgstr ""
+msgstr "输入这个S.M.A.R.T.的描述。test."
 
 msgid "Enter a description of the cron job."
-msgstr ""
+msgstr "输入这个cron job的描述。"
 
 msgid "Enter a description of the interface."
-msgstr ""
+msgstr "输入这个接口的描述。"
 
 msgid "Enter a description of the rsync task."
-msgstr ""
+msgstr "输入这个rsync任务的描述。"
 
 msgid "Enter a description of the static route."
-msgstr ""
+msgstr "输入这个静态路由的描述。"
 
 msgid "Enter a description of the tunable."
 msgstr ""
@@ -2824,19 +2824,19 @@ msgid ""
 msgstr ""
 
 msgid "Enter a name for the VM."
-msgstr ""
+msgstr "给这个虚拟机取个名字。"
 
 msgid "Enter a name for the clone of this boot                      environment."
-msgstr ""
+msgstr "给这个启动环境的克隆取个名字。"
 
 msgid "Enter a name for the cloned snapshot."
-msgstr ""
+msgstr "给这个快照克隆取个名字。"
 
 msgid "Enter a name for the new credential."
 msgstr ""
 
 msgid "Enter a name for the share."
-msgstr ""
+msgstr "给这个共享取个名字。"
 
 msgid "Enter a name for this Docker VM."
 msgstr ""
@@ -2845,12 +2845,12 @@ msgid "Enter a name for this Keytab."
 msgstr ""
 
 msgid "Enter a netmask."
-msgstr ""
+msgstr "输入一个子网掩码。"
 
 msgid ""
 "Enter a number of degrees in Celsius. SMART reports if the temperature of a "
 "drive has changed by N degrees Celsius since the last report."
-msgstr ""
+msgstr "输入一个摄氏度的数字。SMART reports if the temperature of a drive has changed by N degrees Celsius since the last report."
 
 msgid ""
 "Enter a number of seconds to wait before alerting that the service cannot "
@@ -2890,7 +2890,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter a password for <b>User</b>. Must be between 12 and 16 characters."
-msgstr ""
+msgstr "Enter a password for <b>User</b>. 必须是12到16个字符长。"
 
 msgid ""
 "Enter a password for the <i>rancher</i> user. This is used to log in to the "
@@ -2898,7 +2898,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter a password of at least eight characters."
-msgstr ""
+msgstr "输入一个最低八位字符的密码"
 
 msgid ""
 "Enter a port to bind <a "
@@ -2931,20 +2931,20 @@ msgid ""
 msgstr ""
 
 msgid "Enter a static IPv4 address. Example: <i>10.0.0.2</i>."
-msgstr ""
+msgstr "输入一个静态IPv4地址 例子：<i>10.0.0.2</i>."
 
 msgid "Enter a static IPv4 address. Example: <i>10.0.0.3</i>."
-msgstr ""
+msgstr "输入一个静态IPv4地址例子：<i>10.0.0.3</i>."
 
 msgid ""
 "Enter a static IPv6 address if DHCP is unset. Example: "
 "<i>2001:0db8:85a3:0000:0000:8a2e:0370:7334</i>"
-msgstr ""
+msgstr "如果没有配置DHCP，输入一个静态IPv6地址。例子：<i>2001:0db8:85a3:0000:0000:8a2e:0370:7334</i>"
 
 msgid ""
 "Enter a static IPv6 address. Example: "
 "<i>2001:0db8:85a3:0000:0000:8a2e:0370:7334</i>."
-msgstr ""
+msgstr "输入一个静态IPv6地址例子：<i>2001:0db8:85a3:0000:0000:8a2e:0370:7334</i>."
 
 msgid ""
 "Enter a threshold temperature in Celsius. SMART will message with a log "
@@ -2973,10 +2973,10 @@ msgstr ""
 msgid ""
 "Enter a user to associate with this service. Keeping the default is "
 "recommended."
-msgstr ""
+msgstr "Enter a user to associate with this service. 推荐保留为默认。"
 
 msgid "Enter a username to register with this service."
-msgstr ""
+msgstr "输入一个用户名来注册这个服务。"
 
 msgid "Enter a valid MAC address for the VNET0 interface."
 msgstr ""
@@ -3570,7 +3570,7 @@ msgid "Export/Disconnect Pool"
 msgstr ""
 
 msgid "Exporting Pool..."
-msgstr ""
+msgstr "导出存储池中..."
 
 msgid "Extend"
 msgstr ""
@@ -3597,12 +3597,12 @@ msgid "Extra options"
 msgstr ""
 
 msgid "FTP Host to connect to. Example: <i>ftp.example.com</i>."
-msgstr ""
+msgstr "FTP Host to connect to. 例子：<i>ftp.example.com</i>."
 
 msgid ""
 "FTP Port number. Leave blank to use a default port                  of "
 "<i>21</i>."
-msgstr ""
+msgstr "FTP端口号Leave blank to use a default port                  of <i>21</i>."
 
 msgid "Failed"
 msgstr "失败"
@@ -3649,7 +3649,7 @@ msgid "Flip"
 msgstr ""
 
 msgid "Folder"
-msgstr ""
+msgstr "文件夹"
 
 msgid "Follow Symlinks"
 msgstr ""
@@ -3681,10 +3681,10 @@ msgid "From"
 msgstr ""
 
 msgid "From E-mail"
-msgstr ""
+msgstr "来自邮件"
 
 msgid "Full Name"
-msgstr ""
+msgstr "全名"
 
 msgid ""
 "Full path to the pool or dataset to share. Mandatory. Click <b>ADD "
@@ -3692,16 +3692,16 @@ msgid ""
 msgstr ""
 
 msgid "Full with random data"
-msgstr ""
+msgstr "用随机数据进行填充"
 
 msgid "Full with zeros"
-msgstr ""
+msgstr "用0进行填充"
 
 msgid "GID"
 msgstr ""
 
 msgid "GUI SSL Certificate"
-msgstr ""
+msgstr "GUI SSL证书"
 
 msgid "Gateway"
 msgstr "网关"
@@ -3791,7 +3791,7 @@ msgid "Hard Disks"
 msgstr "硬盘"
 
 msgid "Hide Config"
-msgstr ""
+msgstr "隐藏设置"
 
 msgid "Hide Standard Error"
 msgstr ""
