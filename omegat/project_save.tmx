@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose a pool or dataset for jail storage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T180618Z" creationid="Yifei Ding" creationdate="20190212T180604Z">
+        <seg>选择一个存储池或数据集作为Jail的存储</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose an encryption mode.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T005310Z" creationid="Yifei Ding" creationdate="20190212T005310Z">
