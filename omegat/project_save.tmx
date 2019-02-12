@@ -888,8 +888,32 @@
       <tuv lang="EN-US">
         <seg>DHCP Autoconfigure IPv4</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012306Z" creationid="Yifei Ding" creationdate="20190212T012306Z">
-        <seg>DHCP 自动配置IPv4</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012322Z" creationid="Yifei Ding" creationdate="20190212T012306Z">
+        <seg>DHCP自动配置IPv4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DNS Timeout</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012316Z" creationid="Yifei Ding" creationdate="20190212T012316Z">
+        <seg>DNS超时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DNS timeout</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012327Z" creationid="Yifei Ding" creationdate="20190212T012327Z">
+        <seg>DNS超时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DNS timeout in seconds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012344Z" creationid="Yifei Ding" creationdate="20190212T012344Z">
+        <seg>DNS超时（秒）</seg>
       </tuv>
     </tu>
     <tu>
@@ -918,10 +942,90 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disk</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012404Z" creationid="Yifei Ding" creationdate="20190212T012404Z">
+        <seg>磁盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disk Size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012421Z" creationid="Yifei Ding" creationdate="20190212T012421Z">
+        <seg>磁盘容量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disk sector size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012440Z" creationid="Yifei Ding" creationdate="20190212T012440Z">
+        <seg>磁盘块大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disk successfully imported</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012449Z" creationid="Yifei Ding" creationdate="20190212T012449Z">
+        <seg>磁盘导入成功</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012456Z" creationid="Yifei Ding" creationdate="20190212T012456Z">
+        <seg>磁盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disks in Use</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012513Z" creationid="Yifei Ding" creationdate="20190212T012513Z">
+        <seg>使用中的磁盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display System Processes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012523Z" creationid="Yifei Ding" creationdate="20190212T012523Z">
+        <seg>显示系统进程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012546Z" creationid="Yifei Ding" creationdate="20190212T012546Z">
+        <seg>启用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Service</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012540Z" creationid="Yifei Ding" creationdate="20190212T012540Z">
+        <seg>启用服务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055556Z" creationid="Yifei Ding" creationdate="20190211T055556Z">
         <seg>启用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Encryption</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012608Z" creationid="Yifei Ding" creationdate="20190212T012608Z">
+        <seg>加密</seg>
       </tuv>
     </tu>
     <tu>
