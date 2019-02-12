@@ -1382,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Device</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224121Z" creationid="Yifei Ding" creationdate="20190212T224121Z">
+        <seg>设备</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Directory</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173928Z" creationid="Yifei Ding" creationdate="20190212T173928Z">
@@ -1474,6 +1482,110 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012523Z" creationid="Yifei Ding" creationdate="20190212T012523Z">
         <seg>显示系统进程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Docker VM successfully Created</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224145Z" creationid="Yifei Ding" creationdate="20190212T224145Z">
+        <seg>成功创建Docker VM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Done</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224158Z" creationid="Yifei Ding" creationdate="20190212T224158Z">
+        <seg>完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download Encrypt Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224208Z" creationid="Yifei Ding" creationdate="20190212T224208Z">
+        <seg>下载加密密钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download Logs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224223Z" creationid="Yifei Ding" creationdate="20190212T224223Z">
+        <seg>下载日志</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download Sucessful</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224216Z" creationid="Yifei Ding" creationdate="20190212T224216Z">
+        <seg>下载成功</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download Update</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224227Z" creationid="Yifei Ding" creationdate="20190212T224227Z">
+        <seg>下载更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Driver</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224235Z" creationid="Yifei Ding" creationdate="20190212T224235Z">
+        <seg>驱动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224239Z" creationid="Yifei Ding" creationdate="20190212T224239Z">
+        <seg>编辑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Disk(s)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224244Z" creationid="Yifei Ding" creationdate="20190212T224244Z">
+        <seg>编辑磁盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224251Z" creationid="Yifei Ding" creationdate="20190212T224251Z">
+        <seg>编辑接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Members</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224259Z" creationid="Yifei Ding" creationdate="20190212T224259Z">
+        <seg>编辑成员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Note</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224304Z" creationid="Yifei Ding" creationdate="20190212T224304Z">
+        <seg>编辑备注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224312Z" creationid="Yifei Ding" creationdate="20190212T224312Z">
+        <seg>编辑选项</seg>
       </tuv>
     </tu>
     <tu>
