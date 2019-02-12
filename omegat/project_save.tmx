@@ -1734,6 +1734,62 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable autotune</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224632Z" creationid="Yifei Ding" creationdate="20190212T224632Z">
+        <seg>启用自动优化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable password login</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224649Z" creationid="Yifei Ding" creationdate="20190212T224649Z">
+        <seg>启用密码登录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable service</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224702Z" creationid="Yifei Ding" creationdate="20190212T224702Z">
+        <seg>启用服务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable this Cloud Sync Task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224753Z" creationid="Yifei Ding" creationdate="20190212T224742Z">
+        <seg>启用这个云同步任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable this rsync task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224806Z" creationid="Yifei Ding" creationdate="20190212T224806Z">
+        <seg>启用这个rsync任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable this service?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224813Z" creationid="Yifei Ding" creationdate="20190212T224813Z">
+        <seg>启用这个服务？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable this task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224818Z" creationid="Yifei Ding" creationdate="20190212T224818Z">
+        <seg>启用这个服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055556Z" creationid="Yifei Ding" creationdate="20190211T055556Z">
@@ -1770,6 +1826,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T174712Z" creationid="Yifei Ding" creationdate="20190212T174712Z">
         <seg>输入一个自定义的地址来覆盖默认。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a description of the S.M.A.R.T.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224913Z" creationid="Yifei Ding" creationdate="20190212T224913Z">
+        <seg>输入这个S.M.A.R.T.的描述</seg>
       </tuv>
     </tu>
     <tu>
