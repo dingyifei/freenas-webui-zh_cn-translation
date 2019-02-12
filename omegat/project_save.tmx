@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change User &amp; Group Ownership</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T180119Z" creationid="Yifei Ding" creationdate="20190212T180119Z">
+        <seg>变更用户和群组的所有人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change log</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234502Z" creationid="Yifei Ding" creationdate="20190211T234502Z">
