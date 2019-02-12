@@ -1240,8 +1240,8 @@
       <tuv lang="EN-US">
         <seg>Group</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012859Z" creationid="Yifei Ding" creationdate="20190212T012859Z">
-        <seg>群组Group</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012928Z" creationid="Yifei Ding" creationdate="20190212T012859Z">
+        <seg>群组</seg>
       </tuv>
     </tu>
     <tu>
@@ -1250,6 +1250,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012912Z" creationid="Yifei Ding" creationdate="20190212T012912Z">
         <seg>群组ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Groups</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012924Z" creationid="Yifei Ding" creationdate="20190212T012924Z">
+        <seg>群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guest Access</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012941Z" creationid="Yifei Ding" creationdate="20190212T012941Z">
+        <seg>访客访问</seg>
       </tuv>
     </tu>
     <tu>
@@ -1306,6 +1322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195910Z" creationid="Yifei Ding" creationdate="20190211T195910Z">
         <seg>硬盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hour</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013032Z" creationid="Yifei Ding" creationdate="20190212T013032Z">
+        <seg>小时</seg>
       </tuv>
     </tu>
     <tu>
@@ -1662,10 +1686,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Login Attempts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013110Z" creationid="Yifei Ding" creationdate="20190212T013110Z">
+        <seg>登录尝试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Logs</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024913Z" creationid="Yifei Ding" creationdate="20190211T024913Z">
         <seg>日志</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lowercase alphanumeric characters plus dot (.), dash (-), and colon (:) are allowed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013235Z" creationid="Yifei Ding" creationdate="20190212T013235Z">
+        <seg>允许小写字母、“.”、“-”, 和“:”。</seg>
       </tuv>
     </tu>
     <tu>
