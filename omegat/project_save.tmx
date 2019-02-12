@@ -2590,6 +2590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keeping the default is recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T230245Z" creationid="Yifei Ding" creationdate="20190212T230245Z">
+        <seg>推荐保留为默认。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Language</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023039Z" creationid="Yifei Ding" creationdate="20190211T023039Z">
