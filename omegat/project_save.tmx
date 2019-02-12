@@ -1830,10 +1830,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter a description of the CA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225013Z" creationid="Yifei Ding" creationdate="20190212T225013Z">
+        <seg>输入这个CA的描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a description of the Cloud Sync Task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225002Z" creationid="Yifei Ding" creationdate="20190212T224947Z">
+        <seg>输入这个云同步任务的描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter a description of the S.M.A.R.T.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224913Z" creationid="Yifei Ding" creationdate="20190212T224913Z">
-        <seg>输入这个S.M.A.R.T.的描述</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224928Z" creationid="Yifei Ding" creationdate="20190212T224913Z">
+        <seg>输入这个S.M.A.R.T.的描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a description of the cron job.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225108Z" creationid="Yifei Ding" creationdate="20190212T225102Z">
+        <seg>输入这个cron job的描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a description of the interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225123Z" creationid="Yifei Ding" creationdate="20190212T225123Z">
+        <seg>输入这个接口的描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a description of the rsync task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225144Z" creationid="Yifei Ding" creationdate="20190212T225144Z">
+        <seg>输入这个rsync任务的描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a description of the static route.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225205Z" creationid="Yifei Ding" creationdate="20190212T225205Z">
+        <seg>输入这个静态路由的描述。</seg>
       </tuv>
     </tu>
     <tu>
