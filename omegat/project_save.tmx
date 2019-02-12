@@ -1950,6 +1950,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter a static IPv4 address.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225848Z" creationid="Yifei Ding" creationdate="20190212T225848Z">
+        <seg>输入一个静态IPv4地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a static IPv6 address if DHCP is unset.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225937Z" creationid="Yifei Ding" creationdate="20190212T225937Z">
+        <seg>如果没有配置DHCP，输入一个静态IPv6地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a static IPv6 address.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T230003Z" creationid="Yifei Ding" creationdate="20190212T230003Z">
+        <seg>输入一个静态IPv6地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a username to register with this service.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T230116Z" creationid="Yifei Ding" creationdate="20190212T230116Z">
+        <seg>输入一个用户名来注册这个服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter accounts that have administrative access.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T172949Z" creationid="Yifei Ding" creationdate="20190211T172949Z">
@@ -2066,6 +2098,38 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T055921Z" creationid="Yifei Ding" creationdate="20190212T055921Z">
         <seg>例子：&lt;b&gt;sh /etc/rc&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: &lt;i&gt;10.0.0.2&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225858Z" creationid="Yifei Ding" creationdate="20190212T225858Z">
+        <seg> 例子：&lt;i&gt;10.0.0.2&lt;/i&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: &lt;i&gt;10.0.0.3&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225907Z" creationid="Yifei Ding" creationdate="20190212T225907Z">
+        <seg>例子：&lt;i&gt;10.0.0.3&lt;/i&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: &lt;i&gt;2001:0db8:85a3:0000:0000:8a2e:0370:7334&lt;/i&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225945Z" creationid="Yifei Ding" creationdate="20190212T225945Z">
+        <seg>例子：&lt;i&gt;2001:0db8:85a3:0000:0000:8a2e:0370:7334&lt;/i&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: &lt;i&gt;2001:0db8:85a3:0000:0000:8a2e:0370:7334&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T230010Z" creationid="Yifei Ding" creationdate="20190212T230010Z">
+        <seg>例子：&lt;i&gt;2001:0db8:85a3:0000:0000:8a2e:0370:7334&lt;/i&gt;.</seg>
       </tuv>
     </tu>
     <tu>
