@@ -52,3 +52,4 @@ detach	分离
 disconnect	断开
 export	导出
 Cloud Sync	云同步
+alphanumeric	字母数字
