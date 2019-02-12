@@ -2390,6 +2390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preferences</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T014050Z" creationid="Yifei Ding" creationdate="20190212T014050Z">
+        <seg>偏好</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Previous</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062613Z" creationid="Yifei Ding" creationdate="20190211T062613Z">
@@ -3546,6 +3554,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060656Z" creationid="Yifei Ding" creationdate="20190211T060656Z">
         <seg>ZFS存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>extra options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T014210Z" creationid="Yifei Ding" creationdate="20190212T014210Z">
+        <seg>额外选项</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
