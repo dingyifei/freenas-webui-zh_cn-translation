@@ -2134,6 +2134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example: &lt;i&gt;ftp.example.com&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T232932Z" creationid="Yifei Ding" creationdate="20190212T232932Z">
+        <seg>例子：&lt;i&gt;ftp.example.com&lt;/i&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example: &lt;i&gt;sh /etc/rc.shutdown&lt;/i&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T055906Z" creationid="Yifei Ding" creationdate="20190212T055906Z">
@@ -2154,6 +2162,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012802Z" creationid="Yifei Ding" creationdate="20190212T012802Z">
         <seg>导出私钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exporting Pool...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T232916Z" creationid="Yifei Ding" creationdate="20190212T232916Z">
+        <seg>导出存储池中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FTP Port number.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T232940Z" creationid="Yifei Ding" creationdate="20190212T232940Z">
+        <seg>FTP端口号</seg>
       </tuv>
     </tu>
     <tu>
@@ -2190,10 +2214,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T232952Z" creationid="Yifei Ding" creationdate="20190212T232952Z">
+        <seg>文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Forces guest access for all connections.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231758Z" creationid="Yifei Ding" creationdate="20190211T231758Z">
         <seg>强制对所有连接使用网络连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From E-mail</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T233010Z" creationid="Yifei Ding" creationdate="20190212T233010Z">
+        <seg>来自邮件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Full Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T233014Z" creationid="Yifei Ding" creationdate="20190212T233014Z">
+        <seg>全名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Full with random data</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T233035Z" creationid="Yifei Ding" creationdate="20190212T233035Z">
+        <seg>用随机数据进行填充</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Full with zeros</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T233047Z" creationid="Yifei Ding" creationdate="20190212T233047Z">
+        <seg>用0进行填充</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GUI SSL Certificate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T233054Z" creationid="Yifei Ding" creationdate="20190212T233054Z">
+        <seg>GUI SSL证书</seg>
       </tuv>
     </tu>
     <tu>
@@ -2298,6 +2370,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195910Z" creationid="Yifei Ding" creationdate="20190211T195910Z">
         <seg>硬盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Config</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T233127Z" creationid="Yifei Ding" creationdate="20190212T233127Z">
+        <seg>隐藏设置</seg>
       </tuv>
     </tu>
     <tu>
