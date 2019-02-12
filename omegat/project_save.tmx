@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, the VM receives an auto-generated random MAC address.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T174633Z" creationid="Yifei Ding" creationdate="20190212T174633Z">
+        <seg>在默认情况下，虚拟机将会获得一个自动生成的随机MAC地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CPU</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234407Z" creationid="Yifei Ding" creationdate="20190211T234407Z">
@@ -498,6 +506,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234418Z" creationid="Yifei Ding" creationdate="20190211T234418Z">
         <seg>处理器和内存配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can be set to &lt;i&gt;0&lt;/i&gt;, left empty for FreeNAS to assign a port when the VM is started, or set to a fixed, preferred port number.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T175507Z" creationid="Yifei Ding" creationdate="20190212T175507Z">
+        <seg>可以被设置为&lt;i&gt;0&lt;/i&gt;，留空FreeNas将会在虚拟机启动时自动分配端口，输入一个端口号以让其不变。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1426,6 +1442,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012640Z" creationid="Yifei Ding" creationdate="20190212T012640Z">
         <seg>结束时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a custom address into the field to override the default.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T174712Z" creationid="Yifei Ding" creationdate="20190212T174712Z">
+        <seg>输入一个自定义的地址来覆盖默认。</seg>
       </tuv>
     </tu>
     <tu>
