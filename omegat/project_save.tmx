@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browse to the operating system installer image file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T174452Z" creationid="Yifei Ding" creationdate="20190212T174435Z">
+        <seg>浏览操作系统安装镜像文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CPU</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234407Z" creationid="Yifei Ding" creationdate="20190211T234407Z">
@@ -2138,6 +2146,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013642Z" creationid="Yifei Ding" creationdate="20190212T013624Z">
         <seg>最大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum path length is 255 characters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T174348Z" creationid="Yifei Ding" creationdate="20190212T174348Z">
+        <seg>极限路径长度是255字符</seg>
       </tuv>
     </tu>
     <tu>
