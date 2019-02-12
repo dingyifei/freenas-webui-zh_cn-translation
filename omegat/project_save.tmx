@@ -1736,8 +1736,8 @@
       <tuv lang="EN-US">
         <seg>Max.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013624Z" creationid="Yifei Ding" creationdate="20190212T013624Z">
-        <seg>最大限制</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013642Z" creationid="Yifei Ding" creationdate="20190212T013624Z">
+        <seg>最大</seg>
       </tuv>
     </tu>
     <tu>
@@ -1910,6 +1910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No Stat</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013721Z" creationid="Yifei Ding" creationdate="20190212T013721Z">
+        <seg>没有数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No pools</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213931Z" creationid="Yifei Ding" creationdate="20190211T213931Z">
@@ -1946,6 +1954,38 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T214015Z" creationid="Yifei Ding" creationdate="20190211T214015Z">
         <seg>否，继续导入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013728Z" creationid="Yifei Ding" creationdate="20190212T013728Z">
+        <seg>备注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: Legacy jails created before FreeNAS 11.2 must be managed from the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013939Z" creationid="Yifei Ding" creationdate="20190212T013918Z">
+        <seg>备注：管理在FreeNas 11.2 之前版本创建的经典Jail必须从</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: Legacy plugins created before FreeNAS 11.2 must be managed from the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013930Z" creationid="Yifei Ding" creationdate="20190212T013930Z">
+        <seg>备注：管理在FreeNas 11.2 之前版本创建的经典插件必须从</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013738Z" creationid="Yifei Ding" creationdate="20190212T013738Z">
+        <seg>备注</seg>
       </tuv>
     </tu>
     <tu>
