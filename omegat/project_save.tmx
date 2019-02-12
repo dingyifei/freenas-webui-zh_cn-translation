@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;br&gt;Example: &lt;b&gt;vnet2|192.168.0.15/24&lt;/b&gt; &lt;br&gt;Multiple interface format: &lt;b&gt;[interface|]ip-address[/netmask],[interface|]ip-address[/netmask]&lt;/b&gt;.&lt;br&gt;Example: &lt;b&gt;192.168.0.10/24,vnet3|192.168.10.50&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060155Z" creationid="Yifei Ding" creationdate="20190212T060155Z">
+        <seg>&lt;br&gt;例子：&lt;b&gt;vnet2|192.168.0.15/24&lt;/b&gt; &lt;br&gt;多接口模式：&lt;b&gt;[interface|]ip-address[/netmask],[interface|]ip-address[/netmask]&lt;/b&gt;.&lt;br&gt;Example: &lt;b&gt;192.168.0.10/24,vnet3|192.168.10.50&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;br&gt;Single interface format: &lt;b&gt;[interface|]ip-address[/netmask]&lt;/b&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060125Z" creationid="Yifei Ding" creationdate="20190212T060125Z">
@@ -734,6 +742,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configure IPv6 networking or internet access for the jail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060210Z" creationid="Yifei Ding" creationdate="20190212T060210Z">
+        <seg>配置Jail的IPv6网络或互联网连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configure Networking</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060230Z" creationid="Yifei Ding" creationdate="20190212T060230Z">
+        <seg>配置网络</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011817Z" creationid="Yifei Ding" creationdate="20190212T011817Z">
@@ -958,6 +982,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Critical</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060316Z" creationid="Yifei Ding" creationdate="20190212T060316Z">
+        <seg>紧急</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060324Z" creationid="Yifei Ding" creationdate="20190212T060324Z">
+        <seg>当前密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom Properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060332Z" creationid="Yifei Ding" creationdate="20190212T060332Z">
+        <seg>自定义属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DHCP Autoconfigure IPv4</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012322Z" creationid="Yifei Ding" creationdate="20190212T012306Z">
@@ -994,6 +1042,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>仪表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default Permissions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060427Z" creationid="Yifei Ding" creationdate="20190212T060427Z">
+        <seg>默认权限</seg>
       </tuv>
     </tu>
     <tu>
