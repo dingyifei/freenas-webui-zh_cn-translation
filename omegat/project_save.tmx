@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Account Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004652Z" creationid="Yifei Ding" creationdate="20190212T004636Z">
+        <seg>用户名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Accounts</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233444Z" creationid="Yifei Ding" creationdate="20190211T233444Z">
@@ -170,6 +178,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233748Z" creationid="Yifei Ding" creationdate="20190211T233748Z">
         <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow Empty Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004427Z" creationid="Yifei Ding" creationdate="20190212T004427Z">
+        <seg>允许空密码</seg>
       </tuv>
     </tu>
     <tu>
@@ -594,6 +610,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060401Z" creationid="Yifei Ding" creationdate="20190211T060401Z">
         <seg>默认设置是 &lt;i&gt;3260&lt;/i&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default is nobody.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004859Z" creationid="Yifei Ding" creationdate="20190212T004859Z">
+        <seg>默认是“nobody”.</seg>
       </tuv>
     </tu>
     <tu>
