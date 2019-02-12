@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;br&gt;Single interface format: &lt;b&gt;[interface|]ip-address[/netmask]&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060125Z" creationid="Yifei Ding" creationdate="20190212T060125Z">
+        <seg>&lt;br&gt;单接口格式：&lt;b&gt;[interface|]ip-address[/netmask]&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>About</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004904Z" creationid="Yifei Ding" creationdate="20190212T004904Z">
@@ -662,6 +670,70 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Command</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T055853Z" creationid="Yifei Ding" creationdate="20190212T055853Z">
+        <seg>命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T055957Z" creationid="Yifei Ding" creationdate="20190212T055957Z">
+        <seg>评论</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060001Z" creationid="Yifei Ding" creationdate="20190212T060001Z">
+        <seg>评论</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compress</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060012Z" creationid="Yifei Ding" creationdate="20190212T060012Z">
+        <seg>压缩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compress connections</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060017Z" creationid="Yifei Ding" creationdate="20190212T060017Z">
+        <seg>压缩连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compression level</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060023Z" creationid="Yifei Ding" creationdate="20190212T060023Z">
+        <seg>压缩级别</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Config</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060030Z" creationid="Yifei Ding" creationdate="20190212T060030Z">
+        <seg>设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configure IPv4 networking or internet access for the jail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060104Z" creationid="Yifei Ding" creationdate="20190212T060104Z">
+        <seg>配置Jail的IPv4网络或互联网连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011817Z" creationid="Yifei Ding" creationdate="20190212T011817Z">
@@ -1162,6 +1234,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T194302Z" creationid="Yifei Ding" creationdate="20190211T194302Z">
         <seg>错误：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: &lt;b&gt;sh /etc/rc&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T055921Z" creationid="Yifei Ding" creationdate="20190212T055921Z">
+        <seg>例子：&lt;b&gt;sh /etc/rc&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: &lt;i&gt;sh /etc/rc.shutdown&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T055906Z" creationid="Yifei Ding" creationdate="20190212T055906Z">
+        <seg>例子：&lt;i&gt;sh /etc/rc.shutdown&lt;/i&gt;.</seg>
       </tuv>
     </tu>
     <tu>
