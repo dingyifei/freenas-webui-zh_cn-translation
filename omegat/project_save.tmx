@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Container</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T172611Z" creationid="Yifei Ding" creationdate="20190212T172611Z">
+        <seg>容器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Continue</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011943Z" creationid="Yifei Ding" creationdate="20190212T011943Z">
@@ -874,6 +882,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061407Z" creationid="Yifei Ding" creationdate="20190211T061407Z">
         <seg>继续？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Control the availability of IPv6 addresses.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T172645Z" creationid="Yifei Ding" creationdate="20190212T172645Z">
+        <seg>控制IPv6地址可用性</seg>
       </tuv>
     </tu>
     <tu>
@@ -946,6 +962,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012109Z" creationid="Yifei Ding" creationdate="20190212T012109Z">
         <seg>创建一个新的存储池。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a new, empty pool.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T172721Z" creationid="Yifei Ding" creationdate="20190212T172721Z">
+        <seg>创建一个新的空存储池。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1042,6 +1066,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012322Z" creationid="Yifei Ding" creationdate="20190212T012306Z">
         <seg>DHCP自动配置IPv4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DNS Forwarder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T172818Z" creationid="Yifei Ding" creationdate="20190212T172818Z">
+        <seg>DNS转发器</seg>
       </tuv>
     </tu>
     <tu>
