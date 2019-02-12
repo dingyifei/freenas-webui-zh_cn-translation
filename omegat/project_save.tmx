@@ -1254,6 +1254,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Detach</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173709Z" creationid="Yifei Ding" creationdate="20190212T173709Z">
+        <seg>分离</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Detach Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173722Z" creationid="Yifei Ding" creationdate="20190212T173715Z">
+        <seg>分离存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Details</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173726Z" creationid="Yifei Ding" creationdate="20190212T173726Z">
+        <seg>详情</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Directory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173928Z" creationid="Yifei Ding" creationdate="20190212T173928Z">
+        <seg>文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Directory Permission</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173924Z" creationid="Yifei Ding" creationdate="20190212T173924Z">
+        <seg>文件夹权限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable FreeNAS Cache</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T174000Z" creationid="Yifei Ding" creationdate="20190212T174000Z">
+        <seg>禁用FreeNas缓存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disk</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012404Z" creationid="Yifei Ding" creationdate="20190212T012404Z">
