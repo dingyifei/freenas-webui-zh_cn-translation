@@ -3606,6 +3606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The new password cannot contain a space or &lt;b&gt;#&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T180301Z" creationid="Yifei Ding" creationdate="20190212T180301Z">
+        <seg>新的密码不能包含空格或&lt;b&gt;#&lt;/b&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These options are case-sensitive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233629Z" creationid="Yifei Ding" creationdate="20190211T233629Z">
