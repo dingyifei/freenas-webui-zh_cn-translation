@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto configure IPv6</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004324Z" creationid="Yifei Ding" creationdate="20190212T004324Z">
+        <seg>自动配置IPv6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto-start</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234022Z" creationid="Yifei Ding" creationdate="20190211T234022Z">
@@ -250,6 +258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234108Z" creationid="Yifei Ding" creationdate="20190211T234108Z">
         <seg>可用主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Available space threshold (%)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004209Z" creationid="Yifei Ding" creationdate="20190212T004209Z">
+        <seg>可用空间百分比 (%)</seg>
       </tuv>
     </tu>
     <tu>
