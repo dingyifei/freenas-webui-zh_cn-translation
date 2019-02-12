@@ -1030,6 +1030,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>End</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012633Z" creationid="Yifei Ding" creationdate="20190212T012633Z">
+        <seg>结束</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End Time</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012640Z" creationid="Yifei Ding" creationdate="20190212T012640Z">
+        <seg>结束时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter a server description.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023704Z" creationid="Yifei Ding" creationdate="20190211T023704Z">
@@ -1158,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Export Private Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012802Z" creationid="Yifei Ding" creationdate="20190212T012802Z">
+        <seg>导出私钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Failed</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195639Z" creationid="Yifei Ding" creationdate="20190211T195639Z">
@@ -1194,6 +1218,38 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231758Z" creationid="Yifei Ding" creationdate="20190211T231758Z">
         <seg>强制对所有连接使用网络连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gateway</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012822Z" creationid="Yifei Ding" creationdate="20190212T012822Z">
+        <seg>网关</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Global Configuration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012850Z" creationid="Yifei Ding" creationdate="20190212T012850Z">
+        <seg>全局配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012859Z" creationid="Yifei Ding" creationdate="20190212T012859Z">
+        <seg>群组Group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Group ID</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012912Z" creationid="Yifei Ding" creationdate="20190212T012912Z">
+        <seg>群组ID</seg>
       </tuv>
     </tu>
     <tu>
