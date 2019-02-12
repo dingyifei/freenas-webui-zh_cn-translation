@@ -350,6 +350,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bind IP Addresses</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T005141Z" creationid="Yifei Ding" creationdate="20190212T005141Z">
+        <seg>Bind IP地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bind Interfaces</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T005147Z" creationid="Yifei Ding" creationdate="20190212T005147Z">
+        <seg>Bind接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bind Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T005109Z" creationid="Yifei Ding" creationdate="20190212T005109Z">
+        <seg>Bind密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bind interfaces</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T005114Z" creationid="Yifei Ding" creationdate="20190212T005114Z">
+        <seg>Bind接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Block (iSCSI)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T005158Z" creationid="Yifei Ding" creationdate="20190212T005158Z">
+        <seg>块(iSCSI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Block size</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234224Z" creationid="Yifei Ding" creationdate="20190211T234224Z">
@@ -578,6 +618,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060734Z" creationid="Yifei Ding" creationdate="20190211T060734Z">
         <seg>选择一个好记的名字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose an encryption mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T005310Z" creationid="Yifei Ding" creationdate="20190212T005310Z">
+        <seg>选择一个加密模式。</seg>
       </tuv>
     </tu>
     <tu>
