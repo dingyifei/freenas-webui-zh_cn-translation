@@ -1158,6 +1158,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T172914Z" creationid="Yifei Ding" creationdate="20190212T172914Z">
+        <seg>删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Dataset</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T172929Z" creationid="Yifei Ding" creationdate="20190212T172929Z">
+        <seg>删除数据集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Device</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T172935Z" creationid="Yifei Ding" creationdate="20190212T172935Z">
+        <seg>删除设备</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Mount Point</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173000Z" creationid="Yifei Ding" creationdate="20190212T173000Z">
+        <seg>删除挂载点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disk</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012404Z" creationid="Yifei Ding" creationdate="20190212T012404Z">
