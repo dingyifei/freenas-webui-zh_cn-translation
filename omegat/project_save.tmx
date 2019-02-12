@@ -758,6 +758,142 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Country Code</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012013Z" creationid="Yifei Ding" creationdate="20190212T012013Z">
+        <seg>国家代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012018Z" creationid="Yifei Ding" creationdate="20190212T012018Z">
+        <seg>创建</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create CA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012024Z" creationid="Yifei Ding" creationdate="20190212T012024Z">
+        <seg>创建CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Certificate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012030Z" creationid="Yifei Ding" creationdate="20190212T012030Z">
+        <seg>创建证书</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Passphrase</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012036Z" creationid="Yifei Ding" creationdate="20190212T012036Z">
+        <seg>创建密钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012041Z" creationid="Yifei Ding" creationdate="20190212T012041Z">
+        <seg>创建存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Snapshot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012053Z" creationid="Yifei Ding" creationdate="20190212T012053Z">
+        <seg>创建快照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a new Pool.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012109Z" creationid="Yifei Ding" creationdate="20190212T012109Z">
+        <seg>创建一个新的存储池。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a pool:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012124Z" creationid="Yifei Ding" creationdate="20190212T012124Z">
+        <seg>创建一个存储池：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create new Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012146Z" creationid="Yifei Ding" creationdate="20190212T012146Z">
+        <seg>创建新存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create new disk image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012156Z" creationid="Yifei Ding" creationdate="20190212T012156Z">
+        <seg>创建新磁盘映像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create new pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012202Z" creationid="Yifei Ding" creationdate="20190212T012202Z">
+        <seg>创建新存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create or Import Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012211Z" creationid="Yifei Ding" creationdate="20190212T012211Z">
+        <seg>创建或导入存储池。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create or Import pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012215Z" creationid="Yifei Ding" creationdate="20190212T012215Z">
+        <seg>创建或导入存储池。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating Jail</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012224Z" creationid="Yifei Ding" creationdate="20190212T012224Z">
+        <seg>创建Jail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating Jail...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012239Z" creationid="Yifei Ding" creationdate="20190212T012239Z">
+        <seg>创建Jail中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DHCP Autoconfigure IPv4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012306Z" creationid="Yifei Ding" creationdate="20190212T012306Z">
+        <seg>DHCP 自动配置IPv4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dashboard</seg>
       </tuv>
       <tuv lang="ZH-CN">
