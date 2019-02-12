@@ -1294,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Describe this service.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T184331Z" creationid="Yifei Ding" creationdate="20190212T184331Z">
+        <seg>描述这个服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173546Z" creationid="Yifei Ding" creationdate="20190212T173546Z">
