@@ -240,8 +240,8 @@
       <tuv lang="EN-US">
         <seg>Allow Root Login</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233855Z" creationid="Yifei Ding" creationdate="20190211T233855Z">
-        <seg>允许Root登入</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T174128Z" creationid="Yifei Ding" creationdate="20190211T233855Z">
+        <seg>允许Root登录</seg>
       </tuv>
     </tu>
     <tu>
@@ -1334,6 +1334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disk to wipe.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T174021Z" creationid="Yifei Ding" creationdate="20190212T174021Z">
+        <seg>擦除磁盘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disks</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012456Z" creationid="Yifei Ding" creationdate="20190212T012456Z">
@@ -1346,6 +1354,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012513Z" creationid="Yifei Ding" creationdate="20190212T012513Z">
         <seg>使用中的磁盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display Login</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T174040Z" creationid="Yifei Ding" creationdate="20190212T174040Z">
+        <seg>显示登录</seg>
       </tuv>
     </tu>
     <tu>
