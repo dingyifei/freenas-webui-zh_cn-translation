@@ -406,6 +406,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003939Z" creationid="Yifei Ding" creationdate="20190212T003939Z">
+        <seg>取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Case Sensitivity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004007Z" creationid="Yifei Ding" creationdate="20190212T004000Z">
+        <seg>大小写敏感</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Category</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004100Z" creationid="Yifei Ding" creationdate="20190212T004100Z">
+        <seg>类别</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Certificate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003933Z" creationid="Yifei Ding" creationdate="20190212T003933Z">
+        <seg>证书</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Certificates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003915Z" creationid="Yifei Ding" creationdate="20190212T003915Z">
+        <seg>证书</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change Passphrase</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234430Z" creationid="Yifei Ding" creationdate="20190211T234430Z">
@@ -438,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change the default password to improve system security.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003906Z" creationid="Yifei Ding" creationdate="20190212T003906Z">
+        <seg>修改默认密码以提高系统安全。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check Now</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003554Z" creationid="Yifei Ding" creationdate="20190212T003554Z">
@@ -466,6 +514,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003802Z" creationid="Yifei Ding" creationdate="20190212T003802Z">
         <seg>检查网络连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check the network connection.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003832Z" creationid="Yifei Ding" creationdate="20190212T003832Z">
+        <seg>检查网络连接。</seg>
       </tuv>
     </tu>
     <tu>
