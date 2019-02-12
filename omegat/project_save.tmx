@@ -1928,8 +1928,16 @@
       <tuv lang="EN-US">
         <seg>Enter a number of degrees in Celsius.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225509Z" creationid="Yifei Ding" creationdate="20190212T225509Z">
-        <seg>输入一个摄氏度的数字</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225516Z" creationid="Yifei Ding" creationdate="20190212T225509Z">
+        <seg>输入一个摄氏度的数字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a password of at least eight characters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225817Z" creationid="Yifei Ding" creationdate="20190212T225817Z">
+        <seg>输入一个最低八位字符的密码</seg>
       </tuv>
     </tu>
     <tu>
@@ -2738,6 +2746,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024504Z" creationid="Yifei Ding" creationdate="20190211T024504Z">
         <seg>挂载点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Must be between 12 and 16 characters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225745Z" creationid="Yifei Ding" creationdate="20190212T225738Z">
+        <seg>必须是12到16个字符长。</seg>
       </tuv>
     </tu>
     <tu>
