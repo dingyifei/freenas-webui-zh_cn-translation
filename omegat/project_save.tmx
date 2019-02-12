@@ -1590,6 +1590,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit Permissions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224319Z" creationid="Yifei Ding" creationdate="20190212T224319Z">
+        <seg>编辑权限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Zvol</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224326Z" creationid="Yifei Ding" creationdate="20190212T224326Z">
+        <seg>编辑Zvol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224339Z" creationid="Yifei Ding" creationdate="20190212T224339Z">
+        <seg>邮件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email Subject</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224351Z" creationid="Yifei Ding" creationdate="20190212T224351Z">
+        <seg>邮件主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012546Z" creationid="Yifei Ding" creationdate="20190212T012546Z">
@@ -1598,10 +1630,106 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable Atime</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224417Z" creationid="Yifei Ding" creationdate="20190212T224417Z">
+        <seg>启用Atime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Browser</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224423Z" creationid="Yifei Ding" creationdate="20190212T224423Z">
+        <seg>启用浏览器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Debug Kernel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224435Z" creationid="Yifei Ding" creationdate="20190212T224435Z">
+        <seg>启用Debug内核</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable FXP</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224443Z" creationid="Yifei Ding" creationdate="20190212T224443Z">
+        <seg>启用FXP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable NFSv4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224447Z" creationid="Yifei Ding" creationdate="20190212T224447Z">
+        <seg>启用NFSv4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable S.M.A.R.T.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224454Z" creationid="Yifei Ding" creationdate="20190212T224454Z">
+        <seg>启用S.M.A.R.T.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable SMB1 support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224503Z" creationid="Yifei Ding" creationdate="20190212T224503Z">
+        <seg>启用SMB1支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Serial Console</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224513Z" creationid="Yifei Ding" creationdate="20190212T224513Z">
+        <seg>启用串口控制台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable Service</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012540Z" creationid="Yifei Ding" creationdate="20190212T012540Z">
         <seg>启用服务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable TLS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224518Z" creationid="Yifei Ding" creationdate="20190212T224518Z">
+        <seg>启用TLS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable TPC</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224522Z" creationid="Yifei Ding" creationdate="20190212T224522Z">
+        <seg>启用TPC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Time Machine backups on this share.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224538Z" creationid="Yifei Ding" creationdate="20190212T224538Z">
+        <seg>在这个共享上启用时间机器备份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable VNC</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224555Z" creationid="Yifei Ding" creationdate="20190212T224555Z">
+        <seg>启用VNC</seg>
       </tuv>
     </tu>
     <tu>
@@ -3226,6 +3354,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231703Z" creationid="Yifei Ding" creationdate="20190211T231703Z">
         <seg>需要&lt;b&gt;Allow guest access&lt;/b&gt;也被设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requires &lt;i&gt;UEFI&lt;/i&gt; booting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224619Z" creationid="Yifei Ding" creationdate="20190212T224619Z">
+        <seg>要求&lt;i&gt;UEFI&lt;/i&gt;引导。</seg>
       </tuv>
     </tu>
     <tu>
