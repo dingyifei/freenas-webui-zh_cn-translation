@@ -646,10 +646,114 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clients</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011757Z" creationid="Yifei Ding" creationdate="20190212T011757Z">
+        <seg>客户端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011802Z" creationid="Yifei Ding" creationdate="20190212T011802Z">
+        <seg>关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011817Z" creationid="Yifei Ding" creationdate="20190212T011817Z">
+        <seg>确认</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011824Z" creationid="Yifei Ding" creationdate="20190212T011824Z">
+        <seg>确认选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm Passphrase</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011829Z" creationid="Yifei Ding" creationdate="20190212T011829Z">
+        <seg>确认密钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011835Z" creationid="Yifei Ding" creationdate="20190212T011835Z">
+        <seg>确认密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011900Z" creationid="Yifei Ding" creationdate="20190212T011900Z">
+        <seg>确认密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm these settings.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011909Z" creationid="Yifei Ding" creationdate="20190212T011909Z">
+        <seg>确认这些设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connections</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011924Z" creationid="Yifei Ding" creationdate="20190212T011924Z">
+        <seg>连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connectivity Check</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011934Z" creationid="Yifei Ding" creationdate="20190212T011934Z">
+        <seg>连接性测试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011943Z" creationid="Yifei Ding" creationdate="20190212T011943Z">
+        <seg>继续</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continue with download?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011948Z" creationid="Yifei Ding" creationdate="20190212T011948Z">
+        <seg>继续并下载？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Continue?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061407Z" creationid="Yifei Ding" creationdate="20190211T061407Z">
         <seg>继续？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Country</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012008Z" creationid="Yifei Ding" creationdate="20190212T012008Z">
+        <seg>国家</seg>
       </tuv>
     </tu>
     <tu>
