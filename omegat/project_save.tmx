@@ -4982,6 +4982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Underscore (_), and dash (-) characters are allowed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T203608Z" creationid="Yifei Ding" creationdate="20190213T203608Z">
+        <seg>允许下划线“_”和横杠“-"。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Until</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232920Z" creationid="Yifei Ding" creationdate="20190211T232920Z">
