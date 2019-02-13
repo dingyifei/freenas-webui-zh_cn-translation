@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b&gt;Example:&lt;/b&gt; &lt;i&gt;E4F4C6&lt;/i&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T202422Z" creationid="Yifei Ding" creationdate="20190213T202422Z">
+        <seg>&lt;b&gt;例子：&lt;/b&gt; &lt;i&gt;E4F4C6&lt;/i&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b&gt;Warning:&lt;/b&gt; Save and back up the encryption salt value.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T170804Z" creationid="Yifei Ding" creationdate="20190213T170804Z">
@@ -2326,6 +2334,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter the administrator account password.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T202430Z" creationid="Yifei Ding" creationdate="20190213T202430Z">
+        <seg>输入管理员账户密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter the decryption passphrase.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T202442Z" creationid="Yifei Ding" creationdate="20190213T202442Z">
+        <seg>输入解密密钥。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter the default gateway of the IPv4 connection.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T202518Z" creationid="Yifei Ding" creationdate="20190213T202518Z">
+        <seg>输入IPv4默认网关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter the name of the Virtual Interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T202621Z" creationid="Yifei Ding" creationdate="20190213T202621Z">
+        <seg>输入虚拟接口名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter the name of the boot entry.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T202635Z" creationid="Yifei Ding" creationdate="20190213T202635Z">
+        <seg>输入启动入口名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter the password to encrypt and decrypt remote data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200316Z" creationid="Yifei Ding" creationdate="20190213T200316Z">
@@ -2554,6 +2602,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T201304Z" creationid="Yifei Ding" creationdate="20190213T201304Z">
         <seg>估计总原始数据容量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: &lt;b&gt;server.name.org:port&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T202605Z" creationid="Yifei Ding" creationdate="20190213T202605Z">
+        <seg>例子：&lt;b&gt;server.name.org:端口&lt;/b&gt;.</seg>
       </tuv>
     </tu>
     <tu>
