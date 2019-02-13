@@ -55,3 +55,4 @@ Cloud Sync	云同步
 alphanumeric	字母数字
 authorize	批准
 Estimated	估计
+Encryption Salt	加密盐
