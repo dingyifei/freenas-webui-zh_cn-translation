@@ -702,6 +702,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changing away from the nightly train is considered a downgrade and not a supported operation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T202926Z" creationid="Yifei Ding" creationdate="20190213T202926Z">
+        <seg>从Nightly分支降级到其他分支是不被支持的操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changing to a nightly train is one-way.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T203023Z" creationid="Yifei Ding" creationdate="20190213T203023Z">
+        <seg>切换到Nightly是单向的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check Now</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003554Z" creationid="Yifei Ding" creationdate="20190212T003554Z">
