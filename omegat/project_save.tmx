@@ -4518,6 +4518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use as home share</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T044757Z" creationid="Yifei Ding" creationdate="20190213T044757Z">
+        <seg>用作“Home”共享</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>User</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030120Z" creationid="Yifei Ding" creationdate="20190211T030120Z">
@@ -4530,6 +4538,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030131Z" creationid="Yifei Ding" creationdate="20190211T030131Z">
         <seg>用户名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usernames of 8 characters or less are recommended for compatibility with application software, but up to 16 characters are allowed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T044930Z" creationid="Yifei Ding" creationdate="20190213T044930Z">
+        <seg>因为软件兼容性原因，推荐小于8个字符。最长允许16个字符。</seg>
       </tuv>
     </tu>
     <tu>
