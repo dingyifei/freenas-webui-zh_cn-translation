@@ -1646,6 +1646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each address is tried until one is successful or the list is exhausted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T171311Z" creationid="Yifei Ding" creationdate="20190213T171311Z">
+        <seg>尝试每一个地址直到成功或列表内的地址被耗尽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224239Z" creationid="Yifei Ding" creationdate="20190212T224239Z">
@@ -2858,6 +2866,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023039Z" creationid="Yifei Ding" creationdate="20190211T023039Z">
         <seg>语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leave empty to use the default gateway.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T171211Z" creationid="Yifei Ding" creationdate="20190213T171211Z">
+        <seg>留空来使用默认网关。</seg>
       </tuv>
     </tu>
     <tu>
