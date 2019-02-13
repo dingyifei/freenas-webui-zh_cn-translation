@@ -142,10 +142,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add Data</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T052006Z" creationid="Yifei Ding" creationdate="20190213T052006Z">
+        <seg>添加数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add Dataset</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233534Z" creationid="Yifei Ding" creationdate="20190211T233534Z">
         <seg>添加数据集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Zvol</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T051947Z" creationid="Yifei Ding" creationdate="20190213T051947Z">
+        <seg>添加Zvol</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,6 +194,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233716Z" creationid="Yifei Ding" creationdate="20190211T233716Z">
         <seg>管理员密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adv.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T052052Z" creationid="Yifei Ding" creationdate="20190213T052052Z">
+        <seg>高级</seg>
       </tuv>
     </tu>
     <tu>
