@@ -758,6 +758,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choices are &lt;i&gt;2000, 2003, 2008, 2008_R2, 2012,&lt;/i&gt; or &lt;i&gt;2012_R2&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T203146Z" creationid="Yifei Ding" creationdate="20190213T203146Z">
+        <seg>可以从&lt;i&gt;2000, 2003, 2008, 2008_R2, 2012,&lt;/i&gt; 或 &lt;i&gt;2012_R2&lt;/i&gt;中选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choices are &lt;i&gt;Minimum, Normal, or Debug&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T203129Z" creationid="Yifei Ding" creationdate="20190213T203118Z">
+        <seg>可以从&lt;i&gt;Minimum, Normal, 或 Debug&lt;/i&gt;中选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choices are &lt;i&gt;None, Auto, CHAP,&lt;/i&gt; or &lt;i&gt;Mutual CHAP&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T203210Z" creationid="Yifei Ding" creationdate="20190213T203210Z">
+        <seg>可以从&lt;i&gt;None, Auto, CHAP,&lt;/i&gt; 或 &lt;i&gt;Mutual CHAP&lt;/i&gt;中选择</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose &lt;i&gt;AES-256&lt;/i&gt; or &lt;i&gt;None&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T203223Z" creationid="Yifei Ding" creationdate="20190213T203223Z">
+        <seg>选择&lt;i&gt;AES-256&lt;/i&gt; 或 &lt;i&gt;None&lt;/i&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose a color scheme.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234546Z" creationid="Yifei Ding" creationdate="20190211T234546Z">
@@ -1042,6 +1074,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061407Z" creationid="Yifei Ding" creationdate="20190211T061407Z">
         <seg>继续？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Control the availability of IPv4 addresses.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T203312Z" creationid="Yifei Ding" creationdate="20190213T203312Z">
+        <seg>控制IPv4地址可用性。</seg>
       </tuv>
     </tu>
     <tu>
