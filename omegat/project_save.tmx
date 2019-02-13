@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b&gt;Warning&lt;/b&gt;: Always save and back up this password.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200340Z" creationid="Yifei Ding" creationdate="20190213T200340Z">
+        <seg>&lt;b&gt;警告&lt;/b&gt;：务必保存并备份这个密码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;br&gt;Example: &lt;b&gt;vnet2|192.168.0.15/24&lt;/b&gt; &lt;br&gt;Multiple interface format: &lt;b&gt;[interface|]ip-address[/netmask],[interface|]ip-address[/netmask]&lt;/b&gt;.&lt;br&gt;Example: &lt;b&gt;192.168.0.10/24,vnet3|192.168.10.50&lt;/b&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060155Z" creationid="Yifei Ding" creationdate="20190212T060155Z">
@@ -2258,6 +2266,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T182317Z" creationid="Yifei Ding" creationdate="20190211T182014Z">
         <seg>输入远程系统的SSH端口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter the password to encrypt and decrypt remote data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200316Z" creationid="Yifei Ding" creationdate="20190213T200316Z">
+        <seg>输入密码来加密和解密数据。</seg>
       </tuv>
     </tu>
     <tu>
