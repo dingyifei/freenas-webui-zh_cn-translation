@@ -278,6 +278,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Amazon Web Services password.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T074119Z" creationid="Yifei Ding" creationdate="20190213T074119Z">
+        <seg>Amazon Web Services 密码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An update is already applied.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T074204Z" creationid="Yifei Ding" creationdate="20190213T074204Z">
+        <seg>一个更新已经被应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anonymous User Download Bandwidth</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233957Z" creationid="Yifei Ding" creationdate="20190211T233957Z">
@@ -530,6 +546,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234418Z" creationid="Yifei Ding" creationdate="20190211T234418Z">
         <seg>处理器和内存配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can be no greater than 15                   characters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T074049Z" creationid="Yifei Ding" creationdate="20190213T074038Z">
+        <seg>不能长于15个字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can be no greater than 15                  characters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T074055Z" creationid="Yifei Ding" creationdate="20190213T074055Z">
+        <seg>不能长于15个字符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1206,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decrypt pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T074213Z" creationid="Yifei Ding" creationdate="20190213T074213Z">
+        <seg>解密存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default Permissions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060427Z" creationid="Yifei Ding" creationdate="20190212T060427Z">
@@ -1238,10 +1278,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default file permissions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T074228Z" creationid="Yifei Ding" creationdate="20190213T074228Z">
+        <seg>默认文件权限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default is &lt;i&gt;3260&lt;/i&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060401Z" creationid="Yifei Ding" creationdate="20190211T060401Z">
         <seg>默认设置是 &lt;i&gt;3260&lt;/i&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default is UTF-8 which supports all characters in all languages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T074245Z" creationid="Yifei Ding" creationdate="20190213T074245Z">
+        <seg>默认UTF-8，支持所有语言的字符。</seg>
       </tuv>
     </tu>
     <tu>
