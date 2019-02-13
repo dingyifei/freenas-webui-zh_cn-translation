@@ -1846,10 +1846,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable a VNC (Virtual Network Computing) remote connection.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T165702Z" creationid="Yifei Ding" creationdate="20190213T165702Z">
+        <seg>启用一个VNC远程连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable autotune</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224632Z" creationid="Yifei Ding" creationdate="20190212T224632Z">
         <seg>启用自动优化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable if Mac clients will be connecting to the SMB share.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T165751Z" creationid="Yifei Ding" creationdate="20190213T165751Z">
+        <seg>启用如果有MacOS用户连接SMB共享。</seg>
       </tuv>
     </tu>
     <tu>
