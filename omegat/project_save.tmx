@@ -2254,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example: &lt;b&gt;yourname.dyndns.org&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T170634Z" creationid="Yifei Ding" creationdate="20190213T170634Z">
+        <seg>例子：&lt;b&gt;yourname.dyndns.org&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example: &lt;i&gt;10.0.0.2&lt;/i&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225858Z" creationid="Yifei Ding" creationdate="20190212T225858Z">
@@ -4026,6 +4034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232012Z" creationid="Yifei Ding" creationdate="20190211T232004Z">
         <seg>选择一个存储池来导入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Separate entries with a comma, space, or tab.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T170556Z" creationid="Yifei Ding" creationdate="20190213T170556Z">
+        <seg>使用逗号，空格，或tab分隔。</seg>
       </tuv>
     </tu>
     <tu>
