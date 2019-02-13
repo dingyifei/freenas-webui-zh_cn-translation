@@ -472,7 +472,7 @@ msgid "Add Cloud Credential"
 msgstr ""
 
 msgid "Add Data"
-msgstr ""
+msgstr "添加数据"
 
 msgid "Add Dataset"
 msgstr "添加数据集"
@@ -487,7 +487,7 @@ msgid "Add Spare"
 msgstr ""
 
 msgid "Add Zvol"
-msgstr ""
+msgstr "添加Zvol"
 
 msgid "Add a name for the new snapshot"
 msgstr "给新的快照添加一个名字"
@@ -628,7 +628,7 @@ msgid "Administrator Password"
 msgstr "管理员密码"
 
 msgid "Adv. Power Management"
-msgstr "Adv. 电源管理"
+msgstr "高级电源管理"
 
 msgid "Advanced"
 msgstr "高级"
@@ -812,12 +812,12 @@ msgid ""
 "Alternative names that SMB clients can use when                   "
 "connecting to this NAS. Can be no greater than 15                   "
 "characters."
-msgstr ""
+msgstr "Alternative names that SMB clients can use when                   connecting to this NAS. 不能长于15个字符。"
 
 msgid ""
 "Alternative names that SMB clients can use when                  connecting "
 "to this NAS. Can be no greater than 15                  characters."
-msgstr ""
+msgstr "Alternative names that SMB clients can use when                  connecting to this NAS. 不能长于15个字符。"
 
 msgid "Always Chroot"
 msgstr ""
@@ -843,13 +843,13 @@ msgid ""
 "cannot be found or remembered, go to <i>My Account >                  "
 "Security Credentials > Access Keys</i> and create a                  new "
 "key pair."
-msgstr ""
+msgstr "Amazon Web Services 密码。If the Secret Access Key                  cannot be found or remembered, go to <i>My Account >                  Security Credentials > Access Keys</i> and create a                  new key pair."
 
 msgid "Amount of locked memory in bytes for the jail."
 msgstr ""
 
 msgid "An update is already applied. Please reboot the system."
-msgstr "An update is already applied. 请重启系统"
+msgstr "一个更新已经被应用。请重启系统"
 
 msgid "Anonymous User Download Bandwidth"
 msgstr "匿名用户下载速度"
@@ -1287,7 +1287,7 @@ msgid ""
 "Changing away from the nightly train is considered a downgrade and not a "
 "supported operation. Activate an existing boot environment that uses the "
 "desired train and boot into it to switch to that train."
-msgstr ""
+msgstr "从Nightly分支降级到其他分支是不被支持的操作。Activate an existing boot environment that uses the desired train and boot into it to switch to that train."
 
 msgid ""
 "Changing dataset permission mode can severely affect existing permissions, "
@@ -1309,7 +1309,7 @@ msgstr ""
 msgid ""
 "Changing to a nightly train is one-way. Changing back to a stable train is "
 "not supported!"
-msgstr ""
+msgstr "切换到Nightly是单向的。Changing back to a stable train is not supported!"
 
 msgid "Check Interval"
 msgstr ""
@@ -1365,13 +1365,13 @@ msgid ""
 "href=\"https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/"
 "active-directory-functional-levels\" target=\"_blank\">Understanding Active "
 "Directory Domain Services (AD DS) Functional Levels</a> for more details."
-msgstr ""
+msgstr "可以从<i>2000, 2003, 2008, 2008_R2, 2012,</i> 或 <i>2012_R2</i>中选择。Refer to <a href=\"https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-functional-levels\" target=\"_blank\">Understanding Active Directory Domain Services (AD DS) Functional Levels</a> for more details."
 
 msgid "Choices are <i>Minimum, Normal, or Debug</i>."
-msgstr ""
+msgstr "可以从<i>Minimum, Normal, 或 Debug</i>中选择。"
 
 msgid "Choices are <i>None, Auto, CHAP,</i> or <i>Mutual CHAP</i>."
-msgstr ""
+msgstr "可以从<i>None, Auto, CHAP,</i> 或 <i>Mutual CHAP</i>中选择"
 
 msgid ""
 "Choose <a                 "
@@ -1382,7 +1382,7 @@ msgid ""
 msgstr ""
 
 msgid "Choose <i>AES-256</i> or <i>None</i>."
-msgstr ""
+msgstr "选择<i>AES-256</i> 或 <i>None</i>."
 
 msgid ""
 "Choose <i>Master</i> if the UPS is plugged directly into the system serial "
@@ -1839,7 +1839,7 @@ msgid "Confirm detach"
 msgstr "确认分离"
 
 msgid "Confirm export/disconnect"
-msgstr "确认断开/导出"
+msgstr "确认导出/断开"
 
 msgid "Confirm it is okay to proceed with Detach."
 msgstr "确认可以继续分离。"
@@ -1887,7 +1887,7 @@ msgid ""
 "unrestricted access to all system addresses. <br><b>New</b>: Restrict "
 "addresses with <b>ip4_addr</b>. <br><b>Disable</b>: Stop the jail from "
 "using IPv4 entirely."
-msgstr ""
+msgstr "控制IPv4地址可用性。<br><b>Inherit</b>: Allow unrestricted access to all system addresses. <br><b>New</b>: Restrict addresses with <b>ip4_addr</b>. <br><b>Disable</b>: Stop the jail from using IPv4 entirely."
 
 msgid ""
 "Control the availability of IPv6 addresses. <br><b>Inherit</b>: Allow "
@@ -1897,7 +1897,7 @@ msgid ""
 msgstr "控制IPv6地址可用性<br><b>Inherit</b>: Allow unrestricted access to all system addresses. <br><b>New</b>: Restrict addresses with <b>ip6_addr</b>. <br><b>Disable</b>: Stop the jail from using IPv4 entirely."
 
 msgid "Copies"
-msgstr ""
+msgstr "拷贝"
 
 msgid "Country"
 msgstr "国家"
@@ -2021,19 +2021,19 @@ msgid "Datastore"
 msgstr ""
 
 msgid "Day of Month"
-msgstr ""
+msgstr "日期"
 
 msgid "Day of Week"
-msgstr ""
+msgstr "星期"
 
 msgid "Day of week"
-msgstr ""
+msgstr "星期"
 
 msgid "Days of the Week"
-msgstr ""
+msgstr "星期"
 
 msgid "Decrypt pool"
-msgstr ""
+msgstr "解密存储池"
 
 msgid "Dedicated User"
 msgstr ""
@@ -2057,10 +2057,10 @@ msgid "Default directory permissions"
 msgstr ""
 
 msgid "Default file permissions"
-msgstr ""
+msgstr "默认文件权限"
 
 msgid "Default is UTF-8 which supports all characters in all languages."
-msgstr ""
+msgstr "默认使用UTF-8，支持所有语言的字符。"
 
 msgid ""
 "Default network interface used for the VNET bridge interface in the jail. "
@@ -2243,7 +2243,7 @@ msgid "Delete Mount Point"
 msgstr "删除挂载点"
 
 msgid "Delete Recovery Key"
-msgstr ""
+msgstr "删除恢复密钥"
 
 msgid "Delete Stale Snapshots on Remote System"
 msgstr ""
@@ -2266,7 +2266,7 @@ msgid "Delete recovery key for "
 msgstr ""
 
 msgid "Delete selections"
-msgstr ""
+msgstr "删除选中项目"
 
 msgid ""
 "Delete snapshots from the remote system which are                 also no "
@@ -2453,7 +2453,7 @@ msgid ""
 msgstr ""
 
 msgid "Do not set this if the Serial Port is disabled."
-msgstr ""
+msgstr "如果串口被禁用，请不要设置这个。"
 
 msgid "Docker VM"
 msgstr ""
@@ -2537,7 +2537,7 @@ msgid "Edit Zvol"
 msgstr "编辑Zvol"
 
 msgid "Editing the following disks:"
-msgstr ""
+msgstr "修改以下磁盘："
 
 msgid ""
 "Either single bandwidth limit or bandwidth limit schedule in rclone "
@@ -2556,7 +2556,7 @@ msgid ""
 "compatibility with most operating systems. Change to <i>VirtIO</i> to "
 "provide better performance on systems with VirtIO paravirtualized network "
 "driver support."
-msgstr ""
+msgstr "模拟一个<i>Intel e82545 (e1000)</i>有线网卡，兼容大多数操作系统。Change to <i>VirtIO</i> to provide better performance on systems with VirtIO paravirtualized network driver support."
 
 msgid "Enable"
 msgstr "启用"
@@ -2612,13 +2612,13 @@ msgstr "启用VNC"
 msgid ""
 "Enable a VNC (Virtual Network Computing) remote connection. Requires "
 "<i>UEFI</i> booting."
-msgstr "Enable a VNC (Virtual Network Computing) remote connection. 要求<i>UEFI</i>引导。"
+msgstr "启用一个VNC远程连接。要求<i>UEFI</i>引导。"
 
 msgid "Enable autotune"
 msgstr "启用自动优化"
 
 msgid "Enable if Mac clients will be connecting to the SMB share."
-msgstr ""
+msgstr "启用如果有MacOS用户连接SMB共享。"
 
 msgid "Enable netwait feature"
 msgstr ""
@@ -2716,7 +2716,7 @@ msgid "Encryption Rekey"
 msgstr ""
 
 msgid "Encryption Salt"
-msgstr ""
+msgstr "加密盐"
 
 msgid ""
 "Encryption type. Choices are <i>Plain, SSL</i>, or                   "
@@ -2758,7 +2758,7 @@ msgstr ""
 msgid ""
 "Enter a VNC password to automatically pass to the VNC session. Passwords "
 "cannot be longer than 8 characters."
-msgstr ""
+msgstr "Enter a VNC password to automatically pass to the VNC session. 密码不能长于8个字符。"
 
 msgid "Enter a capitalized DNS realm name."
 msgstr ""
@@ -2802,18 +2802,18 @@ msgid "Enter a descriptive title for the new issue."
 msgstr ""
 
 msgid "Enter a fully qualified domain name. Example: <b>yourname.dyndns.org</b>"
-msgstr ""
+msgstr "Enter a fully qualified domain name. 例子：<b>yourname.dyndns.org</b>"
 
 msgid ""
 "Enter a list of allowed hostnames or IP addresses. Separate entries with a "
 "comma, space, or tab."
-msgstr ""
+msgstr "Enter a list of allowed hostnames or IP addresses. 使用逗号，空格，或tab分隔。"
 
 msgid ""
 "Enter a list of denied hostnames or IP addresses. Separate entries with a "
 "comma, space, or tab. Specify <i>ALL</i> and list any hosts from <b>Hosts "
 "Allow</b> to have those hosts take precedence."
-msgstr ""
+msgstr "Enter a list of denied hostnames or IP addresses. 使用逗号，空格，或tab分隔。Specify <i>ALL</i> and list any hosts from <b>Hosts Allow</b> to have those hosts take precedence."
 
 msgid ""
 "Enter a long string of random characters for use as <a "
@@ -2821,7 +2821,7 @@ msgid ""
 "target=\"_blank\">salt</a> for the encryption password. <b>Warning:</b> "
 "Save and back up the encryption salt value. Losing the salt value can "
 "result in data loss."
-msgstr ""
+msgstr "Enter a long string of random characters for use as <a href=\"https://searchsecurity.techtarget.com/definition/salt\" target=\"_blank\">salt</a> for the encryption password. <b>警告：</b>请保存并备份加密Salt。Losing the salt value can result in data loss."
 
 msgid "Enter a name for the VM."
 msgstr "给这个虚拟机取个名字。"
@@ -2855,7 +2855,7 @@ msgstr "输入一个摄氏度的数字。SMART reports if the temperature of a d
 msgid ""
 "Enter a number of seconds to wait before alerting that the service cannot "
 "reach any UPS. Warnings continue until the situation is fixed."
-msgstr ""
+msgstr "Enter a number of seconds to wait before alerting that the service cannot reach any UPS. 警告持续直到问题被解决。"
 
 msgid ""
 "Enter a number of times to attempt reconnecting to the                 "
@@ -2866,7 +2866,7 @@ msgid ""
 "Enter a number of virtual CPUs to allocate to the VM. The maximum is 16 "
 "unless the host CPU also limits the maximum. The VM operating system can "
 "also have operational or licensing restrictions on the number of CPUs."
-msgstr ""
+msgstr "输入分配给虚拟机的虚拟处理器数量。最大值是16除非主机CPU限制了最大值。The VM operating system can also have operational or licensing restrictions on the number of CPUs."
 
 msgid "Enter a number to define the maximum number of processes for the jail."
 msgstr ""
@@ -2928,7 +2928,7 @@ msgid ""
 "href=\"https://www.freebsd.org/cgi/man.cgi?query=ping\" "
 "target=\"_blank\">ping(8)</a>. Each address is tried until one is "
 "successful or the list is exhausted. Leave empty to use the default gateway."
-msgstr ""
+msgstr "Enter a space-delimited list of IP addresses to <a href=\"https://www.freebsd.org/cgi/man.cgi?query=ping\" target=\"_blank\">ping(8)</a>. 尝试每一个地址直到成功或列表内的地址被耗尽。留空来使用默认网关。"
 
 msgid "Enter a static IPv4 address. Example: <i>10.0.0.2</i>."
 msgstr "输入一个静态IPv4地址 例子：<i>10.0.0.2</i>."
@@ -2960,20 +2960,20 @@ msgstr ""
 msgid ""
 "Enter a unique IPv4 address that is in the local network and not already in "
 "use."
-msgstr ""
+msgstr "输入一个没有被使用的独特局域网IPv4地址。"
 
 msgid ""
 "Enter a unique IPv6 address that is in the local network and not already in "
 "use."
-msgstr ""
+msgstr "输入一个没有被使用的独特局域网IPv6地址。"
 
 msgid "Enter a unique name for the dataset."
-msgstr ""
+msgstr "输入一个独特的数据集名称。"
 
 msgid ""
 "Enter a user to associate with this service. Keeping the default is "
 "recommended."
-msgstr "Enter a user to associate with this service. 推荐保留为默认。"
+msgstr "输入一个关联这个服务的用户。推荐保留为默认。"
 
 msgid "Enter a username to register with this service."
 msgstr "输入一个用户名来注册这个服务。"
@@ -2991,7 +2991,7 @@ msgid "Enter a valid MAC address for the VNET3 interface."
 msgstr ""
 
 msgid "Enter a valid MAC address vendor prefix. <b>Example:</b> <i>E4F4C6</i>"
-msgstr ""
+msgstr "Enter a valid MAC address vendor prefix. <b>例子：</b> <i>E4F4C6</i>"
 
 msgid ""
 "Enter a valid username for the <a                   "
@@ -3048,7 +3048,7 @@ msgstr "输入一个别名。限制15字符。"
 msgid ""
 "Enter an alphanumeric name for the certificate.                   "
 "Underscore (_), and dash (-) characters are allowed."
-msgstr ""
+msgstr "Enter an alphanumeric name for the certificate.                   允许下划线“_”和横杠“-\"。"
 
 msgid "Enter an alphanumeric name for the group."
 msgstr ""
@@ -3229,7 +3229,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter the administrator account password."
-msgstr ""
+msgstr "输入管理员账户密码"
 
 msgid "Enter the bug tracker account password."
 msgstr ""
@@ -3238,10 +3238,10 @@ msgid "Enter the command and any options."
 msgstr ""
 
 msgid "Enter the decryption passphrase."
-msgstr ""
+msgstr "输入解密密钥。"
 
 msgid "Enter the default gateway of the IPv4 connection."
-msgstr ""
+msgstr "输入IPv4默认网关。"
 
 msgid ""
 "Enter the desired address into the field to override the randomized MAC "
@@ -3302,7 +3302,7 @@ msgstr ""
 msgid ""
 "Enter the name and port of the server that reports the external IP address. "
 "Example: <b>server.name.org:port</b>."
-msgstr ""
+msgstr "Enter the name and port of the server that reports the external IP address. 例子：<b>server.name.org:端口</b>."
 
 msgid "Enter the name of the Key Distribution Center."
 msgstr ""
@@ -3310,10 +3310,10 @@ msgstr ""
 msgid ""
 "Enter the name of the Virtual Interface. Use the format <i>vlanX</i> where "
 "<i>X</i> is a number representing a non-parent VLAN interface."
-msgstr ""
+msgstr "输入虚拟接口名称。Use the format <i>vlanX</i> where <i>X</i> is a number representing a non-parent VLAN interface."
 
 msgid "Enter the name of the boot entry."
-msgstr ""
+msgstr "输入启动入口名称。"
 
 msgid "Enter the name of the company or organization."
 msgstr ""
@@ -3365,7 +3365,7 @@ msgid ""
 "Enter the password to encrypt and decrypt remote data. <b>Warning</b>: "
 "Always save and back up this password. Losing the encryption password can "
 "result in data loss."
-msgstr ""
+msgstr "输入密码来加密和解密数据。<b>警告</b>：务必保存并备份这个密码。Losing the encryption password can result in data loss."
 
 msgid "Enter the password used to connect to the IPMI interface from a web browser."
 msgstr ""
@@ -3403,10 +3403,10 @@ msgid ""
 msgstr ""
 
 msgid "Enter the root password to authorize this operation."
-msgstr ""
+msgstr "输入Root密码来批准这个操作。"
 
 msgid "Enter the root password."
-msgstr ""
+msgstr "输入Root密码。"
 
 msgid "Enter the serial or USB port the UPS is plugged into."
 msgstr ""
@@ -3415,7 +3415,7 @@ msgid "Enter the state or province of the organization."
 msgstr ""
 
 msgid "Enter the subject for status emails."
-msgstr ""
+msgstr "输入状态邮件的主题。"
 
 msgid ""
 "Enter the user on the VMware host with permission to snapshot virtual "
@@ -3444,64 +3444,64 @@ msgid "Error"
 msgstr "错误"
 
 msgid "Error Deleting Key"
-msgstr ""
+msgstr "删除密钥错误"
 
 msgid "Error Deleting zvol "
-msgstr ""
+msgstr "删除zvol错误 "
 
 msgid "Error Promoting dataset "
 msgstr ""
 
 msgid "Error Unlocking"
-msgstr ""
+msgstr "解锁错误"
 
 msgid "Error Upgrading Pool "
-msgstr ""
+msgstr "升级存储池错误 "
 
 msgid "Error adding recovery key to pool."
 msgstr ""
 
 msgid "Error changing passphrase for pool "
-msgstr ""
+msgstr "修改存储池密码错误 "
 
 msgid "Error checking for updates."
-msgstr ""
+msgstr "检查更新错误"
 
 msgid "Error creating VM."
-msgstr ""
+msgstr "创建虚拟机错误。"
 
 msgid "Error creating passphrase for pool "
-msgstr ""
+msgstr "创建存储池密钥错误。 "
 
 msgid "Error creating pool"
-msgstr ""
+msgstr "创建存储池错误"
 
 msgid "Error decrypting disks"
-msgstr ""
+msgstr "解密磁盘错误"
 
 msgid "Error deleting dataset."
-msgstr ""
+msgstr "删除数据集错误"
 
 msgid "Error detaching pool"
-msgstr ""
+msgstr "分离存储池错误"
 
 msgid "Error exporting/disconnecting pool."
 msgstr ""
 
 msgid "Error getting disk data"
-msgstr ""
+msgstr "获取磁盘数据错误"
 
 msgid "Error getting locales"
 msgstr ""
 
 msgid "Error getting pool data."
-msgstr ""
+msgstr "获取存储池数据错误。"
 
 msgid "Error getting pool or dataset data."
 msgstr ""
 
 msgid "Error importing pool"
-msgstr ""
+msgstr "导入存储池错误"
 
 msgid "Error locking pool."
 msgstr ""
@@ -3510,25 +3510,25 @@ msgid "Error re-keying pool"
 msgstr ""
 
 msgid "Error restarting web service"
-msgstr ""
+msgstr "重启网络服务错误"
 
 msgid "Error saving ZVOL."
-msgstr ""
+msgstr "ZVOL保存错误"
 
 msgid "Error starting service "
-msgstr ""
+msgstr "启动服务错误 "
 
 msgid "Error stopping service "
-msgstr ""
+msgstr "停止服务错误 "
 
 msgid "Error updating disks."
-msgstr ""
+msgstr "更新磁盘错误。"
 
 msgid "Error: "
 msgstr "错误： "
 
 msgid "Error: Displaying local fetched releases failed."
-msgstr ""
+msgstr "错误： Displaying local fetched releases failed."
 
 msgid "Error: Fetching remote release choices failed."
 msgstr ""
@@ -3537,10 +3537,10 @@ msgid "Estimated data capacity available after extension."
 msgstr ""
 
 msgid "Estimated raw capacity:"
-msgstr ""
+msgstr "估计原始容量："
 
 msgid "Estimated total raw data capacity"
-msgstr ""
+msgstr "估计总原始数据容量"
 
 msgid "Exclude"
 msgstr ""
@@ -3558,13 +3558,13 @@ msgid "Export Private Key"
 msgstr "导出私钥"
 
 msgid "Export Read Only"
-msgstr ""
+msgstr "导出只读"
 
 msgid "Export Recycle Bin"
-msgstr ""
+msgstr "导出回收站"
 
 msgid "Export/Disconnect"
-msgstr ""
+msgstr "导出/断开"
 
 msgid "Export/Disconnect Pool"
 msgstr ""
@@ -7295,13 +7295,13 @@ msgid "Swap size in GiB"
 msgstr "交换空间大小(GiB)"
 
 msgid "Switch Train"
-msgstr ""
+msgstr "切换分支"
 
 msgid "Switch to Legacy User Interface?"
 msgstr "切换到经典用户界面？"
 
 msgid "Switch update trains?"
-msgstr ""
+msgstr "切换更新分支？"
 
 msgid "Sync"
 msgstr "同步"
@@ -7620,7 +7620,7 @@ msgid ""
 "The web service must restart                              for the protocol "
 "changes to take effect. The UI will be                              "
 "temporarily unavailable. Restart the service?"
-msgstr ""
+msgstr "The web service must restart                              for the protocol changes to take effect. The UI will be                              temporarily unavailable. 重启服务？"
 
 msgid ""
 "The zvol default block size is automatically chosen based on the number of "
@@ -7628,10 +7628,10 @@ msgid ""
 msgstr ""
 
 msgid "Third DNS server"
-msgstr ""
+msgstr "第三DNS服务器"
 
 msgid "This field is required"
-msgstr ""
+msgstr "此区域为必填。"
 
 msgid ""
 "This field remains empty until a valid                   <b>Username</b> "
@@ -7899,7 +7899,7 @@ msgid "Use all disk space"
 msgstr "使用所有的磁盘空间"
 
 msgid "Use as home share"
-msgstr ""
+msgstr "用作“Home”共享"
 
 msgid "Use existing disk image"
 msgstr ""
@@ -7979,7 +7979,7 @@ msgstr ""
 msgid ""
 "Usernames of 8 characters or less are recommended for compatibility with "
 "application software, but up to 16 characters are allowed."
-msgstr ""
+msgstr "因为软件兼容性原因，推荐小于8个字符。最长允许16个字符。"
 
 msgid "Users"
 msgstr "用户"
@@ -8071,37 +8071,37 @@ msgid "Web Interface"
 msgstr "网络界面"
 
 msgid "WebDAV Shares"
-msgstr ""
+msgstr "WebDAV共享"
 
 msgid "WebDAV account password."
-msgstr ""
+msgstr "WebDAV账户密码。"
 
 msgid "WebDAV account username."
-msgstr ""
+msgstr "WebDAV用户名。"
 
 msgid "WebDAV service"
-msgstr ""
+msgstr "WebDAV服务"
 
 msgid "WebGUI HTTP -> HTTPS Redirect"
-msgstr ""
+msgstr "WebGUI HTTP -> HTTPS重定向"
 
 msgid "WebGUI HTTP Port"
-msgstr ""
+msgstr "WebGUI HTTP端口"
 
 msgid "WebGUI HTTPS Port"
-msgstr ""
+msgstr "WebGUI HTTPS端口"
 
 msgid "WebGUI IPv4 Address"
-msgstr ""
+msgstr "WebGUI IPv4地址"
 
 msgid "WebGUI IPv6 Address"
-msgstr ""
+msgstr "WebGUI IPv6地址"
 
 msgid "Webdav Password"
-msgstr ""
+msgstr "Webdav密码"
 
 msgid "Webdav SSL Certificate"
-msgstr ""
+msgstr "Webdav SSL证书"
 
 msgid "When"
 msgstr ""
@@ -8210,7 +8210,7 @@ msgid "Yes"
 msgstr "是"
 
 msgid "Yes, decrypt the disks"
-msgstr ""
+msgstr "是，解密磁盘"
 
 msgid "ZFS"
 msgstr ""
