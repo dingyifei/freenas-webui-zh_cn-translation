@@ -1726,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Emulating an &lt;i&gt;Intel e82545 (e1000)&lt;/i&gt; Ethernet card provides compatibility with most operating systems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T074632Z" creationid="Yifei Ding" creationdate="20190213T074626Z">
+        <seg>模拟一个&lt;i&gt;Intel e82545 (e1000)&lt;/i&gt;有线网卡，兼容大多数操作系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012546Z" creationid="Yifei Ding" creationdate="20190212T012546Z">
@@ -2074,6 +2082,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T230003Z" creationid="Yifei Ding" creationdate="20190212T230003Z">
         <seg>输入一个静态IPv6地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a unique IPv4 address that is in the local network and not already in use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T074754Z" creationid="Yifei Ding" creationdate="20190213T074754Z">
+        <seg>输入一个没有被使用的独特局域网IPv4地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a unique IPv6 address that is in the local network and not already in use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T074805Z" creationid="Yifei Ding" creationdate="20190213T074805Z">
+        <seg>输入一个没有被使用的独特局域网IPv6地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a unique name for the dataset.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T074841Z" creationid="Yifei Ding" creationdate="20190213T074841Z">
+        <seg>输入一个独特的数据集名称。</seg>
       </tuv>
     </tu>
     <tu>
