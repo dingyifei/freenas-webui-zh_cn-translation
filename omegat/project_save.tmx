@@ -2566,6 +2566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error exporting/disconnecting pool.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T203811Z" creationid="Yifei Ding" creationdate="20190213T203811Z">
+        <seg>导出/断开存储池错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error getting disk data</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200916Z" creationid="Yifei Ding" creationdate="20190213T200916Z">
@@ -2782,6 +2790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extra options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T203833Z" creationid="Yifei Ding" creationdate="20190213T203833Z">
+        <seg>额外选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FTP Port number.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T232940Z" creationid="Yifei Ding" creationdate="20190212T232940Z">
@@ -2814,10 +2830,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Filename Encryption</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T203852Z" creationid="Yifei Ding" creationdate="20190213T203852Z">
+        <seg>文件名加密</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Filesystem type</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T013541Z" creationid="Yifei Ding" creationdate="20190211T013541Z">
         <seg>文件系统类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T203857Z" creationid="Yifei Ding" creationdate="20190213T203857Z">
+        <seg>过滤器</seg>
       </tuv>
     </tu>
     <tu>
@@ -2834,6 +2866,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231758Z" creationid="Yifei Ding" creationdate="20190211T231758Z">
         <seg>强制对所有连接使用网络连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T203916Z" creationid="Yifei Ding" creationdate="20190213T203916Z">
+        <seg>来自</seg>
       </tuv>
     </tu>
     <tu>
