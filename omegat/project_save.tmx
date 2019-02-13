@@ -3750,6 +3750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Restart the service?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T043839Z" creationid="Yifei Ding" creationdate="20190213T043839Z">
+        <seg>重启服务？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Restart the system?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061022Z" creationid="Yifei Ding" creationdate="20190211T061022Z">
@@ -4150,6 +4158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Switch Train</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T043800Z" creationid="Yifei Ding" creationdate="20190213T043800Z">
+        <seg>切换分支</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Switch to Legacy User Interface?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060253Z" creationid="Yifei Ding" creationdate="20190211T060253Z">
@@ -4274,6 +4290,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233629Z" creationid="Yifei Ding" creationdate="20190211T233629Z">
         <seg>这些选项是大小写敏感的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Third DNS server</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T043856Z" creationid="Yifei Ding" creationdate="20190213T043856Z">
+        <seg>第三DNS服务器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This field is required</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T044729Z" creationid="Yifei Ding" creationdate="20190213T044729Z">
+        <seg>此区域为必填。</seg>
       </tuv>
     </tu>
     <tu>
