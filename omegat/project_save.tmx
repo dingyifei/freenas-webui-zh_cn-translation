@@ -2310,6 +2310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error Deleting Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T201146Z" creationid="Yifei Ding" creationdate="20190213T201146Z">
+        <seg>删除密钥错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error Deleting zvol</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200630Z" creationid="Yifei Ding" creationdate="20190213T200630Z">
@@ -2390,10 +2398,90 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error detaching pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200907Z" creationid="Yifei Ding" creationdate="20190213T200907Z">
+        <seg>分离存储池错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error getting disk data</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200916Z" creationid="Yifei Ding" creationdate="20190213T200916Z">
+        <seg>获取磁盘数据错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error getting pool data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200936Z" creationid="Yifei Ding" creationdate="20190213T200936Z">
+        <seg>获取存储池数据错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error importing pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200946Z" creationid="Yifei Ding" creationdate="20190213T200946Z">
+        <seg>导入存储池错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error restarting web service</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T201122Z" creationid="Yifei Ding" creationdate="20190213T201122Z">
+        <seg>重启网络服务错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error saving ZVOL.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200956Z" creationid="Yifei Ding" creationdate="20190213T200956Z">
+        <seg>ZVOL保存错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error starting service</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T201004Z" creationid="Yifei Ding" creationdate="20190213T201004Z">
+        <seg>启动服务错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error stopping service</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T201010Z" creationid="Yifei Ding" creationdate="20190213T201010Z">
+        <seg>停止服务错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error updating disks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T201046Z" creationid="Yifei Ding" creationdate="20190213T201046Z">
+        <seg>更新磁盘错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T194302Z" creationid="Yifei Ding" creationdate="20190211T194302Z">
         <seg>错误：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error: Displaying local fetched releases failed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T201159Z" creationid="Yifei Ding" creationdate="20190213T201159Z">
+        <seg>错误： Displaying local fetched releases failed.</seg>
       </tuv>
     </tu>
     <tu>
