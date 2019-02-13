@@ -4158,6 +4158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Switch update trains?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T043744Z" creationid="Yifei Ding" creationdate="20190213T043744Z">
+        <seg>切换更新分支？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sync</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060321Z" creationid="Yifei Ding" creationdate="20190211T060321Z">
