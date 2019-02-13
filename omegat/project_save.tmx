@@ -2006,6 +2006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Encryption Salt</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T202213Z" creationid="Yifei Ding" creationdate="20190213T202213Z">
+        <seg>加密盐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>End</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012633Z" creationid="Yifei Ding" creationdate="20190212T012633Z">
