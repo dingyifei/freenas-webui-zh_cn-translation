@@ -2310,6 +2310,86 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Error Deleting zvol</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200630Z" creationid="Yifei Ding" creationdate="20190213T200630Z">
+        <seg>删除zvol错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error Unlocking</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200618Z" creationid="Yifei Ding" creationdate="20190213T200618Z">
+        <seg>解锁错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error Upgrading Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200602Z" creationid="Yifei Ding" creationdate="20190213T200602Z">
+        <seg>升级存储池错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error changing passphrase for pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200701Z" creationid="Yifei Ding" creationdate="20190213T200701Z">
+        <seg>修改存储池密码错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error checking for updates.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200749Z" creationid="Yifei Ding" creationdate="20190213T200749Z">
+        <seg>检查更新错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error creating VM.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200830Z" creationid="Yifei Ding" creationdate="20190213T200830Z">
+        <seg>创建虚拟机错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error creating passphrase for pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200843Z" creationid="Yifei Ding" creationdate="20190213T200843Z">
+        <seg>创建存储池密钥错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error creating pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200809Z" creationid="Yifei Ding" creationdate="20190213T200809Z">
+        <seg>创建存储池错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error decrypting disks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200818Z" creationid="Yifei Ding" creationdate="20190213T200818Z">
+        <seg>解密磁盘错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error deleting dataset.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200853Z" creationid="Yifei Ding" creationdate="20190213T200853Z">
+        <seg>删除数据集错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T194302Z" creationid="Yifei Ding" creationdate="20190211T194302Z">
