@@ -4560,7 +4560,7 @@
       <tuv lang="EN-US">
         <seg>Users &amp; Groups</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060545Z" creationid="Yifei Ding" creationdate="20190211T060545Z">
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T044958Z" creationid="Yifei Ding" creationdate="20190211T060545Z">
         <seg>用户与群组</seg>
       </tuv>
     </tu>
@@ -4654,6 +4654,94 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WebDAV Shares</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T045016Z" creationid="Yifei Ding" creationdate="20190213T045016Z">
+        <seg>WebDAV共享</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WebDAV account password.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T045025Z" creationid="Yifei Ding" creationdate="20190213T045025Z">
+        <seg>WebDAV账户密码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WebDAV account username.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T045036Z" creationid="Yifei Ding" creationdate="20190213T045036Z">
+        <seg>WebDAV用户名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WebDAV service</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T045046Z" creationid="Yifei Ding" creationdate="20190213T045040Z">
+        <seg>WebDAV服务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WebGUI HTTP -&gt; HTTPS Redirect</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T045058Z" creationid="Yifei Ding" creationdate="20190213T045058Z">
+        <seg>WebGUI HTTP -&gt; HTTPS重定向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WebGUI HTTP Port</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T045011Z" creationid="Yifei Ding" creationdate="20190213T045011Z">
+        <seg>WebGUI HTTP端口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WebGUI HTTPS Port</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T045104Z" creationid="Yifei Ding" creationdate="20190213T045104Z">
+        <seg>WebGUI HTTPS端口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WebGUI IPv4 Address</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T045108Z" creationid="Yifei Ding" creationdate="20190213T045108Z">
+        <seg>WebGUI IPv4地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WebGUI IPv6 Address</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T045121Z" creationid="Yifei Ding" creationdate="20190213T045121Z">
+        <seg>WebGUI IPv6地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Webdav Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T045004Z" creationid="Yifei Ding" creationdate="20190213T045004Z">
+        <seg>Webdav密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Webdav SSL Certificate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T045126Z" creationid="Yifei Ding" creationdate="20190213T045126Z">
+        <seg>Webdav SSL证书</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wipe</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030306Z" creationid="Yifei Ding" creationdate="20190211T030306Z">
@@ -4698,6 +4786,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030409Z" creationid="Yifei Ding" creationdate="20190211T030409Z">
         <seg>是</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes, decrypt the disks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T045155Z" creationid="Yifei Ding" creationdate="20190213T045155Z">
+        <seg>是，解密磁盘</seg>
       </tuv>
     </tu>
     <tu>
