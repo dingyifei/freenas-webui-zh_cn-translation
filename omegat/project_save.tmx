@@ -2150,6 +2150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter a user to associate with this service.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T171407Z" creationid="Yifei Ding" creationdate="20190213T171407Z">
+        <seg>输入一个关联这个服务的用户。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter a username to register with this service.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T230116Z" creationid="Yifei Ding" creationdate="20190212T230116Z">
