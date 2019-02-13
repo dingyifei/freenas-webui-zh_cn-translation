@@ -2278,6 +2278,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter the root password to authorize this operation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200457Z" creationid="Yifei Ding" creationdate="20190213T200457Z">
+        <seg>输入Root密码来批准这个操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter the root password.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200427Z" creationid="Yifei Ding" creationdate="20190213T200427Z">
+        <seg>输入Root密码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter the subject for status emails.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200529Z" creationid="Yifei Ding" creationdate="20190213T200529Z">
+        <seg>输入状态邮件的主题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T194203Z" creationid="Yifei Ding" creationdate="20190211T194203Z">
