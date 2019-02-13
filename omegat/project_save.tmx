@@ -936,8 +936,8 @@
       <tuv lang="EN-US">
         <seg>Confirm export/disconnect</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T172445Z" creationid="Yifei Ding" creationdate="20190212T172445Z">
-        <seg>确认断开/导出</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T201403Z" creationid="Yifei Ding" creationdate="20190212T172445Z">
+        <seg>确认导出/断开</seg>
       </tuv>
     </tu>
     <tu>
@@ -1026,6 +1026,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T172645Z" creationid="Yifei Ding" creationdate="20190212T172645Z">
         <seg>控制IPv6地址可用性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copies</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T201429Z" creationid="Yifei Ding" creationdate="20190213T201429Z">
+        <seg>拷贝</seg>
       </tuv>
     </tu>
     <tu>
@@ -2486,6 +2494,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Estimated raw capacity:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T201251Z" creationid="Yifei Ding" creationdate="20190213T201251Z">
+        <seg>估计原始容量：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Estimated total raw data capacity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T201304Z" creationid="Yifei Ding" creationdate="20190213T201304Z">
+        <seg>估计总原始数据容量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example: &lt;b&gt;sh /etc/rc&lt;/b&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T055921Z" creationid="Yifei Ding" creationdate="20190212T055921Z">
@@ -2562,6 +2586,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012802Z" creationid="Yifei Ding" creationdate="20190212T012802Z">
         <seg>导出私钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export Read Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T201314Z" creationid="Yifei Ding" creationdate="20190213T201314Z">
+        <seg>导出只读</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export Recycle Bin</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T201325Z" creationid="Yifei Ding" creationdate="20190213T201325Z">
+        <seg>导出回收站</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export/Disconnect</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T201347Z" creationid="Yifei Ding" creationdate="20190213T201347Z">
+        <seg>导出/断开</seg>
       </tuv>
     </tu>
     <tu>
