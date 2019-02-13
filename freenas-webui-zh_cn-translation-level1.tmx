@@ -1,15 +1,1175 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>% of all cores</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233223Z" creationid="Yifei Ding" creationdate="20190211T233223Z">
+        <seg>所有核心(%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>20 characters is the maximum length.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233307Z" creationid="Yifei Ding" creationdate="20190211T233307Z">
+        <seg>20字符是极限长度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>25 characters)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173605Z" creationid="Yifei Ding" creationdate="20190212T173605Z">
+        <seg>25字符）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b&gt;Example:&lt;/b&gt; &lt;i&gt;1,2,3,4&lt;/i&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213547Z" creationid="Yifei Ding" creationdate="20190211T213547Z">
+        <seg>&lt;b&gt;例子：&lt;/b&gt; &lt;i&gt;1,2,3,4&lt;/i&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;br&gt;Example: &lt;b&gt;vnet2|192.168.0.15/24&lt;/b&gt; &lt;br&gt;Multiple interface format: &lt;b&gt;[interface|]ip-address[/netmask],[interface|]ip-address[/netmask]&lt;/b&gt;.&lt;br&gt;Example: &lt;b&gt;192.168.0.10/24,vnet3|192.168.10.50&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060155Z" creationid="Yifei Ding" creationdate="20190212T060155Z">
+        <seg>&lt;br&gt;例子：&lt;b&gt;vnet2|192.168.0.15/24&lt;/b&gt; &lt;br&gt;多接口模式：&lt;b&gt;[interface|]ip-address[/netmask],[interface|]ip-address[/netmask]&lt;/b&gt;.&lt;br&gt;Example: &lt;b&gt;192.168.0.10/24,vnet3|192.168.10.50&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;br&gt;Single interface format: &lt;b&gt;[interface|]ip-address[/netmask]&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060125Z" creationid="Yifei Ding" creationdate="20190212T060125Z">
+        <seg>&lt;br&gt;单接口格式：&lt;b&gt;[interface|]ip-address[/netmask]&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004904Z" creationid="Yifei Ding" creationdate="20190212T004904Z">
+        <seg>关于</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Account</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Account Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004652Z" creationid="Yifei Ding" creationdate="20190212T004636Z">
+        <seg>用户名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accounts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233444Z" creationid="Yifei Ding" creationdate="20190211T233444Z">
+        <seg>账户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Acoustic Level</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233439Z" creationid="Yifei Ding" creationdate="20190211T233439Z">
+        <seg>声学等级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233418Z" creationid="Yifei Ding" creationdate="20190211T233418Z">
+        <seg>启用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activates the configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233410Z" creationid="Yifei Ding" creationdate="20190211T233410Z">
+        <seg>启用配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Additional IPv4 Alias</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233504Z" creationid="Yifei Ding" creationdate="20190211T233504Z">
+        <seg>添加额外的IPv4别名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Additional IPv6 Alias</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233509Z" creationid="Yifei Ding" creationdate="20190211T233509Z">
+        <seg>添加额外的IPv6别名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Additional Path</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233518Z" creationid="Yifei Ding" creationdate="20190211T233518Z">
+        <seg>添加额外路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Cache</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233525Z" creationid="Yifei Ding" creationdate="20190211T233525Z">
+        <seg>添加缓存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Dataset</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233534Z" creationid="Yifei Ding" creationdate="20190211T233534Z">
+        <seg>添加数据集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add a name for the new snapshot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233601Z" creationid="Yifei Ding" creationdate="20190211T233601Z">
+        <seg>给新的快照添加一个名字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add a name for the new snapshot.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233604Z" creationid="Yifei Ding" creationdate="20190211T233604Z">
+        <seg>给新的快照添加一个名字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Address</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233708Z" creationid="Yifei Ding" creationdate="20190211T233708Z">
+        <seg>地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Administrator Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233716Z" creationid="Yifei Ding" creationdate="20190211T233716Z">
+        <seg>管理员密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233723Z" creationid="Yifei Ding" creationdate="20190211T233723Z">
+        <seg>高级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced Mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233729Z" creationid="Yifei Ding" creationdate="20190211T233729Z">
+        <seg>高级模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced Power Management</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233735Z" creationid="Yifei Ding" creationdate="20190211T233735Z">
+        <seg>高级电源管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alert</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233748Z" creationid="Yifei Ding" creationdate="20190211T233748Z">
+        <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow Empty Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004427Z" creationid="Yifei Ding" creationdate="20190212T004427Z">
+        <seg>允许空密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow Guest Access</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233834Z" creationid="Yifei Ding" creationdate="20190211T233834Z">
+        <seg>允许访客访问</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow New Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233846Z" creationid="Yifei Ding" creationdate="20190211T233846Z">
+        <seg>允许创建新文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow Root Login</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T174128Z" creationid="Yifei Ding" creationdate="20190211T233855Z">
+        <seg>允许Root登录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow TCP port forwarding</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233904Z" creationid="Yifei Ding" creationdate="20190211T233904Z">
+        <seg>允许TCP端口转发</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anonymous User Download Bandwidth</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233957Z" creationid="Yifei Ding" creationdate="20190211T233957Z">
+        <seg>匿名用户下载速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anonymous User Upload Bandwidth</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234003Z" creationid="Yifei Ding" creationdate="20190211T234003Z">
+        <seg>匿名用户上传速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto configure IPv6</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004324Z" creationid="Yifei Ding" creationdate="20190212T004324Z">
+        <seg>自动配置IPv6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto-start</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234022Z" creationid="Yifei Ding" creationdate="20190211T234022Z">
+        <seg>自启动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Autoconfigure IPv6</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234029Z" creationid="Yifei Ding" creationdate="20190211T234029Z">
+        <seg>自动配置IPv6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Available Disks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234038Z" creationid="Yifei Ding" creationdate="20190211T234038Z">
+        <seg>可用磁盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Available Themes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234108Z" creationid="Yifei Ding" creationdate="20190211T234108Z">
+        <seg>可用主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Available space threshold (%)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004209Z" creationid="Yifei Ding" creationdate="20190212T004209Z">
+        <seg>可用空间百分比 (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Average of all cores</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234117Z" creationid="Yifei Ding" creationdate="20190211T234117Z">
+        <seg>所有核心平均</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Back</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234123Z" creationid="Yifei Ding" creationdate="20190211T234123Z">
+        <seg>返回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandwidth Limit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234136Z" creationid="Yifei Ding" creationdate="20190211T234136Z">
+        <seg>带宽限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basic Mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234152Z" creationid="Yifei Ding" creationdate="20190211T234152Z">
+        <seg>基本模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basic Properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234156Z" creationid="Yifei Ding" creationdate="20190211T234156Z">
+        <seg>基本属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Begin</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234202Z" creationid="Yifei Ding" creationdate="20190211T234202Z">
+        <seg>开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Begin Time</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234207Z" creationid="Yifei Ding" creationdate="20190211T234207Z">
+        <seg>开始时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bind IP Addresses</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T005141Z" creationid="Yifei Ding" creationdate="20190212T005141Z">
+        <seg>Bind IP地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bind Interfaces</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T005147Z" creationid="Yifei Ding" creationdate="20190212T005147Z">
+        <seg>Bind接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bind Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T005109Z" creationid="Yifei Ding" creationdate="20190212T005109Z">
+        <seg>Bind密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bind interfaces</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T005114Z" creationid="Yifei Ding" creationdate="20190212T005114Z">
+        <seg>Bind接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Block (iSCSI)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T005158Z" creationid="Yifei Ding" creationdate="20190212T005158Z">
+        <seg>块(iSCSI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Block size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234224Z" creationid="Yifei Ding" creationdate="20190211T234224Z">
+        <seg>块大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boot Environments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234230Z" creationid="Yifei Ding" creationdate="20190211T234230Z">
+        <seg>启动环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boot Method</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234254Z" creationid="Yifei Ding" creationdate="20190211T234254Z">
+        <seg>启动方式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boot Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234313Z" creationid="Yifei Ding" creationdate="20190211T234259Z">
+        <seg>启动池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boot Pool Status</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234310Z" creationid="Yifei Ding" creationdate="20190211T234310Z">
+        <seg>启动池状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse to the operating system installer image file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T174452Z" creationid="Yifei Ding" creationdate="20190212T174435Z">
+        <seg>浏览操作系统安装镜像文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, the VM receives an auto-generated random MAC address.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T174633Z" creationid="Yifei Ding" creationdate="20190212T174633Z">
+        <seg>在默认情况下，虚拟机将会获得一个自动生成的随机MAC地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CPU</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234407Z" creationid="Yifei Ding" creationdate="20190211T234407Z">
+        <seg>处理器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CPU Temperatures</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234402Z" creationid="Yifei Ding" creationdate="20190211T234402Z">
+        <seg>处理器温度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CPU Usage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234353Z" creationid="Yifei Ding" creationdate="20190211T234338Z">
+        <seg>处理器使用量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CPU and Memory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234356Z" creationid="Yifei Ding" creationdate="20190211T234344Z">
+        <seg>处理器和内存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CPU and Memory configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234418Z" creationid="Yifei Ding" creationdate="20190211T234418Z">
+        <seg>处理器和内存配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can be set to &lt;i&gt;0&lt;/i&gt;, left empty for FreeNAS to assign a port when the VM is started, or set to a fixed, preferred port number.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T175507Z" creationid="Yifei Ding" creationdate="20190212T175507Z">
+        <seg>可以被设置为&lt;i&gt;0&lt;/i&gt;，留空FreeNas将会在虚拟机启动时自动分配端口，输入一个端口号以让其不变。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can only contain alphanumeric characters (Aa-Zz 0-9), dashes (-), or underscores (_).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231618Z" creationid="Yifei Ding" creationdate="20190211T231618Z">
+        <seg>只能包含大小写字母数字(Aa-Zz 0-9)，横杠 (-)，或下划线 (_).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can only contain alphanumeric characters Aa-Zz 0-9), dashes (-), or underscores (_).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231636Z" creationid="Yifei Ding" creationdate="20190211T231636Z">
+        <seg>只能包含大小写字母数字(Aa-Zz 0-9)，横杠 (-)，或下划线 (_).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003939Z" creationid="Yifei Ding" creationdate="20190212T003939Z">
+        <seg>取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Case Sensitivity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004007Z" creationid="Yifei Ding" creationdate="20190212T004000Z">
+        <seg>大小写敏感</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Category</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004100Z" creationid="Yifei Ding" creationdate="20190212T004100Z">
+        <seg>类别</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Certificate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003933Z" creationid="Yifei Ding" creationdate="20190212T003933Z">
+        <seg>证书</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Certificates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003915Z" creationid="Yifei Ding" creationdate="20190212T003915Z">
+        <seg>证书</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change Passphrase</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234430Z" creationid="Yifei Ding" creationdate="20190211T234430Z">
+        <seg>修改密钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234435Z" creationid="Yifei Ding" creationdate="20190211T234435Z">
+        <seg>修改密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change Pool Passphrase</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234442Z" creationid="Yifei Ding" creationdate="20190211T234442Z">
+        <seg>修改存储池密钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change User &amp; Group Ownership</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T180119Z" creationid="Yifei Ding" creationdate="20190212T180119Z">
+        <seg>变更用户和群组的所有人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change log</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234502Z" creationid="Yifei Ding" creationdate="20190211T234502Z">
+        <seg>修改日志</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change the default password to improve system security.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003906Z" creationid="Yifei Ding" creationdate="20190212T003906Z">
+        <seg>修改默认密码以提高系统安全。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check Now</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003554Z" creationid="Yifei Ding" creationdate="20190212T003554Z">
+        <seg>立即检查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check Release Notes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003602Z" creationid="Yifei Ding" creationdate="20190212T003602Z">
+        <seg>查看发行备注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check for Updates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234518Z" creationid="Yifei Ding" creationdate="20190211T234518Z">
+        <seg>检查更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check the network connection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003802Z" creationid="Yifei Ding" creationdate="20190212T003802Z">
+        <seg>检查网络连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check the network connection.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003832Z" creationid="Yifei Ding" creationdate="20190212T003832Z">
+        <seg>检查网络连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose a color scheme.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234546Z" creationid="Yifei Ding" creationdate="20190211T234546Z">
+        <seg>选择颜色主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose a memorable name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060734Z" creationid="Yifei Ding" creationdate="20190211T060734Z">
+        <seg>选择一个好记的名字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose a pool or dataset for jail storage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T180618Z" creationid="Yifei Ding" creationdate="20190212T180604Z">
+        <seg>选择一个存储池或数据集作为Jail的存储</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose an encryption mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T005310Z" creationid="Yifei Ding" creationdate="20190212T005310Z">
+        <seg>选择一个加密模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose the VM operating system type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234817Z" creationid="Yifei Ding" creationdate="20190211T234817Z">
+        <seg>选择虚拟机操作系统类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose the test type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T180943Z" creationid="Yifei Ding" creationdate="20190212T180943Z">
+        <seg>选择测试类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose the type of filesystem on the disk.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T182229Z" creationid="Yifei Ding" creationdate="20190212T182229Z">
+        <seg>选择磁盘的文件系统类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose your language.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234905Z" creationid="Yifei Ding" creationdate="20190211T234905Z">
+        <seg>选择你的语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clients</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011757Z" creationid="Yifei Ding" creationdate="20190212T011757Z">
+        <seg>客户端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011802Z" creationid="Yifei Ding" creationdate="20190212T011802Z">
+        <seg>关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Command</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T055853Z" creationid="Yifei Ding" creationdate="20190212T055853Z">
+        <seg>命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T055957Z" creationid="Yifei Ding" creationdate="20190212T055957Z">
+        <seg>评论</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Comments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060001Z" creationid="Yifei Ding" creationdate="20190212T060001Z">
+        <seg>评论</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compress</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060012Z" creationid="Yifei Ding" creationdate="20190212T060012Z">
+        <seg>压缩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compress connections</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060017Z" creationid="Yifei Ding" creationdate="20190212T060017Z">
+        <seg>压缩连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compression level</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060023Z" creationid="Yifei Ding" creationdate="20190212T060023Z">
+        <seg>压缩级别</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Config</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060030Z" creationid="Yifei Ding" creationdate="20190212T060030Z">
+        <seg>设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configure IPv4 networking or internet access for the jail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060104Z" creationid="Yifei Ding" creationdate="20190212T060104Z">
+        <seg>配置Jail的IPv4网络或互联网连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configure IPv6 networking or internet access for the jail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060210Z" creationid="Yifei Ding" creationdate="20190212T060210Z">
+        <seg>配置Jail的IPv6网络或互联网连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configure Networking</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060230Z" creationid="Yifei Ding" creationdate="20190212T060230Z">
+        <seg>配置网络</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011817Z" creationid="Yifei Ding" creationdate="20190212T011817Z">
+        <seg>确认</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011824Z" creationid="Yifei Ding" creationdate="20190212T011824Z">
+        <seg>确认选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm Passphrase</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011829Z" creationid="Yifei Ding" creationdate="20190212T011829Z">
+        <seg>确认密钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011835Z" creationid="Yifei Ding" creationdate="20190212T011835Z">
+        <seg>确认密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm detach</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T172307Z" creationid="Yifei Ding" creationdate="20190212T172307Z">
+        <seg>确认分离</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm export/disconnect</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T172445Z" creationid="Yifei Ding" creationdate="20190212T172445Z">
+        <seg>确认断开/导出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm it is okay to proceed with Detach.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T172513Z" creationid="Yifei Ding" creationdate="20190212T172513Z">
+        <seg>确认可以继续分离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011900Z" creationid="Yifei Ding" creationdate="20190212T011900Z">
+        <seg>确认密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm these settings.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011909Z" creationid="Yifei Ding" creationdate="20190212T011909Z">
+        <seg>确认这些设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connecting to NAS...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T172529Z" creationid="Yifei Ding" creationdate="20190212T172529Z">
+        <seg>连接到NAS中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connections</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011924Z" creationid="Yifei Ding" creationdate="20190212T011924Z">
+        <seg>连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connectivity Check</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011934Z" creationid="Yifei Ding" creationdate="20190212T011934Z">
+        <seg>连接性测试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Container</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T172611Z" creationid="Yifei Ding" creationdate="20190212T172611Z">
+        <seg>容器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011943Z" creationid="Yifei Ding" creationdate="20190212T011943Z">
+        <seg>继续</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continue with download?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011948Z" creationid="Yifei Ding" creationdate="20190212T011948Z">
+        <seg>继续并下载？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continue?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061407Z" creationid="Yifei Ding" creationdate="20190211T061407Z">
+        <seg>继续？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Control the availability of IPv6 addresses.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T172645Z" creationid="Yifei Ding" creationdate="20190212T172645Z">
+        <seg>控制IPv6地址可用性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Country</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012008Z" creationid="Yifei Ding" creationdate="20190212T012008Z">
+        <seg>国家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Country Code</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012013Z" creationid="Yifei Ding" creationdate="20190212T012013Z">
+        <seg>国家代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012018Z" creationid="Yifei Ding" creationdate="20190212T012018Z">
+        <seg>创建</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create CA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012024Z" creationid="Yifei Ding" creationdate="20190212T012024Z">
+        <seg>创建CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Certificate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012030Z" creationid="Yifei Ding" creationdate="20190212T012030Z">
+        <seg>创建证书</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Passphrase</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012036Z" creationid="Yifei Ding" creationdate="20190212T012036Z">
+        <seg>创建密钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012041Z" creationid="Yifei Ding" creationdate="20190212T012041Z">
+        <seg>创建存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Pool Passphrase</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T182300Z" creationid="Yifei Ding" creationdate="20190212T182300Z">
+        <seg>创建存储池密钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Snapshot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012053Z" creationid="Yifei Ding" creationdate="20190212T012053Z">
+        <seg>创建快照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a new Pool.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012109Z" creationid="Yifei Ding" creationdate="20190212T012109Z">
+        <seg>创建一个新的存储池。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a new, empty pool.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T172721Z" creationid="Yifei Ding" creationdate="20190212T172721Z">
+        <seg>创建一个新的空存储池。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a pool:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012124Z" creationid="Yifei Ding" creationdate="20190212T012124Z">
+        <seg>创建一个存储池：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create new Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012146Z" creationid="Yifei Ding" creationdate="20190212T012146Z">
+        <seg>创建新存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create new disk image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012156Z" creationid="Yifei Ding" creationdate="20190212T012156Z">
+        <seg>创建新磁盘映像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create new pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012202Z" creationid="Yifei Ding" creationdate="20190212T012202Z">
+        <seg>创建新存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create or Import Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012211Z" creationid="Yifei Ding" creationdate="20190212T012211Z">
+        <seg>创建或导入存储池。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create or Import pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012215Z" creationid="Yifei Ding" creationdate="20190212T012215Z">
+        <seg>创建或导入存储池。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating Jail</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012224Z" creationid="Yifei Ding" creationdate="20190212T012224Z">
+        <seg>创建Jail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating Jail...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012239Z" creationid="Yifei Ding" creationdate="20190212T012239Z">
+        <seg>创建Jail中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Critical</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060316Z" creationid="Yifei Ding" creationdate="20190212T060316Z">
+        <seg>紧急</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060324Z" creationid="Yifei Ding" creationdate="20190212T060324Z">
+        <seg>当前密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom Properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060332Z" creationid="Yifei Ding" creationdate="20190212T060332Z">
+        <seg>自定义属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DHCP Autoconfigure IPv4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012322Z" creationid="Yifei Ding" creationdate="20190212T012306Z">
+        <seg>DHCP自动配置IPv4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DNS Forwarder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T172818Z" creationid="Yifei Ding" creationdate="20190212T172818Z">
+        <seg>DNS转发器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DNS Timeout</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012316Z" creationid="Yifei Ding" creationdate="20190212T012316Z">
+        <seg>DNS超时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DNS timeout</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012327Z" creationid="Yifei Ding" creationdate="20190212T012327Z">
+        <seg>DNS超时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DNS timeout in seconds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012344Z" creationid="Yifei Ding" creationdate="20190212T012344Z">
+        <seg>DNS超时（秒）</seg>
       </tuv>
     </tu>
     <tu>
@@ -22,6 +1182,822 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default Permissions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060427Z" creationid="Yifei Ding" creationdate="20190212T060427Z">
+        <seg>默认权限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default Router For IPv4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060437Z" creationid="Yifei Ding" creationdate="20190212T060437Z">
+        <seg>IPv4默认路由</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default Router For IPv6</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060442Z" creationid="Yifei Ding" creationdate="20190212T060442Z">
+        <seg>IPv6默认路由</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default Routes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060452Z" creationid="Yifei Ding" creationdate="20190212T060452Z">
+        <seg>默认路由</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default is &lt;i&gt;3260&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060401Z" creationid="Yifei Ding" creationdate="20190211T060401Z">
+        <seg>默认设置是 &lt;i&gt;3260&lt;/i&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default is nobody.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004859Z" creationid="Yifei Ding" creationdate="20190212T004859Z">
+        <seg>默认是“nobody”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delay Updates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T182354Z" creationid="Yifei Ding" creationdate="20190212T182354Z">
+        <seg>延迟更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T172914Z" creationid="Yifei Ding" creationdate="20190212T172914Z">
+        <seg>删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Dataset</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T172929Z" creationid="Yifei Ding" creationdate="20190212T172929Z">
+        <seg>删除数据集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Device</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T172935Z" creationid="Yifei Ding" creationdate="20190212T172935Z">
+        <seg>删除设备</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Mount Point</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173000Z" creationid="Yifei Ding" creationdate="20190212T173000Z">
+        <seg>删除挂载点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Zvol</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T182415Z" creationid="Yifei Ding" creationdate="20190212T182415Z">
+        <seg>删除Zvol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete this device?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T183839Z" creationid="Yifei Ding" creationdate="20190212T183839Z">
+        <seg>删除这个设备？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete zvol</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T183847Z" creationid="Yifei Ding" creationdate="20190212T183847Z">
+        <seg>删除zvol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Describe this service.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T184331Z" creationid="Yifei Ding" creationdate="20190212T184331Z">
+        <seg>描述这个服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173546Z" creationid="Yifei Ding" creationdate="20190212T173546Z">
+        <seg>描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description (max.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173559Z" creationid="Yifei Ding" creationdate="20190212T173559Z">
+        <seg>描述（限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description of the VLAN.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173617Z" creationid="Yifei Ding" creationdate="20190212T173617Z">
+        <seg>VLAN描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Description:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173629Z" creationid="Yifei Ding" creationdate="20190212T173629Z">
+        <seg>描述:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Destination</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173646Z" creationid="Yifei Ding" creationdate="20190212T173646Z">
+        <seg>目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Destination Path</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173642Z" creationid="Yifei Ding" creationdate="20190212T173642Z">
+        <seg>目标路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Destroy data on this pool?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173705Z" creationid="Yifei Ding" creationdate="20190212T173705Z">
+        <seg>销毁这个池里的数据？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Detach</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173709Z" creationid="Yifei Ding" creationdate="20190212T173709Z">
+        <seg>分离</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Detach Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173722Z" creationid="Yifei Ding" creationdate="20190212T173715Z">
+        <seg>分离存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Details</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173726Z" creationid="Yifei Ding" creationdate="20190212T173726Z">
+        <seg>详情</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Device</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224121Z" creationid="Yifei Ding" creationdate="20190212T224121Z">
+        <seg>设备</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Directory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173928Z" creationid="Yifei Ding" creationdate="20190212T173928Z">
+        <seg>文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Directory Permission</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173924Z" creationid="Yifei Ding" creationdate="20190212T173924Z">
+        <seg>文件夹权限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable FreeNAS Cache</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T174000Z" creationid="Yifei Ding" creationdate="20190212T174000Z">
+        <seg>禁用FreeNas缓存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disk</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012404Z" creationid="Yifei Ding" creationdate="20190212T012404Z">
+        <seg>磁盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disk Size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012421Z" creationid="Yifei Ding" creationdate="20190212T012421Z">
+        <seg>磁盘容量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disk sector size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012440Z" creationid="Yifei Ding" creationdate="20190212T012440Z">
+        <seg>磁盘块大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disk successfully imported</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012449Z" creationid="Yifei Ding" creationdate="20190212T012449Z">
+        <seg>磁盘导入成功</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disk to wipe.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T174021Z" creationid="Yifei Ding" creationdate="20190212T174021Z">
+        <seg>擦除磁盘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012456Z" creationid="Yifei Ding" creationdate="20190212T012456Z">
+        <seg>磁盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disks in Use</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012513Z" creationid="Yifei Ding" creationdate="20190212T012513Z">
+        <seg>使用中的磁盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display Login</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T174040Z" creationid="Yifei Ding" creationdate="20190212T174040Z">
+        <seg>显示登录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display System Processes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012523Z" creationid="Yifei Ding" creationdate="20190212T012523Z">
+        <seg>显示系统进程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Docker VM successfully Created</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224145Z" creationid="Yifei Ding" creationdate="20190212T224145Z">
+        <seg>成功创建Docker VM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Done</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224158Z" creationid="Yifei Ding" creationdate="20190212T224158Z">
+        <seg>完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download Encrypt Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224208Z" creationid="Yifei Ding" creationdate="20190212T224208Z">
+        <seg>下载加密密钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download Logs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224223Z" creationid="Yifei Ding" creationdate="20190212T224223Z">
+        <seg>下载日志</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download Sucessful</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224216Z" creationid="Yifei Ding" creationdate="20190212T224216Z">
+        <seg>下载成功</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Download Update</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224227Z" creationid="Yifei Ding" creationdate="20190212T224227Z">
+        <seg>下载更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Driver</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224235Z" creationid="Yifei Ding" creationdate="20190212T224235Z">
+        <seg>驱动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224239Z" creationid="Yifei Ding" creationdate="20190212T224239Z">
+        <seg>编辑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Disk(s)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224244Z" creationid="Yifei Ding" creationdate="20190212T224244Z">
+        <seg>编辑磁盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224251Z" creationid="Yifei Ding" creationdate="20190212T224251Z">
+        <seg>编辑接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Members</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224259Z" creationid="Yifei Ding" creationdate="20190212T224259Z">
+        <seg>编辑成员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Note</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224304Z" creationid="Yifei Ding" creationdate="20190212T224304Z">
+        <seg>编辑备注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224312Z" creationid="Yifei Ding" creationdate="20190212T224312Z">
+        <seg>编辑选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Permissions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224319Z" creationid="Yifei Ding" creationdate="20190212T224319Z">
+        <seg>编辑权限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Zvol</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224326Z" creationid="Yifei Ding" creationdate="20190212T224326Z">
+        <seg>编辑Zvol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224339Z" creationid="Yifei Ding" creationdate="20190212T224339Z">
+        <seg>邮件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email Subject</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224351Z" creationid="Yifei Ding" creationdate="20190212T224351Z">
+        <seg>邮件主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012546Z" creationid="Yifei Ding" creationdate="20190212T012546Z">
+        <seg>启用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Atime</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224417Z" creationid="Yifei Ding" creationdate="20190212T224417Z">
+        <seg>启用Atime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Browser</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224423Z" creationid="Yifei Ding" creationdate="20190212T224423Z">
+        <seg>启用浏览器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Debug Kernel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224435Z" creationid="Yifei Ding" creationdate="20190212T224435Z">
+        <seg>启用Debug内核</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable FXP</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224443Z" creationid="Yifei Ding" creationdate="20190212T224443Z">
+        <seg>启用FXP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable NFSv4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224447Z" creationid="Yifei Ding" creationdate="20190212T224447Z">
+        <seg>启用NFSv4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable S.M.A.R.T.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224454Z" creationid="Yifei Ding" creationdate="20190212T224454Z">
+        <seg>启用S.M.A.R.T.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable SMB1 support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224503Z" creationid="Yifei Ding" creationdate="20190212T224503Z">
+        <seg>启用SMB1支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Serial Console</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224513Z" creationid="Yifei Ding" creationdate="20190212T224513Z">
+        <seg>启用串口控制台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Service</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012540Z" creationid="Yifei Ding" creationdate="20190212T012540Z">
+        <seg>启用服务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable TLS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224518Z" creationid="Yifei Ding" creationdate="20190212T224518Z">
+        <seg>启用TLS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable TPC</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224522Z" creationid="Yifei Ding" creationdate="20190212T224522Z">
+        <seg>启用TPC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Time Machine backups on this share.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224538Z" creationid="Yifei Ding" creationdate="20190212T224538Z">
+        <seg>在这个共享上启用时间机器备份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable VNC</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224555Z" creationid="Yifei Ding" creationdate="20190212T224555Z">
+        <seg>启用VNC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable autotune</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224632Z" creationid="Yifei Ding" creationdate="20190212T224632Z">
+        <seg>启用自动优化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable password login</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224649Z" creationid="Yifei Ding" creationdate="20190212T224649Z">
+        <seg>启用密码登录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable service</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224702Z" creationid="Yifei Ding" creationdate="20190212T224702Z">
+        <seg>启用服务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable this Cloud Sync Task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224753Z" creationid="Yifei Ding" creationdate="20190212T224742Z">
+        <seg>启用这个云同步任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable this rsync task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224806Z" creationid="Yifei Ding" creationdate="20190212T224806Z">
+        <seg>启用这个rsync任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable this service?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224813Z" creationid="Yifei Ding" creationdate="20190212T224813Z">
+        <seg>启用这个服务？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable this task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224818Z" creationid="Yifei Ding" creationdate="20190212T224818Z">
+        <seg>启用这个服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055556Z" creationid="Yifei Ding" creationdate="20190211T055556Z">
+        <seg>启用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Encryption</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012608Z" creationid="Yifei Ding" creationdate="20190212T012608Z">
+        <seg>加密</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012633Z" creationid="Yifei Ding" creationdate="20190212T012633Z">
+        <seg>结束</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End Time</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012640Z" creationid="Yifei Ding" creationdate="20190212T012640Z">
+        <seg>结束时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a custom address into the field to override the default.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T174712Z" creationid="Yifei Ding" creationdate="20190212T174712Z">
+        <seg>输入一个自定义的地址来覆盖默认。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a description of the CA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225013Z" creationid="Yifei Ding" creationdate="20190212T225013Z">
+        <seg>输入这个CA的描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a description of the Cloud Sync Task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225002Z" creationid="Yifei Ding" creationdate="20190212T224947Z">
+        <seg>输入这个云同步任务的描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a description of the S.M.A.R.T.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224928Z" creationid="Yifei Ding" creationdate="20190212T224913Z">
+        <seg>输入这个S.M.A.R.T.的描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a description of the cron job.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225108Z" creationid="Yifei Ding" creationdate="20190212T225102Z">
+        <seg>输入这个cron job的描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a description of the interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225123Z" creationid="Yifei Ding" creationdate="20190212T225123Z">
+        <seg>输入这个接口的描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a description of the rsync task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225144Z" creationid="Yifei Ding" creationdate="20190212T225144Z">
+        <seg>输入这个rsync任务的描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a description of the static route.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225205Z" creationid="Yifei Ding" creationdate="20190212T225205Z">
+        <seg>输入这个静态路由的描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a name for the VM.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225301Z" creationid="Yifei Ding" creationdate="20190212T225235Z">
+        <seg>给这个虚拟机取个名字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a name for the clone of this boot                      environment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225325Z" creationid="Yifei Ding" creationdate="20190212T225250Z">
+        <seg>给这个启动环境的克隆取个名字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a name for the cloned snapshot.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225329Z" creationid="Yifei Ding" creationdate="20190212T225317Z">
+        <seg>给这个快照克隆取个名字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a name for the share.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225349Z" creationid="Yifei Ding" creationdate="20190212T225349Z">
+        <seg>给这个共享取个名字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a netmask.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225422Z" creationid="Yifei Ding" creationdate="20190212T225422Z">
+        <seg>输入一个子网掩码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a number of degrees in Celsius.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225516Z" creationid="Yifei Ding" creationdate="20190212T225509Z">
+        <seg>输入一个摄氏度的数字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a password of at least eight characters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225817Z" creationid="Yifei Ding" creationdate="20190212T225817Z">
+        <seg>输入一个最低八位字符的密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a server description.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023704Z" creationid="Yifei Ding" creationdate="20190211T023704Z">
+        <seg>输入服务器说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a static IPv4 address.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225848Z" creationid="Yifei Ding" creationdate="20190212T225848Z">
+        <seg>输入一个静态IPv4地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a static IPv6 address if DHCP is unset.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225937Z" creationid="Yifei Ding" creationdate="20190212T225937Z">
+        <seg>如果没有配置DHCP，输入一个静态IPv6地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a static IPv6 address.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T230003Z" creationid="Yifei Ding" creationdate="20190212T230003Z">
+        <seg>输入一个静态IPv6地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a username to register with this service.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T230116Z" creationid="Yifei Ding" creationdate="20190212T230116Z">
+        <seg>输入一个用户名来注册这个服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter accounts that have administrative access.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T172949Z" creationid="Yifei Ding" creationdate="20190211T172949Z">
+        <seg>输入有管理员权限的账户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter an IPv4 address.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T172857Z" creationid="Yifei Ding" creationdate="20190211T172857Z">
+        <seg>输入IPv4地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter an IPv6 address.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T011004Z" creationid="Yifei Ding" creationdate="20190211T011004Z">
@@ -30,25 +2006,777 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter an alias.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T175344Z" creationid="Yifei Ding" creationdate="20190211T175344Z">
+        <seg>输入一个别名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter any notes about the jail here.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T180102Z" creationid="Yifei Ding" creationdate="20190211T180015Z">
+        <seg>此处输入这个Jail的备注。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter any notes about this dataset.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T181128Z" creationid="Yifei Ding" creationdate="20190211T180055Z">
+        <seg>输入这个数据集的备注。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter any notes about this disk.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T181124Z" creationid="Yifei Ding" creationdate="20190211T181027Z">
+        <seg>输入这个数据集的备注。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter any notes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T181131Z" creationid="Yifei Ding" creationdate="20190211T181050Z">
+        <seg>输入备注。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter comments about the jail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T181153Z" creationid="Yifei Ding" creationdate="20190211T181153Z">
+        <seg>输入Jail的注释。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter the IP address of the gateway.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T184307Z" creationid="Yifei Ding" creationdate="20190211T184307Z">
+        <seg>输入网关的IP地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter the S3 username.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T184328Z" creationid="Yifei Ding" creationdate="20190211T184328Z">
+        <seg>输入S3的用户名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter the SSH Port of the remote system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T182317Z" creationid="Yifei Ding" creationdate="20190211T182014Z">
+        <seg>输入远程系统的SSH端口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T194203Z" creationid="Yifei Ding" creationdate="20190211T194203Z">
+        <seg>错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T194302Z" creationid="Yifei Ding" creationdate="20190211T194302Z">
+        <seg>错误：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: &lt;b&gt;sh /etc/rc&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T055921Z" creationid="Yifei Ding" creationdate="20190212T055921Z">
+        <seg>例子：&lt;b&gt;sh /etc/rc&lt;/b&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: &lt;i&gt;10.0.0.2&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225858Z" creationid="Yifei Ding" creationdate="20190212T225858Z">
+        <seg> 例子：&lt;i&gt;10.0.0.2&lt;/i&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: &lt;i&gt;10.0.0.3&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225907Z" creationid="Yifei Ding" creationdate="20190212T225907Z">
+        <seg>例子：&lt;i&gt;10.0.0.3&lt;/i&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: &lt;i&gt;2001:0db8:85a3:0000:0000:8a2e:0370:7334&lt;/i&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225945Z" creationid="Yifei Ding" creationdate="20190212T225945Z">
+        <seg>例子：&lt;i&gt;2001:0db8:85a3:0000:0000:8a2e:0370:7334&lt;/i&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: &lt;i&gt;2001:0db8:85a3:0000:0000:8a2e:0370:7334&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T230010Z" creationid="Yifei Ding" creationdate="20190212T230010Z">
+        <seg>例子：&lt;i&gt;2001:0db8:85a3:0000:0000:8a2e:0370:7334&lt;/i&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: &lt;i&gt;ftp.example.com&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T232932Z" creationid="Yifei Ding" creationdate="20190212T232932Z">
+        <seg>例子：&lt;i&gt;ftp.example.com&lt;/i&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: &lt;i&gt;sh /etc/rc.shutdown&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T055906Z" creationid="Yifei Ding" creationdate="20190212T055906Z">
+        <seg>例子：&lt;i&gt;sh /etc/rc.shutdown&lt;/i&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export Certificate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T194338Z" creationid="Yifei Ding" creationdate="20190211T194338Z">
+        <seg>导出证书</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export Private Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012802Z" creationid="Yifei Ding" creationdate="20190212T012802Z">
+        <seg>导出私钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exporting Pool...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T232916Z" creationid="Yifei Ding" creationdate="20190212T232916Z">
+        <seg>导出存储池中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FTP Port number.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T232940Z" creationid="Yifei Ding" creationdate="20190212T232940Z">
+        <seg>FTP端口号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195639Z" creationid="Yifei Ding" creationdate="20190211T195639Z">
+        <seg>失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Permission</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T013600Z" creationid="Yifei Ding" creationdate="20190211T013600Z">
+        <seg>文件权限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Permissions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T013556Z" creationid="Yifei Ding" creationdate="20190211T013556Z">
+        <seg>文件权限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filesystem type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T013541Z" creationid="Yifei Ding" creationdate="20190211T013541Z">
+        <seg>文件系统类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T232952Z" creationid="Yifei Ding" creationdate="20190212T232952Z">
+        <seg>文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forces guest access for all connections.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231758Z" creationid="Yifei Ding" creationdate="20190211T231758Z">
+        <seg>强制对所有连接使用网络连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From E-mail</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T233010Z" creationid="Yifei Ding" creationdate="20190212T233010Z">
+        <seg>来自邮件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Full Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T233014Z" creationid="Yifei Ding" creationdate="20190212T233014Z">
+        <seg>全名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Full with random data</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T233035Z" creationid="Yifei Ding" creationdate="20190212T233035Z">
+        <seg>用随机数据进行填充</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Full with zeros</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T233047Z" creationid="Yifei Ding" creationdate="20190212T233047Z">
+        <seg>用0进行填充</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GUI SSL Certificate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T233054Z" creationid="Yifei Ding" creationdate="20190212T233054Z">
+        <seg>GUI SSL证书</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gateway</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012822Z" creationid="Yifei Ding" creationdate="20190212T012822Z">
+        <seg>网关</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Global Configuration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012850Z" creationid="Yifei Ding" creationdate="20190212T012850Z">
+        <seg>全局配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012928Z" creationid="Yifei Ding" creationdate="20190212T012859Z">
+        <seg>群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Group ID</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012912Z" creationid="Yifei Ding" creationdate="20190212T012912Z">
+        <seg>群组ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Groups</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012924Z" creationid="Yifei Ding" creationdate="20190212T012924Z">
+        <seg>群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guest Access</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012941Z" creationid="Yifei Ding" creationdate="20190212T012941Z">
+        <seg>访客访问</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guest Account</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195808Z" creationid="Yifei Ding" creationdate="20190211T195808Z">
+        <seg>访客账户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTP Port</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195822Z" creationid="Yifei Ding" creationdate="20190211T195822Z">
+        <seg>HTTP端口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTP Proxy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195827Z" creationid="Yifei Ding" creationdate="20190211T195827Z">
+        <seg>HTTP代理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTPS Port</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195831Z" creationid="Yifei Ding" creationdate="20190211T195831Z">
+        <seg>HTTPS端口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hard Disk</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195848Z" creationid="Yifei Ding" creationdate="20190211T195848Z">
+        <seg>硬盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hard Disk Size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195905Z" creationid="Yifei Ding" creationdate="20190211T195905Z">
+        <seg>硬盘容量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hard Disks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195910Z" creationid="Yifei Ding" creationdate="20190211T195910Z">
+        <seg>硬盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Config</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T233127Z" creationid="Yifei Ding" creationdate="20190212T233127Z">
+        <seg>隐藏设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hour</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013032Z" creationid="Yifei Ding" creationdate="20190212T013032Z">
+        <seg>小时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv4 Address</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195936Z" creationid="Yifei Ding" creationdate="20190211T195936Z">
+        <seg>IPv4地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv4 Addresses</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195940Z" creationid="Yifei Ding" creationdate="20190211T195940Z">
+        <seg>IPv4地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv4 Default Gateway</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195952Z" creationid="Yifei Ding" creationdate="20190211T195952Z">
+        <seg>IPv4默认网关</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv4 Default Router</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200001Z" creationid="Yifei Ding" creationdate="20190211T200001Z">
+        <seg>IPv4默认路由</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv4 Interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200009Z" creationid="Yifei Ding" creationdate="20190211T200009Z">
+        <seg>IPv4接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv4 Netmask</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200026Z" creationid="Yifei Ding" creationdate="20190211T200026Z">
+        <seg>IPv4子网掩码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv4 address for the jail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200051Z" creationid="Yifei Ding" creationdate="20190211T200051Z">
+        <seg>Jail的IPv4地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv4 interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200036Z" creationid="Yifei Ding" creationdate="20190211T200036Z">
+        <seg>IPv4接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv4 interface for the jail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200109Z" creationid="Yifei Ding" creationdate="20190211T200109Z">
+        <seg>Jail的IPv4接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv4 netmask for the jail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200234Z" creationid="Yifei Ding" creationdate="20190211T200234Z">
+        <seg>Jail的IPv4子网掩码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv6 Address</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200240Z" creationid="Yifei Ding" creationdate="20190211T200240Z">
+        <seg>IPv6地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv6 Addresses</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200246Z" creationid="Yifei Ding" creationdate="20190211T200246Z">
+        <seg>IPv6地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv6 Auto Configure</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200256Z" creationid="Yifei Ding" creationdate="20190211T200256Z">
+        <seg>自动配置IPv6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv6 Default Gateway</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200304Z" creationid="Yifei Ding" creationdate="20190211T200304Z">
+        <seg>IPv6默认网关</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv6 Default Route</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200313Z" creationid="Yifei Ding" creationdate="20190211T200313Z">
+        <seg>IPv6默认路由</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv6 Default Router</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200405Z" creationid="Yifei Ding" creationdate="20190211T200405Z">
+        <seg>IPv6默认路由</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv6 Interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200412Z" creationid="Yifei Ding" creationdate="20190211T200412Z">
+        <seg>IPv6接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061506Z" creationid="Yifei Ding" creationdate="20190211T061506Z">
+        <seg>导入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import Disk</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061533Z" creationid="Yifei Ding" creationdate="20190211T061533Z">
+        <seg>导入磁盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Importing Disk</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T201802Z" creationid="Yifei Ding" creationdate="20190211T201802Z">
+        <seg>导入磁盘中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Importing Disk...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061542Z" creationid="Yifei Ding" creationdate="20190211T061542Z">
+        <seg>导入磁盘中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Importing Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213319Z" creationid="Yifei Ding" creationdate="20190211T213257Z">
+        <seg>导入存储池中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Importing Pool...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213312Z" creationid="Yifei Ding" creationdate="20190211T213312Z">
+        <seg>导入存储池中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Install</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061335Z" creationid="Yifei Ding" creationdate="20190211T061335Z">
+        <seg>安装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installation Media</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213425Z" creationid="Yifei Ding" creationdate="20190211T213425Z">
+        <seg>安装介质</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installing plugin...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213436Z" creationid="Yifei Ding" creationdate="20190211T213436Z">
+        <seg>安装插件中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213442Z" creationid="Yifei Ding" creationdate="20190211T213442Z">
+        <seg>接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interface Description</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213451Z" creationid="Yifei Ding" creationdate="20190211T213451Z">
+        <seg>接口描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interface Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213456Z" creationid="Yifei Ding" creationdate="20190211T213456Z">
+        <seg>接口名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interfaces</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213459Z" creationid="Yifei Ding" creationdate="20190211T213459Z">
+        <seg>接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061354Z" creationid="Yifei Ding" creationdate="20190211T061354Z">
+        <seg>密码错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jail Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061240Z" creationid="Yifei Ding" creationdate="20190211T061240Z">
+        <seg>Jail名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jail Properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061248Z" creationid="Yifei Ding" creationdate="20190211T061248Z">
+        <seg>Jail属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jail core dump size in bytes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213635Z" creationid="Yifei Ding" creationdate="20190211T213635Z">
+        <seg>Jail核心转储大小(bytes)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jail updated successfully.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213702Z" creationid="Yifei Ding" creationdate="20190211T213702Z">
+        <seg>Jail更新成功</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keeping the default is recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T230245Z" creationid="Yifei Ding" creationdate="20190212T230245Z">
+        <seg>推荐保留为默认。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023039Z" creationid="Yifei Ding" creationdate="20190211T023039Z">
+        <seg>语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Legacy Web Interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213744Z" creationid="Yifei Ding" creationdate="20190211T213744Z">
+        <seg>经典用户界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>License</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213755Z" creationid="Yifei Ding" creationdate="20190211T213755Z">
+        <seg>许可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Limit (kpbs)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213810Z" creationid="Yifei Ding" creationdate="20190211T213810Z">
+        <seg>限制 (kpbs)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Limited to 15 characters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T175839Z" creationid="Yifei Ding" creationdate="20190211T175839Z">
+        <seg>限制15字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061216Z" creationid="Yifei Ding" creationdate="20190211T061216Z">
+        <seg>位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Log Level</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023219Z" creationid="Yifei Ding" creationdate="20190211T023219Z">
+        <seg>日志级别</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Log Out</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023208Z" creationid="Yifei Ding" creationdate="20190211T023208Z">
+        <seg>登出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Log in</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012509Z" creationid="Yifei Ding" creationdate="20190211T012509Z">
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023050Z" creationid="Yifei Ding" creationdate="20190211T023050Z">
         <seg>登录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Login Attempts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013110Z" creationid="Yifei Ding" creationdate="20190212T013110Z">
+        <seg>登录尝试</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Logs</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012602Z" creationid="Yifei Ding" creationdate="20190211T012602Z">
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024913Z" creationid="Yifei Ding" creationdate="20190211T024913Z">
         <seg>日志</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lowercase alphanumeric characters plus dot (.), dash (-), and colon (:) are allowed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013235Z" creationid="Yifei Ding" creationdate="20190212T013235Z">
+        <seg>允许小写字母、“.”、“-”, 和“:”。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>MAC Address</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012623Z" creationid="Yifei Ding" creationdate="20190211T012623Z">
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024627Z" creationid="Yifei Ding" creationdate="20190211T024627Z">
         <seg>MAC地址</seg>
       </tuv>
     </tu>
@@ -56,23 +2784,63 @@
       <tuv lang="EN-US">
         <seg>Mac Address</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012631Z" creationid="Yifei Ding" creationdate="20190211T012631Z">
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024632Z" creationid="Yifei Ding" creationdate="20190211T024632Z">
         <seg>MAC地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure the NAS system is powered on and connected to the network.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T172601Z" creationid="Yifei Ding" creationdate="20190212T172601Z">
+        <seg>请确认NAS系统已启动并连接到网络。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Management</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024644Z" creationid="Yifei Ding" creationdate="20190211T024644Z">
+        <seg>管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Max.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013642Z" creationid="Yifei Ding" creationdate="20190212T013624Z">
+        <seg>最大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum path length is 255 characters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T174348Z" creationid="Yifei Ding" creationdate="20190212T174348Z">
+        <seg>极限路径长度是255字符</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Memory</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012652Z" creationid="Yifei Ding" creationdate="20190211T012652Z">
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023251Z" creationid="Yifei Ding" creationdate="20190211T023251Z">
         <seg>内存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Memory Size (MiB)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023301Z" creationid="Yifei Ding" creationdate="20190211T023301Z">
+        <seg>内存大小(MiB)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Memory Usage</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012724Z" creationid="Yifei Ding" creationdate="20190211T012710Z">
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023245Z" creationid="Yifei Ding" creationdate="20190211T023245Z">
         <seg>内存使用量</seg>
       </tuv>
     </tu>
@@ -80,15 +2848,31 @@
       <tuv lang="EN-US">
         <seg>Microsoft Account</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012736Z" creationid="Yifei Ding" creationdate="20190211T012736Z">
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023309Z" creationid="Yifei Ding" creationdate="20190211T023309Z">
         <seg>微软帐户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft Onedrive &lt;a                  href="https://docs.microsoft.com/en-us/onedrive/developer/rest-api/getting-started/authentication"                  target="_blank"&gt;Access Token&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213848Z" creationid="Yifei Ding" creationdate="20190211T213848Z">
+        <seg>微软Onedrive &lt;a                  href="https://docs.microsoft.com/en-us/onedrive/developer/rest-api/getting-started/authentication"                  target="_blank"&gt;Access Token&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Min.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213857Z" creationid="Yifei Ding" creationdate="20190211T213857Z">
+        <seg>最小</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Minute</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012744Z" creationid="Yifei Ding" creationdate="20190211T012744Z">
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023313Z" creationid="Yifei Ding" creationdate="20190211T023313Z">
         <seg>分钟</seg>
       </tuv>
     </tu>
@@ -96,7 +2880,7 @@
       <tuv lang="EN-US">
         <seg>Mirror</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012758Z" creationid="Yifei Ding" creationdate="20190211T012758Z">
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023319Z" creationid="Yifei Ding" creationdate="20190211T023319Z">
         <seg>镜像</seg>
       </tuv>
     </tu>
@@ -104,7 +2888,7 @@
       <tuv lang="EN-US">
         <seg>Month</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012830Z" creationid="Yifei Ding" creationdate="20190211T012830Z">
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024457Z" creationid="Yifei Ding" creationdate="20190211T024457Z">
         <seg>月</seg>
       </tuv>
     </tu>
@@ -112,31 +2896,447 @@
       <tuv lang="EN-US">
         <seg>Mount points</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012851Z" creationid="Yifei Ding" creationdate="20190211T012851Z">
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024504Z" creationid="Yifei Ding" creationdate="20190211T024504Z">
         <seg>挂载点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Must be between 12 and 16 characters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225745Z" creationid="Yifei Ding" creationdate="20190212T225738Z">
+        <seg>必须是12到16个字符长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NO</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061212Z" creationid="Yifei Ding" creationdate="20190211T061212Z">
+        <seg>否</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name Servers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024809Z" creationid="Yifei Ding" creationdate="20190211T024809Z">
+        <seg>域名服务器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nameserver 1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024519Z" creationid="Yifei Ding" creationdate="20190211T024519Z">
+        <seg>域名服务器 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nameserver 2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024522Z" creationid="Yifei Ding" creationdate="20190211T024522Z">
+        <seg>域名服务器 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nameserver 3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024525Z" creationid="Yifei Ding" creationdate="20190211T024525Z">
+        <seg>域名服务器 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Network</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023422Z" creationid="Yifei Ding" creationdate="20190211T023422Z">
+        <seg>网络</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Network Interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023406Z" creationid="Yifei Ding" creationdate="20190211T023406Z">
+        <seg>网络接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Network Properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023414Z" creationid="Yifei Ding" creationdate="20190211T023414Z">
+        <seg>网络属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023444Z" creationid="Yifei Ding" creationdate="20190211T023444Z">
+        <seg>新密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T054341Z" creationid="Yifei Ding" creationdate="20190211T054341Z">
+        <seg>下一步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023501Z" creationid="Yifei Ding" creationdate="20190211T023501Z">
+        <seg>否</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Stat</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013721Z" creationid="Yifei Ding" creationdate="20190212T013721Z">
+        <seg>没有数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No pools</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213931Z" creationid="Yifei Ding" creationdate="20190211T213931Z">
+        <seg>没有存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No pools exist.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213949Z" creationid="Yifei Ding" creationdate="20190211T213949Z">
+        <seg>没有存储池被创建</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No update found.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T054153Z" creationid="Yifei Ding" creationdate="20190211T054153Z">
+        <seg>未找到更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No updates available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T054226Z" creationid="Yifei Ding" creationdate="20190211T054226Z">
+        <seg>没有可用更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No, continue with import</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T214015Z" creationid="Yifei Ding" creationdate="20190211T214015Z">
+        <seg>否，继续导入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013728Z" creationid="Yifei Ding" creationdate="20190212T013728Z">
+        <seg>备注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: Legacy jails created before FreeNAS 11.2 must be managed from the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013939Z" creationid="Yifei Ding" creationdate="20190212T013918Z">
+        <seg>备注：管理在FreeNas 11.2 之前版本创建的经典Jail必须从</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note: Legacy plugins created before FreeNAS 11.2 must be managed from the</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013930Z" creationid="Yifei Ding" creationdate="20190212T013930Z">
+        <seg>备注：管理在FreeNas 11.2 之前版本创建的经典插件必须从</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013738Z" creationid="Yifei Ding" creationdate="20190212T013738Z">
+        <seg>备注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of CPUs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T054140Z" creationid="Yifei Ding" creationdate="20190211T054140Z">
+        <seg>处理器数量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of virtual CPUs to allocate to the virtual machine.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T054425Z" creationid="Yifei Ding" creationdate="20190211T054425Z">
+        <seg>分配给虚拟机的虚拟处理器数量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T214041Z" creationid="Yifei Ding" creationdate="20190211T214041Z">
+        <seg>是</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OS Version</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T054533Z" creationid="Yifei Ding" creationdate="20190211T054533Z">
+        <seg>系统版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Off by default.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T214054Z" creationid="Yifei Ding" creationdate="20190211T214054Z">
+        <seg>默认为关闭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Offline</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023516Z" creationid="Yifei Ding" creationdate="20190211T023516Z">
+        <seg>离线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ok</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023522Z" creationid="Yifei Ding" creationdate="20190211T023522Z">
+        <seg>是</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Online</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023547Z" creationid="Yifei Ding" creationdate="20190211T023547Z">
+        <seg>在线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only Allow Guest Access</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023605Z" creationid="Yifei Ding" creationdate="20190211T023605Z">
+        <seg>仅允许访客访问</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only appears if &lt;i&gt;Device&lt;/i&gt; is selected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T214137Z" creationid="Yifei Ding" creationdate="20190211T214137Z">
+        <seg>只有在&lt;i&gt;Device&lt;/i&gt;被选择时出现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023627Z" creationid="Yifei Ding" creationdate="20190211T023627Z">
+        <seg>操作系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optional comment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T054637Z" creationid="Yifei Ding" creationdate="20190211T054637Z">
+        <seg>可选评论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optional description.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023641Z" creationid="Yifei Ding" creationdate="20190211T023641Z">
+        <seg>可选说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optional user-friendly name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T054704Z" creationid="Yifei Ding" creationdate="20190211T054704Z">
+        <seg>可选用户友好别名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optional.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023651Z" creationid="Yifei Ding" creationdate="20190211T023651Z">
+        <seg>可选的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023710Z" creationid="Yifei Ding" creationdate="20190211T023710Z">
+        <seg>选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Organization</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T054727Z" creationid="Yifei Ding" creationdate="20190211T054727Z">
+        <seg>组织</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Partition</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T214750Z" creationid="Yifei Ding" creationdate="20190211T214750Z">
+        <seg>分区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Passphrase</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055004Z" creationid="Yifei Ding" creationdate="20190211T055004Z">
+        <seg>密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Passphrase changed for pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055833Z" creationid="Yifei Ding" creationdate="20190211T055020Z">
+        <seg>修改存储池密码完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Passphrase created for pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055842Z" creationid="Yifei Ding" creationdate="20190211T055030Z">
+        <seg>创建存储池密码完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055036Z" creationid="Yifei Ding" creationdate="20190211T055036Z">
+        <seg>密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password Server</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055042Z" creationid="Yifei Ding" creationdate="20190211T055042Z">
+        <seg>密码服务器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password for the SSH Username account.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T214812Z" creationid="Yifei Ding" creationdate="20190211T214812Z">
+        <seg>SSH账户的密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password for the username.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T214831Z" creationid="Yifei Ding" creationdate="20190211T214831Z">
+        <seg>用户名的密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Passwords cannot contain a &lt;b&gt;?&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055113Z" creationid="Yifei Ding" creationdate="20190211T055113Z">
+        <seg>密码不能包含 &lt;b&gt;?&lt;/b&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Passwords do not match</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055125Z" creationid="Yifei Ding" creationdate="20190211T055125Z">
+        <seg>密码不匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paste the certificate for the CA.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T214852Z" creationid="Yifei Ding" creationdate="20190211T214852Z">
+        <seg>粘贴CA证书</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Path</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012244Z" creationid="Yifei Ding" creationdate="20190211T012244Z">
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023849Z" creationid="Yifei Ding" creationdate="20190211T023849Z">
         <seg>路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please configure the Web UI interface (</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055157Z" creationid="Yifei Ding" creationdate="20190211T055157Z">
+        <seg>请配置网络界面（</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please create a pool first.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T214003Z" creationid="Yifei Ding" creationdate="20190211T214003Z">
+        <seg>请先创建一个存储池</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Please enter the correct password.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012047Z" creationid="Yifei Ding" creationdate="20190211T012047Z">
-        <seg>请输入正确的密码</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024841Z" creationid="Yifei Ding" creationdate="20190211T023909Z">
+        <seg>请输入正确的密码。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Please enter your password</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012031Z" creationid="Yifei Ding" creationdate="20190211T012031Z">
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023932Z" creationid="Yifei Ding" creationdate="20190211T023932Z">
         <seg>请输入您的密码</seg>
       </tuv>
     </tu>
@@ -144,7 +3344,7 @@
       <tuv lang="EN-US">
         <seg>Please enter your password again</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T012020Z" creationid="Yifei Ding" creationdate="20190211T012020Z">
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023940Z" creationid="Yifei Ding" creationdate="20190211T023940Z">
         <seg>请再次输入您的密码</seg>
       </tuv>
     </tu>
@@ -152,7 +3352,7 @@
       <tuv lang="EN-US">
         <seg>Please enter your username</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T011954Z" creationid="Yifei Ding" creationdate="20190211T011954Z">
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023947Z" creationid="Yifei Ding" creationdate="20190211T023947Z">
         <seg>请输入您的用户名</seg>
       </tuv>
     </tu>
@@ -160,8 +3360,808 @@
       <tuv lang="EN-US">
         <seg>Please enter your username again</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T011910Z" creationid="Yifei Ding" creationdate="20190211T011910Z">
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024000Z" creationid="Yifei Ding" creationdate="20190211T024000Z">
         <seg>请再次输入您的用户名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please reboot for the update to take effect.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232948Z" creationid="Yifei Ding" creationdate="20190211T232943Z">
+        <seg>请重启以便更新生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please reboot the system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233934Z" creationid="Yifei Ding" creationdate="20190211T233934Z">
+        <seg>请重启系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please wait</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024017Z" creationid="Yifei Ding" creationdate="20190211T024017Z">
+        <seg>请等待</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plugin Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024040Z" creationid="Yifei Ding" creationdate="20190211T024040Z">
+        <seg>插件名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plugin installed successfully</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024055Z" creationid="Yifei Ding" creationdate="20190211T024055Z">
+        <seg>插件安装成功</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plugins</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024034Z" creationid="Yifei Ding" creationdate="20190211T024028Z">
+        <seg>插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024142Z" creationid="Yifei Ding" creationdate="20190211T024104Z">
+        <seg>存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pool Available Space Threshold (%)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055216Z" creationid="Yifei Ding" creationdate="20190211T055216Z">
+        <seg>存储池可用空间百分比 (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pool Manager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024150Z" creationid="Yifei Ding" creationdate="20190211T024150Z">
+        <seg>存储池管理器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pool Status</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024129Z" creationid="Yifei Ding" creationdate="20190211T024129Z">
+        <seg>存储池状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pool/Dataset</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024253Z" creationid="Yifei Ding" creationdate="20190211T024253Z">
+        <seg>存储池/数据集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pools</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024257Z" creationid="Yifei Ding" creationdate="20190211T024257Z">
+        <seg>存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pools &amp; Snapshots</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024314Z" creationid="Yifei Ding" creationdate="20190211T024314Z">
+        <seg>存储池和快照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power Management</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233720Z" creationid="Yifei Ding" creationdate="20190211T233720Z">
+        <seg>电源管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preferences</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T014050Z" creationid="Yifei Ding" creationdate="20190212T014050Z">
+        <seg>偏好</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062613Z" creationid="Yifei Ding" creationdate="20190211T062613Z">
+        <seg>上一步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Private Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231044Z" creationid="Yifei Ding" creationdate="20190211T231044Z">
+        <seg>私钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proceed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055314Z" creationid="Yifei Ding" creationdate="20190211T055314Z">
+        <seg>继续</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proceed with upgrading the pool?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055340Z" creationid="Yifei Ding" creationdate="20190211T055340Z">
+        <seg>继续并升级存储池？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proceed?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023433Z" creationid="Yifei Ding" creationdate="20190211T023433Z">
+        <seg>继续？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Processor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055400Z" creationid="Yifei Ding" creationdate="20190211T055400Z">
+        <seg>处理器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protocol</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055411Z" creationid="Yifei Ding" creationdate="20190211T055411Z">
+        <seg>协议</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Public IP address or hostname.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231159Z" creationid="Yifei Ding" creationdate="20190211T231159Z">
+        <seg>公网IP地址或域名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055431Z" creationid="Yifei Ding" creationdate="20190211T055431Z">
+        <seg>只读</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read Only Access</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055447Z" creationid="Yifei Ding" creationdate="20190211T055447Z">
+        <seg>只读权限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read-Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055449Z" creationid="Yifei Ding" creationdate="20190211T055449Z">
+        <seg>只读</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read-only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055450Z" creationid="Yifei Ding" creationdate="20190211T055450Z">
+        <seg>只读</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read/Write Access</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055501Z" creationid="Yifei Ding" creationdate="20190211T055501Z">
+        <seg>读/写权限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reboot After Update</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055515Z" creationid="Yifei Ding" creationdate="20190211T055515Z">
+        <seg>更新后重启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reboot now?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061914Z" creationid="Yifei Ding" creationdate="20190211T061914Z">
+        <seg>现在重启？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reconnect</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055535Z" creationid="Yifei Ding" creationdate="20190211T055535Z">
+        <seg>重新连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Release</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231313Z" creationid="Yifei Ding" creationdate="20190211T231313Z">
+        <seg>发行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Release Notes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231324Z" creationid="Yifei Ding" creationdate="20190211T231324Z">
+        <seg>发行备注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231345Z" creationid="Yifei Ding" creationdate="20190211T231345Z">
+        <seg>移除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Additional IPv4 Alias</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231411Z" creationid="Yifei Ding" creationdate="20190211T231411Z">
+        <seg>移除额外IPv4别名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Additional IPv6 Alias</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231420Z" creationid="Yifei Ding" creationdate="20190211T231420Z">
+        <seg>移除额外IPv6别名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Additional Path</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231434Z" creationid="Yifei Ding" creationdate="20190211T231434Z">
+        <seg>移除额外路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Report CPU usage in percentage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231458Z" creationid="Yifei Ding" creationdate="20190211T231458Z">
+        <seg>以百分比显示CPU使用率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231525Z" creationid="Yifei Ding" creationdate="20190211T231525Z">
+        <seg>必须。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requires &lt;b&gt;Allow guest access&lt;/b&gt; to also be set.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231703Z" creationid="Yifei Ding" creationdate="20190211T231703Z">
+        <seg>需要&lt;b&gt;Allow guest access&lt;/b&gt;也被设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requires &lt;i&gt;UEFI&lt;/i&gt; booting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224619Z" creationid="Yifei Ding" creationdate="20190212T224619Z">
+        <seg>要求&lt;i&gt;UEFI&lt;/i&gt;引导。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reserved space for this dataset</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231827Z" creationid="Yifei Ding" creationdate="20190211T231827Z">
+        <seg>此数据集的保留空间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reserved space for this dataset and all children</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231840Z" creationid="Yifei Ding" creationdate="20190211T231840Z">
+        <seg>此数据集及其子数据集的保留空间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset Config</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061055Z" creationid="Yifei Ding" creationdate="20190211T061055Z">
+        <seg>重置设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset font size to default value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061111Z" creationid="Yifei Ding" creationdate="20190211T061111Z">
+        <seg>重置字体大小到默认值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restart</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061128Z" creationid="Yifei Ding" creationdate="20190211T061128Z">
+        <seg>重启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restart Services</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061033Z" creationid="Yifei Ding" creationdate="20190211T061033Z">
+        <seg>重启服务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restart Web Service</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061040Z" creationid="Yifei Ding" creationdate="20190211T061040Z">
+        <seg>重启网络服务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restart the system?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061022Z" creationid="Yifei Ding" creationdate="20190211T061022Z">
+        <seg>重启系统？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restore default</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231855Z" creationid="Yifei Ding" creationdate="20190211T231855Z">
+        <seg>重置为默认</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Root Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061008Z" creationid="Yifei Ding" creationdate="20190211T061008Z">
+        <seg>Root密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Root password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061010Z" creationid="Yifei Ding" creationdate="20190211T061010Z">
+        <seg>Root密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run Now</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231905Z" creationid="Yifei Ding" creationdate="20190211T231905Z">
+        <seg>现在运行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SSH Public Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232114Z" creationid="Yifei Ding" creationdate="20190211T232114Z">
+        <seg>SSH公钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SSH Username.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232052Z" creationid="Yifei Ding" creationdate="20190211T232052Z">
+        <seg>SSH用户名.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SSH port number.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232057Z" creationid="Yifei Ding" creationdate="20190211T232057Z">
+        <seg>SSH端口号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060924Z" creationid="Yifei Ding" creationdate="20190211T060924Z">
+        <seg>保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save Config</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060928Z" creationid="Yifei Ding" creationdate="20190211T060928Z">
+        <seg>保存设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save Network Interface Changes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060944Z" creationid="Yifei Ding" creationdate="20190211T060944Z">
+        <seg>保存网络接口更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a keyboard layout.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232231Z" creationid="Yifei Ding" creationdate="20190211T232231Z">
+        <seg>选择键盘布局</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a pool or dataset</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231953Z" creationid="Yifei Ding" creationdate="20190211T231953Z">
+        <seg>选择一个存储池或数据集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a pool to import.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232012Z" creationid="Yifei Ding" creationdate="20190211T232004Z">
+        <seg>选择一个存储池来导入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Serial Number</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060921Z" creationid="Yifei Ding" creationdate="20190211T060921Z">
+        <seg>序列号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Serial Port</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055637Z" creationid="Yifei Ding" creationdate="20190211T055637Z">
+        <seg>串口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Serial Speed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055732Z" creationid="Yifei Ding" creationdate="20190211T055732Z">
+        <seg>波特率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Service failed to start</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055803Z" creationid="Yifei Ding" creationdate="20190211T055803Z">
+        <seg>服务启动失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Service failed to stop</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055807Z" creationid="Yifei Ding" creationdate="20190211T055807Z">
+        <seg>服务停止失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Service started</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055815Z" creationid="Yifei Ding" creationdate="20190211T055815Z">
+        <seg>服务启动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Services</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055819Z" creationid="Yifei Ding" creationdate="20190211T055819Z">
+        <seg>服务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set font size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232448Z" creationid="Yifei Ding" creationdate="20190211T232448Z">
+        <seg>设置字体大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the share name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232503Z" creationid="Yifei Ding" creationdate="20190211T232503Z">
+        <seg>设置共享名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Share Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T032239Z" creationid="Yifei Ding" creationdate="20190211T032239Z">
+        <seg>共享名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Share Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T032230Z" creationid="Yifei Ding" creationdate="20190211T032230Z">
+        <seg>共享类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sharing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T032215Z" creationid="Yifei Ding" creationdate="20190211T032215Z">
+        <seg>共享</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062454Z" creationid="Yifei Ding" creationdate="20190211T062454Z">
+        <seg>显示设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show/Hide Passwords</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232558Z" creationid="Yifei Ding" creationdate="20190211T232558Z">
+        <seg>显示/隐藏密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shut Down</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060801Z" creationid="Yifei Ding" creationdate="20190211T060801Z">
+        <seg>关机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shut down</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060802Z" creationid="Yifei Ding" creationdate="20190211T060802Z">
+        <seg>关机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shut down the system?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060809Z" creationid="Yifei Ding" creationdate="20190211T060809Z">
+        <seg>关闭系统？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shutdown Command</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060816Z" creationid="Yifei Ding" creationdate="20190211T060816Z">
+        <seg>关机命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shutdown Mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060822Z" creationid="Yifei Ding" creationdate="20190211T060822Z">
+        <seg>关机模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shutdown Timer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060829Z" creationid="Yifei Ding" creationdate="20190211T060829Z">
+        <seg>关机倒计时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sign in</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055903Z" creationid="Yifei Ding" creationdate="20190211T055903Z">
+        <seg>登录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Snapshots</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232722Z" creationid="Yifei Ding" creationdate="20190211T232722Z">
+        <seg>快照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055917Z" creationid="Yifei Ding" creationdate="20190211T055917Z">
+        <seg>启动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start on Boot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055937Z" creationid="Yifei Ding" creationdate="20190211T055937Z">
+        <seg>开机启动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>State</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055949Z" creationid="Yifei Ding" creationdate="20190211T055949Z">
+        <seg>状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Static IPv4 address of the IPMI web interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060023Z" creationid="Yifei Ding" creationdate="20190211T060023Z">
+        <seg>IPMI 网络接口静态IPv4地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Static Routes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232754Z" creationid="Yifei Ding" creationdate="20190211T232754Z">
+        <seg>静态路由</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Status</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060032Z" creationid="Yifei Ding" creationdate="20190211T060032Z">
+        <seg>状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060036Z" creationid="Yifei Ding" creationdate="20190211T060036Z">
+        <seg>停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop this service?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062335Z" creationid="Yifei Ding" creationdate="20190211T062335Z">
+        <seg>停止这个服务？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Storage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060042Z" creationid="Yifei Ding" creationdate="20190211T060042Z">
+        <seg>存储</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Success</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060057Z" creationid="Yifei Ding" creationdate="20190211T060057Z">
+        <seg>成功</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Successfully Upgraded</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060107Z" creationid="Yifei Ding" creationdate="20190211T060107Z">
+        <seg>升级成功</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Successfully updated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060131Z" creationid="Yifei Ding" creationdate="20190211T060131Z">
+        <seg>更新成功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Successfully upgraded plugin.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060145Z" creationid="Yifei Ding" creationdate="20190211T060145Z">
+        <seg>插件升级成功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swap size in GiB</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060225Z" creationid="Yifei Ding" creationdate="20190211T060225Z">
+        <seg>交换空间大小(GiB)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch to Legacy User Interface?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060253Z" creationid="Yifei Ding" creationdate="20190211T060253Z">
+        <seg>切换到经典用户界面？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sync</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060321Z" creationid="Yifei Ding" creationdate="20190211T060321Z">
+        <seg>同步</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,10 +4174,498 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>System Dataset</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062240Z" creationid="Yifei Ding" creationdate="20190211T062240Z">
+        <seg>系统数据集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System Dataset Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062246Z" creationid="Yifei Ding" creationdate="20190211T062246Z">
+        <seg>系统数据集池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System Info</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062251Z" creationid="Yifei Ding" creationdate="20190211T062251Z">
+        <seg>系统信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System Load</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062303Z" creationid="Yifei Ding" creationdate="20190211T062303Z">
+        <seg>系统负载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System Processes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062307Z" creationid="Yifei Ding" creationdate="20190211T062307Z">
+        <seg>系统进程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TCP Port</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060344Z" creationid="Yifei Ding" creationdate="20190211T060344Z">
+        <seg>TCP端口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TCP port</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060346Z" creationid="Yifei Ding" creationdate="20190211T060346Z">
+        <seg>TCP端口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tasks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060425Z" creationid="Yifei Ding" creationdate="20190211T060425Z">
+        <seg>任务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temperature</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060430Z" creationid="Yifei Ding" creationdate="20190211T060430Z">
+        <seg>温度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232131Z" creationid="Yifei Ding" creationdate="20190211T232131Z">
+        <seg>测试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The new password cannot contain a space or &lt;b&gt;#&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T180301Z" creationid="Yifei Ding" creationdate="20190212T180301Z">
+        <seg>新的密码不能包含空格或&lt;b&gt;#&lt;/b&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These options are case-sensitive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233629Z" creationid="Yifei Ding" creationdate="20190211T233629Z">
+        <seg>这些选项是大小写敏感的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the serial number of the disk.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232853Z" creationid="Yifei Ding" creationdate="20190211T232853Z">
+        <seg>磁盘的序列号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This overrides the default gateway provided by DHCP.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T173244Z" creationid="Yifei Ding" creationdate="20190211T173244Z">
+        <seg>覆盖DHCP分配的默认网关</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Timeout</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062159Z" creationid="Yifei Ding" creationdate="20190211T062159Z">
+        <seg>超时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Timezone</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062206Z" creationid="Yifei Ding" creationdate="20190211T062206Z">
+        <seg>时区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060456Z" creationid="Yifei Ding" creationdate="20190211T060456Z">
+        <seg>类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Until</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232920Z" creationid="Yifei Ding" creationdate="20190211T232920Z">
+        <seg>直到</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unused</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061801Z" creationid="Yifei Ding" creationdate="20190211T061801Z">
+        <seg>未使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061757Z" creationid="Yifei Ding" creationdate="20190211T061757Z">
+        <seg>更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061809Z" creationid="Yifei Ding" creationdate="20190211T061809Z">
+        <seg>更新文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update successful.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232952Z" creationid="Yifei Ding" creationdate="20190211T061902Z">
+        <seg>更新成功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updates Available</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T025859Z" creationid="Yifei Ding" creationdate="20190211T025859Z">
+        <seg>可用更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updates successfully downloaded</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061921Z" creationid="Yifei Ding" creationdate="20190211T061921Z">
+        <seg>更新下载成功</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upgrade</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T025904Z" creationid="Yifei Ding" creationdate="20190211T025904Z">
+        <seg>升级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upgrade Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T025911Z" creationid="Yifei Ding" creationdate="20190211T025911Z">
+        <seg>升级存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upgrade selected jails failed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062129Z" creationid="Yifei Ding" creationdate="20190211T061956Z">
+        <seg>升级选中的Jail失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upgrade selected jails started.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062123Z" creationid="Yifei Ding" creationdate="20190211T062006Z">
+        <seg>开始升级选中的Jail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upgrade selected jails succeeded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062112Z" creationid="Yifei Ding" creationdate="20190211T062051Z">
+        <seg>升级选中的Jail成功</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upgraded</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T025923Z" creationid="Yifei Ding" creationdate="20190211T025923Z">
+        <seg>已升级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upgrading Jail</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062106Z" creationid="Yifei Ding" creationdate="20190211T062106Z">
+        <seg>升级Jail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upgrading Plugin</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062136Z" creationid="Yifei Ding" creationdate="20190211T062136Z">
+        <seg>升级插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upload</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T025933Z" creationid="Yifei Ding" creationdate="20190211T025933Z">
+        <seg>上传</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upload Config</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062146Z" creationid="Yifei Ding" creationdate="20190211T062146Z">
+        <seg>上传设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Upload an installer image file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030002Z" creationid="Yifei Ding" creationdate="20190211T030002Z">
+        <seg>上传安装镜像文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uptime</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030042Z" creationid="Yifei Ding" creationdate="20190211T030042Z">
+        <seg>运行时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use DHCP.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030049Z" creationid="Yifei Ding" creationdate="20190211T030049Z">
+        <seg>使用DHCP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use all disk space</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030112Z" creationid="Yifei Ding" creationdate="20190211T030112Z">
+        <seg>使用所有的磁盘空间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030120Z" creationid="Yifei Ding" creationdate="20190211T030120Z">
+        <seg>用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Username</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030131Z" creationid="Yifei Ding" creationdate="20190211T030131Z">
+        <seg>用户名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Users</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Users &amp; Groups</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060545Z" creationid="Yifei Ding" creationdate="20190211T060545Z">
+        <seg>用户与群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VM Snapshot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061729Z" creationid="Yifei Ding" creationdate="20190211T061729Z">
+        <seg>虚拟机快照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verify passphrase</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061744Z" creationid="Yifei Ding" creationdate="20190211T061744Z">
+        <seg>确认密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030147Z" creationid="Yifei Ding" creationdate="20190211T030147Z">
+        <seg>版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Virtual CPUs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030202Z" creationid="Yifei Ding" creationdate="20190211T030202Z">
+        <seg>虚拟处理器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Virtual Machines</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030214Z" creationid="Yifei Ding" creationdate="20190211T030214Z">
+        <seg>虚拟机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Virtualization</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030219Z" creationid="Yifei Ding" creationdate="20190211T030219Z">
+        <seg>虚拟化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WARNING: Adding data vdevs with different numbers of disks is not recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060615Z" creationid="Yifei Ding" creationdate="20190211T060615Z">
+        <seg>警告： Adding data vdevs with different numbers of disks is not recommended.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WARNING: Exporting/disconnecting '</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060626Z" creationid="Yifei Ding" creationdate="20190211T060626Z">
+        <seg>警告：Exporting/disconnecting '</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WARNING: Upgrading a pool is a one-way operation that might make some features of the pool incompatible with older versions of FreeNAS:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055353Z" creationid="Yifei Ding" creationdate="20190211T055353Z">
+        <seg>警告: Upgrading a pool is a one-way operation that might make some features of the pool incompatible with older versions of FreeNAS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030235Z" creationid="Yifei Ding" creationdate="20190211T030235Z">
+        <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Web Interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030254Z" creationid="Yifei Ding" creationdate="20190211T030254Z">
+        <seg>网络界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wipe</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030306Z" creationid="Yifei Ding" creationdate="20190211T030306Z">
+        <seg>擦除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wipe Disk</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030311Z" creationid="Yifei Ding" creationdate="20190211T030311Z">
+        <seg>擦除磁盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wipe this disk?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030321Z" creationid="Yifei Ding" creationdate="20190211T030321Z">
+        <seg>擦除这个磁盘？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wiping Disk...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061721Z" creationid="Yifei Ding" creationdate="20190211T030335Z">
+        <seg>擦除磁盘中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workgroup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030339Z" creationid="Yifei Ding" creationdate="20190211T030339Z">
+        <seg>工作组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030409Z" creationid="Yifei Ding" creationdate="20190211T030409Z">
+        <seg>是</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZFS Filesystem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060717Z" creationid="Yifei Ding" creationdate="20190211T060717Z">
+        <seg>ZFS文件系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZFS Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060656Z" creationid="Yifei Ding" creationdate="20190211T060656Z">
+        <seg>ZFS存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>extra options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T014210Z" creationid="Yifei Ding" creationdate="20190212T014210Z">
+        <seg>额外选项</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
