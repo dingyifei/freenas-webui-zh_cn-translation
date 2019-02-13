@@ -1296,8 +1296,8 @@
       <tuv lang="EN-US">
         <seg>Default is UTF-8 which supports all characters in all languages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T074245Z" creationid="Yifei Ding" creationdate="20190213T074245Z">
-        <seg>默认UTF-8，支持所有语言的字符。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T074254Z" creationid="Yifei Ding" creationdate="20190213T074245Z">
+        <seg>默认使用UTF-8，支持所有语言的字符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1354,6 +1354,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T182415Z" creationid="Yifei Ding" creationdate="20190212T182415Z">
         <seg>删除Zvol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete selections</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T074500Z" creationid="Yifei Ding" creationdate="20190213T074500Z">
+        <seg>删除选中项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -1566,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not set this if the Serial Port is disabled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T074530Z" creationid="Yifei Ding" creationdate="20190213T074530Z">
+        <seg>如果串口被禁用，请不要设置这个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Docker VM successfully Created</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224145Z" creationid="Yifei Ding" creationdate="20190212T224145Z">
@@ -1682,6 +1698,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224326Z" creationid="Yifei Ding" creationdate="20190212T224326Z">
         <seg>编辑Zvol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing the following disks:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T074550Z" creationid="Yifei Ding" creationdate="20190213T074550Z">
+        <seg>修改以下磁盘：</seg>
       </tuv>
     </tu>
     <tu>
