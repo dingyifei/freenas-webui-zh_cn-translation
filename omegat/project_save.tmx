@@ -1262,9 +1262,33 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Day of Month</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T201933Z" creationid="Yifei Ding" creationdate="20190213T201933Z">
+        <seg>日期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Day of Week</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T201851Z" creationid="Yifei Ding" creationdate="20190213T201851Z">
+        <seg>星期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Day of week</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T201855Z" creationid="Yifei Ding" creationdate="20190213T201855Z">
+        <seg>星期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Days of the Week</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T201859Z" creationid="Yifei Ding" creationdate="20190213T201859Z">
         <seg>星期</seg>
       </tuv>
     </tu>
@@ -1378,6 +1402,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173000Z" creationid="Yifei Ding" creationdate="20190212T173000Z">
         <seg>删除挂载点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Recovery Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T201953Z" creationid="Yifei Ding" creationdate="20190213T201953Z">
+        <seg>删除恢复密钥</seg>
       </tuv>
     </tu>
     <tu>
