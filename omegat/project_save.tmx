@@ -134,6 +134,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;i&gt;0&lt;/i&gt; is unlimited.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T215502Z" creationid="Yifei Ding" creationdate="20190214T215502Z">
+        <seg>&lt;i&gt;0&lt;/i&gt;表示无限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;i&gt;AHCI&lt;/i&gt; emulates an AHCI hard disk for better software compatibility.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T215551Z" creationid="Yifei Ding" creationdate="20190214T215551Z">
+        <seg>&lt;i&gt;AHCI&lt;/i&gt;模拟一个AHCI硬盘，有更好的软件兼容性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>About</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004904Z" creationid="Yifei Ding" creationdate="20190212T004904Z">
