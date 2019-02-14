@@ -174,6 +174,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;i&gt;Intel e82545 (e1000)&lt;/i&gt; emulates an Intel Ethernet card.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T220629Z" creationid="Yifei Ding" creationdate="20190214T220629Z">
+        <seg>&lt;i&gt;Intel e82545 (e1000)&lt;/i&gt;模拟一个Intel有线网卡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;i&gt;VirtIO&lt;/i&gt; provides better performance when the operating system installed in the VM supports VirtIO paravirtualized network drivers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T221023Z" creationid="Yifei Ding" creationdate="20190214T221023Z">
+        <seg>&lt;i&gt;VirtIO&lt;/i&gt;在支持VirtIO Paravirtualized网络驱动的虚拟机操作系统里可以提高更好的性能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>About</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004904Z" creationid="Yifei Ding" creationdate="20190212T004904Z">
@@ -5146,6 +5162,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T173244Z" creationid="Yifei Ding" creationdate="20190211T173244Z">
         <seg>覆盖DHCP分配的默认网关</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This provides compatibility with most operating systems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T220645Z" creationid="Yifei Ding" creationdate="20190214T220645Z">
+        <seg>兼容大多数操作系统。</seg>
       </tuv>
     </tu>
     <tu>
