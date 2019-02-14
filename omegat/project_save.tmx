@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before exporting/disconnecting encrypted pools, download and safely store the recovery key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T214408Z" creationid="Yifei Ding" creationdate="20190214T214408Z">
+        <seg>导出/断开加密存储池前请下载保存恢复密钥。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Begin</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234202Z" creationid="Yifei Ding" creationdate="20190211T234202Z">
@@ -2818,6 +2826,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T232916Z" creationid="Yifei Ding" creationdate="20190212T232916Z">
         <seg>导出存储池中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exporting/disconnecting a pool makes the data unavailable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T214440Z" creationid="Yifei Ding" creationdate="20190214T214440Z">
+        <seg>导出/断开存储池会使数据不可用。</seg>
       </tuv>
     </tu>
     <tu>
