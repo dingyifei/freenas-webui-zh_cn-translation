@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;br&gt;&lt;b&gt;A jail without a default route will not be able to access the network without additional configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T222959Z" creationid="Yifei Ding" creationdate="20190214T222959Z">
+        <seg>&lt;br&gt;&lt;b&gt;一个没有默认路由的Jail在没有额外设置的情况下无法访问互联网。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;br&gt;Example: &lt;b&gt;vnet2|192.168.0.15/24&lt;/b&gt; &lt;br&gt;Multiple interface format: &lt;b&gt;[interface|]ip-address[/netmask],[interface|]ip-address[/netmask]&lt;/b&gt;.&lt;br&gt;Example: &lt;b&gt;192.168.0.10/24,vnet3|192.168.10.50&lt;/b&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060155Z" creationid="Yifei Ding" creationdate="20190212T060155Z">
@@ -290,6 +298,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T221023Z" creationid="Yifei Ding" creationdate="20190214T221023Z">
         <seg>&lt;i&gt;VirtIO&lt;/i&gt;在支持VirtIO Paravirtualized网络驱动的虚拟机操作系统里可以提高更好的性能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A pool with this name already exists.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T222814Z" creationid="Yifei Ding" creationdate="20190214T222814Z">
+        <seg>已存在使用此名称的存储池。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A valid IPv6 address to use as the default route.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T222904Z" creationid="Yifei Ding" creationdate="20190214T222904Z">
+        <seg>使用一个合法IPv6地址作为默认路由。</seg>
       </tuv>
     </tu>
     <tu>
