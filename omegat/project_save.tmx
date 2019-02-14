@@ -8,8 +8,16 @@
       <tuv lang="EN-US">
         <seg>% of all cores</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233223Z" creationid="Yifei Ding" creationdate="20190211T233223Z">
-        <seg>所有核心(%)</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T214105Z" creationid="Yifei Ding" creationdate="20190211T233223Z">
+        <seg>%所有核心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>' is encrypted!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T214147Z" creationid="Yifei Ding" creationdate="20190214T214147Z">
+        <seg>’已加密！</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234123Z" creationid="Yifei Ding" creationdate="20190211T234123Z">
         <seg>返回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Back up any critical data before exporting/disconnecting a pool.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T214043Z" creationid="Yifei Ding" creationdate="20190214T214043Z">
+        <seg>在导出/断开存储池前请备份重要数据。</seg>
       </tuv>
     </tu>
     <tu>
