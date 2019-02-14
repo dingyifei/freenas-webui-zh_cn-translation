@@ -150,6 +150,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;i&gt;Full with random data&lt;/i&gt; overwrites the entire disk with random binary data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T221346Z" creationid="Yifei Ding" creationdate="20190214T221335Z">
+        <seg>&lt;i&gt;使用随机数据填充&lt;/i&gt; 用随机二进制数据覆盖整个磁盘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;i&gt;Full with zeros&lt;/i&gt; overwrites the entire disk with zeros.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T221247Z" creationid="Yifei Ding" creationdate="20190214T221247Z">
+        <seg>&lt;i&gt;用0填充&lt;/i&gt;用0覆盖整个磁盘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;i&gt;HTTP+HTTPS&lt;/i&gt; allows both types of connections.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T220601Z" creationid="Yifei Ding" creationdate="20190214T220601Z">
@@ -192,16 +208,16 @@
       <tuv lang="EN-US">
         <seg>&lt;i&gt;Pull&lt;/i&gt; receives data from cloud storage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T221135Z" creationid="Yifei Ding" creationdate="20190214T221135Z">
-        <seg>&lt;i&gt;Pull&lt;/i&gt;从云存储拉取数据</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T221439Z" creationid="Yifei Ding" creationdate="20190214T221135Z">
+        <seg>&lt;i&gt;拉取&lt;/i&gt;从云存储拉取数据</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;i&gt;Push&lt;/i&gt; sends data to cloud storage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T221117Z" creationid="Yifei Ding" creationdate="20190214T221117Z">
-        <seg>&lt;i&gt;Push&lt;/i&gt;发送数据到云存储。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T221432Z" creationid="Yifei Ding" creationdate="20190214T221117Z">
+        <seg>&lt;i&gt;推送&lt;/i&gt;发送数据到云存储。</seg>
       </tuv>
     </tu>
     <tu>
@@ -210,6 +226,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T221213Z" creationid="Yifei Ding" creationdate="20190214T221213Z">
         <seg>&lt;i&gt;快速&lt;/i&gt;只擦除磁盘的分区信息，不删除其他旧的数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;i&gt;SYNC&lt;/i&gt; makes files on the destination system identical to those on the source.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T221446Z" creationid="Yifei Ding" creationdate="20190214T221420Z">
+        <seg>&lt;i&gt;同步&lt;/i&gt;使目标系统的文件和源的文件相同。</seg>
       </tuv>
     </tu>
     <tu>
