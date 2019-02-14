@@ -152,8 +152,8 @@
       <tuv lang="EN-US">
         <seg>&lt;i&gt;Disabled&lt;/i&gt; is     for networks where the entire path between sources and     destinations is trusted.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T222254Z" creationid="Yifei Ding" creationdate="20190214T222254Z">
-        <seg>&lt;i&gt;禁用&lt;/i&gt; is     for networks where the entire path between sources and     destinations is trusted.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T222645Z" creationid="Yifei Ding" creationdate="20190214T222254Z">
+        <seg>&lt;i&gt;禁用&lt;/i&gt;仅在从源到目标路径的网络可信时使用。</seg>
       </tuv>
     </tu>
     <tu>
