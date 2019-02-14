@@ -150,6 +150,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;i&gt;HTTP+HTTPS&lt;/i&gt; allows both types of connections.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T220601Z" creationid="Yifei Ding" creationdate="20190214T220601Z">
+        <seg>&lt;i&gt;HTTP+HTTPS&lt;/i&gt; 同时允许两种类型的连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;i&gt;HTTP&lt;/i&gt; will keep the connection unencrypted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T220529Z" creationid="Yifei Ding" creationdate="20190214T220516Z">
+        <seg>&lt;i&gt;HTTP&lt;/i&gt;会保持连接不加密。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;i&gt;HTTPS&lt;/i&gt; encrypts the connection.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T220542Z" creationid="Yifei Ding" creationdate="20190214T220542Z">
+        <seg>&lt;i&gt;HTTPS&lt;/i&gt;会加密连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>About</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004904Z" creationid="Yifei Ding" creationdate="20190212T004904Z">
