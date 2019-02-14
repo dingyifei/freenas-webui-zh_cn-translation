@@ -56,8 +56,8 @@
       <tuv lang="EN-US">
         <seg>: Automatic update check failed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T214748Z" creationid="Yifei Ding" creationdate="20190214T214748Z">
-        <seg>：自动更新检查失败</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T214758Z" creationid="Yifei Ding" creationdate="20190214T214748Z">
+        <seg>：自动更新检查失败。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +74,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T202422Z" creationid="Yifei Ding" creationdate="20190213T202422Z">
         <seg>&lt;b&gt;例子：&lt;/b&gt; &lt;i&gt;E4F4C6&lt;/i&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b&gt;Not recommended.&lt;/b&gt; Allow multiple groups to share the same group ID.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T215205Z" creationid="Yifei Ding" creationdate="20190214T215205Z">
+        <seg>&lt;b&gt;不推荐。&lt;/b&gt; 允许多个群组共享相同的群组ID。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3406,6 +3414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leave blank when using                   AWS.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T215022Z" creationid="Yifei Ding" creationdate="20190214T215022Z">
+        <seg>使用AWS时留空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leave empty to use the default gateway.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T171211Z" creationid="Yifei Ding" creationdate="20190213T171211Z">
@@ -4042,6 +4058,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023849Z" creationid="Yifei Ding" creationdate="20190211T023849Z">
         <seg>路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please check system network settings.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T214940Z" creationid="Yifei Ding" creationdate="20190214T214940Z">
+        <seg>请检查系统网络设置。</seg>
       </tuv>
     </tu>
     <tu>
