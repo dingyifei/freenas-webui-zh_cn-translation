@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All data on that pool was destroyed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T185424Z" creationid="Yifei Ding" creationdate="20190214T185424Z">
+        <seg>所有此存储池的数据已被销毁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow Empty Password</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004427Z" creationid="Yifei Ding" creationdate="20190212T004427Z">
