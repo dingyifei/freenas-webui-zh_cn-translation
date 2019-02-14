@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0=Disabled, blank=inherit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T214710Z" creationid="Yifei Ding" creationdate="20190214T214710Z">
+        <seg>0=禁用， 留空=继承</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>20 characters is the maximum length.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233307Z" creationid="Yifei Ding" creationdate="20190211T233307Z">
@@ -42,6 +50,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173605Z" creationid="Yifei Ding" creationdate="20190212T173605Z">
         <seg>25字符）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>: Automatic update check failed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T214748Z" creationid="Yifei Ding" creationdate="20190214T214748Z">
+        <seg>：自动更新检查失败</seg>
       </tuv>
     </tu>
     <tu>
