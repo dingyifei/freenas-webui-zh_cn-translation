@@ -86,6 +86,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b&gt;Root logins are discouraged.&lt;/b&gt; Set to allow root logins.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T215253Z" creationid="Yifei Ding" creationdate="20190214T215253Z">
+        <seg>&lt;b&gt;root登录是不推荐的。&lt;/b&gt; 设置以允许root登录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b&gt;WARNING:&lt;/b&gt; This configuration file contains system              passwords and other sensitive data.&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T215351Z" creationid="Yifei Ding" creationdate="20190214T215351Z">
+        <seg>&lt;b&gt;警告：&lt;/b&gt; 这个配置文件包含系统密码以及其他系统敏感信息。&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b&gt;Warning:&lt;/b&gt; Save and back up the encryption salt value.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T170804Z" creationid="Yifei Ding" creationdate="20190213T170804Z">
