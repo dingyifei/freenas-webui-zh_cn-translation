@@ -150,6 +150,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;i&gt;Disabled&lt;/i&gt; is     for networks where the entire path between sources and     destinations is trusted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T222254Z" creationid="Yifei Ding" creationdate="20190214T222254Z">
+        <seg>&lt;i&gt;禁用&lt;/i&gt; is     for networks where the entire path between sources and     destinations is trusted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;i&gt;Fast&lt;/i&gt; is less secure, but has better transfer rates for     devices with limited cryptographic speed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T222436Z" creationid="Yifei Ding" creationdate="20190214T222241Z">
+        <seg>&lt;i&gt;快速&lt;/i&gt;有更低的安全性，但是在有限加密能力的设备上有着更快的传输速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;i&gt;Full with random data&lt;/i&gt; overwrites the entire disk with random binary data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T221346Z" creationid="Yifei Ding" creationdate="20190214T221335Z">
@@ -190,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;i&gt;Insensitive&lt;/i&gt; assumes filenames are not case sensitive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T222133Z" creationid="Yifei Ding" creationdate="20190214T222133Z">
+        <seg>&lt;i&gt;不敏感&lt;/i&gt; assumes filenames are not case sensitive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;i&gt;Intel e82545 (e1000)&lt;/i&gt; emulates an Intel Ethernet card.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T220629Z" creationid="Yifei Ding" creationdate="20190214T220629Z">
@@ -202,6 +226,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T221054Z" creationid="Yifei Ding" creationdate="20190214T221054Z">
         <seg>&lt;i&gt;Intel e82545 (e1000)&lt;/i&gt;模拟一同型号Intel有线网卡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;i&gt;Mixed&lt;/b&gt; understands both types of filenames.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T222204Z" creationid="Yifei Ding" creationdate="20190214T222204Z">
+        <seg>&lt;i&gt;混合&lt;/b&gt; understands both types of filenames.</seg>
       </tuv>
     </tu>
     <tu>
@@ -234,6 +266,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T221446Z" creationid="Yifei Ding" creationdate="20190214T221420Z">
         <seg>&lt;i&gt;同步&lt;/i&gt;使目标系统的文件和源的文件相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;i&gt;Sensitive&lt;/i&gt; assumes filenames are case sensitive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T222122Z" creationid="Yifei Ding" creationdate="20190214T222122Z">
+        <seg>&lt;i&gt;敏感&lt;/i&gt; assumes filenames are case sensitive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;i&gt;Standard&lt;/i&gt; provides the best security.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T222218Z" creationid="Yifei Ding" creationdate="20190214T222218Z">
+        <seg>&lt;i&gt;标准&lt;/i&gt;提供最好的安全性。</seg>
       </tuv>
     </tu>
     <tu>
