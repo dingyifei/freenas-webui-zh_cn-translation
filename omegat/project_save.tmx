@@ -526,10 +526,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alert Services</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T223307Z" creationid="Yifei Ding" creationdate="20190214T223307Z">
+        <seg>警告服务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alert Settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T223314Z" creationid="Yifei Ding" creationdate="20190214T223314Z">
+        <seg>警告设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All data on that pool was destroyed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T185424Z" creationid="Yifei Ding" creationdate="20190214T185424Z">
         <seg>所有此存储池的数据已被销毁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow DNS updates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T223400Z" creationid="Yifei Ding" creationdate="20190214T223400Z">
+        <seg>允许DNS更新</seg>
       </tuv>
     </tu>
     <tu>
@@ -570,6 +594,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233904Z" creationid="Yifei Ding" creationdate="20190211T233904Z">
         <seg>允许TCP端口转发</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow non-root mount</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T223421Z" creationid="Yifei Ding" creationdate="20190214T223421Z">
+        <seg>允许非root挂载</seg>
       </tuv>
     </tu>
     <tu>
