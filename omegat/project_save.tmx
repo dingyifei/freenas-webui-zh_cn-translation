@@ -5318,6 +5318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The number of file transfers to run in parallel.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190215T181021Z" creationid="Yifei Ding" creationdate="20190215T181021Z">
+        <seg>文件传输的并行数量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These options are case-sensitive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233629Z" creationid="Yifei Ding" creationdate="20190211T233629Z">
