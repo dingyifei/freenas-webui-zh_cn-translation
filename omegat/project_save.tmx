@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;i&gt;Standard&lt;/i&gt; uses the sync settings that have been requested by the client software, &lt;i&gt;Always&lt;/i&gt; waits for data writes to complete, and &lt;i&gt;Disabled&lt;/i&gt; never waits for writes to complete.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190215T181703Z" creationid="Yifei Ding" creationdate="20190215T181703Z">
+        <seg>&lt;i&gt;标准&lt;/i&gt; 使用客户端发送的同步设置，&lt;i&gt;总是&lt;/i&gt; 等待数据写入完成， 和&lt;i&gt;禁用&lt;/i&gt;从不等待写入完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;i&gt;VirtIO&lt;/i&gt; provides better performance when the operating system installed in the VM supports VirtIO paravirtualized network drivers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T221023Z" creationid="Yifei Ding" creationdate="20190214T221023Z">
