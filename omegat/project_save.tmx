@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A swap size of 0 is STRONGLY DISCOURAGED.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190215T181944Z" creationid="Yifei Ding" creationdate="20190215T181944Z">
+        <seg>使用为0的swap大小是极不推荐的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A valid IPv6 address to use as the default route.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T222904Z" creationid="Yifei Ding" creationdate="20190214T222904Z">
