@@ -134,6 +134,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;br&gt;&lt;b&gt;Disable&lt;/b&gt;: The jail cannot perform any &lt;b&gt;sysvmsg&lt;/b&gt; related system calls.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T011610Z" creationid="Yifei Ding" creationdate="20190220T011610Z">
+        <seg>&lt;br&gt;&lt;b&gt;禁用&lt;/b&gt;: The jail cannot perform any &lt;b&gt;sysvmsg&lt;/b&gt; related system calls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;br&gt;&lt;b&gt;New&lt;/b&gt;: Only objects the jail creates using the private key namespace are visible.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T011558Z" creationid="Yifei Ding" creationdate="20190220T011558Z">
+        <seg>&lt;br&gt;&lt;b&gt;新&lt;/b&gt;: Only objects the jail creates using the private key namespace are visible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;br&gt;Example: &lt;b&gt;vnet2|192.168.0.15/24&lt;/b&gt; &lt;br&gt;Multiple interface format: &lt;b&gt;[interface|]ip-address[/netmask],[interface|]ip-address[/netmask]&lt;/b&gt;.&lt;br&gt;Example: &lt;b&gt;192.168.0.10/24,vnet3|192.168.10.50&lt;/b&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060155Z" creationid="Yifei Ding" creationdate="20190212T060155Z">
@@ -614,10 +630,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allow list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T011545Z" creationid="Yifei Ding" creationdate="20190220T011545Z">
+        <seg>允许列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow non-root mount</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T223421Z" creationid="Yifei Ding" creationdate="20190214T223421Z">
         <seg>允许非root挂载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow password authentication</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T011649Z" creationid="Yifei Ding" creationdate="20190220T011649Z">
+        <seg>允许密码验证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alternative names that SMB clients can use when                  connecting to this NAS.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T011745Z" creationid="Yifei Ding" creationdate="20190220T011745Z">
+        <seg>可以让SMB客户端连接到此NAS的替代名。</seg>
       </tuv>
     </tu>
     <tu>
