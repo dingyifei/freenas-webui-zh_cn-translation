@@ -662,6 +662,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Always Chroot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T011755Z" creationid="Yifei Ding" creationdate="20190220T011755Z">
+        <seg>总是Chroot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Always back up the key!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T011805Z" creationid="Yifei Ding" creationdate="20190220T011805Z">
+        <seg>总是备份密钥！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Amazon Web Services password.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T074119Z" creationid="Yifei Ding" creationdate="20190213T074119Z">
@@ -690,6 +706,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234003Z" creationid="Yifei Ding" creationdate="20190211T234003Z">
         <seg>匿名用户上传速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apple (AFP) Shares</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T011926Z" creationid="Yifei Ding" creationdate="20190220T011926Z">
+        <seg>苹果(AFP)共享</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Authorized Hosts and IP addresses</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T012044Z" creationid="Yifei Ding" creationdate="20190220T012044Z">
+        <seg>可靠的IP地址和域名</seg>
       </tuv>
     </tu>
     <tu>
@@ -3826,6 +3858,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024913Z" creationid="Yifei Ding" creationdate="20190211T024913Z">
         <seg>日志</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Losing the key will also lose all data on the disks with no chance of recovery.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T011847Z" creationid="Yifei Ding" creationdate="20190220T011847Z">
+        <seg>失去密钥会使在磁盘内的全部数据丢失并且不可恢复。</seg>
       </tuv>
     </tu>
     <tu>
