@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Authorized Networks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T012049Z" creationid="Yifei Ding" creationdate="20190220T012049Z">
+        <seg>可靠的网络</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto configure IPv6</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004324Z" creationid="Yifei Ding" creationdate="20190212T004324Z">
@@ -902,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Boot Loader Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T012126Z" creationid="Yifei Ding" creationdate="20190220T012126Z">
+        <seg>启动引导器类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Boot Method</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234254Z" creationid="Yifei Ding" creationdate="20190211T234254Z">
@@ -930,6 +946,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T174452Z" creationid="Yifei Ding" creationdate="20190212T174435Z">
         <seg>浏览操作系统安装镜像文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse to the pool or dataset to share.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T012201Z" creationid="Yifei Ding" creationdate="20190220T012201Z">
+        <seg>浏览存储池或数据集来共享。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse to the script location.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T012245Z" creationid="Yifei Ding" creationdate="20190220T012245Z">
+        <seg>浏览脚本位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1062,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change Device Order</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T012252Z" creationid="Yifei Ding" creationdate="20190220T012252Z">
+        <seg>修改设备顺序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change Passphrase</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234430Z" creationid="Yifei Ding" creationdate="20190211T234430Z">
@@ -1122,6 +1162,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T203023Z" creationid="Yifei Ding" creationdate="20190213T203023Z">
         <seg>切换到Nightly是单向的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check Interval</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T012315Z" creationid="Yifei Ding" creationdate="20190220T012315Z">
+        <seg>检查间隔</seg>
       </tuv>
     </tu>
     <tu>
