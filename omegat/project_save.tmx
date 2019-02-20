@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;i&gt;HTTPS&lt;/i&gt; must be selected in                  &lt;b&gt;Protocol&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T012508Z" creationid="Yifei Ding" creationdate="20190220T012508Z">
+        <seg>&lt;i&gt;HTTPS&lt;/i&gt;必须在&lt;b&gt;协议&lt;/b&gt;中被选中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;i&gt;Insensitive&lt;/i&gt; assumes filenames are not case sensitive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T222133Z" creationid="Yifei Ding" creationdate="20190214T222133Z">
@@ -758,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatically download an update if                                   one is available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T012355Z" creationid="Yifei Ding" creationdate="20190220T012355Z">
+        <seg>在一个更新可用时自动下载。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Available Disks</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234038Z" creationid="Yifei Ding" creationdate="20190211T234038Z">
@@ -1198,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check for Updates Daily and Download if Available</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T012337Z" creationid="Yifei Ding" creationdate="20190220T012337Z">
+        <seg>每天检查更新并在可用时下载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check the network connection</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003802Z" creationid="Yifei Ding" creationdate="20190212T003802Z">
@@ -1210,6 +1234,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003832Z" creationid="Yifei Ding" creationdate="20190212T003832Z">
         <seg>检查网络连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check this to redirect &lt;i&gt;HTTP&lt;/i&gt; connections to                  &lt;i&gt;HTTPS&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T012510Z" creationid="Yifei Ding" creationdate="20190220T012440Z">
+        <seg>选择此选项来重定向&lt;i&gt;HTTP&lt;/i&gt;连接到&lt;i&gt;HTTPS&lt;/i&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1250,6 +1282,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234546Z" creationid="Yifei Ding" creationdate="20190211T234546Z">
         <seg>选择颜色主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose a location to store the installer image file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T012621Z" creationid="Yifei Ding" creationdate="20190220T012621Z">
+        <seg>选择一个位置来保存安装镜像文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5482,6 +5522,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T043856Z" creationid="Yifei Ding" creationdate="20190213T043856Z">
         <seg>第三DNS服务器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can result in significant performance gains.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T012538Z" creationid="Yifei Ding" creationdate="20190220T012538Z">
+        <seg>这可以带来明显性能提升。</seg>
       </tuv>
     </tu>
     <tu>
