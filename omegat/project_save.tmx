@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;br&gt; &lt;b&gt;Disable&lt;/b&gt;: The jail cannot perform any &lt;b&gt;sysvmem&lt;/b&gt; related system calls.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T224935Z" creationid="Yifei Ding" creationdate="20190227T224935Z">
+        <seg>&lt;br&gt; &lt;b&gt;禁用&lt;/b&gt;: The jail cannot perform any &lt;b&gt;sysvmem&lt;/b&gt; related system calls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;br&gt;&lt;b&gt;A jail without a default route will not be able to access any networks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T203402Z" creationid="Yifei Ding" creationdate="20190227T203402Z">
@@ -146,6 +154,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T011610Z" creationid="Yifei Ding" creationdate="20190220T011610Z">
         <seg>&lt;br&gt;&lt;b&gt;禁用&lt;/b&gt;: The jail cannot perform any &lt;b&gt;sysvmsg&lt;/b&gt; related system calls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;br&gt;&lt;b&gt;Disable&lt;/b&gt;: The jail cannot perform any &lt;b&gt;sysvshm&lt;/b&gt; related system calls.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T224928Z" creationid="Yifei Ding" creationdate="20190227T224928Z">
+        <seg>&lt;br&gt;&lt;b&gt;禁用&lt;/b&gt;: The jail cannot perform any &lt;b&gt;sysvshm&lt;/b&gt; related system calls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;br&gt;&lt;b&gt;Inherit&lt;/b&gt;: All IPC objects on the system are visible to the jail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T224946Z" creationid="Yifei Ding" creationdate="20190227T224946Z">
+        <seg>&lt;br&gt;&lt;b&gt;继承&lt;/b&gt;: All IPC objects on the system are visible to the jail.</seg>
       </tuv>
     </tu>
     <tu>
@@ -770,6 +794,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233834Z" creationid="Yifei Ding" creationdate="20190211T233834Z">
         <seg>允许访客访问</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow Local User Login</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T224800Z" creationid="Yifei Ding" creationdate="20190227T224800Z">
+        <seg>允许本地用户登录</seg>
       </tuv>
     </tu>
     <tu>
