@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A randomized MAC address is normally assigned.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T203201Z" creationid="Yifei Ding" creationdate="20190227T203201Z">
+        <seg>已分配一个随机的MAC地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A swap size of 0 is STRONGLY DISCOURAGED.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190215T181944Z" creationid="Yifei Ding" creationdate="20190215T181944Z">
