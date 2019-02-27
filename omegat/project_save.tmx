@@ -190,6 +190,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;i&gt;Basic Authentication&lt;/i&gt; is unencrypted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T191213Z" creationid="Yifei Ding" creationdate="20190227T191213Z">
+        <seg>&lt;i&gt;基本鉴定&lt;/i&gt;是不加密的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;i&gt;COPY&lt;/i&gt; copies files from source to destination, skipping files that are identical, similar to &lt;i&gt;rsync&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T191336Z" creationid="Yifei Ding" creationdate="20190227T191336Z">
+        <seg>&lt;i&gt;拷贝&lt;/i&gt;从源地址拷贝文件到目标地址，略过相同的文件，类似于&lt;i&gt;rsync&lt;/i&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;i&gt;Digest Authentication&lt;/i&gt; is encrypted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T191232Z" creationid="Yifei Ding" creationdate="20190227T191232Z">
+        <seg>&lt;i&gt;Digest Authentication&lt;/i&gt;是加密的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;i&gt;Disabled&lt;/i&gt; is     for networks where the entire path between sources and     destinations is trusted.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T222645Z" creationid="Yifei Ding" creationdate="20190214T222254Z">
@@ -274,6 +298,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T221054Z" creationid="Yifei Ding" creationdate="20190214T221054Z">
         <seg>&lt;i&gt;Intel e82545 (e1000)&lt;/i&gt;模拟一同型号Intel有线网卡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;i&gt;MOVE&lt;/i&gt; copies files from source to destination, deleting files from the source after the copy, similar to &lt;i&gt;mv&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T203123Z" creationid="Yifei Ding" creationdate="20190227T203123Z">
+        <seg>&lt;i&gt;移动&lt;/i&gt; copies files from source to destination, deleting files from the source after the copy，类似于&lt;i&gt;mv&lt;/i&gt;.</seg>
       </tuv>
     </tu>
     <tu>
