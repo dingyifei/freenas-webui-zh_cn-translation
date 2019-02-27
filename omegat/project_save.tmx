@@ -598,10 +598,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adding search domains can cause slow DNS lookups.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T223335Z" creationid="Yifei Ding" creationdate="20190227T223335Z">
+        <seg>添加搜索域会拖慢DNS查询。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additional Domains</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T223223Z" creationid="Yifei Ding" creationdate="20190227T223223Z">
+        <seg>额外域名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Address</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233708Z" creationid="Yifei Ding" creationdate="20190211T233708Z">
         <seg>地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adjust the file permissions using the checkboxes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T223404Z" creationid="Yifei Ding" creationdate="20190227T223404Z">
+        <seg>使用Checkboxes来修改文件权限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,6 +674,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233735Z" creationid="Yifei Ding" creationdate="20190211T233735Z">
         <seg>高级电源管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After entering the &lt;b&gt;Hostname, Username&lt;/b&gt;, and &lt;b&gt;Password&lt;/b&gt;, click &lt;b&gt;Fetch Datastores&lt;/b&gt; and select the datastore to be synchronized.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T223608Z" creationid="Yifei Ding" creationdate="20190227T223608Z">
+        <seg>在输入&lt;b&gt;域名，用户名&lt;/b&gt;，和&lt;b&gt;密码&lt;/b&gt;后，点击&lt;b&gt;Fetch Datastores&lt;/b&gt; and select the datastore to be synchronized.</seg>
       </tuv>
     </tu>
     <tu>
