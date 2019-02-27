@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allocate a number of megabytes of RAM for the VM.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T224627Z" creationid="Yifei Ding" creationdate="20190227T224627Z">
+        <seg>分配虚拟机内存容量（MiB）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow Anonymous Login</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T224449Z" creationid="Yifei Ding" creationdate="20190227T224449Z">
