@@ -6088,8 +6088,8 @@
       <tuv lang="EN-US">
         <seg>When the Guest Account user is deleted it resets to nobody.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T213957Z" creationid="Yifei Ding" creationdate="20190227T213957Z">
-        <seg>当访客账户被删除，自动重制为nobody</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T214003Z" creationid="Yifei Ding" creationdate="20190227T213957Z">
+        <seg>当访客账户被删除，自动重制为nobody。</seg>
       </tuv>
     </tu>
     <tu>
