@@ -726,6 +726,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allocate a number of gigabytes of space for the new zvol.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T224348Z" creationid="Yifei Ding" creationdate="20190227T224348Z">
+        <seg>分配新的zvol容量（GiB）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow Anonymous Login</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T224449Z" creationid="Yifei Ding" creationdate="20190227T224449Z">
+        <seg>允许匿名登录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow DNS updates</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T223400Z" creationid="Yifei Ding" creationdate="20190214T223400Z">
