@@ -582,6 +582,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add one or more disks to be used for data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T223205Z" creationid="Yifei Ding" creationdate="20190227T223205Z">
+        <seg>添加一个或多个用于数据存储的磁盘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add one or more disks to extend the pool.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T223138Z" creationid="Yifei Ding" creationdate="20190227T223138Z">
+        <seg>添加一个或多个磁盘来扩展存储池。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Address</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233708Z" creationid="Yifei Ding" creationdate="20190211T233708Z">
