@@ -440,16 +440,32 @@
       <tuv lang="EN-US">
         <seg>Account</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>用户</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T213320Z">
+        <seg>账户</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Account Name</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004652Z" creationid="Yifei Ding" creationdate="20190212T004636Z">
-        <seg>用户名</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T213328Z" creationid="Yifei Ding" creationdate="20190212T004636Z">
+        <seg>账户名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Account is required to have permissions to the shared pool or dataset.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T213425Z" creationid="Yifei Ding" creationdate="20190227T213425Z">
+        <seg>账户必须有权限来共享存储池或数据集。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Account to be used for guest access.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T213351Z" creationid="Yifei Ding" creationdate="20190227T213351Z">
+        <seg>用于访客访问的账户。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6066,6 +6082,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T045126Z" creationid="Yifei Ding" creationdate="20190213T045126Z">
         <seg>Webdav SSL证书</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the Guest Account user is deleted it resets to nobody.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T213957Z" creationid="Yifei Ding" creationdate="20190227T213957Z">
+        <seg>当访客账户被删除，自动重制为nobody</seg>
       </tuv>
     </tu>
     <tu>
