@@ -3446,6 +3446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example: all users with a group ID of &lt;i&gt;1&lt;/i&gt; will inherit the authentication profile associated with Group &lt;i&gt;1&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T225123Z" creationid="Yifei Ding" creationdate="20190227T225123Z">
+        <seg>例子：all users with a group ID of &lt;i&gt;1&lt;/i&gt; will inherit the authentication profile associated with Group &lt;i&gt;1&lt;/i&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Export Certificate</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T194338Z" creationid="Yifei Ding" creationdate="20190211T194338Z">
