@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;font color="red"&gt;WARNING&lt;/font&gt;: use &lt;i&gt;rid&lt;/i&gt; or             &lt;i&gt;autorid&lt;/i&gt; for networks with only Windows computers,             like most home networks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T191136Z" creationid="Yifei Ding" creationdate="20190227T191136Z">
+        <seg>&lt;font color="red"&gt;警告&lt;/font&gt;：使用&lt;i&gt;rid&lt;/i&gt;或&lt;i&gt;autorid&lt;/i&gt; for networks with only Windows computers,             like most home networks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;i&gt;0&lt;/i&gt; is unlimited.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T215502Z" creationid="Yifei Ding" creationdate="20190214T215502Z">
