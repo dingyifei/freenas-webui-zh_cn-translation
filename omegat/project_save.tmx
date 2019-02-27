@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;br&gt;&lt;b&gt;A jail without a default route will not be able to access any networks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T203402Z" creationid="Yifei Ding" creationdate="20190227T203402Z">
+        <seg>&lt;br&gt;&lt;b&gt;一个没有默认路由的Jail不能访问任何网络。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;br&gt;&lt;b&gt;A jail without a default route will not be able to access the network without additional configuration.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T222959Z" creationid="Yifei Ding" creationdate="20190214T222959Z">
@@ -402,6 +410,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190215T181944Z" creationid="Yifei Ding" creationdate="20190215T181944Z">
         <seg>使用为0的swap大小是极不推荐的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A valid IPv4 address to use as the default route.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T203250Z" creationid="Yifei Ding" creationdate="20190227T203250Z">
+        <seg>一个用于默认路由的合法IPV4地址。</seg>
       </tuv>
     </tu>
     <tu>
