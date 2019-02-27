@@ -718,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allocate a number of gigabytes (GiB) to the new raw file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T224254Z" creationid="Yifei Ding" creationdate="20190227T224254Z">
+        <seg>分配新的Raw文件容量（GiB)）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow DNS updates</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T223400Z" creationid="Yifei Ding" creationdate="20190214T223400Z">
