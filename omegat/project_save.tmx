@@ -688,8 +688,16 @@
       <tuv lang="EN-US">
         <seg>Add any more &lt;a href="https://www.freebsd.org/cgi/man.cgi?query=sshd_config" target="_blank"&gt;sshd_config(5)&lt;/a&gt; options not covered in this screen.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T223021Z" creationid="Yifei Ding" creationdate="20190228T223021Z">
-        <seg>添加更多&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=sshd_config" target="_blank"&gt;sshd_config(5)&lt;/a&gt;不被此页包含的配置。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T223041Z" creationid="Yifei Ding" creationdate="20190228T223021Z">
+        <seg>添加更多&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=sshd_config" target="_blank"&gt;sshd_config(5)&lt;/a&gt;不被此页包含的选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add one option on each line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T223325Z" creationid="Yifei Ding" creationdate="20190228T223325Z">
+        <seg>每行添加一个选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -706,6 +714,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T223138Z" creationid="Yifei Ding" creationdate="20190227T223138Z">
         <seg>添加一个或多个磁盘来扩展存储池。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add this user to additional groups.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T223339Z" creationid="Yifei Ding" creationdate="20190228T223339Z">
+        <seg>添加这个用户到额外的群组。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4394,6 +4410,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023319Z" creationid="Yifei Ding" creationdate="20190211T023319Z">
         <seg>镜像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Misspellings can prevent the SSH service from starting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T223120Z" creationid="Yifei Ding" creationdate="20190228T223120Z">
+        <seg>错误的拼写会造成SSH服务启动被阻止。</seg>
       </tuv>
     </tu>
     <tu>
