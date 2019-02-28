@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adapter Type:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T222747Z" creationid="Yifei Ding" creationdate="20190228T222739Z">
+        <seg>适配器类型：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add Additional IPv4 Alias</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233504Z" creationid="Yifei Ding" creationdate="20190211T233504Z">
@@ -622,10 +630,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add Log</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T222754Z" creationid="Yifei Ding" creationdate="20190228T222754Z">
+        <seg>添加日志</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add Recovery Key</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T223059Z" creationid="Yifei Ding" creationdate="20190214T223059Z">
         <seg>添加恢复密钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add Spare</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T222804Z" creationid="Yifei Ding" creationdate="20190228T222804Z">
+        <seg>添加Spare</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,6 +674,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233604Z" creationid="Yifei Ding" creationdate="20190211T233604Z">
         <seg>给新的快照添加一个名字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add an &lt;a href="%%docurl%%/system.html%%webversion%%#certificates" target="_blank"&gt;SSL certificate&lt;/a&gt; to be used for secure S3 connections.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T222925Z" creationid="Yifei Ding" creationdate="20190228T222925Z">
+        <seg>添加一个用于S3安全连接的&lt;a href="%%docurl%%/system.html%%webversion%%#certificates" target="_blank"&gt;SSL证书&lt;/a&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add any more &lt;a href="https://www.freebsd.org/cgi/man.cgi?query=sshd_config" target="_blank"&gt;sshd_config(5)&lt;/a&gt; options not covered in this screen.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T223021Z" creationid="Yifei Ding" creationdate="20190228T223021Z">
+        <seg>添加更多&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=sshd_config" target="_blank"&gt;sshd_config(5)&lt;/a&gt;不被此页包含的配置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3114,6 +3154,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T181153Z" creationid="Yifei Ding" creationdate="20190211T181153Z">
         <seg>输入Jail的注释。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter one option per line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T223034Z" creationid="Yifei Ding" creationdate="20190228T223034Z">
+        <seg>每行输入一个选项。</seg>
       </tuv>
     </tu>
     <tu>
