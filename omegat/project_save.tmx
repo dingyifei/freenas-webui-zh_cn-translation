@@ -144,8 +144,8 @@
       <tuv lang="EN-US">
         <seg>&lt;br&gt;&lt;b&gt;A jail without a default route will not be able to access any networks.&lt;/b&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T221643Z" creationid="Yifei Ding" creationdate="20190228T221643Z">
-        <seg>&lt;br&gt;&lt;b&gt;一个没有默认路由的Jail不能访问任何网络。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T222030Z" creationid="Yifei Ding" creationdate="20190228T221643Z">
+        <seg>&lt;br&gt;&lt;b&gt;一个没有默认路由的Jail不能访问任何网络。&lt;/b&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -202,6 +202,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T221610Z" creationid="Yifei Ding" creationdate="20190228T221610Z">
         <seg>&lt;br&gt;输入 &lt;b&gt;none&lt;/b&gt; 以配置无IPv4默认路由的Jail。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;br&gt;Enter &lt;b&gt;none&lt;/b&gt; to configure the jail without an IPv6 default route.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T222238Z" creationid="Yifei Ding" creationdate="20190228T222238Z">
+        <seg>&lt;br&gt;输入&lt;b&gt;none&lt;/b&gt; 以配置无IPv6默认路由的Jail。</seg>
       </tuv>
     </tu>
     <tu>
