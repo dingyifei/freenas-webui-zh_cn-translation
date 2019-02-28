@@ -224,8 +224,8 @@
       <tuv lang="EN-US">
         <seg>&lt;i&gt;AHCI&lt;/i&gt; emulates an AHCI hard disk for better software compatibility.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T215551Z" creationid="Yifei Ding" creationdate="20190214T215551Z">
-        <seg>&lt;i&gt;AHCI&lt;/i&gt;模拟一个AHCI硬盘，有更好的软件兼容性。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T213140Z" creationid="Yifei Ding" creationdate="20190214T215551Z">
+        <seg>&lt;i&gt;AHCI&lt;/i&gt;模拟一个AHCI硬盘有着更好的软件兼容性。</seg>
       </tuv>
     </tu>
     <tu>
