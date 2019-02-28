@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adapter Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T222733Z" creationid="Yifei Ding" creationdate="20190228T222733Z">
+        <seg>适配器类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add Additional IPv4 Alias</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233504Z" creationid="Yifei Ding" creationdate="20190211T233504Z">
