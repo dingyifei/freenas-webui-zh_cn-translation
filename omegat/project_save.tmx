@@ -224,8 +224,8 @@
       <tuv lang="EN-US">
         <seg>&lt;i&gt;AHCI&lt;/i&gt; emulates an AHCI hard disk for better software compatibility.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T213140Z" creationid="Yifei Ding" creationdate="20190214T215551Z">
-        <seg>&lt;i&gt;AHCI&lt;/i&gt;模拟一个AHCI硬盘有着更好的软件兼容性。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T221009Z" creationid="Yifei Ding" creationdate="20190214T215551Z">
+        <seg>&lt;i&gt;AHCI&lt;/i&gt;模拟一个AHCI硬盘以获得更好的软件兼容性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3562,6 +3562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T203852Z" creationid="Yifei Ding" creationdate="20190213T203852Z">
         <seg>文件名加密</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Files that have been removed from the source are removed from the destination, similar to &lt;i&gt;rsync --delete&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T221119Z" creationid="Yifei Ding" creationdate="20190228T221119Z">
+        <seg>从源地址中删除的文件也将会从目标地址中删除，类似于&lt;i&gt;rsync --delete&lt;/i&gt;.</seg>
       </tuv>
     </tu>
     <tu>
