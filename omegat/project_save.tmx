@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;br&gt;Enter &lt;b&gt;none&lt;/b&gt; to configure the jail with no IPv4 default route.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T221610Z" creationid="Yifei Ding" creationdate="20190228T221610Z">
+        <seg>&lt;br&gt;输入 &lt;b&gt;none&lt;/b&gt; 以配置无IPv4默认路由的Jail。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;br&gt;Example: &lt;b&gt;vnet2|192.168.0.15/24&lt;/b&gt; &lt;br&gt;Multiple interface format: &lt;b&gt;[interface|]ip-address[/netmask],[interface|]ip-address[/netmask]&lt;/b&gt;.&lt;br&gt;Example: &lt;b&gt;192.168.0.10/24,vnet3|192.168.10.50&lt;/b&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060155Z" creationid="Yifei Ding" creationdate="20190212T060155Z">
@@ -2998,6 +3006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter a value here to set a specific MAC address.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T221427Z" creationid="Yifei Ding" creationdate="20190228T221427Z">
+        <seg>输入一个指定的MAC地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter accounts that have administrative access.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T172949Z" creationid="Yifei Ding" creationdate="20190211T172949Z">
@@ -5794,6 +5810,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T220645Z" creationid="Yifei Ding" creationdate="20190214T220645Z">
         <seg>兼容大多数操作系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This user must                  already exist on the FTP Host.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T221516Z" creationid="Yifei Ding" creationdate="20190228T221516Z">
+        <seg>这个用户必须存在于FTP主机上。.</seg>
       </tuv>
     </tu>
     <tu>
