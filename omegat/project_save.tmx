@@ -1702,6 +1702,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose an authentication method.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T160836Z" creationid="Yifei Ding" creationdate="20190301T160836Z">
+        <seg>选择一个验证模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose an encryption mode to use with LDAP.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T160858Z" creationid="Yifei Ding" creationdate="20190301T160858Z">
+        <seg>选择一个用于LDAP的加密模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose an encryption mode.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T005310Z" creationid="Yifei Ding" creationdate="20190212T005310Z">
