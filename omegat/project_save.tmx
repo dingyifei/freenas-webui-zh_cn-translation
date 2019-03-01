@@ -4198,10 +4198,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Init/Shutdown Scripts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T223910Z" creationid="Yifei Ding" creationdate="20190301T223910Z">
+        <seg>启动/关机脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Install</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061335Z" creationid="Yifei Ding" creationdate="20190211T061335Z">
         <seg>安装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Install Manual Update File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T223845Z" creationid="Yifei Ding" creationdate="20190301T223845Z">
+        <seg>安装手动更新文件</seg>
       </tuv>
     </tu>
     <tu>
