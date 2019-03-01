@@ -958,10 +958,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allow Execute Always</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T054521Z" creationid="Yifei Ding" creationdate="20190301T054521Z">
+        <seg>总是允许运行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow Guest Access</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233834Z" creationid="Yifei Ding" creationdate="20190211T233834Z">
         <seg>允许访客访问</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow Kerberos authentication</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T054535Z" creationid="Yifei Ding" creationdate="20190301T054535Z">
+        <seg>允许Kerberos验证</seg>
       </tuv>
     </tu>
     <tu>
@@ -994,6 +1010,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233904Z" creationid="Yifei Ding" creationdate="20190211T233904Z">
         <seg>允许TCP端口转发</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow Trusted Domains</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T054548Z" creationid="Yifei Ding" creationdate="20190301T054548Z">
+        <seg>允许可信域名</seg>
       </tuv>
     </tu>
     <tu>
