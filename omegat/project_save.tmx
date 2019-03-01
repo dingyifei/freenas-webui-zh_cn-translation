@@ -1062,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allow repeated GIDs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T234520Z" creationid="Yifei Ding" creationdate="20190301T234520Z">
+        <seg>允许重复GIDs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alternative names that SMB clients can use when                  connecting to this NAS.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T011745Z" creationid="Yifei Ding" creationdate="20190220T011745Z">
@@ -1222,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Backblaze B2 Application Key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T234641Z" creationid="Yifei Ding" creationdate="20190301T234641Z">
+        <seg>Backblaze B2应用密钥。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bandwidth Limit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234136Z" creationid="Yifei Ding" creationdate="20190211T234136Z">
@@ -1354,6 +1370,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234310Z" creationid="Yifei Ding" creationdate="20190211T234310Z">
         <seg>启动池状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T234738Z" creationid="Yifei Ding" creationdate="20190301T234738Z">
+        <seg>浏览</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse to a CD-ROM file present on the system storage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T234807Z" creationid="Yifei Ding" creationdate="20190301T234807Z">
+        <seg>浏览一个在系统存储上的CD-ROM文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1778,6 +1810,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234905Z" creationid="Yifei Ding" creationdate="20190211T234905Z">
         <seg>选择你的语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Edit to configure                  that backend</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T234711Z" creationid="Yifei Ding" creationdate="20190301T234711Z">
+        <seg>点击编辑来配置后端</seg>
       </tuv>
     </tu>
     <tu>
@@ -4882,6 +4922,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013738Z" creationid="Yifei Ding" creationdate="20190212T013738Z">
         <seg>备注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now let's explore FreeNAS's cool features.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T234631Z" creationid="Yifei Ding" creationdate="20190301T234631Z">
+        <seg>现在一起来探索Freenas的新特性吧。</seg>
       </tuv>
     </tu>
     <tu>
