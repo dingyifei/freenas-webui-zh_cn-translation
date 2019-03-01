@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;br&gt; &lt;b&gt;Inherit&lt;/b&gt;: All IPC objects on the system are visible to the jail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T234057Z" creationid="Yifei Ding" creationdate="20190301T234057Z">
+        <seg>&lt;br&gt; &lt;b&gt;继承&lt;/b&gt;：所有系统的IPC对象对Jail可见。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;br&gt;&lt;b&gt;A jail without a default route will not be able to access any networks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T203402Z" creationid="Yifei Ding" creationdate="20190227T203402Z">
@@ -200,8 +208,8 @@
       <tuv lang="EN-US">
         <seg>&lt;br&gt;&lt;b&gt;New&lt;/b&gt;: Only objects the jail creates using the private key namespace are visible.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T011558Z" creationid="Yifei Ding" creationdate="20190220T011558Z">
-        <seg>&lt;br&gt;&lt;b&gt;新&lt;/b&gt;: Only objects the jail creates using the private key namespace are visible.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T234231Z" creationid="Yifei Ding" creationdate="20190220T011558Z">
+        <seg>&lt;br&gt;&lt;b&gt;新&lt;/b&gt;：只有被Jail使用私有Key Namespace 创建的对象为可见。</seg>
       </tuv>
     </tu>
     <tu>
