@@ -1606,10 +1606,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changing back to a stable train is not supported!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T235111Z" creationid="Yifei Ding" creationdate="20190301T235052Z">
+        <seg>改回到稳定分支是不被支持的！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changing to a nightly train is one-way.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T203023Z" creationid="Yifei Ding" creationdate="20190213T203023Z">
-        <seg>切换到Nightly是单向的。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T235057Z" creationid="Yifei Ding" creationdate="20190213T203023Z">
+        <seg>切换到Nightly分支是单向的。</seg>
       </tuv>
     </tu>
     <tu>
