@@ -1822,6 +1822,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;b&gt;Browse&lt;/b&gt; to select a recovery key to upload.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T235210Z" creationid="Yifei Ding" creationdate="20190301T235210Z">
+        <seg>点击&lt;b&gt;浏览&lt;/b&gt;以选择一个恢复密钥来上传。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click &lt;b&gt;Browse&lt;/b&gt; to select an encryption key to upload.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T235238Z" creationid="Yifei Ding" creationdate="20190301T235238Z">
+        <seg>点击&lt;b&gt;浏览&lt;/b&gt;以选择一个加密密钥来上传。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Edit to configure                  that backend</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T234711Z" creationid="Yifei Ding" creationdate="20190301T234711Z">
@@ -3290,6 +3306,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T230003Z" creationid="Yifei Ding" creationdate="20190212T230003Z">
         <seg>输入一个静态IPv6地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a threshold temperature in Celsius.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T235408Z" creationid="Yifei Ding" creationdate="20190301T235408Z">
+        <seg>输入一个以摄氏度为单位的阈值温度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6202,6 +6226,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T043856Z" creationid="Yifei Ding" creationdate="20190213T043856Z">
         <seg>第三DNS服务器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This allows the system to decrypt the disks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T235227Z" creationid="Yifei Ding" creationdate="20190301T235227Z">
+        <seg>这允许系统解密磁盘。</seg>
       </tuv>
     </tu>
     <tu>
