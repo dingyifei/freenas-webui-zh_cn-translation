@@ -136,8 +136,8 @@
       <tuv lang="EN-US">
         <seg>&lt;br&gt; &lt;b&gt;Disable&lt;/b&gt;: The jail cannot perform any &lt;b&gt;sysvmem&lt;/b&gt; related system calls.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T224935Z" creationid="Yifei Ding" creationdate="20190227T224935Z">
-        <seg>&lt;br&gt; &lt;b&gt;禁用&lt;/b&gt;: The jail cannot perform any &lt;b&gt;sysvmem&lt;/b&gt; related system calls.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T234427Z" creationid="Yifei Ding" creationdate="20190227T224935Z">
+        <seg>&lt;br&gt; &lt;b&gt;禁用&lt;/b&gt;：Jail 不能进行任何&lt;b&gt;sysvmem&lt;/b&gt;相关系统调用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -184,32 +184,32 @@
       <tuv lang="EN-US">
         <seg>&lt;br&gt;&lt;b&gt;Disable&lt;/b&gt;: The jail cannot perform any &lt;b&gt;sysvmsg&lt;/b&gt; related system calls.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T011610Z" creationid="Yifei Ding" creationdate="20190220T011610Z">
-        <seg>&lt;br&gt;&lt;b&gt;禁用&lt;/b&gt;: The jail cannot perform any &lt;b&gt;sysvmsg&lt;/b&gt; related system calls.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T234342Z" creationid="Yifei Ding" creationdate="20190220T011610Z">
+        <seg>&lt;br&gt;&lt;b&gt;禁用&lt;/b&gt;：Jail 不能进行任何&lt;b&gt;sysvmsg&lt;/b&gt;相关系统调用。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;br&gt;&lt;b&gt;Disable&lt;/b&gt;: The jail cannot perform any &lt;b&gt;sysvshm&lt;/b&gt; related system calls.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T224928Z" creationid="Yifei Ding" creationdate="20190227T224928Z">
-        <seg>&lt;br&gt;&lt;b&gt;禁用&lt;/b&gt;: The jail cannot perform any &lt;b&gt;sysvshm&lt;/b&gt; related system calls.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T234505Z" creationid="Yifei Ding" creationdate="20190227T224928Z">
+        <seg>&lt;br&gt;&lt;b&gt;禁用&lt;/b&gt;：Jail 不能进行任何&lt;b&gt;sysvshm&lt;/b&gt;相关系统调用。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;br&gt;&lt;b&gt;Inherit&lt;/b&gt;: All IPC objects on the system are visible to the jail.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T224946Z" creationid="Yifei Ding" creationdate="20190227T224946Z">
-        <seg>&lt;br&gt;&lt;b&gt;继承&lt;/b&gt;: All IPC objects on the system are visible to the jail.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T234451Z" creationid="Yifei Ding" creationdate="20190227T224946Z">
+        <seg>&lt;br&gt;&lt;b&gt;继承&lt;/b&gt;：所有系统的IPC对象对Jail可见。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;br&gt;&lt;b&gt;New&lt;/b&gt;: Only objects the jail creates using the private key namespace are visible.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T234231Z" creationid="Yifei Ding" creationdate="20190220T011558Z">
-        <seg>&lt;br&gt;&lt;b&gt;新&lt;/b&gt;：只有被Jail使用私有Key Namespace 创建的对象为可见。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T234308Z" creationid="Yifei Ding" creationdate="20190220T011558Z">
+        <seg>&lt;br&gt;&lt;b&gt;新&lt;/b&gt;：只有被Jail使用私有密钥命名空间创建的对象为可见。</seg>
       </tuv>
     </tu>
     <tu>
