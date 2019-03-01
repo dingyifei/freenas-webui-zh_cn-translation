@@ -494,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AD Timeout</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T054041Z" creationid="Yifei Ding" creationdate="20190301T054041Z">
+        <seg>AD超时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>About</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004904Z" creationid="Yifei Ding" creationdate="20190212T004904Z">
@@ -690,6 +698,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T223041Z" creationid="Yifei Ding" creationdate="20190228T223021Z">
         <seg>添加更多&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=sshd_config" target="_blank"&gt;sshd_config(5)&lt;/a&gt;不被此页包含的选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add more options from &lt;a href="https://www.freebsd.org/cgi/man.cgi?query=tftpd" target="_blank"&gt;tftpd(8)&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T054210Z" creationid="Yifei Ding" creationdate="20190301T054210Z">
+        <seg>从&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=tftpd" target="_blank"&gt;tftpd(8)&lt;/a&gt;获取更多的选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2890,6 +2906,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012640Z" creationid="Yifei Ding" creationdate="20190212T012640Z">
         <seg>结束时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter &lt;i&gt;none&lt;/i&gt; to inherit &lt;b&gt;resolv.conf&lt;/b&gt; from the host.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T054127Z" creationid="Yifei Ding" creationdate="20190301T054127Z">
+        <seg>输入&lt;i&gt;none&lt;/i&gt;从主机继承&lt;b&gt;resolv.conf&lt;/b&gt;。</seg>
       </tuv>
     </tu>
     <tu>
