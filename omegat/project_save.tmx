@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b&gt;Example:&lt;/b&gt; &lt;i&gt;/data example-dataset-name&lt;/i&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T224235Z" creationid="Yifei Ding" creationdate="20190301T224235Z">
+        <seg>&lt;b&gt;例子：&lt;/b&gt; &lt;i&gt;/data example-dataset-name&lt;/i&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b&gt;Example:&lt;/b&gt; &lt;i&gt;1,2,3,4&lt;/i&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213547Z" creationid="Yifei Ding" creationdate="20190211T213547Z">
@@ -3366,6 +3374,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter the name of the company or organization.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T224019Z" creationid="Yifei Ding" creationdate="20190301T224019Z">
+        <seg>输入公司或组织名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter the name of the destination folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T224030Z" creationid="Yifei Ding" creationdate="20190301T224030Z">
+        <seg>输入目标文件夹名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter the password to encrypt and decrypt remote data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200316Z" creationid="Yifei Ding" creationdate="20190213T200316Z">
@@ -3730,6 +3754,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T201347Z" creationid="Yifei Ding" creationdate="20190213T201347Z">
         <seg>导出/断开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Export/Disconnect Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T223932Z" creationid="Yifei Ding" creationdate="20190301T223932Z">
+        <seg>导出/断开存储池</seg>
       </tuv>
     </tu>
     <tu>
