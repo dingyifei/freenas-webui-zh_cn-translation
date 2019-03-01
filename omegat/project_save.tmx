@@ -2430,6 +2430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Describe the problem and provide any steps to                   replicate the issue.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T224755Z" creationid="Yifei Ding" creationdate="20190301T224755Z">
+        <seg>描述问题并提供复现问题的步骤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Describe this service.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T184331Z" creationid="Yifei Ding" creationdate="20190212T184331Z">
@@ -3170,6 +3178,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T171050Z" creationid="Yifei Ding" creationdate="20190213T171050Z">
         <seg>输入分配给虚拟机的虚拟处理器数量。最大值是16除非主机CPU限制了最大值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a one to three paragraph summary of the issue.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T224713Z" creationid="Yifei Ding" creationdate="20190301T224713Z">
+        <seg>输入一个一到三段的问题描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a password for &lt;b&gt;User&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T224813Z" creationid="Yifei Ding" creationdate="20190301T224813Z">
+        <seg>输入一个&lt;b&gt;用户&lt;/b&gt;的密码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6146,6 +6170,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062206Z" creationid="Yifei Ding" creationdate="20190211T062206Z">
         <seg>时区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tries forever when set to                 &lt;i&gt;0&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T224611Z" creationid="Yifei Ding" creationdate="20190301T224611Z">
+        <seg>在设置为&lt;i&gt;0&lt;/i&gt;时尝试无限次。</seg>
       </tuv>
     </tu>
     <tu>
