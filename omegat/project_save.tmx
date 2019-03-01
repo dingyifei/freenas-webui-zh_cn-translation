@@ -5942,6 +5942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shutdown will not occur if power is restored while the timer is counting down.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T235644Z" creationid="Yifei Ding" creationdate="20190301T235644Z">
+        <seg>关机不会在当计时器倒数电源恢复时发生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sign in</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055903Z" creationid="Yifei Ding" creationdate="20190211T055903Z">
@@ -6282,6 +6290,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T221516Z" creationid="Yifei Ding" creationdate="20190228T221516Z">
         <seg>这个用户必须存在于FTP主机上。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This value only applies when &lt;b&gt;Shutdown mode&lt;/b&gt; is set to &lt;i&gt;UPS goes on battery&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T235738Z" creationid="Yifei Ding" creationdate="20190301T235738Z">
+        <seg>这个值仅在&lt;b&gt;关机模式&lt;/b&gt;设置为&lt;i&gt;UPS切换到电池&lt;/i&gt;时有效。</seg>
       </tuv>
     </tu>
     <tu>
