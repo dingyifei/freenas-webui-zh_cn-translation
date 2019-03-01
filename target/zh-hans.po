@@ -372,7 +372,7 @@ msgid "ACL Type"
 msgstr ""
 
 msgid "AD Timeout"
-msgstr ""
+msgstr "AD超时"
 
 msgid "AFP3 Unix Privs"
 msgstr ""
@@ -516,13 +516,13 @@ msgid ""
 "IP;search domain. local</i>. Fields must be delimited with a semicolon (;), "
 "This is translated as new lines in <b>resolv.conf</b>. Enter <i>none</i> to "
 "inherit <b>resolv.conf</b> from the host."
-msgstr "Add lines to the jail <b>resolv.conf</b>. <b>例子：</b> <i>nameserver IP;search domain. local</i>. Fields must be delimited with a semicolon (;), This is translated as new lines in <b>resolv.conf</b>. Enter <i>none</i> to inherit <b>resolv.conf</b> from the host."
+msgstr "Add lines to the jail <b>resolv.conf</b>. <b>例子：</b> <i>nameserver IP;search domain. local</i>. Fields must be delimited with a semicolon (;), This is translated as new lines in <b>resolv.conf</b>. 输入<i>none</i>从主机继承<b>resolv.conf</b>。"
 
 msgid ""
 "Add more options from <a "
 "href=\"https://www.freebsd.org/cgi/man.cgi?query=tftpd\" "
 "target=\"_blank\">tftpd(8)</a>. Add one option on each line."
-msgstr "Add more options from <a href=\"https://www.freebsd.org/cgi/man.cgi?query=tftpd\" target=\"_blank\">tftpd(8)</a>. 每行添加一个选项。"
+msgstr "从<a href=\"https://www.freebsd.org/cgi/man.cgi?query=tftpd\" target=\"_blank\">tftpd(8)</a>获取更多可以添加的选项。每行添加一个选项。"
 
 msgid "Add one or more disks to be used for data."
 msgstr "添加一个或多个用于数据存储的磁盘。"
@@ -554,7 +554,7 @@ msgid ""
 "Additional <a "
 "href=\"http://netatalk.sourceforge.net/3.0/htmldocs/afp.conf.5.html\" "
 "target=\"_blank\">afp.conf(5)</a> parameters."
-msgstr ""
+msgstr "额外的<a href=\"http://netatalk.sourceforge.net/3.0/htmldocs/afp.conf.5.html\" target=\"_blank\">afp.conf(5)</a>参数。"
 
 msgid ""
 "Additional <a "
@@ -570,7 +570,7 @@ msgid ""
 msgstr ""
 
 msgid "Additional <b>smb5.conf</b> parameters not covered by other option fields."
-msgstr ""
+msgstr "不被其他选项包含的<b>smb5.conf</b>参数。"
 
 msgid "Additional Domains"
 msgstr "额外域名"
@@ -657,7 +657,7 @@ msgid "Aliases"
 msgstr ""
 
 msgid "All dirs"
-msgstr ""
+msgstr "所有文件夹"
 
 msgid "Allocate a number of gigabytes (GiB) to the new raw file."
 msgstr "分配新的Raw文件容量（GiB)）。"
@@ -669,13 +669,13 @@ msgid "Allocate a number of megabytes of RAM for the VM."
 msgstr "分配虚拟机内存容量（MiB）。"
 
 msgid "Allocate a number of megabytes of RAM to the Docker VM."
-msgstr ""
+msgstr "分配指定MiB的内存给Docker VM。"
 
 msgid "Allocate a number of megabytes of RAM to the VM."
-msgstr ""
+msgstr "分配指定MiB的内存给VM。"
 
 msgid "Allow Anonymous Binding"
-msgstr ""
+msgstr "允许匿名绑定"
 
 msgid "Allow Anonymous Login"
 msgstr "允许匿名登录"
@@ -687,13 +687,13 @@ msgid "Allow Empty Password"
 msgstr "允许空密码"
 
 msgid "Allow Execute Always"
-msgstr ""
+msgstr "总是允许运行"
 
 msgid "Allow Guest Access"
 msgstr "允许访客访问"
 
 msgid "Allow Kerberos authentication"
-msgstr ""
+msgstr "允许Kerberos验证"
 
 msgid "Allow Local User Login"
 msgstr "允许本地用户登录"
@@ -711,7 +711,7 @@ msgid "Allow Transfer Resumption"
 msgstr ""
 
 msgid "Allow Trusted Domains"
-msgstr ""
+msgstr "允许可信域名"
 
 msgid ""
 "Allow configuring a non-standard port to access the GUI                  "
@@ -1465,10 +1465,10 @@ msgid ""
 msgstr ""
 
 msgid "Choose an authentication method."
-msgstr ""
+msgstr "选择一个验证模式。"
 
 msgid "Choose an encryption mode to use with LDAP."
-msgstr ""
+msgstr "选择一个用于LDAP的加密模式。"
 
 msgid "Choose an encryption mode."
 msgstr "选择一个加密模式。"
