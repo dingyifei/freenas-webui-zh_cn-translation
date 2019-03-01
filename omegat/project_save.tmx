@@ -1662,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choices are &lt;i&gt;Plain, SSL&lt;/i&gt;, or                   &lt;i&gt;TLS&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T224339Z" creationid="Yifei Ding" creationdate="20190301T224339Z">
+        <seg>选项有&lt;i&gt;无，SSL&lt;/i&gt;或&lt;i&gt;TLS&lt;/i&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose &lt;i&gt;AES-256&lt;/i&gt; or &lt;i&gt;None&lt;/i&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T203223Z" creationid="Yifei Ding" creationdate="20190213T203223Z">
@@ -2982,10 +2990,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Encryption Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T224251Z" creationid="Yifei Ding" creationdate="20190301T224251Z">
+        <seg>加密密钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Encryption Mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T224257Z" creationid="Yifei Ding" creationdate="20190301T224257Z">
+        <seg>加密模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Encryption Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T224306Z" creationid="Yifei Ding" creationdate="20190301T224306Z">
+        <seg>加密密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Encryption Salt</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T202213Z" creationid="Yifei Ding" creationdate="20190213T202213Z">
         <seg>加密盐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Encryption type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T224313Z" creationid="Yifei Ding" creationdate="20190301T224313Z">
+        <seg>加密类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6642,6 +6682,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T014210Z" creationid="Yifei Ding" creationdate="20190212T014210Z">
         <seg>额外选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>test.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T224412Z" creationid="Yifei Ding" creationdate="20190301T224412Z">
+        <seg>测试。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
