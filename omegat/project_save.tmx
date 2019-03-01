@@ -704,8 +704,8 @@
       <tuv lang="EN-US">
         <seg>Add more options from &lt;a href="https://www.freebsd.org/cgi/man.cgi?query=tftpd" target="_blank"&gt;tftpd(8)&lt;/a&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T054210Z" creationid="Yifei Ding" creationdate="20190301T054210Z">
-        <seg>从&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=tftpd" target="_blank"&gt;tftpd(8)&lt;/a&gt;获取更多的选项。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T054222Z" creationid="Yifei Ding" creationdate="20190301T054210Z">
+        <seg>从&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=tftpd" target="_blank"&gt;tftpd(8)&lt;/a&gt;获取更多可以添加的选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -746,6 +746,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T223335Z" creationid="Yifei Ding" creationdate="20190227T223335Z">
         <seg>添加搜索域会拖慢DNS查询。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additional &lt;a href="http://netatalk.sourceforge.net/3.0/htmldocs/afp.conf.5.html" target="_blank"&gt;afp.conf(5)&lt;/a&gt; parameters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T054259Z" creationid="Yifei Ding" creationdate="20190301T054259Z">
+        <seg>额外的&lt;a href="http://netatalk.sourceforge.net/3.0/htmldocs/afp.conf.5.html" target="_blank"&gt;afp.conf(5)&lt;/a&gt;参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additional &lt;b&gt;smb5.conf&lt;/b&gt; parameters not covered by other option fields.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T054332Z" creationid="Yifei Ding" creationdate="20190301T054332Z">
+        <seg>不被其他选项包含的&lt;b&gt;smb5.conf&lt;/b&gt;参数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -862,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All dirs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T054415Z" creationid="Yifei Ding" creationdate="20190301T054415Z">
+        <seg>所有文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allocate a number of gigabytes (GiB) to the new raw file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T224254Z" creationid="Yifei Ding" creationdate="20190227T224254Z">
@@ -882,6 +906,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T224627Z" creationid="Yifei Ding" creationdate="20190227T224627Z">
         <seg>分配虚拟机内存容量（MiB）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allocate a number of megabytes of RAM to the Docker VM.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T054451Z" creationid="Yifei Ding" creationdate="20190301T054451Z">
+        <seg>分配指定MiB的内存给Docker VM。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allocate a number of megabytes of RAM to the VM.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T054442Z" creationid="Yifei Ding" creationdate="20190301T054442Z">
+        <seg>分配指定MiB的内存给VM。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow Anonymous Binding</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T054504Z" creationid="Yifei Ding" creationdate="20190301T054504Z">
+        <seg>允许匿名绑定</seg>
       </tuv>
     </tu>
     <tu>
