@@ -3278,6 +3278,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter a valid MAC address for the VNET0 interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T225346Z" creationid="Yifei Ding" creationdate="20190301T225346Z">
+        <seg>输入一个用于VNET0接口的有效MAC地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a valid MAC address for the VNET1 interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T225352Z" creationid="Yifei Ding" creationdate="20190301T225352Z">
+        <seg>输入一个用于VNET2接口的有效MAC地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a valid MAC address for the VNET2 interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T225356Z" creationid="Yifei Ding" creationdate="20190301T225356Z">
+        <seg>输入一个用于VNET3接口的有效MAC地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a valid MAC address for the VNET3 interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T232854Z" creationid="Yifei Ding" creationdate="20190301T232854Z">
+        <seg>输入一个用于VNET3接口的有效MAC地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter a value here to set a specific MAC address.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T221427Z" creationid="Yifei Ding" creationdate="20190228T221427Z">
