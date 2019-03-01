@@ -3264,8 +3264,8 @@
       <tuv lang="EN-US">
         <seg>Enter any notes about this disk.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T181124Z" creationid="Yifei Ding" creationdate="20190211T181027Z">
-        <seg>输入这个数据集的备注。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T223359Z" creationid="Yifei Ding" creationdate="20190211T181027Z">
+        <seg>输入这个磁盘的备注。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3282,6 +3282,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T181153Z" creationid="Yifei Ding" creationdate="20190211T181153Z">
         <seg>输入Jail的注释。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter either &lt;i&gt;root&lt;/i&gt; or another valid &lt;i&gt;username&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T223823Z" creationid="Yifei Ding" creationdate="20190301T223823Z">
+        <seg>输入&lt;i&gt;root&lt;/i&gt;或其他有效的&lt;i&gt;用户名&lt;/i&gt;。</seg>
       </tuv>
     </tu>
     <tu>
