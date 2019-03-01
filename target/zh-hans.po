@@ -2701,16 +2701,16 @@ msgid "Encryption Cipher"
 msgstr ""
 
 msgid "Encryption Key"
-msgstr ""
+msgstr "加密密钥"
 
 msgid "Encryption Key Required"
 msgstr ""
 
 msgid "Encryption Mode"
-msgstr ""
+msgstr "加密模式"
 
 msgid "Encryption Password"
-msgstr ""
+msgstr "加密密码"
 
 msgid "Encryption Rekey"
 msgstr ""
@@ -2721,7 +2721,7 @@ msgstr "加密盐"
 msgid ""
 "Encryption type. Choices are <i>Plain, SSL</i>, or                   "
 "<i>TLS</i>."
-msgstr ""
+msgstr "加密类型。选项有<i>无，SSL</i>或<i>TLS</i>。"
 
 msgid "End"
 msgstr "结束"
@@ -2781,7 +2781,7 @@ msgid "Enter a description of the Cloud Sync Task."
 msgstr "输入这个云同步任务的描述。"
 
 msgid "Enter a description of the S.M.A.R.T. test."
-msgstr "输入这个S.M.A.R.T.的描述。test."
+msgstr "输入这个S.M.A.R.T.的描述。测试。"
 
 msgid "Enter a description of the cron job."
 msgstr "输入这个cron job的描述。"
@@ -2860,7 +2860,7 @@ msgstr "Enter a number of seconds to wait before alerting that the service canno
 msgid ""
 "Enter a number of times to attempt reconnecting to the                 "
 "Active directory server. Tries forever when set to                 <i>0</i>."
-msgstr ""
+msgstr "Enter a number of times to attempt reconnecting to the                 Active directory server. 在设置为<i>0</i>时尝试无限次。"
 
 msgid ""
 "Enter a number of virtual CPUs to allocate to the VM. The maximum is 16 "
@@ -2887,10 +2887,10 @@ msgid ""
 "Enter a one to three paragraph summary of the issue.                   "
 "Describe the problem and provide any steps to                   replicate "
 "the issue."
-msgstr ""
+msgstr "输入一个一到三段的问题描述。描述问题并提供复现问题的步骤。"
 
 msgid "Enter a password for <b>User</b>. Must be between 12 and 16 characters."
-msgstr "Enter a password for <b>User</b>. 必须是12到16个字符长。"
+msgstr "输入一个<b>用户</b>的密码。必须是12到16个字符长。"
 
 msgid ""
 "Enter a password for the <i>rancher</i> user. This is used to log in to the "
@@ -2979,16 +2979,16 @@ msgid "Enter a username to register with this service."
 msgstr "输入一个用户名来注册这个服务。"
 
 msgid "Enter a valid MAC address for the VNET0 interface."
-msgstr ""
+msgstr "输入一个用于VNET0接口的有效MAC地址。"
 
 msgid "Enter a valid MAC address for the VNET1 interface."
-msgstr ""
+msgstr "输入一个用于VNET2接口的有效MAC地址。"
 
 msgid "Enter a valid MAC address for the VNET2 interface."
-msgstr ""
+msgstr "输入一个用于VNET3接口的有效MAC地址。"
 
 msgid "Enter a valid MAC address for the VNET3 interface."
-msgstr ""
+msgstr "输入一个用于VNET3接口的有效MAC地址。"
 
 msgid "Enter a valid MAC address vendor prefix. <b>Example:</b> <i>E4F4C6</i>"
 msgstr "Enter a valid MAC address vendor prefix. <b>例子：</b> <i>E4F4C6</i>"
@@ -3116,7 +3116,7 @@ msgid "Enter any notes about this dataset."
 msgstr "输入这个数据集的备注。"
 
 msgid "Enter any notes about this disk."
-msgstr "输入这个数据集的备注。"
+msgstr "输入这个磁盘的备注。"
 
 msgid "Enter any notes."
 msgstr "输入备注。"
@@ -3127,7 +3127,7 @@ msgstr "输入Jail的注释。"
 msgid ""
 "Enter either <i>root</i> or another valid <i>username</i>. Inside the jail, "
 "commands run as this user."
-msgstr ""
+msgstr "输入<i>root</i>或其他有效的<i>用户名</i>。Inside the jail, commands run as this user."
 
 msgid ""
 "Enter how often in seconds for the system to verify                 Active "
@@ -3292,7 +3292,7 @@ msgstr ""
 msgid ""
 "Enter the mountpoint for the <b>jail_zfs_dataset</b>. <b>Example:</b> "
 "<i>/data example-dataset-name</i>"
-msgstr ""
+msgstr "Enter the mountpoint for the <b>jail_zfs_dataset</b>. <b>例子：</b> <i>/data example-dataset-name</i>"
 
 msgid ""
 "Enter the mutual secret password which <b>must be different than the "
@@ -3316,10 +3316,10 @@ msgid "Enter the name of the boot entry."
 msgstr "输入启动入口名称。"
 
 msgid "Enter the name of the company or organization."
-msgstr ""
+msgstr "输入公司或组织名。"
 
 msgid "Enter the name of the destination folder."
-msgstr ""
+msgstr "输入目标文件夹名称。"
 
 msgid ""
 "Enter the name of the loader, sysctl, or rc.conf                  variable "
@@ -3567,7 +3567,7 @@ msgid "Export/Disconnect"
 msgstr "导出/断开"
 
 msgid "Export/Disconnect Pool"
-msgstr ""
+msgstr "导出/断开存储池"
 
 msgid "Exporting Pool..."
 msgstr "导出存储池中..."
@@ -4076,7 +4076,7 @@ msgid "Informational"
 msgstr ""
 
 msgid "Init/Shutdown Scripts"
-msgstr ""
+msgstr "启动/关机脚本"
 
 msgid "Initiator Group ID"
 msgstr ""
@@ -4094,7 +4094,7 @@ msgid "Install"
 msgstr "安装"
 
 msgid "Install Manual Update File"
-msgstr ""
+msgstr "安装手动更新文件"
 
 msgid "Installation Media"
 msgstr "安装介质"
