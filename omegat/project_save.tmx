@@ -3406,6 +3406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter additional &lt;b&gt;smb.conf&lt;/b&gt; options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T235805Z" creationid="Yifei Ding" creationdate="20190301T235805Z">
+        <seg>编辑额外&lt;b&gt;smb.conf&lt;/b&gt;参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter an IPv4 address.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T172857Z" creationid="Yifei Ding" creationdate="20190211T172857Z">
@@ -3426,6 +3434,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T175344Z" creationid="Yifei Ding" creationdate="20190211T175344Z">
         <seg>输入一个别名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter an alphanumeric name for the group.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T235916Z" creationid="Yifei Ding" creationdate="20190301T235916Z">
+        <seg>输入一个用于群组的字母数字名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter an alphanumeric name for the virtual machine.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T235940Z" creationid="Yifei Ding" creationdate="20190301T235940Z">
+        <seg>输入一个用于虚拟机的字母数字名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter an alphanumeric username of eight to                      sixteen characters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190302T000020Z" creationid="Yifei Ding" creationdate="20190302T000020Z">
+        <seg>输入一个8~16个字符的字母数字的用户名</seg>
       </tuv>
     </tu>
     <tu>
