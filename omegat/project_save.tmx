@@ -48,8 +48,8 @@
       <tuv lang="EN-US">
         <seg>25 characters)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173605Z" creationid="Yifei Ding" creationdate="20190212T173605Z">
-        <seg>25字符）</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T005722Z" creationid="Yifei Ding" creationdate="20190212T173605Z">
+        <seg>25个字符）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1488,8 +1488,8 @@
       <tuv lang="EN-US">
         <seg>Can be set to &lt;i&gt;0&lt;/i&gt;, left empty for FreeNAS to assign a port when the VM is started, or set to a fixed, preferred port number.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T175507Z" creationid="Yifei Ding" creationdate="20190212T175507Z">
-        <seg>可以被设置为&lt;i&gt;0&lt;/i&gt;，留空FreeNas将会在虚拟机启动时自动分配端口，输入一个端口号以让其不变。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T005454Z" creationid="Yifei Ding" creationdate="20190212T175507Z">
+        <seg>可以被设置为&lt;i&gt;0&lt;/i&gt;，留空FreeNas将会在虚拟机启动时自动分配端口，输入一个端口以让其不变。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1648,8 +1648,8 @@
       <tuv lang="EN-US">
         <seg>Check Release Notes</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003602Z" creationid="Yifei Ding" creationdate="20190212T003602Z">
-        <seg>查看发行备注</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T005502Z" creationid="Yifei Ding" creationdate="20190212T003602Z">
+        <seg>检查发行备注</seg>
       </tuv>
     </tu>
     <tu>
@@ -4736,8 +4736,8 @@
       <tuv lang="EN-US">
         <seg>Maximum path length is 255 characters</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T174348Z" creationid="Yifei Ding" creationdate="20190212T174348Z">
-        <seg>极限路径长度是255字符</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T005425Z" creationid="Yifei Ding" creationdate="20190212T174348Z">
+        <seg>极限路径长度是255个字符</seg>
       </tuv>
     </tu>
     <tu>
@@ -6728,8 +6728,8 @@
       <tuv lang="EN-US">
         <seg>WebDAV account username.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T045036Z" creationid="Yifei Ding" creationdate="20190213T045036Z">
-        <seg>WebDAV用户名。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T005626Z" creationid="Yifei Ding" creationdate="20190213T045036Z">
+        <seg>WebDAV账户用户名。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6856,8 +6856,8 @@
       <tuv lang="EN-US">
         <seg>Write a percentage limit of a single CPU core.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T165538Z" creationid="Yifei Ding" creationdate="20190227T165538Z">
-        <seg>输入单个CPU核心的占用百分比限制。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T005540Z" creationid="Yifei Ding" creationdate="20190227T165538Z">
+        <seg>输入单个处理器核心的占用百分比限制。</seg>
       </tuv>
     </tu>
     <tu>
