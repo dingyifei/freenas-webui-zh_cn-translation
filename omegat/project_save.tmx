@@ -64,8 +64,16 @@
       <tuv lang="EN-US">
         <seg>&lt;b&gt;Ctrl+C&lt;/b&gt; kills a foreground process.&lt;br&gt;                            Many utilities are built-in:&lt;br&gt; &lt;b&gt;Iperf&lt;/b&gt;,                            &lt;b&gt;Netperf&lt;/b&gt;, &lt;b&gt;IOzone&lt;/b&gt;, &lt;b&gt;arcsat&lt;/b&gt;,                            &lt;b&gt;tw_cli&lt;/b&gt;, &lt;br&gt;&lt;b&gt;MegaCli&lt;/b&gt;,                            &lt;b&gt;freenas-debug&lt;/b&gt;, &lt;b&gt;tmux&lt;/b&gt;,                            &lt;b&gt;Dmidecode&lt;/b&gt;.&lt;br&gt; Refer to the &lt;a                            href="%%docurl%%/cli.html%%webversion%%"                            target="_blank"&gt;Command Line Utilities&lt;/a&gt;                            chapter in the guide for usage information                            and examples.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T183114Z" creationid="Yifei Ding" creationdate="20190305T183114Z">
-        <seg>&lt;b&gt;Ctrl+C&lt;/b&gt;终止一个前台进程。&lt;br&gt;很多工具是内置的：&lt;br&gt; &lt;b&gt;Iperf&lt;/b&gt;， &lt;b&gt;Netperf&lt;/b&gt;，&lt;b&gt;IOzone&lt;/b&gt;，&lt;b&gt;arcsat&lt;/b&gt;，&lt;b&gt;tw_cli&lt;/b&gt;，&lt;br&gt;&lt;b&gt;MegaCli&lt;/b&gt;，&lt;b&gt;freenas-debug&lt;/b&gt;，&lt;b&gt;tmux&lt;/b&gt;，&lt;b&gt;Dmidecode&lt;/b&gt;.&lt;br&gt; 参考指南中的&lt;a                            href="%%docurl%%/cli.html%%webversion%%"                            target="_blank"&gt;Command Line Utilities&lt;/a&gt;章节中用法与例子。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T183241Z" creationid="Yifei Ding" creationdate="20190305T183114Z">
+        <seg>&lt;b&gt;Ctrl+C&lt;/b&gt;终止一个前台进程。&lt;br&gt;很多工具是内置的：&lt;br&gt; &lt;b&gt;Iperf&lt;/b&gt;， &lt;b&gt;Netperf&lt;/b&gt;，&lt;b&gt;IOzone&lt;/b&gt;，&lt;b&gt;arcsat&lt;/b&gt;，&lt;b&gt;tw_cli&lt;/b&gt;，&lt;br&gt;&lt;b&gt;MegaCli&lt;/b&gt;，&lt;b&gt;freenas-debug&lt;/b&gt;，&lt;b&gt;tmux&lt;/b&gt;，&lt;b&gt;Dmidecode&lt;/b&gt;。&lt;br&gt; 参考指南中的&lt;a                            href="%%docurl%%/cli.html%%webversion%%"                            target="_blank"&gt;Command Line Utilities&lt;/a&gt;章节中用法与例子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b&gt;Ctrl+C&lt;/b&gt; kills a foreground process.&lt;br&gt;                            Many utilities are built-in:&lt;br&gt; b&gt;Iperf&lt;/b&gt;,                            &lt;b&gt;Netperf&lt;/b&gt;, &lt;b&gt;IOzone&lt;/b&gt;, &lt;b&gt;arcsat&lt;/b&gt;,                            &lt;b&gt;tw_cli&lt;/b&gt;, &lt;br&gt;&lt;b&gt;MegaCli&lt;/b&gt;,                            &lt;b&gt;freenas-debug&lt;/b&gt;, &lt;b&gt;tmux&lt;/b&gt;,                            &lt;b&gt;Dmidecode&lt;/b&gt;.&lt;br&gt; Refer to the &lt;a                            href="%%docurl%%/cli.html%%webversion%%"                            target="_blank"&gt;Command Line Utilities&lt;/a&gt;                            chapter in the guide for usage information                            and examples.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T183220Z" creationid="Yifei Ding" creationdate="20190305T183220Z">
+        <seg>&lt;b&gt;Ctrl+C&lt;/b&gt;终止一个前台进程。&lt;br&gt;很多工具是内置的：&lt;br&gt; &lt;b&gt;Iperf&lt;/b&gt;， &lt;b&gt;Netperf&lt;/b&gt;，&lt;b&gt;IOzone&lt;/b&gt;，&lt;b&gt;arcsat&lt;/b&gt;，&lt;b&gt;tw_cli&lt;/b&gt;，&lt;br&gt;&lt;b&gt;MegaCli&lt;/b&gt;，&lt;b&gt;freenas-debug&lt;/b&gt;，&lt;b&gt;tmux&lt;/b&gt;，&lt;b&gt;Dmidecode&lt;/b&gt;。&lt;br&gt; 参考指南中的&lt;a                            href="%%docurl%%/cli.html%%webversion%%"                            target="_blank"&gt;Command Line Utilities&lt;/a&gt;章节中用法与例子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T215253Z" creationid="Yifei Ding" creationdate="20190214T215253Z">
         <seg>&lt;b&gt;root登录是不推荐的。&lt;/b&gt; 设置以允许root登录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b&gt;SED (&lt;a href="%%docurl%%/system.html%%webversion%%#self-encrypting-drives" target="_blank"&gt;Self-Encrypting Drives&lt;/a&gt;) Options&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T183402Z" creationid="Yifei Ding" creationdate="20190305T183402Z">
+        <seg>&lt;b&gt;SED (&lt;a href="%%docurl%%/system.html%%webversion%%#self-encrypting-drives" target="_blank"&gt;Self-Encrypting Drives&lt;/a&gt;) 选项&lt;/b&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -522,6 +538,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T221023Z" creationid="Yifei Ding" creationdate="20190214T221023Z">
         <seg>&lt;i&gt;VirtIO&lt;/i&gt;在支持VirtIO Paravirtualized网络驱动的虚拟机操作系统里可以提高更好的性能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A password must be set for the &lt;i&gt;root&lt;/i&gt; user in &lt;a href="%%docurl%%/account.html%%webversion%%#users" target="_blank"&gt;Users&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T183348Z" creationid="Yifei Ding" creationdate="20190305T183348Z">
+        <seg>根据&lt;a href="%%docurl%%/account.html%%webversion%%#users" target="_blank"&gt;Users&lt;/a&gt;，&lt;i&gt;root&lt;/i&gt;用户必须设置一个密码。</seg>
       </tuv>
     </tu>
     <tu>
