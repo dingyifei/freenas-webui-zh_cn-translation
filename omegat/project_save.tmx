@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;i&gt;None&lt;/i&gt; allows anonymous discovery while &lt;i&gt;CHAP&lt;/i&gt; and &lt;i&gt;Mutual CHAP&lt;/i&gt; require authentication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T182042Z" creationid="Yifei Ding" creationdate="20190305T182042Z">
+        <seg>&lt;i&gt;无&lt;/i&gt;允许匿名discovery while &lt;i&gt;CHAP&lt;/i&gt; and &lt;i&gt;Mutual CHAP&lt;/i&gt; require authentication.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;i&gt;Pull&lt;/i&gt; receives data from cloud storage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T221439Z" creationid="Yifei Ding" creationdate="20190214T221135Z">
@@ -1850,6 +1858,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234905Z" creationid="Yifei Ding" creationdate="20190211T234905Z">
         <seg>选择你的语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choosing a smaller size can reduce system performance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T181918Z" creationid="Yifei Ding" creationdate="20190305T181918Z">
+        <seg>选择一个更小的尺寸可能会降低系统性能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4610,6 +4626,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T215022Z" creationid="Yifei Ding" creationdate="20190214T215022Z">
         <seg>使用AWS时留空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leave blank when using  AWS.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T182059Z" creationid="Yifei Ding" creationdate="20190305T182059Z">
+        <seg>在使用AWS时留空。</seg>
       </tuv>
     </tu>
     <tu>
