@@ -2798,6 +2798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not roll back until all desired snapshots have been backed up!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T183447Z" creationid="Yifei Ding" creationdate="20190305T183447Z">
+        <seg>在所有需要的快照被备份前不要回滚！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not set this if the Serial Port is disabled.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T074530Z" creationid="Yifei Ding" creationdate="20190213T074530Z">
