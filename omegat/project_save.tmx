@@ -1750,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choices are &lt;i&gt;Plain (No Encryption)&lt;/i&gt;, &lt;i&gt;SSL (Implicit TLS)&lt;/i&gt;, or &lt;i&gt;TLS (STARTTLS)&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T182441Z" creationid="Yifei Ding" creationdate="20190305T182441Z">
+        <seg>选择有&lt;i&gt;Plain (No Encryption)&lt;/i&gt;, &lt;i&gt;SSL (Implicit TLS)&lt;/i&gt;, or &lt;i&gt;TLS (STARTTLS)&lt;/i&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choices are &lt;i&gt;Plain, SSL&lt;/i&gt;, or                   &lt;i&gt;TLS&lt;/i&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T224339Z" creationid="Yifei Ding" creationdate="20190301T224339Z">
@@ -6350,6 +6358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These tokens can expire and require extension.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T182414Z" creationid="Yifei Ding" creationdate="20190305T182414Z">
+        <seg>这些Token会失效并需要延期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Third DNS server</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T043856Z" creationid="Yifei Ding" creationdate="20190213T043856Z">
@@ -6450,6 +6466,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060456Z" creationid="Yifei Ding" creationdate="20190211T060456Z">
         <seg>类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>URL  general format:  &lt;i&gt;bucket-name.s3-website.region.amazonaws.com&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T182341Z" creationid="Yifei Ding" creationdate="20190305T182341Z">
+        <seg>URL基本格式：&lt;i&gt;bucket-name.s3-website.region.amazonaws.com&lt;/i&gt;.</seg>
       </tuv>
     </tu>
     <tu>
