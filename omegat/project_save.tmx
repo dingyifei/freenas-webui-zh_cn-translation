@@ -40,8 +40,8 @@
       <tuv lang="EN-US">
         <seg>20 characters is the maximum length.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233307Z" creationid="Yifei Ding" creationdate="20190211T233307Z">
-        <seg>20字符是极限长度。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T004840Z" creationid="Yifei Ding" creationdate="20190211T233307Z">
+        <seg>20个字符是极限长度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -112,8 +112,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b&gt;WARNING:&lt;/b&gt; Rolling back to this snapshot will permanently delete later snapshots of this dataset.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T000938Z" creationid="Yifei Ding" creationdate="20190305T000938Z">
-        <seg>&lt;b&gt;警告：&lt;/b&gt; Rolling back to this snapshot will permanently delete later snapshots of this dataset.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T004959Z" creationid="Yifei Ding" creationdate="20190305T000938Z">
+        <seg>&lt;b&gt;警告：&lt;/b&gt;回滚到这个快照将会永久删除在此快照后在此数据集上的所有快照。</seg>
       </tuv>
     </tu>
     <tu>
