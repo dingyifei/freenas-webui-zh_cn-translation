@@ -176,8 +176,8 @@
       <tuv lang="EN-US">
         <seg>&lt;br&gt;&lt;b&gt;A jail without a default route will not be able to access the network without additional configuration.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T222959Z" creationid="Yifei Ding" creationdate="20190214T222959Z">
-        <seg>&lt;br&gt;&lt;b&gt;一个没有默认路由的Jail在没有额外设置的情况下无法访问互联网。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T005248Z" creationid="Yifei Ding" creationdate="20190214T222959Z">
+        <seg>&lt;br&gt;&lt;b&gt;一个没有默认路由的Jail在没有额外设置的情况下无法访问网络。</seg>
       </tuv>
     </tu>
     <tu>
@@ -216,8 +216,8 @@
       <tuv lang="EN-US">
         <seg>&lt;br&gt;&lt;b&gt;New&lt;/b&gt;: Only objects the jail creates using the private key namespace are visible.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T234308Z" creationid="Yifei Ding" creationdate="20190220T011558Z">
-        <seg>&lt;br&gt;&lt;b&gt;新&lt;/b&gt;：只有被Jail使用私有密钥命名空间创建的对象为可见。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T005351Z" creationid="Yifei Ding" creationdate="20190220T011558Z">
+        <seg>&lt;br&gt;&lt;b&gt;新&lt;/b&gt;：只有被Jail使用私钥命名空间创建的对象为可见。</seg>
       </tuv>
     </tu>
     <tu>
@@ -504,16 +504,16 @@
       <tuv lang="EN-US">
         <seg>A valid IPv4 address to use as the default route.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T203250Z" creationid="Yifei Ding" creationdate="20190227T203250Z">
-        <seg>一个用于默认路由的合法IPV4地址。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T005145Z" creationid="Yifei Ding" creationdate="20190227T203250Z">
+        <seg>一个用于默认路由的有效IPV4地址。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>A valid IPv6 address to use as the default route.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T222904Z" creationid="Yifei Ding" creationdate="20190214T222904Z">
-        <seg>使用一个合法IPv6地址作为默认路由。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T005225Z" creationid="Yifei Ding" creationdate="20190214T222904Z">
+        <seg>使用一个有效的IPv6地址作为默认路由。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1000,8 +1000,8 @@
       <tuv lang="EN-US">
         <seg>Allow Kerberos authentication</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T054535Z" creationid="Yifei Ding" creationdate="20190301T054535Z">
-        <seg>允许Kerberos验证</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T005332Z" creationid="Yifei Ding" creationdate="20190301T054535Z">
+        <seg>允许Kerberos鉴定</seg>
       </tuv>
     </tu>
     <tu>
@@ -1208,8 +1208,8 @@
       <tuv lang="EN-US">
         <seg>Available space threshold (%)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004209Z" creationid="Yifei Ding" creationdate="20190212T004209Z">
-        <seg>可用空间百分比 (%)</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T005419Z" creationid="Yifei Ding" creationdate="20190212T004209Z">
+        <seg>可用空间阈值 (%)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6800,8 +6800,8 @@
       <tuv lang="EN-US">
         <seg>When the Guest Account user is deleted it resets to nobody.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T214003Z" creationid="Yifei Ding" creationdate="20190227T213957Z">
-        <seg>当访客账户被删除，自动重制为nobody。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T005308Z" creationid="Yifei Ding" creationdate="20190227T213957Z">
+        <seg>当访客用户被删除时，自动重制为nobody。</seg>
       </tuv>
     </tu>
     <tu>
