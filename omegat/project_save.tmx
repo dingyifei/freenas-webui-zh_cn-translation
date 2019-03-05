@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b&gt;WARNING:&lt;/b&gt; This configuration file contains system passwords and other sensitive data.&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T010226Z" creationid="Yifei Ding" creationdate="20190305T010226Z">
+        <seg>&lt;b&gt;警告：&lt;/b&gt; 这个配置文件包含系统密码以及其他系统敏感信息。&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b&gt;Warning:&lt;/b&gt; Save and back up the encryption salt value.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T170804Z" creationid="Yifei Ding" creationdate="20190213T170804Z">
