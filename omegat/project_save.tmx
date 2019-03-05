@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b&gt;rsyncd&lt;/b&gt; listens on this port.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T010433Z" creationid="Yifei Ding" creationdate="20190305T010433Z">
+        <seg>&lt;b&gt;rsyncd&lt;/b&gt; 在此端口侦听。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;br&gt; &lt;b&gt;Disable&lt;/b&gt;: The jail cannot perform any &lt;b&gt;sysvmem&lt;/b&gt; related system calls.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T234427Z" creationid="Yifei Ding" creationdate="20190227T224935Z">
@@ -226,6 +234,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T005351Z" creationid="Yifei Ding" creationdate="20190220T011558Z">
         <seg>&lt;br&gt;&lt;b&gt;新&lt;/b&gt;：只有被Jail使用私钥命名空间创建的对象为可见。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;br&gt;&lt;br&gt;Roll back to snapshot &lt;i&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T010445Z" creationid="Yifei Ding" creationdate="20190305T010445Z">
+        <seg>&lt;br&gt;&lt;br&gt;回滚到快照&lt;i&gt;</seg>
       </tuv>
     </tu>
     <tu>
