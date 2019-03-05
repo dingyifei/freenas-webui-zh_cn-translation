@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;i&gt;Device&lt;/i&gt; shares an entire device.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T195035Z" creationid="Yifei Ding" creationdate="20190305T195035Z">
+        <seg>&lt;i&gt;设备&lt;/i&gt;共享整个设备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;i&gt;Digest Authentication&lt;/i&gt; is encrypted.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T191232Z" creationid="Yifei Ding" creationdate="20190227T191232Z">
@@ -378,6 +386,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T222436Z" creationid="Yifei Ding" creationdate="20190214T222241Z">
         <seg>&lt;i&gt;快速&lt;/i&gt;有更低的安全性，但是在有限加密能力的设备上有着更快的传输速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;i&gt;File&lt;/i&gt; shares the contents of an individual file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T195020Z" creationid="Yifei Ding" creationdate="20190305T195020Z">
+        <seg>&lt;i&gt;文件&lt;/i&gt;共享一个文件的内容。</seg>
       </tuv>
     </tu>
     <tu>
