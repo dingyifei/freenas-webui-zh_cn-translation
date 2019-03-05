@@ -63,3 +63,4 @@ inherit	继承
 parameters	参数
 valid	有效的
 threshold	阈值
+Passphrase	密钥
