@@ -65,3 +65,7 @@ valid	有效的
 threshold	阈值
 Passphrase	密钥
 hard disk	硬盘
+Authentication	验证
+account username	用户名
+account username	账户用户名
+Optional	可选
