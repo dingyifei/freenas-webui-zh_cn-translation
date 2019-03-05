@@ -64,3 +64,4 @@ parameters	参数
 valid	有效的
 threshold	阈值
 Passphrase	密钥
+hard disk	硬盘
