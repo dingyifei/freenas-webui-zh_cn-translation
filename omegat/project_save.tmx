@@ -6294,6 +6294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default port is &lt;i&gt;3493&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T181832Z" creationid="Yifei Ding" creationdate="20190305T181832Z">
+        <seg>默认端口是&lt;i&gt;3493&lt;/i&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The new password cannot contain a space or &lt;b&gt;#&lt;/b&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T180301Z" creationid="Yifei Ding" creationdate="20190212T180301Z">
