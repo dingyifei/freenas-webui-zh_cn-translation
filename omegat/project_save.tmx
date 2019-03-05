@@ -5208,8 +5208,8 @@
       <tuv lang="EN-US">
         <seg>Password for the SSH Username account.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T214812Z" creationid="Yifei Ding" creationdate="20190211T214812Z">
-        <seg>SSH账户的密码</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T010048Z" creationid="Yifei Ding" creationdate="20190211T214812Z">
+        <seg>SSH用户名的密码</seg>
       </tuv>
     </tu>
     <tu>
@@ -5218,6 +5218,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T214831Z" creationid="Yifei Ding" creationdate="20190211T214831Z">
         <seg>用户名的密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T010055Z" creationid="Yifei Ding" creationdate="20190305T010055Z">
+        <seg>密码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5384,8 +5392,8 @@
       <tuv lang="EN-US">
         <seg>Pool Available Space Threshold (%)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055216Z" creationid="Yifei Ding" creationdate="20190211T055216Z">
-        <seg>存储池可用空间百分比 (%)</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T010106Z" creationid="Yifei Ding" creationdate="20190211T055216Z">
+        <seg>存储池可用空间阈值 (%)</seg>
       </tuv>
     </tu>
     <tu>
