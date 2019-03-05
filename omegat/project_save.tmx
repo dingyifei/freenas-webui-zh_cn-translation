@@ -88,8 +88,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b&gt;Example:&lt;/b&gt; &lt;i&gt;nameserver IP;search domain.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T223127Z" creationid="Yifei Ding" creationdate="20190214T223127Z">
-        <seg>&lt;b&gt;例子：&lt;/b&gt; &lt;i&gt;nameserver IP;search domain.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T004717Z" creationid="Yifei Ding" creationdate="20190214T223127Z">
+        <seg>&lt;b&gt;例子：&lt;/b&gt; &lt;i&gt;域名服务器IP;搜索域.</seg>
       </tuv>
     </tu>
     <tu>
