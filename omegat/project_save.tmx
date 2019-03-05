@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b&gt;Ctrl+C&lt;/b&gt; kills a foreground process.&lt;br&gt;                            Many utilities are built-in:&lt;br&gt; &lt;b&gt;Iperf&lt;/b&gt;,                            &lt;b&gt;Netperf&lt;/b&gt;, &lt;b&gt;IOzone&lt;/b&gt;, &lt;b&gt;arcsat&lt;/b&gt;,                            &lt;b&gt;tw_cli&lt;/b&gt;, &lt;br&gt;&lt;b&gt;MegaCli&lt;/b&gt;,                            &lt;b&gt;freenas-debug&lt;/b&gt;, &lt;b&gt;tmux&lt;/b&gt;,                            &lt;b&gt;Dmidecode&lt;/b&gt;.&lt;br&gt; Refer to the &lt;a                            href="%%docurl%%/cli.html%%webversion%%"                            target="_blank"&gt;Command Line Utilities&lt;/a&gt;                            chapter in the guide for usage information                            and examples.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T183114Z" creationid="Yifei Ding" creationdate="20190305T183114Z">
+        <seg>&lt;b&gt;Ctrl+C&lt;/b&gt;终止一个前台进程。&lt;br&gt;很多工具是内置的：&lt;br&gt; &lt;b&gt;Iperf&lt;/b&gt;， &lt;b&gt;Netperf&lt;/b&gt;，&lt;b&gt;IOzone&lt;/b&gt;，&lt;b&gt;arcsat&lt;/b&gt;，&lt;b&gt;tw_cli&lt;/b&gt;，&lt;br&gt;&lt;b&gt;MegaCli&lt;/b&gt;，&lt;b&gt;freenas-debug&lt;/b&gt;，&lt;b&gt;tmux&lt;/b&gt;，&lt;b&gt;Dmidecode&lt;/b&gt;.&lt;br&gt; 参考指南中的&lt;a                            href="%%docurl%%/cli.html%%webversion%%"                            target="_blank"&gt;Command Line Utilities&lt;/a&gt;章节中用法与例子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b&gt;Example:&lt;/b&gt; &lt;i&gt;/data example-dataset-name&lt;/i&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T224235Z" creationid="Yifei Ding" creationdate="20190301T224235Z">
@@ -106,6 +114,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T215253Z" creationid="Yifei Ding" creationdate="20190214T215253Z">
         <seg>&lt;b&gt;root登录是不推荐的。&lt;/b&gt; 设置以允许root登录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b&gt;WARNING:&lt;/b&gt; Read the &lt;a href="%%docurl%%/storage.html%%webversion%%#managing-encrypted-pools" target="_blank"&gt;Encryption section&lt;/a&gt; of the guide before activating this option.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T182549Z" creationid="Yifei Ding" creationdate="20190305T182549Z">
+        <seg>&lt;b&gt;警告：&lt;/b&gt;在启用此选项前请阅读&lt;a href="%%docurl%%/storage.html%%webversion%%#managing-encrypted-pools" target="_blank"&gt;Encryption section&lt;/a&gt;指南。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1752,8 +1768,8 @@
       <tuv lang="EN-US">
         <seg>Choices are &lt;i&gt;Plain (No Encryption)&lt;/i&gt;, &lt;i&gt;SSL (Implicit TLS)&lt;/i&gt;, or &lt;i&gt;TLS (STARTTLS)&lt;/i&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T182441Z" creationid="Yifei Ding" creationdate="20190305T182441Z">
-        <seg>选择有&lt;i&gt;Plain (No Encryption)&lt;/i&gt;, &lt;i&gt;SSL (Implicit TLS)&lt;/i&gt;, or &lt;i&gt;TLS (STARTTLS)&lt;/i&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T182458Z" creationid="Yifei Ding" creationdate="20190305T182441Z">
+        <seg>选择有&lt;i&gt;Plain（不加密）&lt;/i&gt;, &lt;i&gt;SSL (Implicit TLS)&lt;/i&gt;, or &lt;i&gt;TLS (STARTTLS)&lt;/i&gt;.</seg>
       </tuv>
     </tu>
     <tu>
