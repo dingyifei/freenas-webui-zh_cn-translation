@@ -7190,6 +7190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>iocage uses this                               dataset to store FreeBSD RELEASES and all                               other jail data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190306T165542Z" creationid="Yifei Ding" creationdate="20190306T165542Z">
+        <seg>iocage使用这个数据集来存储FreeBSD发行版和所有其他的Jail数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>test.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T224412Z" creationid="Yifei Ding" creationdate="20190301T224412Z">
