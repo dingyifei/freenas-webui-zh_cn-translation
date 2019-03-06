@@ -1830,6 +1830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chmod Request</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190306T164800Z" creationid="Yifei Ding" creationdate="20190306T164800Z">
+        <seg>Chmod请求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choices are &lt;i&gt;2000, 2003, 2008, 2008_R2, 2012,&lt;/i&gt; or &lt;i&gt;2012_R2&lt;/i&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T203146Z" creationid="Yifei Ding" creationdate="20190213T203146Z">
@@ -1874,6 +1882,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T203223Z" creationid="Yifei Ding" creationdate="20190213T203223Z">
         <seg>选择&lt;i&gt;AES-256&lt;/i&gt; 或 &lt;i&gt;None&lt;/i&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose &lt;i&gt;Master&lt;/i&gt; if the UPS is plugged directly into the system serial port.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190306T164851Z" creationid="Yifei Ding" creationdate="20190306T164851Z">
+        <seg>选择&lt;i&gt;Master&lt;/i&gt;如果UPS被直接连接到系统串口。</seg>
       </tuv>
     </tu>
     <tu>
