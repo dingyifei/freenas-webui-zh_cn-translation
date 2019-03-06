@@ -1894,6 +1894,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose &lt;i&gt;ON&lt;/i&gt; to update the access time for files when they are read.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190306T164933Z" creationid="Yifei Ding" creationdate="20190306T164933Z">
+        <seg>选择&lt;i&gt;ON&lt;/i&gt; to update the access time for files when they are read.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose &lt;i&gt;Off&lt;/i&gt; to prevent producing log traffic when reading files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190306T164939Z" creationid="Yifei Ding" creationdate="20190306T164939Z">
+        <seg>选择&lt;i&gt;Off&lt;/i&gt; to prevent producing log traffic when reading files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose a color scheme.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234546Z" creationid="Yifei Ding" creationdate="20190211T234546Z">
@@ -1922,6 +1938,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T180618Z" creationid="Yifei Ding" creationdate="20190212T180604Z">
         <seg>选择一个存储池或数据集作为Jail的存储</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose a pool or dataset for the new zvol.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190306T165023Z" creationid="Yifei Ding" creationdate="20190306T165023Z">
+        <seg>选择一个存储池或数据集用于新的zvol。</seg>
       </tuv>
     </tu>
     <tu>
