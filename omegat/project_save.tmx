@@ -1718,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changing SDK version is not a supported operation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190306T163504Z" creationid="Yifei Ding" creationdate="20190306T163504Z">
+        <seg>更改SDK版本是不被支持的操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changing away from the nightly train is considered a downgrade and not a supported operation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T202926Z" creationid="Yifei Ding" creationdate="20190213T202926Z">
