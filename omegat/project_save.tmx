@@ -1790,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check the &lt;i&gt;hostid&lt;/i&gt; property of the jail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190306T163957Z" creationid="Yifei Ding" creationdate="20190306T163957Z">
+        <seg>检查Jail的&lt;i&gt;hostid&lt;/i&gt;设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check the network connection</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003802Z" creationid="Yifei Ding" creationdate="20190212T003802Z">
@@ -4554,6 +4562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200412Z" creationid="Yifei Ding" creationdate="20190211T200412Z">
         <seg>IPv6接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If not the same as the host, do not start the jail</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190306T164012Z" creationid="Yifei Ding" creationdate="20190306T164012Z">
+        <seg>如果与主机不同，请不要启动Jail</seg>
       </tuv>
     </tu>
     <tu>
