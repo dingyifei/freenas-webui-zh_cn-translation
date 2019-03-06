@@ -1982,6 +1982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose the FreeBSD release to use as the jail operating system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190306T165723Z" creationid="Yifei Ding" creationdate="20190306T165723Z">
+        <seg>选择用于Jail操作系统的FreeBSD发行版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose the VM operating system type.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234817Z" creationid="Yifei Ding" creationdate="20190211T234817Z">
@@ -5834,6 +5842,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231324Z" creationid="Yifei Ding" creationdate="20190211T231324Z">
         <seg>发行备注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Releases that have already been downloaded show &lt;b&gt;(fetched)&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190306T165757Z" creationid="Yifei Ding" creationdate="20190306T165757Z">
+        <seg>已下载的发行版会被标注为&lt;b&gt;(fetched)&lt;/b&gt;。</seg>
       </tuv>
     </tu>
     <tu>
