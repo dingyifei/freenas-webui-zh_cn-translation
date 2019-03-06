@@ -1286,6 +1286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatically reboot the system after the update is applied.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190306T163038Z" creationid="Yifei Ding" creationdate="20190306T163038Z">
+        <seg>在更新被应用后自动重启系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Available Disks</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234038Z" creationid="Yifei Ding" creationdate="20190211T234038Z">
@@ -1577,6 +1585,14 @@
         <seg>Can be no greater than 15                  characters.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T074055Z" creationid="Yifei Ding" creationdate="20190213T074055Z">
+        <seg>不能长于15个字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can be no greater than 15 characters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190306T162903Z" creationid="Yifei Ding" creationdate="20190306T162903Z">
         <seg>不能长于15个字符。</seg>
       </tuv>
     </tu>
@@ -1961,6 +1977,14 @@
         <seg>Click Edit to configure                  that backend</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T234711Z" creationid="Yifei Ding" creationdate="20190301T234711Z">
+        <seg>点击编辑来配置后端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Edit to configure that backend</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190306T163107Z" creationid="Yifei Ding" creationdate="20190306T163107Z">
         <seg>点击编辑来配置后端</seg>
       </tuv>
     </tu>
