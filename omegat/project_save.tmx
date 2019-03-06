@@ -950,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advanced Settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190306T162807Z" creationid="Yifei Ding" creationdate="20190306T162807Z">
+        <seg>高级设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After entering the &lt;b&gt;Hostname, Username&lt;/b&gt;, and &lt;b&gt;Password&lt;/b&gt;, click &lt;b&gt;Fetch Datastores&lt;/b&gt; and select the datastore to be synchronized.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T223608Z" creationid="Yifei Ding" creationdate="20190227T223608Z">
