@@ -1982,6 +1982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click                                   &lt;i&gt;APPLY PENDING UPDATE&lt;/i&gt; to install                                   the downloaded update.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190306T164508Z" creationid="Yifei Ding" creationdate="20190306T164508Z">
+        <seg>点击&lt;i&gt;APPLY PENDING UPDATE&lt;/i&gt;安装已下载的更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click &lt;b&gt;Browse&lt;/b&gt; to select a recovery key to upload.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T235210Z" creationid="Yifei Ding" creationdate="20190301T235210Z">
