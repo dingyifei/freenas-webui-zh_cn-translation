@@ -1974,6 +1974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click &lt;b&gt;Generate MAC Address&lt;/b&gt; to add a new randomized address into this field.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190306T163424Z" creationid="Yifei Ding" creationdate="20190306T163424Z">
+        <seg>点击&lt;b&gt;生成MAC地址&lt;/b&gt;添加一个随机MAC地址到这个区域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click Edit to configure                  that backend</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T234711Z" creationid="Yifei Ding" creationdate="20190301T234711Z">
