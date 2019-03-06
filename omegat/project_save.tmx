@@ -1814,6 +1814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check the update server daily for                                   any updates on the chosen train.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190306T164434Z" creationid="Yifei Ding" creationdate="20190306T164434Z">
+        <seg>每天检查更新服务器，获取选择分支的更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check this to redirect &lt;i&gt;HTTP&lt;/i&gt; connections to                  &lt;i&gt;HTTPS&lt;/i&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T012510Z" creationid="Yifei Ding" creationdate="20190220T012440Z">
