@@ -2878,6 +2878,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Define a time to start the replication task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T184721Z" creationid="Yifei Ding" creationdate="20190307T184721Z">
+        <seg>定义一个启动复制任务的时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Define an &lt;b&gt;existing&lt;/b&gt; pool or dataset as the user home directory and adjust the permissions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T184928Z" creationid="Yifei Ding" creationdate="20190307T184928Z">
+        <seg>定义一个&lt;b&gt;存在的&lt;/b&gt;存储池或数据集用于用户Home文件夹和修改权限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Define an &lt;i&gt;IP address or hostname:optional_port_number&lt;/i&gt; to send logs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T185033Z" creationid="Yifei Ding" creationdate="20190307T185033Z">
+        <seg>定义一个&lt;i&gt;IP地址或域名:可选端口号&lt;/i&gt;来发送日志。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delay Updates</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T182354Z" creationid="Yifei Ding" creationdate="20190212T182354Z">
