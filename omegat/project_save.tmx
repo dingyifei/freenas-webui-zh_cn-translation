@@ -2014,6 +2014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose the days of the week to take snapshots.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T171107Z" creationid="Yifei Ding" creationdate="20190307T171107Z">
+        <seg>选择创建快照的星期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose the test type.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T180943Z" creationid="Yifei Ding" creationdate="20190212T180943Z">
@@ -2026,6 +2034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T182229Z" creationid="Yifei Ding" creationdate="20190212T182229Z">
         <seg>选择磁盘的文件系统类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose when the UPS initiates shutdown.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T171256Z" creationid="Yifei Ding" creationdate="20190307T171256Z">
+        <seg>选择UPS开始关机的时间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6306,6 +6322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232722Z" creationid="Yifei Ding" creationdate="20190211T232722Z">
         <seg>快照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some types will degrade performance or                take disks offline.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T171211Z" creationid="Yifei Ding" creationdate="20190307T171211Z">
+        <seg>一些类型会降低性能或使磁盘下线。</seg>
       </tuv>
     </tu>
     <tu>
