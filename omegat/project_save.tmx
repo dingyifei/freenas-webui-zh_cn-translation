@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;i&gt;Semi-automatic&lt;/i&gt; only works with remote                 version 9.10.2 or later.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T171044Z" creationid="Yifei Ding" creationdate="20190307T171044Z">
+        <seg>&lt;i&gt;半自动&lt;/i&gt;只在远程V9.10.2和更新的版本工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;i&gt;Sensitive&lt;/i&gt; assumes filenames are case sensitive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T222122Z" creationid="Yifei Ding" creationdate="20190214T222122Z">
@@ -1994,6 +2002,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234817Z" creationid="Yifei Ding" creationdate="20190211T234817Z">
         <seg>选择虚拟机操作系统类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose the configuration mode for the remote.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T170942Z" creationid="Yifei Ding" creationdate="20190307T170942Z">
+        <seg>选择远程的配置模式。</seg>
       </tuv>
     </tu>
     <tu>
