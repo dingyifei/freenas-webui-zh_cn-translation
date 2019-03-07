@@ -240,8 +240,8 @@
       <tuv lang="EN-US">
         <seg>&lt;br&gt;&lt;b&gt;Disable&lt;/b&gt;: Stop the jail from using IPv4 entirely.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T184030Z" creationid="Yifei Ding" creationdate="20190307T184030Z">
-        <seg>&lt;br&gt;&lt;b&gt;禁用&lt;/b&gt;：完全阻止Jail使用IPv4</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T184129Z" creationid="Yifei Ding" creationdate="20190307T184030Z">
+        <seg>&lt;br&gt;&lt;b&gt;禁用&lt;/b&gt;：完全阻止Jail使用IPv4。</seg>
       </tuv>
     </tu>
     <tu>
@@ -626,6 +626,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T203201Z" creationid="Yifei Ding" creationdate="20190227T203201Z">
         <seg>已分配一个随机的MAC地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A restart is required to apply &lt;i&gt;loader&lt;/i&gt; or &lt;i&gt;rc.conf&lt;/i&gt; tunables.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T184252Z" creationid="Yifei Ding" creationdate="20190307T184252Z">
+        <seg>必须重启以应用&lt;i&gt;loader&lt;/i&gt; or &lt;i&gt;rc.conf&lt;/i&gt; tunables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2464,8 +2472,8 @@
       <tuv lang="EN-US">
         <seg>Control the availability of IPv6 addresses.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T172645Z" creationid="Yifei Ding" creationdate="20190212T172645Z">
-        <seg>控制IPv6地址可用性</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T184130Z" creationid="Yifei Ding" creationdate="20190212T172645Z">
+        <seg>控制IPv6地址可用性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2570,6 +2578,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012124Z" creationid="Yifei Ding" creationdate="20190212T012124Z">
         <seg>创建一个存储池：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a snapshot of the dataset before pushing data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T184207Z" creationid="Yifei Ding" creationdate="20190307T184207Z">
+        <seg>在推送数据前创建一个数据集的快照。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2698,6 +2714,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>仪表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Database Path</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T184347Z" creationid="Yifei Ding" creationdate="20190307T184347Z">
+        <seg>数据库路径</seg>
       </tuv>
     </tu>
     <tu>
