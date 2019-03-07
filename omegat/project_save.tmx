@@ -2134,10 +2134,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cloud Sync Tasks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T182707Z" creationid="Yifei Ding" creationdate="20190307T182707Z">
+        <seg>云同步任务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cloud sync has started.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T182714Z" creationid="Yifei Ding" creationdate="20190307T182714Z">
+        <seg>云同步已启动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Command</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T055853Z" creationid="Yifei Ding" creationdate="20190212T055853Z">
         <seg>命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commands to run in the system environment after a jail is removed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T182822Z" creationid="Yifei Ding" creationdate="20190307T182822Z">
+        <seg>在一个Jail被移除后运行于系统环境中的命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commands to run in the system environment after a jail is stopped.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T182837Z" creationid="Yifei Ding" creationdate="20190307T182837Z">
+        <seg>在一个Jail停止后运行于系统环境中的命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commands to run in the system environment before a jail is created.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T182853Z" creationid="Yifei Ding" creationdate="20190307T182853Z">
+        <seg>在一个Jail创建后运行于系统环境中的命令</seg>
       </tuv>
     </tu>
     <tu>
