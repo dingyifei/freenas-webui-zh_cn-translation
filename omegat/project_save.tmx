@@ -294,10 +294,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;br&gt;Example: &lt;b&gt;re0|fe80::/64&lt;/b&gt; &lt;br&gt;Multiple interface format: &lt;b&gt;[interface|]ip-address[/netmask],[interface|]ip-address[/netmask]&lt;/b&gt;.&lt;br&gt;Example: &lt;b&gt;re1|2607:f0d0:1002:51:0000:0000:0000:0004, re5|2001:db8:85a3::8a2e:370:7334/24&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T183657Z" creationid="Yifei Ding" creationdate="20190307T183115Z">
+        <seg>&lt;br&gt;例子：&lt;b&gt;re0|fe80::/64&lt;/b&gt; &lt;br&gt;多接口格式：&lt;b&gt;[interface|]ip-address[/netmask],[interface|]ip-address[/netmask]&lt;/b&gt;.&lt;br&gt;例子： &lt;b&gt;re1|2607:f0d0:1002:51:0000:0000:0000:0004, re5|2001:db8:85a3::8a2e:370:7334/24&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;br&gt;Example: &lt;b&gt;vnet2|192.168.0.15/24&lt;/b&gt; &lt;br&gt;Multiple interface format: &lt;b&gt;[interface|]ip-address[/netmask],[interface|]ip-address[/netmask]&lt;/b&gt;.&lt;br&gt;Example: &lt;b&gt;192.168.0.10/24,vnet3|192.168.10.50&lt;/b&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060155Z" creationid="Yifei Ding" creationdate="20190212T060155Z">
-        <seg>&lt;br&gt;例子：&lt;b&gt;vnet2|192.168.0.15/24&lt;/b&gt; &lt;br&gt;多接口模式：&lt;b&gt;[interface|]ip-address[/netmask],[interface|]ip-address[/netmask]&lt;/b&gt;.&lt;br&gt;Example: &lt;b&gt;192.168.0.10/24,vnet3|192.168.10.50&lt;/b&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T183128Z" creationid="Yifei Ding" creationdate="20190212T060155Z">
+        <seg>&lt;br&gt;例子：&lt;b&gt;vnet2|192.168.0.15/24&lt;/b&gt; &lt;br&gt;多接口格式：&lt;b&gt;[interface|]ip-address[/netmask],[interface|]ip-address[/netmask]&lt;/b&gt;.&lt;br&gt;Example: &lt;b&gt;192.168.0.10/24,vnet3|192.168.10.50&lt;/b&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2160,24 +2168,48 @@
       <tuv lang="EN-US">
         <seg>Commands to run in the system environment after a jail is removed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T182822Z" creationid="Yifei Ding" creationdate="20190307T182822Z">
-        <seg>在一个Jail被移除后运行于系统环境中的命令</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T182857Z" creationid="Yifei Ding" creationdate="20190307T182822Z">
+        <seg>在一个Jail移除后运行于系统环境中的命令</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Commands to run in the system environment after a jail is stopped.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T182837Z" creationid="Yifei Ding" creationdate="20190307T182837Z">
-        <seg>在一个Jail停止后运行于系统环境中的命令</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T182922Z" creationid="Yifei Ding" creationdate="20190307T182837Z">
+        <seg>在一个Jail被停止后运行于系统环境中的命令</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Commands to run in the system environment before a jail is created.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T182853Z" creationid="Yifei Ding" creationdate="20190307T182853Z">
-        <seg>在一个Jail创建后运行于系统环境中的命令</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T182925Z" creationid="Yifei Ding" creationdate="20190307T182853Z">
+        <seg>在一个Jail被创建后运行于系统环境中的命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commands to run in the system environment before a jail is removed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T182944Z" creationid="Yifei Ding" creationdate="20190307T182914Z">
+        <seg>在一个Jail被移除前运行于系统环境中的命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commands to run in the system environment before a jail is started.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T182953Z" creationid="Yifei Ding" creationdate="20190307T182938Z">
+        <seg>在一个Jail被启动前运行于系统环境中的命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commands to run in the system environment before a jail is stopped.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T183008Z" creationid="Yifei Ding" creationdate="20190307T183008Z">
+        <seg>在一个Jail被停止前运行于系统环境中的命令</seg>
       </tuv>
     </tu>
     <tu>
