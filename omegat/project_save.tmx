@@ -304,8 +304,8 @@
       <tuv lang="EN-US">
         <seg>&lt;br&gt;Example: &lt;b&gt;vnet2|192.168.0.15/24&lt;/b&gt; &lt;br&gt;Multiple interface format: &lt;b&gt;[interface|]ip-address[/netmask],[interface|]ip-address[/netmask]&lt;/b&gt;.&lt;br&gt;Example: &lt;b&gt;192.168.0.10/24,vnet3|192.168.10.50&lt;/b&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T183128Z" creationid="Yifei Ding" creationdate="20190212T060155Z">
-        <seg>&lt;br&gt;例子：&lt;b&gt;vnet2|192.168.0.15/24&lt;/b&gt; &lt;br&gt;多接口格式：&lt;b&gt;[interface|]ip-address[/netmask],[interface|]ip-address[/netmask]&lt;/b&gt;.&lt;br&gt;Example: &lt;b&gt;192.168.0.10/24,vnet3|192.168.10.50&lt;/b&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T183716Z" creationid="Yifei Ding" creationdate="20190212T060155Z">
+        <seg>&lt;br&gt;例子：&lt;b&gt;vnet2|192.168.0.15/24&lt;/b&gt; &lt;br&gt;多接口格式：&lt;b&gt;[interface|]ip-address[/netmask],[interface|]ip-address[/netmask]&lt;/b&gt;。&lt;br&gt;例子：&lt;b&gt;192.168.0.10/24,vnet3|192.168.10.50&lt;/b&gt;</seg>
       </tuv>
     </tu>
     <tu>
