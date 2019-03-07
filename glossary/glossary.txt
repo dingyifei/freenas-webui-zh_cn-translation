@@ -69,3 +69,5 @@ Authentication	验证
 account username	用户名
 account username	账户用户名
 Optional	可选
+define	定义
+remove	移除
