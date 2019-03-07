@@ -1022,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the time expires, the snapshot is removed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T184650Z" creationid="Yifei Ding" creationdate="20190307T184650Z">
+        <seg>当时间到期，快照会被移除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alert</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233748Z" creationid="Yifei Ding" creationdate="20190211T233748Z">
@@ -2766,6 +2774,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dedicated User</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T184406Z" creationid="Yifei Ding" creationdate="20190307T184406Z">
+        <seg>专用用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dedicated User Enabled</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T184424Z" creationid="Yifei Ding" creationdate="20190307T184424Z">
+        <seg>专用用户已启用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default Permissions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060427Z" creationid="Yifei Ding" creationdate="20190212T060427Z">
@@ -2798,6 +2822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default directory permissions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T184433Z" creationid="Yifei Ding" creationdate="20190307T184433Z">
+        <seg>默认文件夹权限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default file permissions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T074228Z" creationid="Yifei Ding" creationdate="20190213T074228Z">
@@ -2826,6 +2858,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T004859Z" creationid="Yifei Ding" creationdate="20190212T004859Z">
         <seg>默认是“nobody”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default umask</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T184449Z" creationid="Yifei Ding" creationdate="20190307T184449Z">
+        <seg>默认掩码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Define a length of time to retain the snapshot on this                system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T184555Z" creationid="Yifei Ding" creationdate="20190307T184555Z">
+        <seg>定义一个在这个系统上保存快照的时间。</seg>
       </tuv>
     </tu>
     <tu>
