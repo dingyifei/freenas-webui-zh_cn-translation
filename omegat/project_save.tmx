@@ -2078,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Edit to configure that backend.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T170928Z" creationid="Yifei Ding" creationdate="20190307T170928Z">
+        <seg>点击“修改”来配置后端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clients</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011757Z" creationid="Yifei Ding" creationdate="20190212T011757Z">
