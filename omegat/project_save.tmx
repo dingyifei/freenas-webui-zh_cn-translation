@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;br&gt;&lt;b&gt;Disable&lt;/b&gt;: Stop the jail from using IPv4 entirely.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T184030Z" creationid="Yifei Ding" creationdate="20190307T184030Z">
+        <seg>&lt;br&gt;&lt;b&gt;禁用&lt;/b&gt;：完全阻止Jail使用IPv4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;br&gt;&lt;b&gt;Disable&lt;/b&gt;: The jail cannot perform any &lt;b&gt;sysvmsg&lt;/b&gt; related system calls.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T234342Z" creationid="Yifei Ding" creationdate="20190220T011610Z">
@@ -262,10 +270,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;br&gt;&lt;b&gt;Inherit&lt;/b&gt;: Allow unrestricted access to all system addresses.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T183937Z" creationid="Yifei Ding" creationdate="20190307T183840Z">
+        <seg>&lt;br&gt;&lt;b&gt;继承&lt;/b&gt;：允许对全部系统地址的无限制访问。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;br&gt;&lt;b&gt;New&lt;/b&gt;: Only objects the jail creates using the private key namespace are visible.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T005351Z" creationid="Yifei Ding" creationdate="20190220T011558Z">
         <seg>&lt;br&gt;&lt;b&gt;新&lt;/b&gt;：只有被Jail使用私钥命名空间创建的对象为可见。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;br&gt;&lt;b&gt;New&lt;/b&gt;: Restrict addresses with &lt;b&gt;ip4_addr&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T183921Z" creationid="Yifei Ding" creationdate="20190307T183845Z">
+        <seg>&lt;br&gt;&lt;b&gt;新&lt;/b&gt;：限制地址使用&lt;b&gt;ip4_addr&lt;/b&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;br&gt;&lt;b&gt;New&lt;/b&gt;: Restrict addresses with &lt;b&gt;ip6_addr&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T184126Z" creationid="Yifei Ding" creationdate="20190307T184126Z">
+        <seg>&lt;br&gt;&lt;b&gt;新&lt;/b&gt;：限制地址使用&lt;b&gt;ip6_addr&lt;/b&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2378,6 +2410,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011934Z" creationid="Yifei Ding" creationdate="20190212T011934Z">
         <seg>连接性测试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contact</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T183800Z" creationid="Yifei Ding" creationdate="20190307T183800Z">
+        <seg>联系方式</seg>
       </tuv>
     </tu>
     <tu>
