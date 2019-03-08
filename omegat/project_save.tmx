@@ -3142,10 +3142,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Describe the VM or its purpose.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T225959Z" creationid="Yifei Ding" creationdate="20190308T225959Z">
+        <seg>描述虚拟机或其用途。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Describe the problem and provide any steps to                   replicate the issue.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T224755Z" creationid="Yifei Ding" creationdate="20190301T224755Z">
         <seg>描述问题并提供复现问题的步骤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Describe the scrub task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T230015Z" creationid="Yifei Ding" creationdate="20190308T230015Z">
+        <seg>描述这个Scrub任务</seg>
       </tuv>
     </tu>
     <tu>
@@ -3696,8 +3712,8 @@
       <tuv lang="EN-US">
         <seg>Enable this task.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224818Z" creationid="Yifei Ding" creationdate="20190212T224818Z">
-        <seg>启用这个服务。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T230036Z" creationid="Yifei Ding" creationdate="20190212T224818Z">
+        <seg>启用这个任务。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3722,6 +3738,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T224251Z" creationid="Yifei Ding" creationdate="20190301T224251Z">
         <seg>加密密钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Encryption Key Required</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T230215Z" creationid="Yifei Ding" creationdate="20190308T230215Z">
+        <seg>需要加密密钥</seg>
       </tuv>
     </tu>
     <tu>
