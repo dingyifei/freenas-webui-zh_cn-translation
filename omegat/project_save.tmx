@@ -3806,6 +3806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter a comma-delimited list of hostnames or IP addresses.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T230322Z" creationid="Yifei Ding" creationdate="20190308T230322Z">
+        <seg>输入一个逗号分隔的域名或IP地址列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter a custom address into the field to override the default.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T174712Z" creationid="Yifei Ding" creationdate="20190212T174712Z">
