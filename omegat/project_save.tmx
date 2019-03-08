@@ -1302,6 +1302,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply Group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T163140Z" creationid="Yifei Ding" creationdate="20190308T163140Z">
+        <seg>应用群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply Mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T163145Z" creationid="Yifei Ding" creationdate="20190308T163145Z">
+        <seg>应用模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply Pending Updates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T163230Z" creationid="Yifei Ding" creationdate="20190308T163230Z">
+        <seg>应用待决更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Authorized Hosts and IP addresses</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T012044Z" creationid="Yifei Ding" creationdate="20190220T012044Z">
@@ -5840,8 +5864,8 @@
       <tuv lang="EN-US">
         <seg>Please reboot the system.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233934Z" creationid="Yifei Ding" creationdate="20190211T233934Z">
-        <seg>请重启系统</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T163118Z" creationid="Yifei Ding" creationdate="20190211T233934Z">
+        <seg>请重启系统。</seg>
       </tuv>
     </tu>
     <tu>
