@@ -73,3 +73,4 @@ define	定义
 remove	移除
 Block	块
 Method	方式
+VM	虚拟机
