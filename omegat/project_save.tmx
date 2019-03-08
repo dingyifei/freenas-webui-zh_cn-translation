@@ -2998,6 +2998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Define the size of the raw file in GiB.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T225453Z" creationid="Yifei Ding" creationdate="20190308T225453Z">
+        <seg>定义Raw文件大小，以GiB为单位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delay Updates</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T182354Z" creationid="Yifei Ding" creationdate="20190212T182354Z">
@@ -7026,6 +7034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062206Z" creationid="Yifei Ding" creationdate="20190211T062206Z">
         <seg>时区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To change the default &lt;i&gt;HTTP&lt;/i&gt; to &lt;i&gt;HTTPS&lt;/i&gt; or &lt;i&gt;HTTP+HTTPS&lt;/i&gt;, a &lt;b&gt;Certificate&lt;/b&gt; must also be chosen.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T225639Z" creationid="Yifei Ding" creationdate="20190308T225639Z">
+        <seg>修改默认的&lt;i&gt;HTTP&lt;/i&gt;到&lt;i&gt;HTTPS&lt;/i&gt;或&lt;i&gt;HTTP+HTTPS&lt;/i&gt;需要一个&lt;b&gt;证书&lt;/b&gt; 必须被选择。</seg>
       </tuv>
     </tu>
     <tu>
