@@ -1350,6 +1350,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply permissions recursively to all directories and files within the current dataset</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T164000Z" creationid="Yifei Ding" creationdate="20190308T164000Z">
+        <seg>递归的应用权限到所有当前数据集内的文件夹和文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply updates and reboot system after downloading.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T164026Z" creationid="Yifei Ding" creationdate="20190308T164026Z">
+        <seg>在下载后应用更新并重启。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Authorized Hosts and IP addresses</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T012044Z" creationid="Yifei Ding" creationdate="20190220T012044Z">
