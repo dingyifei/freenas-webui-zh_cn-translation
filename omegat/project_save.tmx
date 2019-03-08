@@ -3014,6 +3014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delay VM Boot until VNC Connects</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T225713Z" creationid="Yifei Ding" creationdate="20190308T225713Z">
+        <seg>推迟VM启动直到VNC连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T172914Z" creationid="Yifei Ding" creationdate="20190212T172914Z">
@@ -3054,6 +3062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete Stale Snapshots on Remote System</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T225744Z" creationid="Yifei Ding" creationdate="20190308T225744Z">
+        <seg>删除远程系统的陈旧快照。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete Zvol</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T182415Z" creationid="Yifei Ding" creationdate="20190212T182415Z">
@@ -3062,10 +3078,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete all users with this primary group?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T225831Z" creationid="Yifei Ding" creationdate="20190308T225831Z">
+        <seg>在删除此主组时删除全部此组的用户？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete selections</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T074500Z" creationid="Yifei Ding" creationdate="20190213T074500Z">
         <seg>删除选中项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete snapshot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T225847Z" creationid="Yifei Ding" creationdate="20190308T225847Z">
+        <seg>删除快照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete the dataset</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T225853Z" creationid="Yifei Ding" creationdate="20190308T225853Z">
+        <seg>删除数据集</seg>
       </tuv>
     </tu>
     <tu>
@@ -3082,6 +3122,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T183847Z" creationid="Yifei Ding" creationdate="20190212T183847Z">
         <seg>删除zvol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleted Recovery Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T225911Z" creationid="Yifei Ding" creationdate="20190308T225911Z">
+        <seg>已删除恢复密钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Describe the UPS device.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T225928Z" creationid="Yifei Ding" creationdate="20190308T225928Z">
+        <seg>描述UPS设备。</seg>
       </tuv>
     </tu>
     <tu>
