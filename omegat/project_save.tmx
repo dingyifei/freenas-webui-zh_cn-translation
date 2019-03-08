@@ -6878,10 +6878,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default is a multiple of                7 to ensure the scrub always occurs on the same                weekday.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T225351Z" creationid="Yifei Ding" creationdate="20190308T225351Z">
+        <seg>默认是一个7的倍数以保证Scrub总是在一周里的同一天发生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The default port is &lt;i&gt;3493&lt;/i&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T181832Z" creationid="Yifei Ding" creationdate="20190305T181832Z">
         <seg>默认端口是&lt;i&gt;3493&lt;/i&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The minimum is &lt;i&gt;2000&lt;/i&gt; and the recommended default is &lt;i&gt;100000&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T225201Z" creationid="Yifei Ding" creationdate="20190308T225201Z">
+        <seg>最小值是&lt;i&gt;2000&lt;/i&gt;，推荐默认是&lt;i&gt;100000&lt;/i&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6946,6 +6962,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T044729Z" creationid="Yifei Ding" creationdate="20190213T044729Z">
         <seg>此区域为必填。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This ignores any                other calendar schedule.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T225242Z" creationid="Yifei Ding" creationdate="20190308T225242Z">
+        <seg>忽略任何其他的计划日历。</seg>
       </tuv>
     </tu>
     <tu>
