@@ -1366,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auth Method</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T164506Z" creationid="Yifei Ding" creationdate="20190308T164506Z">
+        <seg>捡到方式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Authorized Hosts and IP addresses</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T012044Z" creationid="Yifei Ding" creationdate="20190220T012044Z">
@@ -2088,8 +2096,8 @@
       <tuv lang="EN-US">
         <seg>Choose an authentication method.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T160836Z" creationid="Yifei Ding" creationdate="20190301T160836Z">
-        <seg>选择一个验证模式。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T164513Z" creationid="Yifei Ding" creationdate="20190301T160836Z">
+        <seg>选择一个验证方式。</seg>
       </tuv>
     </tu>
     <tu>
