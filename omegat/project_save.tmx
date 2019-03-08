@@ -1326,6 +1326,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply Pending update</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T163248Z" creationid="Yifei Ding" creationdate="20190308T163248Z">
+        <seg>应用待决更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply User</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T163315Z" creationid="Yifei Ding" creationdate="20190308T163315Z">
+        <seg>应用用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply permissions recursively</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T163826Z" creationid="Yifei Ding" creationdate="20190308T163826Z">
+        <seg>递归的应用权限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Authorized Hosts and IP addresses</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T012044Z" creationid="Yifei Ding" creationdate="20190220T012044Z">
