@@ -2974,6 +2974,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Define the jail core dump size in bytes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T224600Z" creationid="Yifei Ding" creationdate="20190308T224600Z">
+        <seg>定义Jail核心转储大小(bytes)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Define the jail data size in bytes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T224636Z" creationid="Yifei Ding" creationdate="20190308T224636Z">
+        <seg>定义Jail data size(bytes)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Define the jail stack size in bytes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T225037Z" creationid="Yifei Ding" creationdate="20190308T225037Z">
+        <seg>定义Jail栈大小(Bytes)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delay Updates</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T182354Z" creationid="Yifei Ding" creationdate="20190212T182354Z">
