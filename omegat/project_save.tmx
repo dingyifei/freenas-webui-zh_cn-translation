@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;i&gt;Default (Clone Jail)&lt;/i&gt; or &lt;i&gt;Basejail&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T192553Z" creationid="Yifei Ding" creationdate="20190312T192553Z">
+        <seg>&lt;i&gt;默认（克隆Jail）&lt;/i&gt;或&lt;i&gt;Basejail&lt;/i&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;i&gt;Device&lt;/i&gt; shares an entire device.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T195035Z" creationid="Yifei Ding" creationdate="20190305T195035Z">
@@ -2274,6 +2282,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011757Z" creationid="Yifei Ding" creationdate="20190212T011757Z">
         <seg>客户端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clone jails are clones of the specified RELEASE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T192729Z" creationid="Yifei Ding" creationdate="20190312T192658Z">
+        <seg>克隆Jail是特定版本的克隆。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7066,6 +7082,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T182414Z" creationid="Yifei Ding" creationdate="20190305T182414Z">
         <seg>这些Token会失效并需要延期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are linked to that RELEASE, even if they are upgraded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T192811Z" creationid="Yifei Ding" creationdate="20190312T192723Z">
+        <seg>它们被链接到那个版本，即时它们被升级了。</seg>
       </tuv>
     </tu>
     <tu>
