@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>) before configuring other interfaces to avoid losing connection to the user interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T192056Z" creationid="Yifei Ding" creationdate="20190312T192056Z">
+        <seg>）前配置其他接口来避免丢失用户界面的连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>0=Disabled, blank=inherit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T214710Z" creationid="Yifei Ding" creationdate="20190214T214710Z">
@@ -354,6 +362,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T191136Z" creationid="Yifei Ding" creationdate="20190227T191136Z">
         <seg>&lt;font color="red"&gt;警告&lt;/font&gt;：使用&lt;i&gt;rid&lt;/i&gt;或&lt;i&gt;autorid&lt;/i&gt; for networks with only Windows computers,             like most home networks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;font color="red"&gt;WARNING&lt;/font&gt;: use &lt;i&gt;rid&lt;/i&gt; or &lt;i&gt;autorid&lt;/i&gt; for networks with only Windows computers, like most home networks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T192257Z" creationid="Yifei Ding" creationdate="20190312T192257Z">
+        <seg>&lt;font color="red"&gt;警告&lt;/font&gt;：在网络内只有Windows操作系统的电脑时使用&lt;i&gt;rid&lt;/i&gt;或&lt;i&gt;autorid&lt;/i&gt;，例如大多数家庭网络。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7014,6 +7030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The pool data can also be wiped by setting the related option.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T192021Z" creationid="Yifei Ding" creationdate="20190312T192021Z">
+        <seg>存储池数据可以通过设置相关选项被抹掉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These options are case-sensitive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233629Z" creationid="Yifei Ding" creationdate="20190211T233629Z">
@@ -7690,6 +7714,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190306T165542Z" creationid="Yifei Ding" creationdate="20190306T165542Z">
         <seg>iocage使用这个数据集来存储FreeBSD发行版和所有其他的Jail数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>is the minimum recommended record size.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T191949Z" creationid="Yifei Ding" creationdate="20190312T191949Z">
+        <seg>是最小推荐记录体积。</seg>
       </tuv>
     </tu>
     <tu>
