@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A specified value applies to both this dataset and any child datasets.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T192419Z" creationid="Yifei Ding" creationdate="20190312T192419Z">
+        <seg>一个具体的数值会被应用在此数据集和任何的子数据集。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A swap size of 0 is STRONGLY DISCOURAGED.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190215T181944Z" creationid="Yifei Ding" creationdate="20190215T181944Z">
@@ -6370,6 +6378,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224619Z" creationid="Yifei Ding" creationdate="20190212T224619Z">
         <seg>要求&lt;i&gt;UEFI&lt;/i&gt;引导。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reserve additional space for datasets containing logs which could take up all available free space.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T192524Z" creationid="Yifei Ding" creationdate="20190312T192524Z">
+        <seg>保留额外空间用于保存日志的数据集，日志可能会占用全部可用空间。</seg>
       </tuv>
     </tu>
     <tu>
