@@ -918,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add Cloud Credential</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T193739Z" creationid="Yifei Ding" creationdate="20190312T193739Z">
+        <seg>添加云凭据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add Data</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T052006Z" creationid="Yifei Ding" creationdate="20190213T052006Z">
@@ -994,6 +1002,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T223041Z" creationid="Yifei Ding" creationdate="20190228T223021Z">
         <seg>添加更多&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=sshd_config" target="_blank"&gt;sshd_config(5)&lt;/a&gt;不被此页包含的选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add any notes about this zvol.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T193810Z" creationid="Yifei Ding" creationdate="20190312T193810Z">
+        <seg>输入这个zvol的备注。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7874,6 +7890,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T191949Z" creationid="Yifei Ding" creationdate="20190312T191949Z">
         <seg>是最小推荐记录体积。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>local&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T193944Z" creationid="Yifei Ding" creationdate="20190312T193936Z">
+        <seg>本地&lt;/i&gt;。</seg>
       </tuv>
     </tu>
     <tu>
