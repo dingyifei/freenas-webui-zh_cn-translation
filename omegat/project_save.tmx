@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A User Access Token for &lt;a href="https://developer.box.com/" target="_blank"&gt;Box&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T193142Z" creationid="Yifei Ding" creationdate="20190312T193142Z">
+        <seg>用于&lt;a href="https://developer.box.com/" target="_blank"&gt;Box&lt;/a&gt;的用户访问令牌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A password must be set for the &lt;i&gt;root&lt;/i&gt; user in &lt;a href="%%docurl%%/account.html%%webversion%%#users" target="_blank"&gt;Users&lt;/a&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T183348Z" creationid="Yifei Ding" creationdate="20190305T183348Z">
@@ -4562,6 +4570,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T201304Z" creationid="Yifei Ding" creationdate="20190213T201304Z">
         <seg>估计总原始数据容量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example token: &lt;i&gt;T9cE5asGnuyYCCqIZFoWjFHvNbvVqHjl&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T193103Z" creationid="Yifei Ding" creationdate="20190312T193103Z">
+        <seg>样例令牌：&lt;i&gt;T9cE5asGnuyYCCqIZFoWjFHvNbvVqHjl&lt;/i&gt;.</seg>
       </tuv>
     </tu>
     <tu>
