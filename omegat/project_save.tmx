@@ -632,8 +632,8 @@
       <tuv lang="EN-US">
         <seg>A &lt;a href="https://blogs.dropbox.com/developers/2014/05/generate-an-access-token-for-your-own-account/" target="_blank"&gt;token must be generated&lt;/a&gt; in the account before adding it here.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T193510Z" creationid="Yifei Ding" creationdate="20190312T193510Z">
-        <seg>在被添加前，一个&lt;a href="https://blogs.dropbox.com/developers/2014/05/generate-an-access-token-for-your-own-account/" target="_blank"&gt;令牌必须被生成&lt;/a&gt;于这个账号。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T193524Z" creationid="Yifei Ding" creationdate="20190312T193510Z">
+        <seg>在被添加前，一个&lt;a href="https://blogs.dropbox.com/developers/2014/05/generate-an-access-token-for-your-own-account/" target="_blank"&gt;令牌必须被生成&lt;/a&gt;于这个账户。</seg>
       </tuv>
     </tu>
     <tu>
@@ -782,6 +782,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Account ID or Application Key ID</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T193535Z" creationid="Yifei Ding" creationdate="20190312T193517Z">
+        <seg>账户ID或应用密钥ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Account Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T193542Z" creationid="Yifei Ding" creationdate="20190312T193542Z">
+        <seg>账户密钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Account Name</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T213328Z" creationid="Yifei Ding" creationdate="20190212T004636Z">
@@ -834,6 +850,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233410Z" creationid="Yifei Ding" creationdate="20190211T233410Z">
         <seg>启用配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Active Directory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T193700Z" creationid="Yifei Ding" creationdate="20190312T193700Z">
+        <seg>活动目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Active Directory IDMAP change!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T193717Z" creationid="Yifei Ding" creationdate="20190312T193717Z">
+        <seg>活动目录IDMAP发生变化！</seg>
       </tuv>
     </tu>
     <tu>
