@@ -1576,8 +1576,8 @@
       <tuv lang="EN-US">
         <seg>Automatically compress data written to the zvol.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T041841Z" creationid="Yifei Ding" creationdate="20190313T041841Z">
-        <seg>在写入到zvol时自动压缩数据</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T041917Z" creationid="Yifei Ding" creationdate="20190313T041841Z">
+        <seg>在写入到zvol时自动压缩数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2210,6 +2210,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190306T164939Z" creationid="Yifei Ding" creationdate="20190306T164939Z">
         <seg>选择&lt;i&gt;Off&lt;/i&gt; to prevent producing log traffic when reading files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose a &lt;a href="%%docurl%%/storage.html%%webversion%%#compression" target="_blank"&gt;compression algorithm&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T041912Z" creationid="Yifei Ding" creationdate="20190313T041912Z">
+        <seg>选择一个&lt;a href="%%docurl%%/storage.html%%webversion%%#compression" target="_blank"&gt;加密算法&lt;/a&gt;。</seg>
       </tuv>
     </tu>
     <tu>
