@@ -5062,6 +5062,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guest Operating System</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T185510Z" creationid="Yifei Ding" creationdate="20190313T185510Z">
+        <seg>访客操作系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guide</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T185519Z" creationid="Yifei Ding" creationdate="20190313T185519Z">
+        <seg>教程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HDD Standby</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T185556Z" creationid="Yifei Ding" creationdate="20190313T185556Z">
+        <seg>HDD休眠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HTTP Port</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195822Z" creationid="Yifei Ding" creationdate="20190211T195822Z">
@@ -5114,6 +5138,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T233127Z" creationid="Yifei Ding" creationdate="20190212T233127Z">
         <seg>隐藏设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Standard Error</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T185611Z" creationid="Yifei Ding" creationdate="20190313T185611Z">
+        <seg>隐藏标准错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Standard Output</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T185616Z" creationid="Yifei Ding" creationdate="20190313T185616Z">
+        <seg>隐藏标准输出</seg>
       </tuv>
     </tu>
     <tu>
