@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Authentication Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T041631Z" creationid="Yifei Ding" creationdate="20190313T041631Z">
+        <seg>验证类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Authorized Hosts and IP addresses</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T012044Z" creationid="Yifei Ding" creationdate="20190220T012044Z">
@@ -1554,6 +1562,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234029Z" creationid="Yifei Ding" creationdate="20190211T234029Z">
         <seg>自动配置IPv6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Autoconfigure IPv6 with rtsold</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T041655Z" creationid="Yifei Ding" creationdate="20190313T041655Z">
+        <seg>使用rtsold自动配置IPv6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automatically compress data written to the zvol.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T041841Z" creationid="Yifei Ding" creationdate="20190313T041841Z">
+        <seg>在写入到zvol时自动压缩数据</seg>
       </tuv>
     </tu>
     <tu>
