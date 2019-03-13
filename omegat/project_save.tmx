@@ -2968,8 +2968,8 @@
       <tuv lang="EN-US">
         <seg>DNS timeout in seconds.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012344Z" creationid="Yifei Ding" creationdate="20190212T012344Z">
-        <seg>DNS超时（秒）</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T194132Z" creationid="Yifei Ding" creationdate="20190212T012344Z">
+        <seg>DNS超时（秒）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4790,6 +4790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example: &lt;i&gt;ldap://ldap.netscape.com/o=Airius.com&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T194038Z" creationid="Yifei Ding" creationdate="20190313T194038Z">
+        <seg>例子：&lt;i&gt;ldap://ldap.netscape.com/o=Airius.com&lt;/i&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example: &lt;i&gt;sh /etc/rc.shutdown&lt;/i&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T055906Z" creationid="Yifei Ding" creationdate="20190212T055906Z">
@@ -5502,10 +5510,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep the zvol name short.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T193936Z" creationid="Yifei Ding" creationdate="20190313T193936Z">
+        <seg>保持zvol名称简短。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keeping the default is recommended.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T230245Z" creationid="Yifei Ding" creationdate="20190212T230245Z">
         <seg>推荐保留为默认。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LDAP timeout</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T194043Z" creationid="Yifei Ding" creationdate="20190313T194043Z">
+        <seg>LDAP超时</seg>
       </tuv>
     </tu>
     <tu>
@@ -7658,6 +7682,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T044958Z" creationid="Yifei Ding" creationdate="20190211T060545Z">
         <seg>用户与群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using a zvol name longer than 63 characters can prevent accessing the zvol as a device.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T194022Z" creationid="Yifei Ding" creationdate="20190313T194022Z">
+        <seg>使用一个长于63个字符的zvol名称会使zvol不能作为一个设备进行访问。</seg>
       </tuv>
     </tu>
     <tu>
