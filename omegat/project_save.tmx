@@ -2280,8 +2280,8 @@
       <tuv lang="EN-US">
         <seg>Choose a pool to scrub.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T012647Z" creationid="Yifei Ding" creationdate="20190220T012641Z">
-        <seg>选择一个存储池来Scrub。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T223040Z" creationid="Yifei Ding" creationdate="20190220T012641Z">
+        <seg>选择一个存储池来进行scrub检查。</seg>
       </tuv>
     </tu>
     <tu>
