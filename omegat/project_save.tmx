@@ -2974,6 +2974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DOS Charset</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T194136Z" creationid="Yifei Ding" creationdate="20190313T194136Z">
+        <seg>DOS字符集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dashboard</seg>
       </tuv>
       <tuv lang="ZH-CN">
