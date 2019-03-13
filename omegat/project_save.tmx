@@ -2222,6 +2222,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose a &lt;i&gt;Drive Account Type&lt;/i&gt;: &lt;i&gt;PERSONAL, BUSINESS,&lt;/i&gt; or &lt;a href="https://products.office.com/en-us/sharepoint/collaboration" target="_blank"&gt;SharePoint&lt;/a&gt; &lt;i&gt;DOCUMENT_LIBRARY&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T221955Z" creationid="Yifei Ding" creationdate="20190313T221955Z">
+        <seg>选择一个&lt;i&gt;网盘账户类型&lt;/i&gt;： &lt;i&gt;个人，企业，&lt;/i&gt;或&lt;a href="https://products.office.com/en-us/sharepoint/collaboration" target="_blank"&gt;SharePoint&lt;/a&gt; &lt;i&gt;DOCUMENT_LIBRARY&lt;/i&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose a &lt;i&gt;Stripe&lt;/i&gt;, &lt;i&gt;Mirror&lt;/i&gt;, or &lt;i&gt;Raid-Z&lt;/i&gt; configuration for the chosen disk layout.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T222250Z" creationid="Yifei Ding" creationdate="20190313T222250Z">
+        <seg>选择&lt;i&gt;条带&lt;/i&gt;，&lt;i&gt;镜像&lt;/i&gt;，或&lt;i&gt;Raid-Z&lt;/i&gt; configuration for the chosen disk layout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose a color scheme.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234546Z" creationid="Yifei Ding" creationdate="20190211T234546Z">
