@@ -5470,6 +5470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jail Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T192051Z" creationid="Yifei Ding" creationdate="20190313T192051Z">
+        <seg>Jail类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jail core dump size in bytes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213635Z" creationid="Yifei Ding" creationdate="20190211T213635Z">
@@ -5482,6 +5490,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213702Z" creationid="Yifei Ding" creationdate="20190211T213702Z">
         <seg>Jail更新成功</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jails cannot be changed while running.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T193913Z" creationid="Yifei Ding" creationdate="20190313T193913Z">
+        <seg>Jails不能在运行时被修改。</seg>
       </tuv>
     </tu>
     <tu>
