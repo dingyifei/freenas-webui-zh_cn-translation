@@ -12494,10 +12494,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loading</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T180300Z" creationid="Yifei Ding" creationdate="20190318T180300Z">
+        <seg>载入中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loading...</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>加载...</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T180319Z">
+        <seg>载入中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15334,6 +15342,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T163118Z" creationid="Yifei Ding" creationdate="20190211T233934Z">
         <seg>请重启系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please try again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T180344Z" creationid="Yifei Ding" creationdate="20190318T180344Z">
+        <seg>请再次尝试。</seg>
       </tuv>
     </tu>
     <tu>
