@@ -4038,6 +4038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check For Update</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T182734Z" creationid="Yifei Ding" creationdate="20190318T182734Z">
+        <seg>检查更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check For Updates</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T180217Z" creationid="Yifei Ding" creationdate="20190318T180217Z">
@@ -10120,8 +10128,8 @@
       <tuv lang="EN-US">
         <seg>Guide</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T185519Z" creationid="Yifei Ding" creationdate="20190313T185519Z">
-        <seg>教程</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T182755Z" creationid="Yifei Ding" creationdate="20190313T185519Z">
+        <seg>指南</seg>
       </tuv>
     </tu>
     <tu>
@@ -10584,8 +10592,8 @@
       <tuv lang="EN-US">
         <seg>IPMI successfully edited</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>IPMI 已编辑</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T182525Z">
+        <seg>IPMI编辑成功</seg>
       </tuv>
     </tu>
     <tu>
@@ -11226,6 +11234,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>密码短语不正确</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Incorrect password.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T182614Z" creationid="Yifei Ding" creationdate="20190318T182614Z">
+        <seg>密码错误。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21142,6 +21158,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>容错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trains</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T182713Z" creationid="Yifei Ding" creationdate="20190318T182713Z">
+        <seg>分支</seg>
       </tuv>
     </tu>
     <tu>
