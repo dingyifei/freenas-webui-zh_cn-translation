@@ -4558,6 +4558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cloud Credentials</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T181918Z" creationid="Yifei Ding" creationdate="20190318T181918Z">
+        <seg>云凭据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cloud Sync Tasks</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T182707Z" creationid="Yifei Ding" creationdate="20190307T182707Z">
@@ -5538,6 +5546,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012239Z" creationid="Yifei Ding" creationdate="20190212T012239Z">
         <seg>创建Jail中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credential</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T181956Z" creationid="Yifei Ding" creationdate="20190318T181956Z">
+        <seg>凭据</seg>
       </tuv>
     </tu>
     <tu>
@@ -8976,8 +8992,8 @@
       <tuv lang="EN-US">
         <seg>Example: 1g</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>如：1G</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T182126Z">
+        <seg>例子：1G</seg>
       </tuv>
     </tu>
     <tu>
@@ -9602,6 +9618,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T221119Z" creationid="Yifei Ding" creationdate="20190228T221119Z">
         <seg>从源地址中删除的文件也将会从目标地址中删除，类似于&lt;i&gt;rsync --delete&lt;/i&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filesystem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T182038Z" creationid="Yifei Ding" creationdate="20190318T182038Z">
+        <seg>文件系统</seg>
       </tuv>
     </tu>
     <tu>
@@ -11862,6 +11886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jail template successfully edited.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T182046Z" creationid="Yifei Ding" creationdate="20190318T182046Z">
+        <seg>Jail 模板编辑成功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jail updated successfully.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213702Z" creationid="Yifei Ding" creationdate="20190211T213702Z">
@@ -14036,8 +14068,8 @@ Content-Transfer-Encoding: 8bit</seg>
       <tuv lang="EN-US">
         <seg>No RPC Token!</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>没有 RPC Token！</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T182103Z">
+        <seg>没有 RPC令牌！</seg>
       </tuv>
     </tu>
     <tu>
@@ -17838,6 +17870,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>服务器角色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Server could not be reached.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T182147Z" creationid="Yifei Ding" creationdate="20190318T182147Z">
+        <seg>服务器无法被访问。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23924,8 +23964,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>data</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>data</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T182008Z">
+        <seg>护具</seg>
       </tuv>
     </tu>
     <tu>
@@ -24390,6 +24430,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T224412Z" creationid="Yifei Ding" creationdate="20190301T224412Z">
         <seg>测试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T182030Z" creationid="Yifei Ding" creationdate="20190318T182030Z">
+        <seg>类型</seg>
       </tuv>
     </tu>
     <tu>
