@@ -4030,6 +4030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check For Updates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T180217Z" creationid="Yifei Ding" creationdate="20190318T180217Z">
+        <seg>检查更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check Interval</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T012315Z" creationid="Yifei Ding" creationdate="20190220T012315Z">
@@ -17370,14 +17378,6 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>SSL</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>SSL</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>SSL Certificate</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -17990,6 +17990,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>共享类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shares</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T180154Z" creationid="Yifei Ding" creationdate="20190318T180154Z">
+        <seg>共享</seg>
       </tuv>
     </tu>
     <tu>
@@ -19006,14 +19014,6 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>TFTP设置</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>TLS</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>TLS</seg>
       </tuv>
     </tu>
     <tu>
