@@ -5550,6 +5550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Criticality</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T175719Z" creationid="Yifei Ding" creationdate="20190318T175719Z">
+        <seg>重要性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cron Job</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -8546,6 +8554,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200529Z" creationid="Yifei Ding" creationdate="20190213T200529Z">
         <seg>输入状态邮件的主题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Environment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T175705Z" creationid="Yifei Ding" creationdate="20190318T175705Z">
+        <seg>环境</seg>
       </tuv>
     </tu>
     <tu>
@@ -14892,8 +14908,8 @@ Content-Transfer-Encoding: 8bit</seg>
       <tuv lang="EN-US">
         <seg>Passwords do not match.</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>两次输入的密码不一致。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T175654Z">
+        <seg>密码不匹配。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14918,6 +14934,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T214852Z" creationid="Yifei Ding" creationdate="20190211T214852Z">
         <seg>粘贴CA证书</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Paswords do not match.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T175632Z" creationid="Yifei Ding" creationdate="20190318T175632Z">
+        <seg>密码不一致。</seg>
       </tuv>
     </tu>
     <tu>
