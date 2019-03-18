@@ -968,7 +968,7 @@ msgid "Authentication Group number"
 msgstr ""
 
 msgid "Authentication Type"
-msgstr ""
+msgstr "验证类型"
 
 msgid ""
 "Authentication only functions when a Certificate is selected with either "
@@ -996,13 +996,13 @@ msgid "Autoconfigure IPv6"
 msgstr "自动配置IPv6"
 
 msgid "Autoconfigure IPv6 with rtsold"
-msgstr ""
+msgstr "使用rtsold自动配置IPv6"
 
 msgid ""
 "Automatically compress data written to the zvol. Choose a <a "
 "href=\"%%docurl%%/storage.html%%webversion%%#compression\" "
 "target=\"_blank\">compression algorithm</a>."
-msgstr ""
+msgstr "在写入到zvol时自动压缩数据。选择一个<a href=\"%%docurl%%/storage.html%%webversion%%#compression\" target=\"_blank\">加密算法</a>。"
 
 msgid ""
 "Automatically populated with the original hostname of the system. This name "
@@ -1439,14 +1439,14 @@ msgid ""
 "Choose a <i>Drive Account Type</i>: <i>PERSONAL, BUSINESS,</i> or <a "
 "href=\"https://products.office.com/en-us/sharepoint/collaboration\" "
 "target=\"_blank\">SharePoint</a> <i>DOCUMENT_LIBRARY</i>."
-msgstr ""
+msgstr "选择<i>网盘账户类型</i>： <i>个人，企业，</i>或<a href=\"https://products.office.com/en-us/sharepoint/collaboration\" target=\"_blank\">SharePoint</a> <i>DOCUMENT_LIBRARY</i>。"
 
 msgid ""
 "Choose a <i>Stripe</i>, <i>Mirror</i>, or <i>Raid-Z</i> configuration for "
 "the chosen disk layout. See the <a "
 "href=\"%%docurl%%/storage.html%%webversion%%#pool-manager\" "
 "target=\"_blank\">Pool Manager</a> section of the guide for more details."
-msgstr ""
+msgstr "选择<i>条带</i>，<i>镜像</i>，或<i>Raid-Z</i>来配置选择磁盘的布局。查看指南的<a href=\"%%docurl%%/storage.html%%webversion%%#pool-manager\" target=\"_blank\">Pool Manager</a>章节来获取更多细节。"
 
 msgid "Choose a color scheme."
 msgstr "选择颜色主题"
@@ -1461,7 +1461,7 @@ msgid "Choose a pool or dataset for the new zvol."
 msgstr "选择一个存储池或数据集用于新的zvol。"
 
 msgid "Choose a pool to scrub."
-msgstr "选择一个存储池来Scrub。"
+msgstr "选择一个存储池来进行scrub检查。"
 
 msgid ""
 "Choose a pool where the iocage jail manager   can create the /iocage "
@@ -2024,10 +2024,10 @@ msgid "DNS timeout"
 msgstr "DNS超时"
 
 msgid "DNS timeout in seconds. Increase this value if DNS queries timeout."
-msgstr "DNS超时（秒）Increase this value if DNS queries timeout."
+msgstr "DNS超时（秒）。Increase this value if DNS queries timeout."
 
 msgid "DOS Charset"
-msgstr ""
+msgstr "DOS字符集"
 
 msgid "Dashboard"
 msgstr "仪表"
@@ -3740,13 +3740,13 @@ msgid "Guest Account"
 msgstr "访客账户"
 
 msgid "Guest Operating System"
-msgstr ""
+msgstr "访客操作系统"
 
 msgid "Guide"
-msgstr ""
+msgstr "教程"
 
 msgid "HDD Standby"
-msgstr ""
+msgstr "HDD休眠"
 
 msgid "HTTP Authentication"
 msgstr ""
@@ -3773,10 +3773,10 @@ msgid "Hide Config"
 msgstr "隐藏设置"
 
 msgid "Hide Standard Error"
-msgstr ""
+msgstr "隐藏标准错误"
 
 msgid "Hide Standard Output"
-msgstr ""
+msgstr "隐藏标准输出"
 
 msgid "Hide Stderr"
 msgstr ""
@@ -4147,7 +4147,7 @@ msgid "Jail Properties"
 msgstr "Jail属性"
 
 msgid "Jail Type"
-msgstr ""
+msgstr "Jail类型"
 
 msgid "Jail core dump size in bytes."
 msgstr "Jail核心转储大小(bytes)。"
@@ -4165,7 +4165,7 @@ msgid "Jails"
 msgstr ""
 
 msgid "Jails cannot be changed while running."
-msgstr ""
+msgstr "Jails不能在运行时被修改。"
 
 msgid "KDC"
 msgstr ""
@@ -4173,7 +4173,7 @@ msgstr ""
 msgid ""
 "Keep the zvol name short. Using a zvol name longer than 63 characters can "
 "prevent accessing the zvol as a device."
-msgstr ""
+msgstr "保持zvol名称简短。使用一个长于63个字符的zvol名称会使zvol不能作为一个设备进行访问。"
 
 msgid "Keep user primary group"
 msgstr ""
@@ -4224,10 +4224,10 @@ msgid ""
 "LDAP server to use for SID/uid/gid map entries. When undefined, idmap_ldap "
 "uses *ldap://localhost/*. Example: "
 "<i>ldap://ldap.netscape.com/o=Airius.com</i>."
-msgstr ""
+msgstr "LDAP server to use for SID/uid/gid map entries. When undefined, idmap_ldap uses *ldap://localhost/*. 例子：<i>ldap://ldap.netscape.com/o=Airius.com</i>."
 
 msgid "LDAP timeout"
-msgstr ""
+msgstr "LDAP超时"
 
 msgid ""
 "LDAP timeout in seconds. Increase this value if a Kerberos ticket timeout "
