@@ -420,7 +420,7 @@ msgid "AD Timeout"
 msgstr "AD超时"
 
 msgid "AFP3 Unix Privs"
-msgstr ""
+msgstr "AFP3 UNIX 权限"
 
 msgid "ATA Security User"
 msgstr ""
@@ -713,7 +713,7 @@ msgid "Alert Settings"
 msgstr "警告设置"
 
 msgid "Aliases"
-msgstr ""
+msgstr "别名"
 
 msgid "All dirs"
 msgstr "所有文件夹"
@@ -762,7 +762,7 @@ msgid "Allow TCP port forwarding"
 msgstr "允许TCP端口转发"
 
 msgid "Allow Transfer Resumption"
-msgstr ""
+msgstr "启用断点续传"
 
 msgid "Allow Trusted Domains"
 msgstr "允许可信域名"
@@ -937,7 +937,7 @@ msgid "Apply updates and reboot system after downloading."
 msgstr "在下载后应用更新并重启。"
 
 msgid "Archive"
-msgstr ""
+msgstr "存档"
 
 msgid ""
 "Assigning a directory to Minio changes the permissions                      "
@@ -965,7 +965,7 @@ msgid "Auth Method"
 msgstr "捡到方式"
 
 msgid "Authentication Group number"
-msgstr ""
+msgstr "认证组编号"
 
 msgid "Authentication Type"
 msgstr "验证类型"
@@ -1016,10 +1016,10 @@ msgid "Auxiliary Arguments"
 msgstr ""
 
 msgid "Auxiliary Groups"
-msgstr ""
+msgstr "附加组"
 
 msgid "Auxiliary Parameters"
-msgstr ""
+msgstr "附加参数"
 
 msgid "Auxiliary Parameters (ups.conf)"
 msgstr ""
@@ -1028,7 +1028,7 @@ msgid "Auxiliary Parameters (upsd.conf)"
 msgstr ""
 
 msgid "Auxiliary parameters"
-msgstr ""
+msgstr "附加参数"
 
 msgid "Available Disks"
 msgstr "可用磁盘"
@@ -1067,10 +1067,10 @@ msgid "Bandwidth Limit"
 msgstr "带宽限制"
 
 msgid "Base DN"
-msgstr ""
+msgstr "基础 DN"
 
 msgid "Base Name"
-msgstr ""
+msgstr "Base Name"
 
 msgid "Base64 encoded key for the Azure account."
 msgstr ""
@@ -1099,7 +1099,7 @@ msgid "Bind"
 msgstr ""
 
 msgid "Bind DN"
-msgstr ""
+msgstr "绑定 DN"
 
 msgid "Bind IP Addresses"
 msgstr "Bind IP地址"
@@ -1135,7 +1135,7 @@ msgid "Boot Pool Status"
 msgstr "启动池状态"
 
 msgid "Browsable to Network Clients"
-msgstr ""
+msgstr "允许网络客户端浏览"
 
 msgid "Browse"
 msgstr "浏览"
@@ -1212,7 +1212,7 @@ msgid "Bucket"
 msgstr ""
 
 msgid "Burst"
-msgstr ""
+msgstr "突发传输"
 
 msgid ""
 "By default, all data disks are created with the amount of swap specified. "
@@ -1232,13 +1232,13 @@ msgid "CA ID"
 msgstr ""
 
 msgid "CAs"
-msgstr ""
+msgstr "CA机构"
 
 msgid "CD-ROM Path"
 msgstr ""
 
 msgid "CN Realm"
-msgstr ""
+msgstr "CN Realm"
 
 msgid "CPU"
 msgstr "处理器"
@@ -1759,10 +1759,10 @@ msgid "Comments"
 msgstr "评论"
 
 msgid "Common Name"
-msgstr ""
+msgstr "通用名"
 
 msgid "Community"
-msgstr ""
+msgstr "团体"
 
 msgid "Compress"
 msgstr "压缩"
@@ -1851,7 +1851,7 @@ msgid "Confirm Password"
 msgstr "确认密码"
 
 msgid "Confirm Privacy Passphrase"
-msgstr ""
+msgstr "确认隐私密码短语"
 
 msgid "Confirm SED Password"
 msgstr ""
@@ -1889,7 +1889,7 @@ msgid "Connectivity Check"
 msgstr "连接性测试"
 
 msgid "Console Keyboard Map"
-msgstr ""
+msgstr "控制台键盘映射"
 
 msgid "Contact"
 msgstr "联系方式"
@@ -2000,7 +2000,7 @@ msgid "Critical"
 msgstr "紧急"
 
 msgid "Cron Jobs"
-msgstr ""
+msgstr "计划任务列表"
 
 msgid "Current Password"
 msgstr "当前密码"
@@ -2009,7 +2009,7 @@ msgid "Custom Properties"
 msgstr "自定义属性"
 
 msgid "DHCP"
-msgstr ""
+msgstr "DHCP"
 
 msgid "DHCP Autoconfigure IPv4"
 msgstr "DHCP自动配置IPv4"
@@ -2039,7 +2039,7 @@ msgid "Database Path"
 msgstr "数据库路径"
 
 msgid "Datastore"
-msgstr ""
+msgstr "数据存储"
 
 msgid "Day of Month"
 msgstr "日期"
@@ -2391,16 +2391,16 @@ msgid "Device Order"
 msgstr ""
 
 msgid "Difference"
-msgstr ""
+msgstr "差异报告"
 
 msgid "Digest Algorithm"
-msgstr ""
+msgstr "加密算法"
 
 msgid "Direct the flow of data to the remote host."
 msgstr ""
 
 msgid "Direction"
-msgstr ""
+msgstr "方向"
 
 msgid "Directories & Permissions"
 msgstr ""
@@ -2415,7 +2415,7 @@ msgid "Directory Permission"
 msgstr "文件夹权限"
 
 msgid "Directory Services"
-msgstr ""
+msgstr "目录服务"
 
 msgid "Directory/Files"
 msgstr ""
@@ -2430,10 +2430,10 @@ msgid "Disable physical block size reporting"
 msgstr ""
 
 msgid "Discovery Auth Group"
-msgstr ""
+msgstr "发现认证组"
 
 msgid "Discovery Auth Method"
-msgstr ""
+msgstr "发现认证方法"
 
 msgid "Disk"
 msgstr "磁盘"
@@ -2466,7 +2466,7 @@ msgid "Display console messages in real time at the bottom of the browser."
 msgstr ""
 
 msgid "Distinguished Name"
-msgstr ""
+msgstr "可辨别名称"
 
 msgid ""
 "Do <b>NOT</b> change this setting when using Windows as the initiator. Only "
@@ -2486,19 +2486,19 @@ msgid "Docker Host"
 msgstr ""
 
 msgid "Domain"
-msgstr ""
+msgstr "Domain"
 
 msgid "Domain Account Name"
-msgstr ""
+msgstr "域账户名"
 
 msgid "Domain Account Password"
-msgstr ""
+msgstr "域账户密码"
 
 msgid "Domain Controller"
-msgstr ""
+msgstr "Domain Controller"
 
 msgid "Domain Forest Level"
-msgstr ""
+msgstr "域树级别"
 
 msgid "Domain Logons"
 msgstr ""
@@ -2507,7 +2507,7 @@ msgid "Domain Name"
 msgstr ""
 
 msgid "Domain name"
-msgstr ""
+msgstr "域名"
 
 msgid "Done"
 msgstr "完成"
@@ -2645,7 +2645,7 @@ msgid "Enable if Mac clients will be connecting to the SMB share."
 msgstr "启用如果有MacOS用户连接SMB共享。"
 
 msgid "Enable netwait feature"
-msgstr ""
+msgstr "启用 netwait 特征"
 
 msgid "Enable password login"
 msgstr "启用密码登录"
@@ -2718,7 +2718,7 @@ msgid "Encryption"
 msgstr "加密"
 
 msgid "Encryption Cipher"
-msgstr ""
+msgstr "加密密码"
 
 msgid "Encryption Key"
 msgstr "加密密钥"
@@ -3550,13 +3550,13 @@ msgid "Extending an encrypted pool resets the passphrase and recovery key!"
 msgstr ""
 
 msgid "Extent"
-msgstr ""
+msgstr "Extent"
 
 msgid "Extent name"
 msgstr ""
 
 msgid "Extent size"
-msgstr ""
+msgstr "Extent 尺寸"
 
 msgid "Extent type"
 msgstr ""
@@ -3633,10 +3633,10 @@ msgid ""
 msgstr ""
 
 msgid "Force"
-msgstr ""
+msgstr "强制"
 
 msgid "Force size"
-msgstr ""
+msgstr "强制尺寸"
 
 msgid ""
 "Force using <a "
@@ -3688,7 +3688,7 @@ msgid "Gateway"
 msgstr "网关"
 
 msgid "General"
-msgstr ""
+msgstr "常规"
 
 msgid "Generate Debug File"
 msgstr ""
@@ -3704,13 +3704,13 @@ msgid ""
 msgstr ""
 
 msgid "Global Catalog Server"
-msgstr ""
+msgstr "全局编录服务器"
 
 msgid "Global Configuration"
 msgstr "全局配置"
 
 msgid "Global auxiliary parameters"
-msgstr ""
+msgstr "全局附加参数"
 
 msgid "Global password to unlock SEDs."
 msgstr ""
@@ -3722,13 +3722,13 @@ msgid "Group"
 msgstr "群组"
 
 msgid "Group Bind Path"
-msgstr ""
+msgstr "用户组 Bind 路径"
 
 msgid "Group ID"
 msgstr "群组ID"
 
 msgid "Group Suffix"
-msgstr ""
+msgstr "组后缀"
 
 msgid "Groups"
 msgstr "群组"
@@ -3749,7 +3749,7 @@ msgid "HDD Standby"
 msgstr "HDD休眠"
 
 msgid "HTTP Authentication"
-msgstr ""
+msgstr "HTTP 认证"
 
 msgid "HTTP Port"
 msgstr "HTTP端口"
@@ -3797,7 +3797,7 @@ msgid ""
 msgstr ""
 
 msgid "Home Directory"
-msgstr ""
+msgstr "主目录"
 
 msgid "Home Directory Permissions"
 msgstr ""
@@ -3812,7 +3812,7 @@ msgid "HostName"
 msgstr ""
 
 msgid "Hostname"
-msgstr ""
+msgstr "主机名"
 
 msgid "Hostname or IP address of SMTP server to use for sending this email."
 msgstr ""
@@ -3826,10 +3826,10 @@ msgid ""
 msgstr ""
 
 msgid "Hosts Allow"
-msgstr ""
+msgstr "允许主机"
 
 msgid "Hosts Deny"
-msgstr ""
+msgstr "禁止主机"
 
 msgid "Hour"
 msgstr "小时"
@@ -3844,13 +3844,13 @@ msgid "I Understand"
 msgstr ""
 
 msgid "IBurst"
-msgstr ""
+msgstr "IBurst"
 
 msgid "ID & Groups"
 msgstr ""
 
 msgid "IP Address"
-msgstr ""
+msgstr "IP 地址"
 
 msgid ""
 "IP address of the remote system with <i>UPS Mode</i> set as <i>Master</i>. "
@@ -3858,7 +3858,7 @@ msgid ""
 msgstr ""
 
 msgid "IPMI"
-msgstr ""
+msgstr "IPMI"
 
 msgid "IPv4 Address"
 msgstr "IPv4地址"
@@ -3915,7 +3915,7 @@ msgid "IPv6 Prefix"
 msgstr ""
 
 msgid "IPv6 Prefix Length"
-msgstr ""
+msgstr "IPv6 前缀长度"
 
 msgid "IPv6 address for the jail."
 msgstr ""
@@ -3933,13 +3933,13 @@ msgid "Id"
 msgstr ""
 
 msgid "Identifier"
-msgstr ""
+msgstr "标识"
 
 msgid "Idmap Backend"
-msgstr ""
+msgstr "Idmap Backend"
 
 msgid "Idmap backend"
-msgstr ""
+msgstr "Idmap backend"
 
 msgid "If selected, sets several environment variables."
 msgstr ""
@@ -3988,7 +3988,7 @@ msgid ""
 msgstr ""
 
 msgid "Ignore Builtin"
-msgstr ""
+msgstr "忽略内建"
 
 msgid "Import"
 msgstr "导入"
@@ -4058,16 +4058,16 @@ msgid ""
 msgstr ""
 
 msgid "Informational"
-msgstr ""
+msgstr "信息报告"
 
 msgid "Init/Shutdown Scripts"
 msgstr "启动/关机脚本"
 
 msgid "Initiator Group ID"
-msgstr ""
+msgstr "Initiator 组 ID"
 
 msgid "Initiators"
-msgstr ""
+msgstr "Initiator"
 
 msgid "Input the pre-defined S3 bucket to use."
 msgstr ""
@@ -4100,7 +4100,7 @@ msgid "Interfaces"
 msgstr "接口"
 
 msgid "Internal"
-msgstr ""
+msgstr "内部"
 
 msgid ""
 "Internal identifier of the certificate. Only alphanumeric, \"_\" and \"-\" "
@@ -4108,7 +4108,7 @@ msgid ""
 msgstr ""
 
 msgid "Interval"
-msgstr ""
+msgstr "周期"
 
 msgid "Invalid password"
 msgstr "密码错误"
@@ -4120,7 +4120,7 @@ msgid "Is the pool encrypted?"
 msgstr ""
 
 msgid "Issuer"
-msgstr ""
+msgstr "发行者"
 
 msgid ""
 "It is not recommended to create a pool with vdevs containing different "
@@ -4133,7 +4133,7 @@ msgid ""
 msgstr "It is not recommended to extend a pool with one or more vdevs containing different numbers of disks. 继续？"
 
 msgid "Jail"
-msgstr ""
+msgstr "Jail"
 
 msgid ""
 "Jail CPU affinity. Options are <i>off</i> or a combination of <i>1-4</i>, "
@@ -4162,13 +4162,13 @@ msgid "Jail updated successfully."
 msgstr "Jail更新成功"
 
 msgid "Jails"
-msgstr ""
+msgstr "Jails"
 
 msgid "Jails cannot be changed while running."
 msgstr "Jails不能在运行时被修改。"
 
 msgid "KDC"
-msgstr ""
+msgstr "KDC"
 
 msgid ""
 "Keep the zvol name short. Using a zvol name longer than 63 characters can "
@@ -4179,46 +4179,46 @@ msgid "Keep user primary group"
 msgstr ""
 
 msgid "Kerberos Keytab"
-msgstr ""
+msgstr "Kerberos Keytab"
 
 msgid "Kerberos Keytabs"
-msgstr ""
+msgstr "Kerberos Keytabs"
 
 msgid "Kerberos Principal"
 msgstr ""
 
 msgid "Kerberos Realm"
-msgstr ""
+msgstr "Kerberos Realm"
 
 msgid "Kerberos Realms"
-msgstr ""
+msgstr "Kerberos Realm"
 
 msgid "Kerberos Settings"
-msgstr ""
+msgstr "Kerberos 设置"
 
 msgid "Key Length"
 msgstr ""
 
 msgid "LDAP"
-msgstr ""
+msgstr "LDAP"
 
 msgid "LDAP Domain"
-msgstr ""
+msgstr "LDAP Domain"
 
 msgid "LDAP Realm"
-msgstr ""
+msgstr "LDAP Realm"
 
 msgid "LDAP Server"
-msgstr ""
+msgstr "LDAP 服务器"
 
 msgid "LDAP URL"
-msgstr ""
+msgstr "LDAP URL"
 
 msgid "LDAP User DN"
-msgstr ""
+msgstr "LDAP 用户 DN"
 
 msgid "LDAP User DN Password"
-msgstr ""
+msgstr "LDAP 用户 DN 密码"
 
 msgid ""
 "LDAP server to use for SID/uid/gid map entries. When undefined, idmap_ldap "
@@ -4238,10 +4238,10 @@ msgid "LEGACY WEB INTERFACE"
 msgstr ""
 
 msgid "LUN ID"
-msgstr ""
+msgstr "LUN ID"
 
 msgid "LUN RPM"
-msgstr ""
+msgstr "LUN RPM"
 
 msgid "Lagg Interface"
 msgstr ""
@@ -4283,7 +4283,7 @@ msgid "License"
 msgstr "许可"
 
 msgid "Lifetime"
-msgstr ""
+msgstr "有效期(天)"
 
 msgid "Limit (kpbs)"
 msgstr "限制 (kpbs)"
@@ -4294,10 +4294,10 @@ msgid ""
 msgstr ""
 
 msgid "Link Aggregation Members"
-msgstr ""
+msgstr "链路聚合成员"
 
 msgid "Link Aggregations"
-msgstr ""
+msgstr "链路聚合"
 
 msgid "List of system services to restart when the pool is unlocked."
 msgstr ""
@@ -4310,10 +4310,10 @@ msgid ""
 msgstr ""
 
 msgid "Load Average"
-msgstr ""
+msgstr "平均负载"
 
 msgid "Local Master"
-msgstr ""
+msgstr "Local Master"
 
 msgid "Local User Download Bandwidth"
 msgstr ""
@@ -4322,7 +4322,7 @@ msgid "Local User Upload Bandwidth"
 msgstr ""
 
 msgid "Locality"
-msgstr ""
+msgstr "地区"
 
 msgid "Location"
 msgstr "位置"
@@ -4389,7 +4389,7 @@ msgid "Mac Address"
 msgstr "MAC地址"
 
 msgid "Machine Suffix"
-msgstr ""
+msgstr "设备后缀"
 
 msgid "Mail Server Port"
 msgstr ""
@@ -4398,22 +4398,22 @@ msgid "Management"
 msgstr "管理"
 
 msgid "Manycast"
-msgstr ""
+msgstr "多播"
 
 msgid "Map ACLs"
 msgstr ""
 
 msgid "Mapall Group"
-msgstr ""
+msgstr "Mapall组"
 
 msgid "Mapall User"
-msgstr ""
+msgstr "Mapall用户"
 
 msgid "Maproot Group"
-msgstr ""
+msgstr "Maproot组"
 
 msgid "Maproot User"
-msgstr ""
+msgstr "Maproot用户"
 
 msgid "Masquerade Address"
 msgstr ""
@@ -4488,13 +4488,13 @@ msgid "Maximum swap space to use for the jail."
 msgstr ""
 
 msgid "Media Status"
-msgstr ""
+msgstr "媒体状态"
 
 msgid "Member Disk"
 msgstr ""
 
 msgid "Members"
-msgstr ""
+msgstr "组成员"
 
 msgid "Members of"
 msgstr ""
@@ -4509,7 +4509,7 @@ msgid "Memory Usage"
 msgstr "内存使用量"
 
 msgid "Method"
-msgstr ""
+msgstr "方式"
 
 msgid "Microsoft Account"
 msgstr "微软账户"
@@ -4536,7 +4536,7 @@ msgid "Mixing disks of different sizes in a VDEV is not recommended."
 msgstr ""
 
 msgid "Mode"
-msgstr ""
+msgstr "模式"
 
 msgid ""
 "Modify for disks that understand <a                   "
@@ -4551,10 +4551,10 @@ msgid ""
 msgstr ""
 
 msgid "Monitor Password"
-msgstr ""
+msgstr "监察员密码"
 
 msgid "Monitor User"
-msgstr ""
+msgstr "监察员帐户"
 
 msgid "Month"
 msgstr "月"
@@ -4612,22 +4612,22 @@ msgid "Mutual secret password. Must be different than <i>Secret</i>."
 msgstr ""
 
 msgid "N/A"
-msgstr ""
+msgstr "不可用"
 
 msgid "NFSv3 ownership model for NFSv4"
 msgstr ""
 
 msgid "NIC"
-msgstr ""
+msgstr "网卡"
 
 msgid "NIS"
-msgstr ""
+msgstr "网卡"
 
 msgid "NIS domain"
-msgstr ""
+msgstr "NIS 域"
 
 msgid "NIS servers"
-msgstr ""
+msgstr "NIS 服务器"
 
 msgid "NO"
 msgstr "否"
@@ -4636,10 +4636,10 @@ msgid "NTLMv1 Auth"
 msgstr ""
 
 msgid "NTP Servers"
-msgstr ""
+msgstr "网络授时服务器(NTP)列表"
 
 msgid "Name"
-msgstr ""
+msgstr "名称"
 
 msgid "Name & Contact"
 msgstr ""
@@ -4694,7 +4694,7 @@ msgid "NetBIOS Alias:"
 msgstr ""
 
 msgid "NetBIOS Name"
-msgstr ""
+msgstr "NetBIOS 名称"
 
 msgid "NetBIOS Name:"
 msgstr ""
@@ -4711,7 +4711,7 @@ msgid ""
 msgstr ""
 
 msgid "Netwait IP list"
-msgstr ""
+msgstr "Netwait IP列表"
 
 msgid "Network"
 msgstr "网络"
@@ -4723,7 +4723,7 @@ msgid "Network Properties"
 msgstr "网络属性"
 
 msgid "Network Summary"
-msgstr ""
+msgstr "网络概要"
 
 msgid ""
 "Network addresses which can use this initiator. Use <i>ALL</i> or list "
@@ -4848,7 +4848,7 @@ msgid ""
 msgstr ""
 
 msgid "Number of servers"
-msgstr ""
+msgstr "服务器数量"
 
 msgid ""
 "Number of virtual CPUs to allocate to the virtual machine. The maximum is "
@@ -5027,7 +5027,7 @@ msgid "PEM-encoded private key file path"
 msgstr ""
 
 msgid "Parent Interface"
-msgstr ""
+msgstr "父接口"
 
 msgid "Partition"
 msgstr "分区"
@@ -5048,7 +5048,7 @@ msgid "Password Server"
 msgstr "密码服务器"
 
 msgid "Password Suffix"
-msgstr ""
+msgstr "密码后缀"
 
 msgid "Password associated with the LDAP User DN."
 msgstr ""
@@ -5108,37 +5108,37 @@ msgid ""
 msgstr ""
 
 msgid "Path to the extent"
-msgstr ""
+msgstr "Extent 路径"
 
 msgid "Peer Secret"
-msgstr ""
+msgstr "对端密码"
 
 msgid "Peer Secret (Confirm)"
-msgstr ""
+msgstr "对端密码 (确认)"
 
 msgid "Peer User"
-msgstr ""
+msgstr "对端用户"
 
 msgid "Perform Reverse DNS Lookups"
-msgstr ""
+msgstr "执行 DNS 反向解析"
 
 msgid "Performs authentication from an LDAP server."
 msgstr ""
 
 msgid "Periodic Notification User"
-msgstr ""
+msgstr "定期通知用户"
 
 msgid "Periodic Snapshot Task"
-msgstr ""
+msgstr "定期快照任务"
 
 msgid "Periodic Snapshot Tasks"
-msgstr ""
+msgstr "定期快照任务"
 
 msgid "Permit Sudo"
-msgstr ""
+msgstr "允许使用 Sudo"
 
 msgid "Physical NIC"
-msgstr ""
+msgstr "物理网卡"
 
 msgid "Physical interface of the selected member."
 msgstr ""
@@ -5208,13 +5208,13 @@ msgid "Pools & Snapshots"
 msgstr "存储池和快照"
 
 msgid "Port"
-msgstr ""
+msgstr "端口"
 
 msgid "Port or Hostname"
 msgstr ""
 
 msgid "Portal Group ID"
-msgstr ""
+msgstr "Portal 组 ID"
 
 msgid "Post-script"
 msgstr ""
@@ -5223,7 +5223,7 @@ msgid "Power Mode"
 msgstr ""
 
 msgid "Power Off UPS"
-msgstr ""
+msgstr "关闭 UPS"
 
 msgid ""
 "Power of 2 in seconds; cannot be higher than 17 or   lower than <i>Min. "
@@ -5249,16 +5249,16 @@ msgid "Pre-script"
 msgstr ""
 
 msgid "Prefer"
-msgstr ""
+msgstr "首选"
 
 msgid "Preferences"
 msgstr "偏好"
 
 msgid "Preserve extended attributes"
-msgstr ""
+msgstr "保留扩展属性"
 
 msgid "Preserve permissions"
-msgstr ""
+msgstr "保留权限"
 
 msgid "Preview JSON Service Account Key"
 msgstr ""
@@ -5270,7 +5270,7 @@ msgid "Primary DNS server."
 msgstr ""
 
 msgid "Primary Group"
-msgstr ""
+msgstr "主用户组"
 
 msgid "Primary NIC"
 msgstr ""
@@ -5279,10 +5279,10 @@ msgid "Priority Code Point"
 msgstr ""
 
 msgid "Privacy Passphrase"
-msgstr ""
+msgstr "隐私密码短语"
 
 msgid "Privacy Protocol"
-msgstr ""
+msgstr "隐私协议"
 
 msgid "Private Key"
 msgstr "私钥"
@@ -5306,7 +5306,7 @@ msgid "Protocol"
 msgstr "协议"
 
 msgid "Provider"
-msgstr ""
+msgstr "提供者"
 
 msgid "Provides a pop-up window of diagnostic information if a fatal error occurs."
 msgstr ""
@@ -5317,10 +5317,10 @@ msgid ""
 msgstr "公网IP地址或域名Set if FTP clients cannot connect through a NAT device."
 
 msgid "Quick"
-msgstr ""
+msgstr "快"
 
 msgid "Quiet"
-msgstr ""
+msgstr "静默"
 
 msgid "Quota critical alert at, %"
 msgstr ""
@@ -5331,7 +5331,7 @@ msgid ""
 msgstr ""
 
 msgid "Quota for this dataset"
-msgstr ""
+msgstr "压缩率"
 
 msgid "Quota warning alert at, %"
 msgstr ""
@@ -5352,13 +5352,13 @@ msgid "Raid-z3"
 msgstr ""
 
 msgid "Range High"
-msgstr ""
+msgstr "Range High"
 
 msgid "Range Low"
-msgstr ""
+msgstr "Range Low"
 
 msgid "Range Size"
-msgstr ""
+msgstr "Range Size"
 
 msgid "Raw File"
 msgstr ""
@@ -5406,13 +5406,13 @@ msgid "Read/Write Access"
 msgstr "读/写权限"
 
 msgid "Realm"
-msgstr ""
+msgstr "Realm"
 
 msgid "Reboot After Update"
 msgstr "更新后重启"
 
 msgid "Rebuild Directory Service Cache"
-msgstr ""
+msgstr "重建目录服务缓存"
 
 msgid ""
 "Recommended when <i>Max. Poll</i> is greater   than 10. Only use on "
@@ -5430,19 +5430,19 @@ msgid "Reconnect"
 msgstr "重新连接"
 
 msgid "Record Size"
-msgstr ""
+msgstr "记录大小"
 
 msgid "Recovery Attempts"
 msgstr ""
 
 msgid "Recovery Key"
-msgstr ""
+msgstr "Recovery Key"
 
 msgid "Recovery key added to pool "
 msgstr ""
 
 msgid "Recursive"
-msgstr ""
+msgstr "循环"
 
 msgid "Recursively Replicate Child Dataset Snapshots"
 msgstr ""
@@ -5475,28 +5475,28 @@ msgid "Remote HTTPS"
 msgstr ""
 
 msgid "Remote Host"
-msgstr ""
+msgstr "远程主机"
 
 msgid "Remote Hostkey"
 msgstr ""
 
 msgid "Remote Hostname"
-msgstr ""
+msgstr "远程主机名"
 
 msgid "Remote Module Name"
-msgstr ""
+msgstr "远程模块名"
 
 msgid "Remote Monitor"
-msgstr ""
+msgstr "远程监控"
 
 msgid "Remote Path"
-msgstr ""
+msgstr "远程路径"
 
 msgid "Remote Port"
-msgstr ""
+msgstr "远程端口"
 
 msgid "Remote SSH Port"
-msgstr ""
+msgstr "远程 SSH 端口"
 
 msgid "Remote ZFS Pool/Dataset"
 msgstr ""
@@ -5520,28 +5520,28 @@ msgid "Rename the existing boot environment."
 msgstr ""
 
 msgid "Replication Stream Compression"
-msgstr ""
+msgstr "Replication 流压缩"
 
 msgid "Replication Tasks"
-msgstr ""
+msgstr "Replication 任务"
 
 msgid "Report CPU usage in percentage"
 msgstr "以百分比显示处理器使用率"
 
 msgid "Reporting"
-msgstr ""
+msgstr "报表"
 
 msgid "Reporting Database"
-msgstr ""
+msgstr "报告数据库"
 
 msgid "Reports"
 msgstr ""
 
 msgid "Require IDENT Authentication"
-msgstr ""
+msgstr "要求 IDENT 认证"
 
 msgid "Require Kerberos for NFSv4"
-msgstr ""
+msgstr "NFSv4 需要 Kerberos"
 
 msgid ""
 "Required for <a href=\"%%docurl%%/services.html%%webversion%%#lldp\" "
@@ -5641,7 +5641,7 @@ msgid "Root password"
 msgstr "Root密码"
 
 msgid "Rsync Tasks"
-msgstr ""
+msgstr "Rsync 任务"
 
 msgid "Rsync mode"
 msgstr ""
@@ -5681,13 +5681,13 @@ msgid "S.M.A.R.T. Options"
 msgstr "S.M.A.R.T. 选项"
 
 msgid "S.M.A.R.T. Tests"
-msgstr ""
+msgstr "S.M.A.R.T. Tests"
 
 msgid "S.M.A.R.T. extra options"
 msgstr "S.M.A.R.T. 额外选项"
 
 msgid "SASL wrapping"
-msgstr ""
+msgstr "SASL 封装"
 
 msgid "SAVE CONFIGURATION"
 msgstr ""
@@ -5725,13 +5725,13 @@ msgid "SSH port number. Leave empty to use the default port <i>22</i>."
 msgstr "SSH端口号Leave empty to use the default port <i>22</i>."
 
 msgid "SSL"
-msgstr ""
+msgstr "SSL"
 
 msgid "SUDO Suffix"
-msgstr ""
+msgstr "SUDO 后缀"
 
 msgid "Samba Schema"
-msgstr ""
+msgstr "Samba Schema"
 
 msgid "Save"
 msgstr "保存"
@@ -5773,7 +5773,7 @@ msgid "Schema mode"
 msgstr ""
 
 msgid "Script"
-msgstr ""
+msgstr "脚本"
 
 msgid "Script to execute after running sync."
 msgstr ""
@@ -5797,10 +5797,10 @@ msgid "Secondary DNS server."
 msgstr ""
 
 msgid "Secret"
-msgstr ""
+msgstr "密码"
 
 msgid "Secret (Confirm)"
-msgstr ""
+msgstr "密码 (确认)"
 
 msgid "Secret Access Key"
 msgstr ""
@@ -5809,10 +5809,10 @@ msgid "Secret Key"
 msgstr ""
 
 msgid "Secure mode"
-msgstr ""
+msgstr "安全模式"
 
 msgid "Security"
-msgstr ""
+msgstr "安全"
 
 msgid ""
 "See the <a href=\"http://networkupstools.org/stable-hcl.html\" "
@@ -6210,13 +6210,13 @@ msgid "Selected Jail(s) updated successfully."
 msgstr ""
 
 msgid "Send Email Status Updates"
-msgstr ""
+msgstr "状态更新时发送邮件"
 
 msgid "Send Test Alert"
 msgstr ""
 
 msgid "Serial"
-msgstr ""
+msgstr "序列号"
 
 msgid "Serial Number"
 msgstr "序列号"
@@ -6228,7 +6228,7 @@ msgid "Serial Speed"
 msgstr "波特率"
 
 msgid "Serve UDP NFS clients"
-msgstr ""
+msgstr "伺服 UDP NFS 客户端"
 
 msgid "Server Maximum Protocol"
 msgstr ""
@@ -6237,7 +6237,7 @@ msgid "Server Minimum Protocol"
 msgstr ""
 
 msgid "Server Role"
-msgstr ""
+msgstr "服务器角色"
 
 msgid "Server Side Encryption"
 msgstr ""
@@ -7044,13 +7044,13 @@ msgid "Sharing Controls"
 msgstr ""
 
 msgid "Shell"
-msgstr ""
+msgstr "命令行"
 
 msgid "Short Description"
 msgstr ""
 
 msgid "Short description"
-msgstr ""
+msgstr "摘要"
 
 msgid ""
 "Should only be used for highly accurate <b>NTP</b>   servers such as those "
@@ -7063,7 +7063,7 @@ msgid ""
 msgstr ""
 
 msgid "Show Hidden Files"
-msgstr ""
+msgstr "显示隐藏文件"
 
 msgid "Show Settings"
 msgstr "显示设置"
@@ -7072,7 +7072,7 @@ msgid "Show Text Console without Password Prompt"
 msgstr ""
 
 msgid "Show advanced fields by default"
-msgstr ""
+msgstr "默认显示高级选项"
 
 msgid "Show console messages"
 msgstr ""
@@ -7120,19 +7120,19 @@ msgid "Sign in"
 msgstr "登录"
 
 msgid "Signing Certificate Authority"
-msgstr ""
+msgstr "签发CA机构"
 
 msgid "Signing Request"
-msgstr ""
+msgstr "签发请求"
 
 msgid "Site Name"
-msgstr ""
+msgstr "网站名称"
 
 msgid "Size (GiB)"
 msgstr ""
 
 msgid "Size for this zvol"
-msgstr ""
+msgstr "zvol 尺寸"
 
 msgid ""
 "Skip automatic detection of the Endpoint URL region. Set this when "
@@ -7146,13 +7146,13 @@ msgid "Snapshot directory"
 msgstr ""
 
 msgid "Snapshot successfully taken."
-msgstr ""
+msgstr "成功取得快照。"
 
 msgid "Snapshots"
 msgstr "快照"
 
 msgid "Source"
-msgstr ""
+msgstr "源"
 
 msgid ""
 "Space-delimited list of allowed IP addresses <i>(192.168.1.10)</i> or "
@@ -7274,13 +7274,13 @@ msgid "Stripe"
 msgstr ""
 
 msgid "Subject"
-msgstr ""
+msgstr "主题"
 
 msgid "Subject Alternate Names"
 msgstr ""
 
 msgid "Submit"
-msgstr ""
+msgstr "提交"
 
 msgid "Subnet mask of the IPv4 address."
 msgstr ""
@@ -7333,7 +7333,7 @@ msgid "Suggest Layout"
 msgstr ""
 
 msgid "Support"
-msgstr ""
+msgstr "支持"
 
 msgid "Support >16 groups"
 msgstr ""
@@ -7354,13 +7354,13 @@ msgid "Sync"
 msgstr "同步"
 
 msgid "Syslog"
-msgstr ""
+msgstr "系统日志"
 
 msgid "Syslog level"
 msgstr ""
 
 msgid "Syslog server"
-msgstr ""
+msgstr "系统日志服务器"
 
 msgid "System"
 msgstr "系统"
@@ -7447,13 +7447,13 @@ msgid "Take Snapshot"
 msgstr ""
 
 msgid "Target"
-msgstr ""
+msgstr "Target"
 
 msgid "Target Alias"
-msgstr ""
+msgstr "Target 别名"
 
 msgid "Target Name"
-msgstr ""
+msgstr "Target 名称"
 
 msgid "Tasks"
 msgstr "任务"
@@ -7506,7 +7506,7 @@ msgid ""
 msgstr ""
 
 msgid "The cache is being rebuilt."
-msgstr ""
+msgstr "正在刷新缓存。"
 
 msgid ""
 "The character set Samba uses when communicating with DOS and Windows 9x/ME "
@@ -7719,10 +7719,10 @@ msgid "This operation might take a long time. Proceed?"
 msgstr "This operation might take a long time. 继续？"
 
 msgid "Threshold days"
-msgstr ""
+msgstr "阈值天数"
 
 msgid "Time Machine"
-msgstr ""
+msgstr "时间机器"
 
 msgid "Time Machine Quota"
 msgstr ""
@@ -7734,7 +7734,7 @@ msgid "Timeout"
 msgstr "超时"
 
 msgid "Times"
-msgstr ""
+msgstr "耗时"
 
 msgid "Timezone"
 msgstr "时区"
@@ -7755,13 +7755,13 @@ msgid "Train"
 msgstr ""
 
 msgid "Transfer Mode"
-msgstr ""
+msgstr "传输模式"
 
 msgid "Transfers"
 msgstr ""
 
 msgid "Tunables"
-msgstr ""
+msgstr "微调"
 
 msgid "Type"
 msgstr "类型"
@@ -7773,13 +7773,13 @@ msgid "UNIX Extensions"
 msgstr ""
 
 msgid "UNIX extensions"
-msgstr ""
+msgstr "Unix 扩展"
 
 msgid "UPS Mode"
-msgstr ""
+msgstr "UPS 模式"
 
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 msgid "URL of the HTTP host to connect to."
 msgstr ""
@@ -7794,13 +7794,13 @@ msgid "Unique LUN ID. The default is generated from the MAC address of the syste
 msgstr ""
 
 msgid "Unix (NFS) Shares"
-msgstr ""
+msgstr "Unix (NFS) 共享列表"
 
 msgid "Unix Extensions"
-msgstr ""
+msgstr "Unix 扩展"
 
 msgid "Unlock"
-msgstr ""
+msgstr "解锁"
 
 msgid ""
 "Unmask is used for newly created files. Default is <i>000</i> (anyone can "
@@ -7934,7 +7934,7 @@ msgid "Use DHCP. Unset to manually configure a static IPv4 connection."
 msgstr "使用DHCP. Unset to manually configure a static IPv4 connection."
 
 msgid "Use Default Domain"
-msgstr ""
+msgstr "使用默认域"
 
 msgid "Use FQDN for logging"
 msgstr ""
@@ -7983,16 +7983,16 @@ msgid "User"
 msgstr "用户"
 
 msgid "User Bind Path"
-msgstr ""
+msgstr "用户绑定路径"
 
 msgid "User CN"
-msgstr ""
+msgstr "用户 CN"
 
 msgid "User Controls"
 msgstr ""
 
 msgid "User DN"
-msgstr ""
+msgstr "用户 DN"
 
 msgid "User Distinguished Name (DN) to use for authentication."
 msgstr ""
@@ -8001,10 +8001,10 @@ msgid "User Distinguished Name to use for authentication."
 msgstr ""
 
 msgid "User ID"
-msgstr ""
+msgstr "用户 ID"
 
 msgid "User Suffix"
-msgstr ""
+msgstr "用户后缀"
 
 msgid ""
 "User accounts have an ID greater than 1000 and system accounts have an ID "
@@ -8034,19 +8034,19 @@ msgid "Users & Groups"
 msgstr "用户与群组"
 
 msgid "VFS Objects"
-msgstr ""
+msgstr "VFS 对像"
 
 msgid "VLAN ID"
-msgstr ""
+msgstr "VLAN ID"
 
 msgid "VLANs"
-msgstr ""
+msgstr "VLAN"
 
 msgid "VM Snapshot"
 msgstr "虚拟机快照"
 
 msgid "VMWare Sync"
-msgstr ""
+msgstr "VMWare 同步"
 
 msgid "VMware-Snapshots"
 msgstr ""
@@ -8063,16 +8063,16 @@ msgid "VNET Virtual Networking"
 msgstr ""
 
 msgid "Validate Remote Path"
-msgstr ""
+msgstr "验证远程路径"
 
 msgid "Value"
-msgstr ""
+msgstr "值"
 
 msgid "Variable"
-msgstr ""
+msgstr "变量"
 
 msgid "Verbose logging"
-msgstr ""
+msgstr "详细记录"
 
 msgid "Verify Credential"
 msgstr ""
@@ -8093,7 +8093,7 @@ msgid "Virtual CPUs"
 msgstr "虚拟处理器"
 
 msgid "Virtual Interface"
-msgstr ""
+msgstr "虚拟接口"
 
 msgid "Virtual Machine (VM) Wizard type."
 msgstr ""
@@ -8108,7 +8108,7 @@ msgid "Vlan Tag"
 msgstr ""
 
 msgid "WARNING"
-msgstr ""
+msgstr "警告"
 
 msgid ""
 "WARNING: Adding data vdevs with different numbers of disks is not "
@@ -8167,7 +8167,7 @@ msgid "Webdav SSL Certificate"
 msgstr "Webdav SSL证书"
 
 msgid "When"
-msgstr ""
+msgstr "当"
 
 msgid "When Syslog server is defined, only logs matching this level are sent."
 msgstr ""
@@ -8234,7 +8234,7 @@ msgid "Widget Base Class"
 msgstr ""
 
 msgid "Winbind NSS Info"
-msgstr ""
+msgstr "Winbind NSS 信息"
 
 msgid "Windows (SMB) Shares"
 msgstr "Windows (SMB) 共享"
@@ -8258,7 +8258,7 @@ msgid "Write a percentage limit of a single CPU core."
 msgstr "输入单个处理器核心的占用百分比限制。"
 
 msgid "Xen initiator compat mode"
-msgstr ""
+msgstr "Xen Initiator 兼容模式"
 
 msgid ""
 "Yandex <a "
@@ -8273,7 +8273,7 @@ msgid "Yes, decrypt the disks"
 msgstr "是，解密磁盘"
 
 msgid "ZFS"
-msgstr ""
+msgstr "ZFS"
 
 msgid "ZFS Deduplication"
 msgstr "ZFS复制"
@@ -8294,10 +8294,10 @@ msgid ""
 msgstr "ZFS pools must conform to strict naming <a href=\"https://docs.oracle.com/cd/E23824_01/html/821-1448/gbcpt.html\" target=\"_blank\">conventions</a>. 选择一个好记的名字。"
 
 msgid "Zero Device Numbers"
-msgstr ""
+msgstr "设备号为0"
 
 msgid "Zeroconf share discovery"
-msgstr ""
+msgstr "Zeroconf 共享发现"
 
 msgid ""
 "[Use fewer transactions in exchange for more "
@@ -8492,7 +8492,7 @@ msgid "mount_procfs"
 msgstr ""
 
 msgid "mountd(8) bind port"
-msgstr ""
+msgstr "mountd(8) 绑定端口"
 
 msgid "msgqqueued"
 msgstr ""
@@ -8543,10 +8543,10 @@ msgid "rlimits"
 msgstr ""
 
 msgid "rpc.lockd(8) bind port"
-msgstr ""
+msgstr "rpc.lockd(8) 绑定端口"
 
 msgid "rpc.statd(8) bind port"
-msgstr ""
+msgstr "rpc.statd(8) 绑定端口"
 
 msgid "securelevel"
 msgstr ""
