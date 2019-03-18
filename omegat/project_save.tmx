@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8x5 FreeNAS Support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T182952Z" creationid="Yifei Ding" creationdate="20190318T182952Z">
+        <seg>8x5 FreeNAS 支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>9600</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -3472,8 +3480,8 @@
       <tuv lang="EN-US">
         <seg>Bronze</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>古铜</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T182931Z">
+        <seg>青铜</seg>
       </tuv>
     </tu>
     <tu>
@@ -9134,6 +9142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Expired</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T183027Z" creationid="Yifei Ding" creationdate="20190318T183012Z">
+        <seg>过期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Export Certificate</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T194338Z" creationid="Yifei Ding" creationdate="20190211T194338Z">
@@ -9992,8 +10008,8 @@
       <tuv lang="EN-US">
         <seg>Gold</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>土豪金</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T182942Z">
+        <seg>黄金</seg>
       </tuv>
     </tu>
     <tu>
@@ -18318,6 +18334,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>签发请求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Silver</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T182937Z" creationid="Yifei Ding" creationdate="20190318T182937Z">
+        <seg>白银</seg>
       </tuv>
     </tu>
     <tu>
