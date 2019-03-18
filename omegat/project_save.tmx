@@ -1430,6 +1430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anonymous</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174936Z" creationid="Yifei Ding" creationdate="20190318T174936Z">
+        <seg>匿名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anonymous User Download Bandwidth</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233957Z" creationid="Yifei Ding" creationdate="20190211T233957Z">
@@ -1514,6 +1522,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T164026Z" creationid="Yifei Ding" creationdate="20190308T164026Z">
         <seg>在下载后应用更新并重启。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>April</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174912Z" creationid="Yifei Ding" creationdate="20190318T174912Z">
+        <seg>四月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>August</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174918Z" creationid="Yifei Ding" creationdate="20190318T174918Z">
+        <seg>八月</seg>
       </tuv>
     </tu>
     <tu>
@@ -3058,6 +3082,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T201859Z" creationid="Yifei Ding" creationdate="20190213T201859Z">
         <seg>星期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>December</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174924Z" creationid="Yifei Ding" creationdate="20190318T174924Z">
+        <seg>十二月</seg>
       </tuv>
     </tu>
     <tu>
@@ -4950,6 +4982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>February</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174909Z" creationid="Yifei Ding" creationdate="20190318T174909Z">
+        <seg>二月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File Permission</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T013600Z" creationid="Yifei Ding" creationdate="20190211T013600Z">
@@ -5014,6 +5054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Friday</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174932Z" creationid="Yifei Ding" creationdate="20190318T174932Z">
+        <seg>星期五</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T203916Z" creationid="Yifei Ding" creationdate="20190213T203916Z">
@@ -5026,6 +5074,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T233010Z" creationid="Yifei Ding" creationdate="20190212T233010Z">
         <seg>来自邮件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Full</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T175007Z" creationid="Yifei Ding" creationdate="20190318T175007Z">
+        <seg>全部</seg>
       </tuv>
     </tu>
     <tu>
@@ -5558,6 +5614,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>January</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174907Z" creationid="Yifei Ding" creationdate="20190318T174907Z">
+        <seg>一月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>July</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174916Z" creationid="Yifei Ding" creationdate="20190318T174916Z">
+        <seg>七月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>June</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174915Z" creationid="Yifei Ding" creationdate="20190318T174915Z">
+        <seg>六月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep the zvol name short.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T193936Z" creationid="Yifei Ding" creationdate="20190313T193936Z">
@@ -5654,6 +5734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Level 254 - Maximum performance, maximum power usage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174846Z" creationid="Yifei Ding" creationdate="20190318T174846Z">
+        <seg>级别 254 - 最高性能，最大功耗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Level 64 - Intermediate power usage with Standby</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174808Z" creationid="Yifei Ding" creationdate="20190318T174808Z">
@@ -5682,6 +5770,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T175839Z" creationid="Yifei Ding" creationdate="20190211T175839Z">
         <seg>限制15字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local User</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174939Z" creationid="Yifei Ding" creationdate="20190318T174939Z">
+        <seg>本地用户</seg>
       </tuv>
     </tu>
     <tu>
@@ -5782,6 +5878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>March</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174910Z" creationid="Yifei Ding" creationdate="20190318T174910Z">
+        <seg>三月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Max.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013642Z" creationid="Yifei Ding" creationdate="20190212T013624Z">
@@ -5790,10 +5894,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maximum</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174906Z" creationid="Yifei Ding" creationdate="20190318T174906Z">
+        <seg>最高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maximum path length is 255 characters</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T005425Z" creationid="Yifei Ding" creationdate="20190212T174348Z">
         <seg>极限路径长度是255个字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>May</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174913Z" creationid="Yifei Ding" creationdate="20190318T174913Z">
+        <seg>五月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medium</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174902Z" creationid="Yifei Ding" creationdate="20190318T174902Z">
+        <seg>适中</seg>
       </tuv>
     </tu>
     <tu>
@@ -5854,6 +5982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimum</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174859Z" creationid="Yifei Ding" creationdate="20190318T174859Z">
+        <seg>最低</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minute</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023313Z" creationid="Yifei Ding" creationdate="20190211T023313Z">
@@ -5874,6 +6010,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T223120Z" creationid="Yifei Ding" creationdate="20190228T223120Z">
         <seg>错误的拼写会造成SSH服务启动被阻止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Monday</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174925Z" creationid="Yifei Ding" creationdate="20190318T174925Z">
+        <seg>星期一</seg>
       </tuv>
     </tu>
     <tu>
@@ -6038,6 +6182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174941Z" creationid="Yifei Ding" creationdate="20190318T174941Z">
+        <seg>标准</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013728Z" creationid="Yifei Ding" creationdate="20190212T013728Z">
@@ -6066,6 +6218,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013738Z" creationid="Yifei Ding" creationdate="20190212T013738Z">
         <seg>备注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>November</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174922Z" creationid="Yifei Ding" creationdate="20190318T174922Z">
+        <seg>十一月</seg>
       </tuv>
     </tu>
     <tu>
@@ -6106,6 +6266,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T054533Z" creationid="Yifei Ding" creationdate="20190211T054533Z">
         <seg>系统版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>October</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174921Z" creationid="Yifei Ding" creationdate="20190318T174921Z">
+        <seg>十月</seg>
       </tuv>
     </tu>
     <tu>
@@ -6870,6 +7038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Saturday</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174933Z" creationid="Yifei Ding" creationdate="20190318T174933Z">
+        <seg>星期六</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060924Z" creationid="Yifei Ding" creationdate="20190211T060924Z">
@@ -6930,6 +7106,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T170556Z" creationid="Yifei Ding" creationdate="20190213T170556Z">
         <seg>使用逗号，空格，或tab分隔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>September</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174919Z" creationid="Yifei Ding" creationdate="20190318T174919Z">
+        <seg>九月</seg>
       </tuv>
     </tu>
     <tu>
@@ -7238,6 +7422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sunday</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174935Z" creationid="Yifei Ding" creationdate="20190318T174935Z">
+        <seg>星期日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Swap size in GiB</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060225Z" creationid="Yifei Ding" creationdate="20190211T060225Z">
@@ -7518,6 +7710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thursday</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174930Z" creationid="Yifei Ding" creationdate="20190318T174930Z">
+        <seg>星期四</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Timeout</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062159Z" creationid="Yifei Ding" creationdate="20190211T062159Z">
@@ -7546,6 +7746,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T224611Z" creationid="Yifei Ding" creationdate="20190301T224611Z">
         <seg>在设置为&lt;i&gt;0&lt;/i&gt;时尝试无限次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tuesday</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174927Z" creationid="Yifei Ding" creationdate="20190318T174927Z">
+        <seg>星期二</seg>
       </tuv>
     </tu>
     <tu>
@@ -7978,6 +8186,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T045126Z" creationid="Yifei Ding" creationdate="20190213T045126Z">
         <seg>Webdav SSL证书</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wednesday</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174929Z" creationid="Yifei Ding" creationdate="20190318T174929Z">
+        <seg>星期三</seg>
       </tuv>
     </tu>
     <tu>
