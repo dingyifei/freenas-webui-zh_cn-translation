@@ -360,8 +360,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b&gt;WARNING:&lt;/b&gt; Read the &lt;a href="%%docurl%%/storage.html%%webversion%%#managing-encrypted-pools" target="_blank"&gt;Encryption section&lt;/a&gt; of the guide before activating this option.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T182549Z" creationid="Yifei Ding" creationdate="20190305T182549Z">
-        <seg>&lt;b&gt;警告：&lt;/b&gt;在启用此选项前请阅读&lt;a href="%%docurl%%/storage.html%%webversion%%#managing-encrypted-pools" target="_blank"&gt;Encryption section&lt;/a&gt;指南。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T181715Z" creationid="Yifei Ding" creationdate="20190305T182549Z">
+        <seg>&lt;b&gt;警告：&lt;/b&gt;在启用此选项前请阅读&lt;a href="%%docurl%%/storage.html%%webversion%%#managing-encrypted-pools" target="_blank"&gt;加密章节&lt;/a&gt;指南。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1842,6 +1842,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233729Z" creationid="Yifei Ding" creationdate="20190211T233729Z">
         <seg>高级模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced Plugin Installation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T181756Z" creationid="Yifei Ding" creationdate="20190318T181756Z">
+        <seg>高级插件安装</seg>
       </tuv>
     </tu>
     <tu>
@@ -3952,8 +3960,8 @@
       <tuv lang="EN-US">
         <seg>Change the default password to improve system security.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T003906Z" creationid="Yifei Ding" creationdate="20190212T003906Z">
-        <seg>修改默认密码以提高系统安全。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T181842Z" creationid="Yifei Ding" creationdate="20190212T003906Z">
+        <seg>修改默认密码以提高系统安全性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4184,8 +4192,8 @@
       <tuv lang="EN-US">
         <seg>Choices are &lt;i&gt;Plain (No Encryption)&lt;/i&gt;, &lt;i&gt;SSL (Implicit TLS)&lt;/i&gt;, or &lt;i&gt;TLS (STARTTLS)&lt;/i&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T182458Z" creationid="Yifei Ding" creationdate="20190305T182441Z">
-        <seg>选择有&lt;i&gt;Plain（不加密）&lt;/i&gt;, &lt;i&gt;SSL (Implicit TLS)&lt;/i&gt;, or &lt;i&gt;TLS (STARTTLS)&lt;/i&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T181649Z" creationid="Yifei Ding" creationdate="20190305T182441Z">
+        <seg>选择有&lt;i&gt;明文（不加密）&lt;/i&gt;, &lt;i&gt;SSL (Implicit TLS)&lt;/i&gt;, or &lt;i&gt;TLS (STARTTLS)&lt;/i&gt;.</seg>
       </tuv>
     </tu>
     <tu>
