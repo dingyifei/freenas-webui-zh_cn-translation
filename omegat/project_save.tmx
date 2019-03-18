@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>!data</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>!data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#freenas on freenode</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -166,10 +174,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10000</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>10000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>115200</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>115200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>15000</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>15000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>16 characters or fewer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T175356Z" creationid="Yifei Ding" creationdate="20190318T175356Z">
+        <seg>16 characters or fewer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>169.254/16 subnet is not valid for nameserver</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>169.254/16 子网段不能用作域名服务器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>19200</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>19200</seg>
       </tuv>
     </tu>
     <tu>
@@ -186,6 +234,46 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T005722Z" creationid="Yifei Ding" creationdate="20190212T173605Z">
         <seg>25个字符）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>38400</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>38400</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5400</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>5400</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>57600</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>57600</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7200</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>7200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9600</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>9600</seg>
       </tuv>
     </tu>
     <tu>
@@ -1006,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AD Idmap</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>AD Idmap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AD Timeout</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T054041Z" creationid="Yifei Ding" creationdate="20190301T054041Z">
@@ -1018,6 +1114,30 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>AD 超时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ADEX Idmap</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>ADEX Idmap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AES</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>AES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AFP</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>AFP</seg>
       </tuv>
     </tu>
     <tu>
@@ -2262,6 +2382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apple (AFP)</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Apple (AFP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apple (AFP) Share</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -2630,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attachments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T175413Z" creationid="Yifei Ding" creationdate="20190318T175413Z">
+        <seg>附件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attempt to automatically tune the network and ZFS system control variables based on memory available.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -2786,6 +2922,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234022Z" creationid="Yifei Ding" creationdate="20190211T234022Z">
         <seg>自启动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AutoRID Idmap</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>AutoRID Idmap</seg>
       </tuv>
     </tu>
     <tu>
@@ -3066,6 +3210,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>基础 DN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Base Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -3414,10 +3566,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CA</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CAs</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>CA机构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CHAP</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>CHAP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CN Realm</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>CN Realm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CORE</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>CORE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COREPLUS</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>COREPLUS</seg>
       </tuv>
     </tu>
     <tu>
@@ -3801,6 +3993,14 @@
         <seg>Changing back to a stable train is not supported!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T235111Z" creationid="Yifei Ding" creationdate="20190301T235052Z">
+        <seg>改回到稳定分支是不被支持的！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changing back to stable is not supported!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T175615Z" creationid="Yifei Ding" creationdate="20190318T175615Z">
         <seg>改回到稳定分支是不被支持的！</seg>
       </tuv>
     </tu>
@@ -5422,10 +5622,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DES</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>DES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DHCP</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>DHCP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DHCP Autoconfigure IPv4</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012322Z" creationid="Yifei Ding" creationdate="20190212T012306Z">
         <seg>DHCP自动配置IPv4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DNS Backend</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>DNS Backend</seg>
       </tuv>
     </tu>
     <tu>
@@ -5650,6 +5874,22 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>调试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debug2</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Debug2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Debug3</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Debug3</seg>
       </tuv>
     </tu>
     <tu>
@@ -6774,6 +7014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Domain</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Domain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Domain Account Name</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -6810,6 +7058,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>域管理员账户的密码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Domain Controller</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Domain Controller</seg>
       </tuv>
     </tu>
     <tu>
@@ -6934,6 +7190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Down</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Down</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Download Encrypt Key</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224208Z" creationid="Yifei Ding" creationdate="20190212T224208Z">
@@ -7010,6 +7274,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>动态DNS设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>E-mail</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>E-mail</seg>
       </tuv>
     </tu>
     <tu>
@@ -8894,6 +9166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extent</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Extent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extent Name</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -8974,6 +9254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FC</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>FC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FQDN of the domain controller to use.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -8986,6 +9274,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>FQDN 使用的全局编录服务器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FTP</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>FTP</seg>
       </tuv>
     </tu>
     <tu>
@@ -9782,6 +10078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HTTP</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>HTTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HTTP Authentication</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -9802,6 +10106,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195827Z" creationid="Yifei Ding" creationdate="20190211T195827Z">
         <seg>HTTP代理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTP+HTTPS</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>HTTP+HTTPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HTTPS</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>HTTPS</seg>
       </tuv>
     </tu>
     <tu>
@@ -9834,6 +10154,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195910Z" creationid="Yifei Ding" creationdate="20190211T195910Z">
         <seg>硬盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hash Idmap</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Hash Idmap</seg>
       </tuv>
     </tu>
     <tu>
@@ -10110,6 +10438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IBurst</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>IBurst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IP Address</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -10138,6 +10474,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>允许访问 NFS 共享的IP地址或主机名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPMI</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>IPMI</seg>
       </tuv>
     </tu>
     <tu>
@@ -10194,6 +10538,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195940Z" creationid="Yifei Ding" creationdate="20190211T195940Z">
         <seg>IPv4地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv4 DHCP</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>IPv4 DHCP</seg>
       </tuv>
     </tu>
     <tu>
@@ -10582,6 +10934,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Idmap Backend</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Idmap Backend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Idmap backend</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Idmap backend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Idmap backend for winbind.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -10878,6 +11246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Init</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Init</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Init/Shutdown Script</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -10906,6 +11282,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>安全初始化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Initiator</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Initiator</seg>
       </tuv>
     </tu>
     <tu>
@@ -11230,6 +11614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jail</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Jail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jail IP Netmask</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -11438,6 +11830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jails</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Jails</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jails Configuration</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -11486,6 +11886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>KDC</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>KDC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>KDC for this realm.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -11514,6 +11922,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T230245Z" creationid="Yifei Ding" creationdate="20190212T230245Z">
         <seg>推荐保留为默认。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kerberos Keytab</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Kerberos Keytab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kerberos Keytabs</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Kerberos Keytabs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kerberos Realm</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Kerberos Realm</seg>
       </tuv>
     </tu>
     <tu>
@@ -11550,6 +11982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kerberos realm.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Kerberos realm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key could not be retrieved for unknown reason</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -11562,6 +12002,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>密钥长度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keytab</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Keytab</seg>
       </tuv>
     </tu>
     <tu>
@@ -11606,6 +12054,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LANMAN1</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>LANMAN1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LANMAN2</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>LANMAN2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LDAP</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>LDAP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LDAP Domain</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>LDAP Domain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LDAP Idmap</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>LDAP Idmap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LDAP Realm</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>LDAP Realm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LDAP Schema type.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -11618,6 +12114,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>LDAP 服务器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LDAP URL</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>LDAP URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -11654,6 +12158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LLDP</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>LLDP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LLDP Settings</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -11670,6 +12182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LUN ID</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>LUN ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LUN ID already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -11682,6 +12202,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>LUN ID 以在当前 target 上使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LUN RPM</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>LUN RPM</seg>
       </tuv>
     </tu>
     <tu>
@@ -11950,6 +12478,78 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Local 0</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Local 0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local 1</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Local 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local 2</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Local 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local 3</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Local 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local 4</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Local 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local 5</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Local 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local 6</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Local 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local 7</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Local 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local Master</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Local Master</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Local User</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174939Z" creationid="Yifei Ding" creationdate="20190318T174939Z">
@@ -12198,10 +12798,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MAC</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>MAC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MAC Address</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024627Z" creationid="Yifei Ding" creationdate="20190211T024627Z">
         <seg>MAC地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MD5</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>MD5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T175321Z" creationid="Yifei Ding" creationdate="20190318T175321Z">
+        <seg>MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit</seg>
       </tuv>
     </tu>
     <tu>
@@ -12410,6 +13038,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T013642Z" creationid="Yifei Ding" creationdate="20190212T013624Z">
         <seg>最大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MaxOutstandingR2T</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>MaxOutstandingR2T</seg>
       </tuv>
     </tu>
     <tu>
@@ -12918,6 +13554,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NAT</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>NAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NFS</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>NFS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NFS Settings</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -13022,6 +13674,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NSS Idmap</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>NSS Idmap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NT1</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>NT1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NT4</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>NT4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NT4 Domain</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -13058,6 +13734,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name Map</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Name Map</seg>
       </tuv>
     </tu>
     <tu>
@@ -13918,10 +14602,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PBI</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>PBI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PBI file to be installed</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>要安装的 PBI 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PIO0</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>PIO0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PIO1</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>PIO1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PIO2</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>PIO2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PIO3</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>PIO3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PIO4</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>PIO4</seg>
       </tuv>
     </tu>
     <tu>
@@ -14870,10 +15602,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Portal</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Portal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Portal Group ID</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>Portal 组 ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Portal IP</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Portal IP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Portals</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Portals</seg>
       </tuv>
     </tu>
     <tu>
@@ -14978,6 +15734,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>主用户组 ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Principal</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -15110,6 +15874,38 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Project-Id-Version: PACKAGE VERSION
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2012-06-04 02:10-0700
+PO-Revision-Date: 2017-03-07 08:29+0000
+Last-Translator: XY.Chen &lt;chenxinyv@gmail.com&gt;
+Language-Team: Simplified Chinese &lt;http://weblate.trueos.org/projects/freenas/djangojs/zh_Hans/&gt;
+Language: zh_Hans
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=1; plural=0;
+X-Generator: Weblate 2.10-dev
+X-POOTLE-MTIME: 1463296042.0</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T175358Z" creationid="Yifei Ding" creationdate="20190318T175358Z">
+        <seg>Project-Id-Version: PACKAGE VERSION
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2012-06-04 02:10-0700
+PO-Revision-Date: 2017-03-07 08:29+0000
+Last-Translator: XY.Chen &lt;chenxinyv@gmail.com&gt;
+Language-Team: Simplified Chinese &lt;http://weblate.trueos.org/projects/freenas/djangojs/zh_Hans/&gt;
+Language: zh_Hans
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=1; plural=0;
+X-Generator: Weblate 2.10-dev
+X-POOTLE-MTIME: 1463296042.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Protocol</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055411Z" creationid="Yifei Ding" creationdate="20190211T055411Z">
@@ -15230,6 +16026,46 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RFC2307 Idmap</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>RFC2307 Idmap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RID Idmap</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>RID Idmap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Range High</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Range High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Range Low</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Range Low</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Range Size</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Range Size</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -15298,6 +16134,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055501Z" creationid="Yifei Ding" creationdate="20190211T055501Z">
         <seg>读/写权限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Realm</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Realm</seg>
       </tuv>
     </tu>
     <tu>
@@ -15378,6 +16222,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>记录大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recovery Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Recovery Key</seg>
       </tuv>
     </tu>
     <tu>
@@ -15766,6 +16618,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Replication</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Replication</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Replication %(replication)s failed: %(message)s</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -16070,6 +16930,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Root E-mail</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Root E-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Root Password</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061008Z" creationid="Yifei Ding" creationdate="20190211T061008Z">
@@ -16198,10 +17066,34 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>S.M.A.R.T.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>S.M.A.R.T.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SASL wrapping</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>SASL 封装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SATA 1.5Gbit/s</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>SATA 1.5Gbit/s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SATA 3.0Gbit/s</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>SATA 3.0Gbit/s</seg>
       </tuv>
     </tu>
     <tu>
@@ -16222,10 +17114,66 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SHA</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>SHA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SHA1</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>SHA1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SHA224</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>SHA224</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SHA256</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>SHA256</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SHA256 sum for the image</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>映象的 SHA256 值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SHA384</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>SHA384</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SHA512</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>SHA512</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SMB</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>SMB</seg>
       </tuv>
     </tu>
     <tu>
@@ -16246,10 +17194,106 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SMB2</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>SMB2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SMB2_02</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>SMB2_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SMB2_10</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>SMB2_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SMB2_22</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>SMB2_22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SMB2_24</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>SMB2_24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SMB3</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>SMB3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SMB3_00</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>SMB3_00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SMB3_02</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>SMB3_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SMB3_11</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>SMB3_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SNMP</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>SNMP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SNMP Settings</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>SNMP设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SSD</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>SSD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SSH</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>SSH</seg>
       </tuv>
     </tu>
     <tu>
@@ -16302,6 +17346,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SSL</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>SSL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SSL Certificate</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -16314,6 +17366,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>SUDO 后缀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Samba Schema</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Samba Schema</seg>
       </tuv>
     </tu>
     <tu>
@@ -17726,6 +18786,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sysctls</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Sysctls</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Syslog</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -17886,10 +18954,42 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TDB Idmap</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>TDB Idmap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TDB2 Idmap</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>TDB2 Idmap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TFTP</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>TFTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TFTP Settings</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>TFTP设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLS</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>TLS</seg>
       </tuv>
     </tu>
     <tu>
@@ -17986,6 +19086,30 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>TLS 策略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLS/SSL</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>TLS/SSL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Target</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Target</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Target / Extent</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Target / Extent</seg>
       </tuv>
     </tu>
     <tu>
@@ -19966,6 +21090,46 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UDMA-100</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>UDMA-100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UDMA-133</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>UDMA-133</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UDMA-16</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>UDMA-16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UDMA-33</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>UDMA-33</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UDMA-66</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>UDMA-66</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UFS Volume Manager</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -20022,6 +21186,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>UPS</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>UPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>UPS Mode</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -20050,6 +21222,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>当UPS电量不足时关机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>URL</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -20162,6 +21342,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>未加密</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unix (NFS)</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>Unix (NFS)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20806,6 +21994,30 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VIMAGE</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>VIMAGE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VLAN</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>VLAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VLAN ID</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>VLAN ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VLAN Tag</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -21350,6 +22562,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>WARNING: Changing to a nightly train is a one way street.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T175552Z" creationid="Yifei Ding" creationdate="20190318T175552Z">
+        <seg>警告：切换到Nightly分支是单向的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>WARNING: Exporting/disconnecting '</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060626Z" creationid="Yifei Ding" creationdate="20190211T060626Z">
@@ -21370,6 +22590,30 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055353Z" creationid="Yifei Ding" creationdate="20190211T055353Z">
         <seg>警告: Upgrading a pool is a one-way operation that might make some features of the pool incompatible with older versions of FreeNAS:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WDMA0</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>WDMA0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WDMA1</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>WDMA1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WDMA2</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>WDMA2</seg>
       </tuv>
     </tu>
     <tu>
@@ -21402,6 +22646,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030254Z" creationid="Yifei Ding" creationdate="20190211T030254Z">
         <seg>网络界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WebDAV</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>WebDAV</seg>
       </tuv>
     </tu>
     <tu>
@@ -22190,6 +23442,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You're not allowed to change away from the nightly train, it is considered a downgrade.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T175517Z" creationid="Yifei Ding" creationdate="20190318T175404Z">
+        <seg>你不能从Nightly分支切换到其他分支，这是一个降级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your %(sw_name)s license is going to expire in %(date)s</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -22270,6 +23530,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your old password was entered incorrectly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T175347Z" creationid="Yifei Ding" creationdate="20190318T175347Z">
+        <seg>Your old password was entered incorrectly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your path to the extent must reside inside a volume/dataset mount point.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -22290,6 +23558,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>您的测试邮件已发送！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZFS</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>ZFS</seg>
       </tuv>
     </tu>
     <tu>
@@ -22438,10 +23714,50 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ad</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>ad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>adex</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>adex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>auth</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>认证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>auth+!data</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>auth+!data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>auth+data</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>auth+data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>autorid</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>autorid</seg>
       </tuv>
     </tu>
     <tu>
@@ -22458,6 +23774,38 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>折叠全部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ctrl</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>ctrl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ctrl+!data</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>ctrl+!data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ctrl+data</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>ctrl+data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>data</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>data</seg>
       </tuv>
     </tu>
     <tu>
@@ -22542,10 +23890,26 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>hash</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>hash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>hour</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>小时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>iSCSI</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>iSCSI</seg>
       </tuv>
     </tu>
     <tu>
@@ -22710,6 +24074,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>mtree</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>mtree</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>netbiosname: %s</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -22722,6 +24094,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>没有更多设备</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>nss</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>nss</seg>
       </tuv>
     </tu>
     <tu>
@@ -22766,6 +24146,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>rc.conf</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>rc.conf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>read-only</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -22794,6 +24182,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>RFC2307</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>rid</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>rid</seg>
       </tuv>
     </tu>
     <tu>
@@ -22898,6 +24294,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>WORKGROUP：%s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>zle (runs of zeros)</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>zle (runs of zeros)</seg>
       </tuv>
     </tu>
     <tu>
