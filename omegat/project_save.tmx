@@ -10438,6 +10438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I Understand</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T181256Z" creationid="Yifei Ding" creationdate="20190318T181256Z">
+        <seg>我理解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm also aware the snapshots are currently on hold for replication</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -10834,6 +10842,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>IPv6 网络起始地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv6 Prefix</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T181246Z" creationid="Yifei Ding" creationdate="20190318T181246Z">
+        <seg>IPv6 前缀</seg>
       </tuv>
     </tu>
     <tu>
@@ -19030,6 +19046,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>TFTP设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLS Allow Client Renegotiations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T181044Z" creationid="Yifei Ding" creationdate="20190318T181044Z">
+        <seg>TLS 允许客户端协商</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLS Allow Dot Login</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T181046Z" creationid="Yifei Ding" creationdate="20190318T181046Z">
+        <seg>TLS 允许点登录</seg>
       </tuv>
     </tu>
     <tu>
