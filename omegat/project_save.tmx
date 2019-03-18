@@ -1398,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Always On</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174741Z" creationid="Yifei Ding" creationdate="20190318T174732Z">
+        <seg>常开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Always back up the key!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T011805Z" creationid="Yifei Ding" creationdate="20190220T011805Z">
@@ -1538,6 +1546,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T012049Z" creationid="Yifei Ding" creationdate="20190220T012049Z">
         <seg>可靠的网络</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174703Z" creationid="Yifei Ding" creationdate="20190318T174703Z">
+        <seg>自动</seg>
       </tuv>
     </tu>
     <tu>
@@ -3490,6 +3506,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T174000Z" creationid="Yifei Ding" creationdate="20190212T174000Z">
         <seg>禁用FreeNas缓存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disabled</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174756Z" creationid="Yifei Ding" creationdate="20190318T174756Z">
+        <seg>已禁用</seg>
       </tuv>
     </tu>
     <tu>
@@ -5598,6 +5622,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Level 1 - Minimum power usage with Standby (spindown)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174801Z" creationid="Yifei Ding" creationdate="20190318T174801Z">
+        <seg>级别 1 - 省电待机 (怠速)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Level 127 - Intermediate power usage with Standby</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174813Z" creationid="Yifei Ding" creationdate="20190318T174813Z">
+        <seg>级别 127 - 中等耗电量待机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Level 128 - Minimum power usage without Standby (no spindown)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174819Z" creationid="Yifei Ding" creationdate="20190318T174819Z">
+        <seg>级别 128 - 省电不待机 (非怠速)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Level 192 - Intermediate power usage without Standby</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174825Z" creationid="Yifei Ding" creationdate="20190318T174825Z">
+        <seg>级别 192 - 中等耗电量不待机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Level 64 - Intermediate power usage with Standby</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174808Z" creationid="Yifei Ding" creationdate="20190318T174808Z">
+        <seg>级别 64 - 中等耗电量待机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>License</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213755Z" creationid="Yifei Ding" creationdate="20190211T213755Z">
@@ -6258,6 +6322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023849Z" creationid="Yifei Ding" creationdate="20190211T023849Z">
         <seg>路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plain</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174646Z" creationid="Yifei Ding" creationdate="20190318T174646Z">
+        <seg>明文</seg>
       </tuv>
     </tu>
     <tu>
