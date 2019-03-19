@@ -6654,6 +6654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Directories &amp; Permissions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T003318Z" creationid="Yifei Ding" creationdate="20190319T003318Z">
+        <seg>文件夹 &amp; 权限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Directory</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173928Z" creationid="Yifei Ding" creationdate="20190212T173928Z">
@@ -6702,6 +6710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Directory/Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T003331Z" creationid="Yifei Ding" creationdate="20190319T003331Z">
+        <seg>文件夹/文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disable Active Directory user/group cache</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -6746,6 +6762,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>禁用密码登录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable physical block size reporting</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T003341Z" creationid="Yifei Ding" creationdate="20190319T003341Z">
+        <seg>禁用物理块尺寸报告</seg>
       </tuv>
     </tu>
     <tu>
@@ -7714,6 +7738,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224538Z" creationid="Yifei Ding" creationdate="20190212T224538Z">
         <seg>在这个共享上启用时间机器备份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Unix privileges supported by OSX 10.5 and higher.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T003515Z" creationid="Yifei Ding" creationdate="20190319T003515Z">
+        <seg>启用Unix 权限支持被 OSX 10.5和更高版本支持。</seg>
       </tuv>
     </tu>
     <tu>
