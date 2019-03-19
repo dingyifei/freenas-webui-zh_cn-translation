@@ -9278,6 +9278,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extend</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T003834Z" creationid="Yifei Ding" creationdate="20190319T003834Z">
+        <seg>扩展</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Extend Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T003856Z" creationid="Yifei Ding" creationdate="20190319T003856Z">
+        <seg>扩展存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extend Volume</seg>
       </tuv>
       <tuv lang="ZH-CN">
