@@ -201,7 +201,7 @@ msgstr "要扩展的卷"
 #: freeadmin/static/lib/js/freeadmin/VolumeManager.js:1068
 msgid ""
 "Extending an encrypted volume will reset the passphrase and recovery key!"
-msgstr "扩展加密卷将重置密码短语和recovery key！"
+msgstr "扩展加密卷将重置密码短语和恢复密钥！"
 
 #: freeadmin/static/lib/js/freeadmin/VolumeManager.js:1069
 msgid "Encryption"

@@ -44,7 +44,7 @@ msgid ""
 "' is encrypted! If the passphrase for this encrypted pool has been lost, "
 "the data will be PERMANENTLY UNRECOVERABLE! Before exporting/disconnecting "
 "encrypted pools, download and safely store the recovery key."
-msgstr "’已加密！如果加密存储池的密钥丢失，数据将会无法恢复！导出/断开加密存储池前请下载保存恢复密钥。"
+msgstr "’已加密！如果加密存储池的密码短语丢失，数据将会无法恢复！导出/断开加密存储池前请下载保存恢复密钥。"
 
 msgid "'. All data on that pool was destroyed."
 msgstr "’。所有此存储池的数据已被销毁。"
@@ -1285,13 +1285,13 @@ msgid "Change Device Order"
 msgstr "修改设备顺序"
 
 msgid "Change Passphrase"
-msgstr "修改密钥"
+msgstr "修改密码短语"
 
 msgid "Change Password"
 msgstr "修改密码"
 
 msgid "Change Pool Passphrase"
-msgstr "修改存储池密钥"
+msgstr "修改存储池密码短语"
 
 msgid "Change User & Group Ownership"
 msgstr "变更用户和群组的所有人"
@@ -1845,7 +1845,7 @@ msgid "Confirm Options"
 msgstr "确认选项"
 
 msgid "Confirm Passphrase"
-msgstr "确认密钥"
+msgstr "确认密码短语"
 
 msgid "Confirm Password"
 msgstr "确认密码"
@@ -1872,7 +1872,7 @@ msgid "Confirm password"
 msgstr "确认密码"
 
 msgid "Confirm the GELI passphrase."
-msgstr ""
+msgstr "确认GELI密码短语。"
 
 msgid "Confirm these settings."
 msgstr "确认这些设置。"
@@ -1939,13 +1939,13 @@ msgid "Create Certificate"
 msgstr "创建证书"
 
 msgid "Create Passphrase"
-msgstr "创建密钥"
+msgstr "创建密码短语"
 
 msgid "Create Pool"
 msgstr "创建存储池"
 
 msgid "Create Pool Passphrase"
-msgstr "创建存储池密钥"
+msgstr "创建存储池密码短语"
 
 msgid "Create Snapshot"
 msgstr "创建快照"
@@ -2867,7 +2867,7 @@ msgstr "Enter a number of seconds to wait before alerting that the service canno
 msgid ""
 "Enter a number of times to attempt reconnecting to the Active directory "
 "server. Tries forever when set to <i>0</i>."
-msgstr ""
+msgstr "Enter a number of times to attempt reconnecting to the Active directory server. 在设置为<i>0</i>时持续尝试。"
 
 msgid ""
 "Enter a number of virtual CPUs to allocate to the VM. The maximum is 16 "
@@ -3229,7 +3229,7 @@ msgid "Enter the command with any options."
 msgstr ""
 
 msgid "Enter the decryption passphrase."
-msgstr "输入解密密钥。"
+msgstr "输入解密密码短语。"
 
 msgid "Enter the default gateway of the IPv4 connection."
 msgstr "输入IPv4默认网关。"
@@ -3427,7 +3427,7 @@ msgid "Error adding recovery key to pool."
 msgstr ""
 
 msgid "Error changing passphrase for pool "
-msgstr "修改存储池密码错误 "
+msgstr "修改存储池密码短语错误 "
 
 msgid "Error checking for updates."
 msgstr "检查更新错误"
@@ -3436,7 +3436,7 @@ msgid "Error creating VM."
 msgstr "创建虚拟机错误。"
 
 msgid "Error creating passphrase for pool "
-msgstr "创建存储池密钥错误。 "
+msgstr "创建存储池密码短语错误。 "
 
 msgid "Error creating pool"
 msgstr "创建存储池错误"
@@ -5033,13 +5033,13 @@ msgid "Partition"
 msgstr "分区"
 
 msgid "Passphrase"
-msgstr "密码"
+msgstr "密码短语"
 
 msgid "Passphrase changed for pool "
-msgstr "修改存储池密码完成 "
+msgstr "修改存储池密码短语完成 "
 
 msgid "Passphrase created for pool "
-msgstr "创建存储池密码完成 "
+msgstr "创建存储池密码短语完成 "
 
 msgid "Password"
 msgstr "密码"

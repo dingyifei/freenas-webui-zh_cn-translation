@@ -6915,7 +6915,7 @@ msgstr "锁定卷"
 
 #: storage/admin.py:311
 msgid "Change Passphrase"
-msgstr "修改密钥"
+msgstr "修改密码短语"
 
 #: storage/admin.py:318
 msgid "Download Key"
@@ -7768,7 +7768,7 @@ msgstr ""
 #: storage/forms.py:2391
 #: system/models.py:381
 msgid "Passphrase"
-msgstr "密码"
+msgstr "密码短语"
 
 #: storage/forms.py:1165
 msgid "The following disks failed to attach: %s"
@@ -8050,7 +8050,7 @@ msgstr "是否锁定此卷？"
 
 #: templates/storage/recoverykey_add.html:4
 msgid "You are about to add a recovery key for this volume"
-msgstr "要为这个卷添加一个recovery key"
+msgstr "你需要为这个卷添加一个密码短语"
 
 #: templates/storage/rekey.html:4
 msgid "You are about to re-key the encryption"
@@ -8084,7 +8084,7 @@ msgstr "日期"
 
 #: templates/storage/volumestatus_datagrid.html:21
 msgid "Scrub"
-msgstr "垃圾清理任务"
+msgstr "数据校验任务"
 
 #: templates/storage/wizard.html:92
 msgid "Extend Volume"
@@ -8096,7 +8096,7 @@ msgstr "重复数据删除"
 
 #: templates/storage/zpool_disk_replace.html:8
 msgid "WARNING: The recovery key of your volume will be invalidated!"
-msgstr "警告：卷的 recovery key 将失效！"
+msgstr "警告：卷的恢复密钥将失效！"
 
 #: templates/storage/zvols.html:6
 msgid "Add zvol"
@@ -8628,7 +8628,7 @@ msgstr "批量编辑"
 
 #: storage/admin.py:304
 msgid "Create Passphrase"
-msgstr "创建密钥"
+msgstr "创建密码短语"
 
 #: storage/admin.py:336
 msgid "Remove recovery key"
@@ -8718,7 +8718,7 @@ msgstr "例如：1GiB"
 #: storage/forms.py:2280
 #: system/forms.py:484
 msgid "Confirm Passphrase"
-msgstr "确认密钥"
+msgstr "确认密码短语"
 
 #: storage/forms.py:1961
 msgid "Passphrase is not valid"
