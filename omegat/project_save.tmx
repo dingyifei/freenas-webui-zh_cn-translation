@@ -21442,6 +21442,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tries forever when set to &lt;i&gt;0&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T033250Z" creationid="Yifei Ding" creationdate="20190319T033250Z">
+        <seg>在设置为&lt;i&gt;0&lt;/i&gt;时持续尝试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tuesday</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174927Z" creationid="Yifei Ding" creationdate="20190318T174927Z">
