@@ -4382,6 +4382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose a privacy protocol.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T010850Z" creationid="Yifei Ding" creationdate="20190319T010850Z">
+        <seg>选择一个隐私协议。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose an authentication method.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T164513Z" creationid="Yifei Ding" creationdate="20190301T160836Z">
@@ -12504,8 +12512,8 @@
       <tuv lang="EN-US">
         <seg>LUN already exists in the same target.</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>Target 中已存在相同的 LUN。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T010755Z">
+        <seg>目标中已存在相同的 LUN。</seg>
       </tuv>
     </tu>
     <tu>
