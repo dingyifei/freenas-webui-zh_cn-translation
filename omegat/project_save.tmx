@@ -2272,8 +2272,8 @@
       <tuv lang="EN-US">
         <seg>Alternative names that SMB clients can use when connecting to this NAS.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T005545Z" creationid="Yifei Ding" creationdate="20190319T005545Z">
-        <seg>可以让SMB客户端连接到此NAS的替代名。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T203613Z" creationid="Yifei Ding" creationdate="20190319T005545Z">
+        <seg>替代名可以被SMB客户端用于连接这台NAS。</seg>
       </tuv>
     </tu>
     <tu>
