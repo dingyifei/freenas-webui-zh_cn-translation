@@ -9790,6 +9790,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fix Credential</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T004128Z" creationid="Yifei Ding" creationdate="20190319T004128Z">
+        <seg>修复凭据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flip</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T004139Z" creationid="Yifei Ding" creationdate="20190319T004139Z">
+        <seg>翻转</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Folder</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T232952Z" creationid="Yifei Ding" creationdate="20190212T232952Z">
