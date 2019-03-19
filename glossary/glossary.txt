@@ -78,3 +78,4 @@ Token	令牌
 Active Directory	活动目录
 stripe	条带
 Plain	明文
+scrubs	磁盘数据校验
