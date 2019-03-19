@@ -6342,6 +6342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete the zvol</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T003646Z" creationid="Yifei Ding" creationdate="20190319T003646Z">
+        <seg>删除Zvol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete this device?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T183839Z" creationid="Yifei Ding" creationdate="20190212T183839Z">
@@ -6385,6 +6393,14 @@
         <seg>Deny List</seg>
       </tuv>
       <tuv lang="ZH-CN">
+        <seg>拒绝列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deny list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T003639Z" creationid="Yifei Ding" creationdate="20190319T003639Z">
         <seg>拒绝列表</seg>
       </tuv>
     </tu>
@@ -7074,6 +7090,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>是否解锁此卷？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Docker Host</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T003708Z" creationid="Yifei Ding" creationdate="20190319T003708Z">
+        <seg>Docker主机</seg>
       </tuv>
     </tu>
     <tu>
