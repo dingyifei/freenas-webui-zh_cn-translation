@@ -9392,8 +9392,8 @@
       <tuv lang="EN-US">
         <seg>Extending an encrypted volume will reset the passphrase and recovery key!</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>扩展加密卷将重置密码短语和recovery key！</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T034708Z">
+        <seg>扩展加密卷将重置密码短语和恢复密钥！</seg>
       </tuv>
     </tu>
     <tu>
@@ -17820,8 +17820,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Scrub</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>垃圾清理任务</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T034837Z">
+        <seg>数据校验任务</seg>
       </tuv>
     </tu>
     <tu>
@@ -23052,8 +23052,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>WARNING: The recovery key of your volume will be invalidated!</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>警告：卷的 recovery key 将失效！</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T034845Z">
+        <seg>警告：卷的恢复密钥将失效！</seg>
       </tuv>
     </tu>
     <tu>
@@ -23596,8 +23596,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>You are about to add a recovery key for this volume</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>要为这个卷添加一个recovery key</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T034814Z">
+        <seg>你需要为这个卷添加一个密码短语</seg>
       </tuv>
     </tu>
     <tu>
