@@ -6608,8 +6608,8 @@
       <tuv lang="EN-US">
         <seg>Determine how many days shall be between scrubs</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>确定多少天执行一次垃圾清理</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T002736Z">
+        <seg>确定多少天执行一次磁盘数据校验</seg>
       </tuv>
     </tu>
     <tu>
