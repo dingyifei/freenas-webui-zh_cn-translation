@@ -80,3 +80,4 @@ stripe	条带
 Plain	明文
 scrubs	磁盘数据校验
 Scrub	校验
+Cron Job	计划任务
