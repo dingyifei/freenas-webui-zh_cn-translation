@@ -134,6 +134,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>0 for default</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T010447Z" creationid="Yifei Ding" creationdate="20190319T010447Z">
+        <seg>默认为0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0 for default.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T010453Z" creationid="Yifei Ding" creationdate="20190319T010453Z">
+        <seg>默认为0。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>0=Disabled, blank=inherit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T214710Z" creationid="Yifei Ding" creationdate="20190214T214710Z">
@@ -9206,6 +9222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example: vlan0.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T010422Z" creationid="Yifei Ding" creationdate="20190319T010415Z">
+        <seg>例子：vlan0。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exclude System Dataset</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -16228,8 +16252,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Pull</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>取回</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T010313Z">
+        <seg>拉取</seg>
       </tuv>
     </tu>
     <tu>
@@ -20908,8 +20932,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>This is not a valid e-mail address</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>这不是一个合法的 e-mail 地址</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T010518Z">
+        <seg>这不是一个有效的 e-mail 地址</seg>
       </tuv>
     </tu>
     <tu>
