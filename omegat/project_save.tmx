@@ -5830,6 +5830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DO NOT CHANGE THE idmap_backend SETTING UNLESS REQUIRED TO WORK WITH A MIXED NETWORK AND THE PROPER CONFIGURATION HAS ALREADY BEEN DETERMINED.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T193124Z" creationid="Yifei Ding" creationdate="20190319T193124Z">
+        <seg> DO NOT CHANGE THE idmap_backend SETTING UNLESS REQUIRED TO WORK WITH A MIXED NETWORK AND THE PROPER CONFIGURATION HAS ALREADY BEEN DETERMINED.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DOS Charset</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T194136Z" creationid="Yifei Ding" creationdate="20190313T194136Z">
