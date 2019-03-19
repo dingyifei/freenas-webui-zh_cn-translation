@@ -3070,6 +3070,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auxiliary Parameters (ups.conf)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T010023Z" creationid="Yifei Ding" creationdate="20190319T010004Z">
+        <seg>附加参数 （ups.conf）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auxiliary Parameters (upsd.conf)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T010018Z" creationid="Yifei Ding" creationdate="20190319T010018Z">
+        <seg>附加参数 （upsd.conf）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auxiliary groups</seg>
       </tuv>
       <tuv lang="ZH-CN">
