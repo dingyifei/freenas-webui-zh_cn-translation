@@ -3046,6 +3046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auxiliary Arguments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T005956Z" creationid="Yifei Ding" creationdate="20190319T005956Z">
+        <seg>附加参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auxiliary Groups</seg>
       </tuv>
       <tuv lang="ZH-CN">
