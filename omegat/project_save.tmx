@@ -4320,8 +4320,8 @@
       <tuv lang="EN-US">
         <seg>Choose a pool to scrub.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T002755Z" creationid="Yifei Ding" creationdate="20190220T012641Z">
-        <seg>选择一个存储池来进行磁盘数据校验。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T003016Z" creationid="Yifei Ding" creationdate="20190220T012641Z">
+        <seg>选择一个存储池来进行数据校验。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6424,8 +6424,8 @@
       <tuv lang="EN-US">
         <seg>Describe the scrub task.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T002812Z" creationid="Yifei Ding" creationdate="20190308T230015Z">
-        <seg>描述这个磁盘数据校验任务。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T003045Z" creationid="Yifei Ding" creationdate="20190308T230015Z">
+        <seg>描述这个数据校验任务。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17634,6 +17634,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scrub Boot Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T003002Z" creationid="Yifei Ding" creationdate="20190319T003002Z">
+        <seg>校验启动存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scrub Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T002915Z" creationid="Yifei Ding" creationdate="20190319T002915Z">
+        <seg>校验存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scrub Status</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -17644,8 +17660,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Scrub Tasks</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T002831Z" creationid="Yifei Ding" creationdate="20190319T002831Z">
-        <seg>磁盘数据校验任务</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T002844Z" creationid="Yifei Ding" creationdate="20190319T002831Z">
+        <seg>数据校验任务</seg>
       </tuv>
     </tu>
     <tu>
@@ -18674,10 +18690,26 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Start Scrub</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T003109Z" creationid="Yifei Ding" creationdate="20190319T003109Z">
+        <seg>启动数据校验</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start on Boot</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055937Z" creationid="Yifei Ding" creationdate="20190211T055937Z">
         <seg>开机启动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start scrub on pool &lt;i&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T003138Z" creationid="Yifei Ding" creationdate="20190319T003138Z">
+        <seg>启动数据校验在存储池&lt;i&gt;</seg>
       </tuv>
     </tu>
     <tu>
