@@ -10390,6 +10390,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide Stderr</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T004511Z" creationid="Yifei Ding" creationdate="20190319T004511Z">
+        <seg>隐藏标准错误输出（Stderr）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Stdout</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T004525Z" creationid="Yifei Ding" creationdate="20190319T004525Z">
+        <seg>隐藏标准输出（Stdout）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>History</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -10410,6 +10426,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>主目录模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Home Directory Permissions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T004545Z" creationid="Yifei Ding" creationdate="20190319T004545Z">
+        <seg>主目录权限</seg>
       </tuv>
     </tu>
     <tu>
