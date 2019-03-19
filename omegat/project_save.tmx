@@ -4992,8 +4992,8 @@
       <tuv lang="EN-US">
         <seg>Confirm Passphrase</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011829Z" creationid="Yifei Ding" creationdate="20190212T011829Z">
-        <seg>确认密钥</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T034313Z" creationid="Yifei Ding" creationdate="20190212T011829Z">
+        <seg>确认密码短语</seg>
       </tuv>
     </tu>
     <tu>
@@ -5058,6 +5058,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T011900Z" creationid="Yifei Ding" creationdate="20190212T011900Z">
         <seg>确认密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm the GELI passphrase.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T034334Z" creationid="Yifei Ding" creationdate="20190319T034334Z">
+        <seg>确认GELI密码短语。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5392,8 +5400,8 @@
       <tuv lang="EN-US">
         <seg>Create Passphrase</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T012036Z" creationid="Yifei Ding" creationdate="20190212T012036Z">
-        <seg>创建密钥</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T034345Z" creationid="Yifei Ding" creationdate="20190212T012036Z">
+        <seg>创建密码短语</seg>
       </tuv>
     </tu>
     <tu>
@@ -5408,8 +5416,8 @@
       <tuv lang="EN-US">
         <seg>Create Pool Passphrase</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T182300Z" creationid="Yifei Ding" creationdate="20190212T182300Z">
-        <seg>创建存储池密钥</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T034356Z" creationid="Yifei Ding" creationdate="20190212T182300Z">
+        <seg>创建存储池密码短语</seg>
       </tuv>
     </tu>
     <tu>
@@ -8640,8 +8648,8 @@
       <tuv lang="EN-US">
         <seg>Enter the decryption passphrase.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T202442Z" creationid="Yifei Ding" creationdate="20190213T202442Z">
-        <seg>输入解密密钥。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T034413Z" creationid="Yifei Ding" creationdate="20190213T202442Z">
+        <seg>输入解密密码短语。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8792,8 +8800,8 @@
       <tuv lang="EN-US">
         <seg>Error changing passphrase for pool</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200701Z" creationid="Yifei Ding" creationdate="20190213T200701Z">
-        <seg>修改存储池密码错误</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T034530Z" creationid="Yifei Ding" creationdate="20190213T200701Z">
+        <seg>修改存储池密码短语错误</seg>
       </tuv>
     </tu>
     <tu>
@@ -8816,8 +8824,8 @@
       <tuv lang="EN-US">
         <seg>Error creating passphrase for pool</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T200843Z" creationid="Yifei Ding" creationdate="20190213T200843Z">
-        <seg>创建存储池密钥错误。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T034537Z" creationid="Yifei Ding" creationdate="20190213T200843Z">
+        <seg>创建存储池密码短语错误。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14996,16 +15004,16 @@ Content-Transfer-Encoding: 8bit</seg>
       <tuv lang="EN-US">
         <seg>Passphrase</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055004Z" creationid="Yifei Ding" creationdate="20190211T055004Z">
-        <seg>密码</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T034544Z" creationid="Yifei Ding" creationdate="20190211T055004Z">
+        <seg>密码短语</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Passphrase changed for pool</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055833Z" creationid="Yifei Ding" creationdate="20190211T055020Z">
-        <seg>修改存储池密码完成</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T034548Z" creationid="Yifei Ding" creationdate="20190211T055020Z">
+        <seg>修改存储池密码短语完成</seg>
       </tuv>
     </tu>
     <tu>
@@ -15028,8 +15036,8 @@ Content-Transfer-Encoding: 8bit</seg>
       <tuv lang="EN-US">
         <seg>Passphrase created for pool</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T055842Z" creationid="Yifei Ding" creationdate="20190211T055030Z">
-        <seg>创建存储池密码完成</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T034550Z" creationid="Yifei Ding" creationdate="20190211T055030Z">
+        <seg>创建存储池密码短语完成</seg>
       </tuv>
     </tu>
     <tu>
