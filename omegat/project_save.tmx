@@ -3952,8 +3952,8 @@
       <tuv lang="EN-US">
         <seg>Change Passphrase</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234430Z" creationid="Yifei Ding" creationdate="20190211T234430Z">
-        <seg>修改密钥</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T034233Z" creationid="Yifei Ding" creationdate="20190211T234430Z">
+        <seg>修改密码短语</seg>
       </tuv>
     </tu>
     <tu>
@@ -3976,8 +3976,8 @@
       <tuv lang="EN-US">
         <seg>Change Pool Passphrase</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T234442Z" creationid="Yifei Ding" creationdate="20190211T234442Z">
-        <seg>修改存储池密钥</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T034243Z" creationid="Yifei Ding" creationdate="20190211T234442Z">
+        <seg>修改存储池密码短语</seg>
       </tuv>
     </tu>
     <tu>
@@ -11280,8 +11280,8 @@
       <tuv lang="EN-US">
         <seg>If the passphrase for this encrypted pool has been lost, the data will be PERMANENTLY UNRECOVERABLE!</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T184923Z" creationid="Yifei Ding" creationdate="20190214T184923Z">
-        <seg>如果加密存储池的密钥丢失，数据将会无法恢复！</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T034225Z" creationid="Yifei Ding" creationdate="20190214T184923Z">
+        <seg>如果加密存储池的密码短语丢失，数据将会无法恢复！</seg>
       </tuv>
     </tu>
     <tu>
