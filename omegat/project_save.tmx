@@ -7966,6 +7966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enable this cron job.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T011043Z" creationid="Yifei Ding" creationdate="20190319T011043Z">
+        <seg>启用这个计划任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable this rsync task.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T224806Z" creationid="Yifei Ding" creationdate="20190212T224806Z">
