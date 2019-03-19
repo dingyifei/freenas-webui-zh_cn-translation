@@ -23786,6 +23786,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your username and password didn't match.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T225327Z" creationid="Yifei Ding" creationdate="20190318T225327Z">
+        <seg>您的用户名和密码不匹配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ZFS</seg>
       </tuv>
       <tuv lang="ZH-CN">
