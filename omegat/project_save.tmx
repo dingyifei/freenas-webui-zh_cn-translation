@@ -824,8 +824,8 @@
       <tuv lang="EN-US">
         <seg>&lt;i&gt;None&lt;/i&gt; allows anonymous discovery while &lt;i&gt;CHAP&lt;/i&gt; and &lt;i&gt;Mutual CHAP&lt;/i&gt; require authentication.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T182042Z" creationid="Yifei Ding" creationdate="20190305T182042Z">
-        <seg>&lt;i&gt;无&lt;/i&gt;允许匿名discovery while &lt;i&gt;CHAP&lt;/i&gt; and &lt;i&gt;Mutual CHAP&lt;/i&gt; require authentication.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T175130Z" creationid="Yifei Ding" creationdate="20190305T182042Z">
+        <seg>&lt;i&gt;无&lt;/i&gt;允许匿名探索，&lt;i&gt;CHAP&lt;/i&gt;和&lt;i&gt;Mutual CHAP&lt;/i&gt;需要验证。</seg>
       </tuv>
     </tu>
     <tu>
