@@ -118,7 +118,7 @@ msgstr "无法刷新缓存： "
 
 #: freeadmin/static/lib/js/freeadmin/Menu.js:134
 msgid "Shares"
-msgstr ""
+msgstr "共享"
 
 #: freeadmin/static/lib/js/freeadmin/Menu.js:213
 msgid "Jails"
@@ -353,7 +353,7 @@ msgstr "手动安装"
 
 #: freeadmin/static/lib/js/freeadmin/Update.js:82
 msgid "Check For Updates"
-msgstr ""
+msgstr "检查更新"
 
 #: freeadmin/static/lib/js/freeadmin/Update.js:86
 msgid "Apply Pending Updates"
@@ -517,7 +517,7 @@ msgstr ""
 
 #: freeadmin/static/lib/js/freeadmin/Update.js:88
 msgid "Loading"
-msgstr ""
+msgstr "载入中"
 
 #: freeadmin/static/lib/js/freeadmin/Update.js:89
 msgid "Automatically check for updates"

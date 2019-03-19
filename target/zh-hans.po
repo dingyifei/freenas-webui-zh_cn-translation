@@ -115,7 +115,7 @@ msgid ""
 "<a href=\"https://www.fastmail.com/help/technical/ssltlsstarttls.html\" "
 "target=\"_blank\">Email encryption</a> type. Choices are <i>Plain (No "
 "Encryption)</i>, <i>SSL (Implicit TLS)</i>, or <i>TLS (STARTTLS)</i>."
-msgstr "<a href=\"https://www.fastmail.com/help/technical/ssltlsstarttls.html\" target=\"_blank\">Email encryption</a> type. 选择有<i>Plain（不加密）</i>, <i>SSL (Implicit TLS)</i>, or <i>TLS (STARTTLS)</i>."
+msgstr "<a href=\"https://www.fastmail.com/help/technical/ssltlsstarttls.html\" target=\"_blank\">邮件加密</a>类型。选择有<i>明文（不加密）</i>, <i>SSL (Implicit TLS)</i>, 或<i>TLS (STARTTLS)</i>。"
 
 msgid ""
 "<a "
@@ -125,7 +125,7 @@ msgid ""
 "href=\"%%docurl%%/storage.html%%webversion%%#managing-encrypted-pools\" "
 "target=\"_blank\">Encryption section</a> of the guide before activating "
 "this option."
-msgstr "<a href=\"https://www.freebsd.org/cgi/man.cgi?query=geli&manpath=FreeBSD+11.1-RELEASE+and+Ports\" target=\"_blank\">GELI</a> encryption is available for ZFS pools. <b>警告：</b>在启用此选项前请阅读<a href=\"%%docurl%%/storage.html%%webversion%%#managing-encrypted-pools\" target=\"_blank\">Encryption section</a>指南。"
+msgstr "<a href=\"https://www.freebsd.org/cgi/man.cgi?query=geli&manpath=FreeBSD+11.1-RELEASE+and+Ports\" target=\"_blank\">GELI</a> encryption is available for ZFS pools. <b>警告：</b>在启用此选项前请阅读<a href=\"%%docurl%%/storage.html%%webversion%%#managing-encrypted-pools\" target=\"_blank\">加密章节</a>指南。"
 
 msgid ""
 "<a "
@@ -690,7 +690,7 @@ msgid "Advanced Mode"
 msgstr "高级模式"
 
 msgid "Advanced Plugin Installation"
-msgstr ""
+msgstr "高级插件安装"
 
 msgid "Advanced Power Management"
 msgstr "高级电源管理"
@@ -858,7 +858,7 @@ msgstr ""
 msgid ""
 "Alternative names that SMB clients can use when connecting to this NAS. Can "
 "be no greater than 15 characters."
-msgstr "Alternative names that SMB clients can use when connecting to this NAS. 不能长于15个字符。"
+msgstr "可以让SMB客户端连接到此NAS的替代名。不能长于15个字符。"
 
 msgid "Always Chroot"
 msgstr "总是Chroot"
@@ -1013,7 +1013,7 @@ msgid "Automatically reboot the system after the update is applied."
 msgstr "在更新被应用后自动重启系统。"
 
 msgid "Auxiliary Arguments"
-msgstr ""
+msgstr "附加参数"
 
 msgid "Auxiliary Groups"
 msgstr "附加组"
@@ -1022,10 +1022,10 @@ msgid "Auxiliary Parameters"
 msgstr "附加参数"
 
 msgid "Auxiliary Parameters (ups.conf)"
-msgstr ""
+msgstr "附加参数 （ups.conf）"
 
 msgid "Auxiliary Parameters (upsd.conf)"
-msgstr ""
+msgstr "附加参数 （upsd.conf）"
 
 msgid "Auxiliary parameters"
 msgstr "附加参数"
@@ -1308,7 +1308,7 @@ msgstr "修改日志"
 msgid ""
 "Change the default password to improve system security. The new password "
 "cannot contain a space or <b>#</b>."
-msgstr "修改默认密码以提高系统安全。新的密码不能包含空格或<b>#</b>。"
+msgstr "修改默认密码以提高系统安全性。新的密码不能包含空格或<b>#</b>。"
 
 msgid ""
 "Changing SDK version is not a supported operation. Activate an existing "
@@ -1461,7 +1461,7 @@ msgid "Choose a pool or dataset for the new zvol."
 msgstr "选择一个存储池或数据集用于新的zvol。"
 
 msgid "Choose a pool to scrub."
-msgstr "选择一个存储池来进行scrub检查。"
+msgstr "选择一个存储池来进行数据校验。"
 
 msgid ""
 "Choose a pool where the iocage jail manager   can create the /iocage "
@@ -1471,7 +1471,7 @@ msgid ""
 msgstr ""
 
 msgid "Choose a privacy protocol."
-msgstr ""
+msgstr "选择一个隐私协议。"
 
 msgid ""
 "Choose a recent IP address to limit the usage when accessing the "
@@ -1664,7 +1664,7 @@ msgid "Close"
 msgstr "关闭"
 
 msgid "Cloud Credentials"
-msgstr ""
+msgstr "云凭据"
 
 msgid "Cloud Sync Tasks"
 msgstr "云同步任务"
@@ -1994,7 +1994,7 @@ msgid ""
 msgstr "Creating or editing a <i>sysctl</i> immediately updates the Variable to the configured Value. 必须重启以应用<i>loader</i> or <i>rc.conf</i> tunables. Configured tunables remain in effect until deleted or Enabled is unset."
 
 msgid "Credential"
-msgstr ""
+msgstr "凭据"
 
 msgid "Critical"
 msgstr "紧急"
@@ -2289,7 +2289,7 @@ msgid "Delete the dataset "
 msgstr "删除数据集 "
 
 msgid "Delete the zvol "
-msgstr ""
+msgstr "删除Zvol "
 
 msgid "Delete this device?"
 msgstr "删除这个设备？"
@@ -2301,7 +2301,7 @@ msgid "Deleted Recovery Key"
 msgstr "已删除恢复密钥"
 
 msgid "Deny list"
-msgstr ""
+msgstr "拒绝列表"
 
 msgid ""
 "Describe the UPS device. It can contain alphanumeric, period, comma, "
@@ -2312,7 +2312,7 @@ msgid "Describe the VM or its purpose."
 msgstr "描述虚拟机或其用途。"
 
 msgid "Describe the scrub task."
-msgstr "描述这个Scrub任务"
+msgstr "描述这个数据校验任务。"
 
 msgid "Describe this service."
 msgstr "描述这个服务。"
@@ -2403,7 +2403,7 @@ msgid "Direction"
 msgstr "方向"
 
 msgid "Directories & Permissions"
-msgstr ""
+msgstr "文件夹 & 权限"
 
 msgid "Directory"
 msgstr "文件夹"
@@ -2418,7 +2418,7 @@ msgid "Directory Services"
 msgstr "目录服务"
 
 msgid "Directory/Files"
-msgstr ""
+msgstr "文件夹/文件"
 
 msgid "Disable Endpoint Region"
 msgstr ""
@@ -2427,7 +2427,7 @@ msgid "Disable FreeNAS Cache"
 msgstr "禁用FreeNas缓存"
 
 msgid "Disable physical block size reporting"
-msgstr ""
+msgstr "禁用物理块尺寸报告"
 
 msgid "Discovery Auth Group"
 msgstr "发现认证组"
@@ -2483,7 +2483,7 @@ msgid "Do not set this if the Serial Port is disabled."
 msgstr "如果串口被禁用，请不要设置这个。"
 
 msgid "Docker Host"
-msgstr ""
+msgstr "Docker主机"
 
 msgid "Domain"
 msgstr "Domain"
@@ -2628,7 +2628,7 @@ msgid ""
 "Enable Unix privileges supported by OSX 10.5 and higher. Do not enable this "
 "if the network contains Mac OSX 10.4 clients or lower as they do not "
 "support this feature."
-msgstr ""
+msgstr "启用Unix 权限支持被 OSX 10.5和更高版本支持。Do not enable this if the network contains Mac OSX 10.4 clients or lower as they do not support this feature."
 
 msgid "Enable VNC"
 msgstr "启用VNC"
@@ -2669,7 +2669,7 @@ msgstr "启用这个云同步任务。Unset to disable this Cloud Sync Task with
 msgid ""
 "Enable this cron job. When unset, disable the                cron job "
 "without deleting it."
-msgstr ""
+msgstr "启用这个计划任务。When unset, disable the                cron job without deleting it."
 
 msgid ""
 "Enable this rsync task. Unset to disable this                rsync task "
@@ -3541,10 +3541,10 @@ msgid "Exporting Pool..."
 msgstr "导出存储池中..."
 
 msgid "Extend"
-msgstr ""
+msgstr "扩展"
 
 msgid "Extend Pool"
-msgstr ""
+msgstr "扩展存储池"
 
 msgid "Extending an encrypted pool resets the passphrase and recovery key!"
 msgstr ""
@@ -3598,7 +3598,7 @@ msgid "Filter"
 msgstr "过滤器"
 
 msgid "Fix Credential"
-msgstr ""
+msgstr "修复凭据"
 
 msgid ""
 "Flags to pass to <a "
@@ -3615,7 +3615,7 @@ msgid ""
 msgstr ""
 
 msgid "Flip"
-msgstr ""
+msgstr "翻转"
 
 msgid "Folder"
 msgstr "文件夹"
@@ -3743,7 +3743,7 @@ msgid "Guest Operating System"
 msgstr "访客操作系统"
 
 msgid "Guide"
-msgstr "教程"
+msgstr "指南"
 
 msgid "HDD Standby"
 msgstr "HDD休眠"
@@ -3779,10 +3779,10 @@ msgid "Hide Standard Output"
 msgstr "隐藏标准输出"
 
 msgid "Hide Stderr"
-msgstr ""
+msgstr "隐藏标准错误输出（Stderr）"
 
 msgid "Hide Stdout"
-msgstr ""
+msgstr "隐藏标准输出（Stdout）"
 
 msgid ""
 "Hide error output (stderr) from the command.                When unset, any "
@@ -3800,7 +3800,7 @@ msgid "Home Directory"
 msgstr "主目录"
 
 msgid "Home Directory Permissions"
-msgstr ""
+msgstr "主目录权限"
 
 msgid "Host"
 msgstr ""
@@ -3841,7 +3841,7 @@ msgid "How often the IP is checked in seconds."
 msgstr ""
 
 msgid "I Understand"
-msgstr ""
+msgstr "我理解"
 
 msgid "IBurst"
 msgstr "IBurst"
@@ -3912,7 +3912,7 @@ msgid "IPv6 Interface"
 msgstr "IPv6接口"
 
 msgid "IPv6 Prefix"
-msgstr ""
+msgstr "IPv6 前缀"
 
 msgid "IPv6 Prefix Length"
 msgstr "IPv6 前缀长度"
@@ -5725,7 +5725,7 @@ msgid "SSH port number. Leave empty to use the default port <i>22</i>."
 msgstr "SSH端口号Leave empty to use the default port <i>22</i>."
 
 msgid "SSL"
-msgstr "SSL"
+msgstr ""
 
 msgid "SUDO Suffix"
 msgstr "SUDO 后缀"
@@ -5782,13 +5782,13 @@ msgid "Script to execute before running sync."
 msgstr ""
 
 msgid "Scrub Boot Pool"
-msgstr ""
+msgstr "校验启动存储池"
 
 msgid "Scrub Pool"
-msgstr ""
+msgstr "校验存储池"
 
 msgid "Scrub Tasks"
-msgstr ""
+msgstr "数据校验任务"
 
 msgid "Scrub complete on pool <i>"
 msgstr ""
@@ -7221,13 +7221,13 @@ msgid "Start"
 msgstr "启动"
 
 msgid "Start Scrub"
-msgstr ""
+msgstr "启动数据校验"
 
 msgid "Start on Boot"
 msgstr "开机启动"
 
 msgid "Start scrub on pool <i>"
-msgstr ""
+msgstr "启动数据校验在存储池<i>"
 
 msgid "Starting job..."
 msgstr ""
@@ -7405,10 +7405,10 @@ msgid "TCP port used to access the iSCSI target. Default is <i>3260</i>."
 msgstr "TCP port used to access the iSCSI target. 默认设置是 <i>3260</i>."
 
 msgid "TLS Allow Client Renegotiations"
-msgstr ""
+msgstr "TLS 允许客户端协商"
 
 msgid "TLS Allow Dot Login"
-msgstr ""
+msgstr "TLS 允许点登录"
 
 msgid "TLS Allow Per User"
 msgstr ""
@@ -8049,12 +8049,12 @@ msgid "VMWare Sync"
 msgstr "VMWare 同步"
 
 msgid "VMware-Snapshots"
-msgstr ""
+msgstr "VMWare 快照"
 
 msgid ""
 "VNC network interface. The primary interface is automatically selected, but "
 "secondary interfaces can be chosen from the drop-down menu."
-msgstr ""
+msgstr "VNC网络接口。The primary interface is automatically selected, but secondary interfaces can be chosen from the drop-down menu."
 
 msgid "VNET"
 msgstr ""
@@ -8075,7 +8075,7 @@ msgid "Verbose logging"
 msgstr "详细记录"
 
 msgid "Verify Credential"
-msgstr ""
+msgstr "验证凭据"
 
 msgid "Verify passphrase"
 msgstr "确认密码"
@@ -8084,7 +8084,7 @@ msgid "Version"
 msgstr "版本"
 
 msgid "View"
-msgstr ""
+msgstr "查看"
 
 msgid "View the contents of the Service Account JSON file."
 msgstr ""
@@ -8105,7 +8105,7 @@ msgid "Virtualization"
 msgstr "虚拟化"
 
 msgid "Vlan Tag"
-msgstr ""
+msgstr "VLAN 标签"
 
 msgid "WARNING"
 msgstr "警告"
@@ -8119,7 +8119,7 @@ msgid "WARNING: Based on the pool topology, "
 msgstr ""
 
 msgid "WARNING: Exporting/disconnecting '"
-msgstr "警告：Exporting/disconnecting '"
+msgstr "警告：导出/断开”"
 
 msgid "Wait to start VM until VNC client connects."
 msgstr ""
@@ -8161,10 +8161,10 @@ msgid "WebGUI IPv6 Address"
 msgstr "WebGUI IPv6地址"
 
 msgid "Webdav Password"
-msgstr "Webdav密码"
+msgstr "WebDav密码"
 
 msgid "Webdav SSL Certificate"
-msgstr "Webdav SSL证书"
+msgstr "WebDav SSL证书"
 
 msgid "When"
 msgstr "当"

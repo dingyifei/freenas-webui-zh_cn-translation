@@ -25,11 +25,11 @@ msgstr "明文"
 #: choices.py:41 choices.py:557 system/models.py:320
 #: templates/system/settings.html:9
 msgid "SSL"
-msgstr "SSL"
+msgstr ""
 
 #: choices.py:42 choices.py:558
 msgid "TLS"
-msgstr "TLS"
+msgstr ""
 
 #: choices.py:47
 msgid "HTTP"
@@ -467,7 +467,7 @@ msgstr "推送"
 
 #: choices.py:568
 msgid "Pull"
-msgstr "取回"
+msgstr "拉取"
 
 #: account/forms.py:54
 msgid "Your name cannot start with \"-\""
@@ -1051,7 +1051,7 @@ msgstr "虚拟接口"
 
 #: network/models.py:266
 msgid "Interface names must be vlanX where X is a number. Example: vlan0."
-msgstr ""
+msgstr "Interface names must be vlanX where X is a number. 例子：vlan0。"
 
 #: network/models.py:271 templates/network/lagg_members.html:5
 #: templates/network/vlan.html:5
@@ -1351,11 +1351,11 @@ msgstr "文件夹权限"
 
 #: services/forms.py:200
 msgid "This value must be between 1024 and 65535, inclusive. 0 for default"
-msgstr ""
+msgstr "This value must be between 1024 and 65535, inclusive. 默认为0"
 
 #: services/forms.py:210
 msgid "This value must be between 1024 and 65535, inclusive. 0 for default."
-msgstr ""
+msgstr "This value must be between 1024 and 65535, inclusive. 默认为0。"
 
 #: services/forms.py:215
 msgid "This must be higher than minimum passive port"
@@ -1395,7 +1395,7 @@ msgstr "动态DNS 服务重载失败。"
 
 #: services/forms.py:374
 msgid "This is not a valid e-mail address"
-msgstr "这不是一个合法的 e-mail 地址"
+msgstr "这不是一个有效的 e-mail 地址"
 
 #: services/forms.py:376
 msgid ""
@@ -1496,7 +1496,7 @@ msgstr "iSCSI 服务重载失败。"
 
 #: services/forms.py:606
 msgid "LUN already exists in the same target."
-msgstr "Target 中已存在相同的 LUN。"
+msgstr "目标中已存在相同的 LUN。"
 
 #: services/forms.py:619 services/models.py:374
 msgid "Controller Auth Group"
@@ -3605,7 +3605,7 @@ msgstr "ZFS 卷大小"
 
 #: storage/forms.py:846
 msgid "Example: 1g"
-msgstr "如：1G"
+msgstr "例子：1G"
 
 #: storage/forms.py:859
 msgid ""
@@ -3725,7 +3725,7 @@ msgstr "阈值天数"
 
 #: storage/models.py:207
 msgid "Determine how many days shall be between scrubs"
-msgstr "确定多少天执行一次垃圾清理"
+msgstr "确定多少天执行一次磁盘数据校验"
 
 #: storage/models.py:217 system/models.py:343 system/models.py:495
 #: templates/storage/scrub.html:7 templates/system/cronjob.html:5
@@ -4169,7 +4169,7 @@ msgstr "最大 Poll 应大于最小 Poll"
 
 #: system/forms.py:274
 msgid "Server could not be reached. Check \"Force\" to continue regardless."
-msgstr ""
+msgstr "服务器无法被访问。Check \"Force\" to continue regardless."
 
 #: system/forms.py:496
 #, python-format
@@ -4453,7 +4453,7 @@ msgstr "状态"
 
 #: system/models.py:295
 msgid "State or Province Name (full name)"
-msgstr "州或省名（完整名）"
+msgstr "州或省名（全名）"
 
 #: system/models.py:301
 msgid "Country"
@@ -4461,7 +4461,7 @@ msgstr "国家"
 
 #: system/models.py:302
 msgid "Country Name (2 letter code)"
-msgstr "国家名称(2字母代码)"
+msgstr "国家名称(2个字母代码)"
 
 #: system/models.py:308
 msgid "Common Name"
@@ -4482,7 +4482,7 @@ msgstr "剪切并在此处粘贴您的私有和公共证书文件内容。"
 
 #: system/models.py:330 system/models.py:523
 msgid "The user to run the command"
-msgstr "执行伪命令的用户"
+msgstr "执行命令的用户"
 
 #: system/models.py:333 templates/system/cronjob.html:11
 msgid "Command"
@@ -4528,7 +4528,7 @@ msgstr "方向"
 #: system/models.py:482
 msgid ""
 "Push - From local to remote machine. Pull - From remote to local machine."
-msgstr ""
+msgstr "推送 - From local to remote machine. 拉取 - From remote to local machine."
 
 #: system/models.py:527
 msgid "Recurse into directories"
@@ -4874,7 +4874,7 @@ msgstr "正在运行进程"
 #: templates/freeadmin/index.html:38 templates/freeadmin/index.html.py:44
 #: templates/freeadmin/index.html:49
 msgid "Loading..."
-msgstr "加载..."
+msgstr "载入中..."
 
 #: templates/freeadmin/index.html:53
 msgid "Help & Support"
@@ -5139,7 +5139,7 @@ msgstr "上传"
 
 #: templates/registration/login.html:40
 msgid "Your username and password didn't match. Please try again."
-msgstr ""
+msgstr "您的用户名和密码不匹配。请再次尝试。"
 
 #: templates/registration/login.html:44
 #, python-format
@@ -6349,7 +6349,7 @@ msgstr "开启"
 
 #: choices.py:695
 msgid "data"
-msgstr "data"
+msgstr "护具"
 
 #: account/forms.py:539
 msgid "Home directory cannot contain colons"
@@ -6386,7 +6386,7 @@ msgstr "lzjb (过时，不推荐)"
 
 #: choices.py:319
 msgid "plzip (best compression)"
-msgstr "plzip (最好)"
+msgstr "plzip (最佳压缩率)"
 
 #: choices.py:675
 msgid "Verbose"
@@ -6434,7 +6434,7 @@ msgstr "URL"
 
 #: jails/forms.py:90
 msgid "type"
-msgstr ""
+msgstr "类型"
 
 #: jails/forms.py:182
 #: jails/forms.py:629
@@ -6524,7 +6524,7 @@ msgstr "只读"
 
 #: jails/models.py:537
 msgid "Filesystem"
-msgstr ""
+msgstr "文件系统"
 
 #: jails/nav.py:85
 msgid "Add Jail Templates"
@@ -6548,11 +6548,11 @@ msgstr "Jail 已启动。"
 
 #: jails/views.py:399
 msgid "Jail template successfully edited."
-msgstr ""
+msgstr "Jail 模板编辑成功。"
 
 #: middleware/notifier.py:3068
 msgid "No RPC Token!"
-msgstr "没有 RPC Token！"
+msgstr "没有 RPC令牌！"
 
 #: middleware/notifier.py:3824
 msgid "No carrier"
@@ -8384,7 +8384,7 @@ msgstr "HTTP代理"
 
 #: network/views.py:66
 msgid "IPMI successfully edited"
-msgstr "IPMI 已编辑"
+msgstr "IPMI编辑成功"
 
 #: network/views.py:68
 msgid "IPMI failed"
@@ -9087,7 +9087,7 @@ msgstr "证书"
 
 #: services/forms.py:864
 msgid "Incorrect password."
-msgstr ""
+msgstr "密码错误。"
 
 #: services/models.py:1623
 #: services/models.py:1835
@@ -9856,7 +9856,7 @@ msgstr "Jail 模板已创建。"
 
 #: jails/views.py:512
 msgid "Jail Template successfully edited."
-msgstr "Jail 模板已编辑。"
+msgstr "Jail 模板编辑成功。"
 
 #: services/forms.py:1541
 msgid "Confirm WebDAV Password"
@@ -9900,7 +9900,7 @@ msgstr ""
 
 #: services/models.py:1745
 msgid "Webdav Password"
-msgstr "Webdav密码"
+msgstr "WebDav密码"
 
 #: services/models.py:1747
 msgid "The Default Password is: davtest"
@@ -10362,7 +10362,7 @@ msgstr "每个数据集仅允许一个Replication任务，包括设置了递归�
 
 #: system/forms.py:1889
 msgid "Trains"
-msgstr ""
+msgstr "分支"
 
 #: storage/admin.py:375
 msgid "Edit zvol"
@@ -10561,7 +10561,7 @@ msgstr ""
 
 #: templates/system/update_select.html:20
 msgid "Check For Update"
-msgstr ""
+msgstr "检查更新"
 
 #: common/system.py:301
 msgid "Unmount Failed (%(retcode)s) -> %(output)s"
@@ -10620,7 +10620,7 @@ msgstr "WebDAV服务的身份认证类型<br>基础身份认证：密码通过�
 
 #: services/models.py:1767
 msgid "Webdav SSL Certificate"
-msgstr "Webdav SSL证书"
+msgstr "WebDav SSL证书"
 
 #: sharing/forms.py:188
 #: sharing/forms.py:212
@@ -11000,7 +11000,7 @@ msgstr "LDAP Schema 类型。"
 #: freeadmin/navtree.py:249
 #: templates/menubar.html:73
 msgid "Guide"
-msgstr "教程"
+msgstr "指南"
 
 #: jails/admin.py:231
 #: templates/jails/restart.html:3
@@ -11369,7 +11369,7 @@ msgstr ""
 
 #: storage/models.py:1148
 msgid "VMware-Snapshots"
-msgstr ""
+msgstr "VMWare 快照"
 
 #: storage/views.py:787
 msgid "Disk online operation has been issued."
@@ -11627,20 +11627,20 @@ msgstr ""
 
 #: templates/support/home.html:34
 msgid "Bronze"
-msgstr "古铜"
+msgstr "青铜"
 
 #: templates/support/home.html:35
 msgid "Silver"
-msgstr ""
+msgstr "白银"
 
 #: templates/support/home.html:36
 msgid "Gold"
-msgstr "土豪金"
+msgstr "黄金"
 
 #: templates/support/home.html:37
 #: templates/support/home.html.py:38
 msgid "8x5 FreeNAS Support"
-msgstr ""
+msgstr "8x5 FreeNAS 支持"
 
 #: templates/support/home.html:38
 msgid "Maximum of 6 incidents per year"
@@ -11652,7 +11652,7 @@ msgstr ""
 
 #: templates/support/home.html:41
 msgid "Expired"
-msgstr ""
+msgstr "过期"
 
 #: templates/support/home.html:44
 msgid "Customer Name"
