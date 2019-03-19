@@ -816,8 +816,8 @@
       <tuv lang="EN-US">
         <seg>&lt;i&gt;Mixed&lt;/b&gt; understands both types of filenames.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T222204Z" creationid="Yifei Ding" creationdate="20190214T222204Z">
-        <seg>&lt;i&gt;混合&lt;/b&gt; understands both types of filenames.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T193226Z" creationid="Yifei Ding" creationdate="20190214T222204Z">
+        <seg>&lt;i&gt;混合&lt;/b&gt;同时兼容两种类型的文件名。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1122,6 +1122,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>指定的卷名已经存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ACL Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T193355Z" creationid="Yifei Ding" creationdate="20190319T193355Z">
+        <seg>ACL类型</seg>
       </tuv>
     </tu>
     <tu>
