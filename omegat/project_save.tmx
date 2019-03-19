@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a href="https://www.fastmail.com/help/technical/ssltlsstarttls.html" target="_blank"&gt;Email encryption&lt;/a&gt; type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T004832Z" creationid="Yifei Ding" creationdate="20190319T004832Z">
+        <seg>&lt;a href="https://www.fastmail.com/help/technical/ssltlsstarttls.html" target="_blank"&gt;邮件加密&lt;/a&gt;类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b&gt;Ctrl+C&lt;/b&gt; kills a foreground process.&lt;br&gt;                            Many utilities are built-in:&lt;br&gt; &lt;b&gt;Iperf&lt;/b&gt;,                            &lt;b&gt;Netperf&lt;/b&gt;, &lt;b&gt;IOzone&lt;/b&gt;, &lt;b&gt;arcsat&lt;/b&gt;,                            &lt;b&gt;tw_cli&lt;/b&gt;, &lt;br&gt;&lt;b&gt;MegaCli&lt;/b&gt;,                            &lt;b&gt;freenas-debug&lt;/b&gt;, &lt;b&gt;tmux&lt;/b&gt;,                            &lt;b&gt;Dmidecode&lt;/b&gt;.&lt;br&gt; Refer to the &lt;a                            href="%%docurl%%/cli.html%%webversion%%"                            target="_blank"&gt;Command Line Utilities&lt;/a&gt;                            chapter in the guide for usage information                            and examples.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T183241Z" creationid="Yifei Ding" creationdate="20190305T183114Z">
@@ -4208,8 +4216,8 @@
       <tuv lang="EN-US">
         <seg>Choices are &lt;i&gt;Plain (No Encryption)&lt;/i&gt;, &lt;i&gt;SSL (Implicit TLS)&lt;/i&gt;, or &lt;i&gt;TLS (STARTTLS)&lt;/i&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T181649Z" creationid="Yifei Ding" creationdate="20190305T182441Z">
-        <seg>选择有&lt;i&gt;明文（不加密）&lt;/i&gt;, &lt;i&gt;SSL (Implicit TLS)&lt;/i&gt;, or &lt;i&gt;TLS (STARTTLS)&lt;/i&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T004847Z" creationid="Yifei Ding" creationdate="20190305T182441Z">
+        <seg>选择有&lt;i&gt;明文（不加密）&lt;/i&gt;, &lt;i&gt;SSL (Implicit TLS)&lt;/i&gt;, 或&lt;i&gt;TLS (STARTTLS)&lt;/i&gt;。</seg>
       </tuv>
     </tu>
     <tu>
