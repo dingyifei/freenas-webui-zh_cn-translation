@@ -784,8 +784,8 @@
       <tuv lang="EN-US">
         <seg>&lt;i&gt;Insensitive&lt;/i&gt; assumes filenames are not case sensitive.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T222133Z" creationid="Yifei Ding" creationdate="20190214T222133Z">
-        <seg>&lt;i&gt;不敏感&lt;/i&gt; assumes filenames are not case sensitive.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T193204Z" creationid="Yifei Ding" creationdate="20190214T222133Z">
+        <seg>&lt;i&gt;不敏感&lt;/i&gt;默认文件名是大小写不敏感的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -872,8 +872,8 @@
       <tuv lang="EN-US">
         <seg>&lt;i&gt;Sensitive&lt;/i&gt; assumes filenames are case sensitive.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T222122Z" creationid="Yifei Ding" creationdate="20190214T222122Z">
-        <seg>&lt;i&gt;敏感&lt;/i&gt; assumes filenames are case sensitive.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T193149Z" creationid="Yifei Ding" creationdate="20190214T222122Z">
+        <seg>&lt;i&gt;敏感&lt;/i&gt;默认文件名是大小写敏感的。</seg>
       </tuv>
     </tu>
     <tu>
