@@ -4310,6 +4310,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CheckIP Path</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T225812Z" creationid="Yifei Ding" creationdate="20190320T225812Z">
+        <seg>CheckIP路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CheckIP Server</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T225816Z" creationid="Yifei Ding" creationdate="20190320T225816Z">
+        <seg>CheckIP服务器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CheckIP Server SSL</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T225821Z" creationid="Yifei Ding" creationdate="20190320T225821Z">
+        <seg>CheckIP服务器SSL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checksum</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -4336,16 +4360,16 @@
       <tuv lang="EN-US">
         <seg>Choices are &lt;i&gt;Minimum, Normal, or Debug&lt;/i&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T203129Z" creationid="Yifei Ding" creationdate="20190213T203118Z">
-        <seg>可以从&lt;i&gt;Minimum, Normal, 或 Debug&lt;/i&gt;中选择。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T225844Z" creationid="Yifei Ding" creationdate="20190213T203118Z">
+        <seg>可以从&lt;i&gt;最小，正常，或 Debug&lt;/i&gt;中选择。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Choices are &lt;i&gt;None, Auto, CHAP,&lt;/i&gt; or &lt;i&gt;Mutual CHAP&lt;/i&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T203210Z" creationid="Yifei Ding" creationdate="20190213T203210Z">
-        <seg>可以从&lt;i&gt;None, Auto, CHAP,&lt;/i&gt; 或 &lt;i&gt;Mutual CHAP&lt;/i&gt;中选择</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T225900Z" creationid="Yifei Ding" creationdate="20190213T203210Z">
+        <seg>可以从&lt;i&gt;无，自动，CHAP，&lt;/i&gt; 或 &lt;i&gt;Mutual CHAP&lt;/i&gt;中选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -4368,8 +4392,8 @@
       <tuv lang="EN-US">
         <seg>Choose &lt;i&gt;AES-256&lt;/i&gt; or &lt;i&gt;None&lt;/i&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T203223Z" creationid="Yifei Ding" creationdate="20190213T203223Z">
-        <seg>选择&lt;i&gt;AES-256&lt;/i&gt; 或 &lt;i&gt;None&lt;/i&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T225909Z" creationid="Yifei Ding" creationdate="20190213T203223Z">
+        <seg>选择&lt;i&gt;AES-256&lt;/i&gt; 或 &lt;i&gt;无&lt;/i&gt;。</seg>
       </tuv>
     </tu>
     <tu>
