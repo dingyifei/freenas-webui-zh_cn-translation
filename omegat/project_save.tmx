@@ -830,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;i&gt;HTTPS&lt;/i&gt; must be selected in        &lt;b&gt;Protocol&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T225805Z" creationid="Yifei Ding" creationdate="20190320T225805Z">
+        <seg>&lt;i&gt;HTTPS&lt;/i&gt;必须在&lt;b&gt;协议&lt;/b&gt;中被选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;i&gt;Insensitive&lt;/i&gt; assumes filenames are not case sensitive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T193204Z" creationid="Yifei Ding" creationdate="20190214T222133Z">
@@ -3480,8 +3488,8 @@
       <tuv lang="EN-US">
         <seg>Block (iSCSI)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T005158Z" creationid="Yifei Ding" creationdate="20190212T005158Z">
-        <seg>块(iSCSI)</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T225621Z" creationid="Yifei Ding" creationdate="20190212T005158Z">
+        <seg>块级存储(iSCSI)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3654,6 +3662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bucket</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T225628Z" creationid="Yifei Ding" creationdate="20190320T225628Z">
+        <seg>桶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bug Tracker</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -3688,8 +3704,8 @@
       <tuv lang="EN-US">
         <seg>Burst</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>突发传输</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T225633Z">
+        <seg>突发</seg>
       </tuv>
     </tu>
     <tu>
@@ -3714,6 +3730,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>CA机构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CD-ROM Path</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T225656Z" creationid="Yifei Ding" creationdate="20190320T225656Z">
+        <seg>CD-ROM 路径</seg>
       </tuv>
     </tu>
     <tu>
@@ -4560,8 +4584,8 @@
       <tuv lang="EN-US">
         <seg>Click                                   &lt;i&gt;APPLY PENDING UPDATE&lt;/i&gt; to install                                   the downloaded update.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190306T164508Z" creationid="Yifei Ding" creationdate="20190306T164508Z">
-        <seg>点击&lt;i&gt;APPLY PENDING UPDATE&lt;/i&gt;安装已下载的更新。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T225736Z" creationid="Yifei Ding" creationdate="20190306T164508Z">
+        <seg>点击&lt;i&gt;应用待决更新&lt;/i&gt;安装已下载的更新。</seg>
       </tuv>
     </tu>
     <tu>
