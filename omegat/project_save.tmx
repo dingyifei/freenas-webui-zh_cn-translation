@@ -424,8 +424,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b&gt;SED (&lt;a href="%%docurl%%/system.html%%webversion%%#self-encrypting-drives" target="_blank"&gt;Self-Encrypting Drives&lt;/a&gt;) Options&lt;/b&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T183402Z" creationid="Yifei Ding" creationdate="20190305T183402Z">
-        <seg>&lt;b&gt;SED (&lt;a href="%%docurl%%/system.html%%webversion%%#self-encrypting-drives" target="_blank"&gt;Self-Encrypting Drives&lt;/a&gt;) 选项&lt;/b&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T224640Z" creationid="Yifei Ding" creationdate="20190305T183402Z">
+        <seg>&lt;b&gt;SED (&lt;a href="%%docurl%%/system.html%%webversion%%#self-encrypting-drives" target="_blank"&gt;自加密磁盘&lt;/a&gt;) 选项&lt;/b&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,6 +682,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>&lt;font color='red'&gt;停止&lt;/font&gt;: 如果活动目录未配置，它将无法工作。&lt;br&gt;&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;i&gt;0&lt;/i&gt; disables quotas.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T224755Z" creationid="Yifei Ding" creationdate="20190320T224755Z">
+        <seg>&lt;i&gt;0&lt;/i&gt;禁用限额。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1088,8 +1096,8 @@
       <tuv lang="EN-US">
         <seg>A specified value applies to both this dataset and any child datasets.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T192419Z" creationid="Yifei Ding" creationdate="20190312T192419Z">
-        <seg>一个具体的数值会被应用在此数据集和任何的子数据集。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T224847Z" creationid="Yifei Ding" creationdate="20190312T192419Z">
+        <seg>一个具体的数值会被应用在此数据集和任何它的子数据集。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5874,14 +5882,6 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190313T194132Z" creationid="Yifei Ding" creationdate="20190212T012344Z">
         <seg>DNS超时（秒）。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>DO NOT CHANGE THE idmap_backend SETTING UNLESS REQUIRED TO WORK WITH A MIXED NETWORK AND THE PROPER CONFIGURATION HAS ALREADY BEEN DETERMINED.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T193124Z" creationid="Yifei Ding" creationdate="20190319T193124Z">
-        <seg> DO NOT CHANGE THE idmap_backend SETTING UNLESS REQUIRED TO WORK WITH A MIXED NETWORK AND THE PROPER CONFIGURATION HAS ALREADY BEEN DETERMINED.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18908,8 +18908,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Specify a maximum allowed space for this dataset.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T212805Z" creationid="Yifei Ding" creationdate="20190228T212805Z">
-        <seg>限制这个数据集的最大容量。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T224833Z" creationid="Yifei Ding" creationdate="20190228T212805Z">
+        <seg>定义这个数据集的最大允许容量。</seg>
       </tuv>
     </tu>
     <tu>
