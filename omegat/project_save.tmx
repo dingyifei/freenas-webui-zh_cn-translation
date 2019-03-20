@@ -944,8 +944,8 @@
       <tuv lang="EN-US">
         <seg>&lt;i&gt;VirtIO&lt;/i&gt; provides better performance when the operating system installed in the VM supports VirtIO paravirtualized network drivers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T221023Z" creationid="Yifei Ding" creationdate="20190214T221023Z">
-        <seg>&lt;i&gt;VirtIO&lt;/i&gt;在支持VirtIO Paravirtualized网络驱动的虚拟机操作系统里可以提高更好的性能。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T225451Z" creationid="Yifei Ding" creationdate="20190214T221023Z">
+        <seg>&lt;i&gt;VirtIO&lt;/i&gt;在支持VirtIO半虚拟化网络驱动的虚拟机操作系统里可以提高更好的性能。</seg>
       </tuv>
     </tu>
     <tu>
