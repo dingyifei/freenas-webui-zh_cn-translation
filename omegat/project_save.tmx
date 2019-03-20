@@ -17978,6 +17978,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select a language localization.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T161226Z" creationid="Yifei Ding" creationdate="20190320T161226Z">
+        <seg>选择一个本地化语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select a pool or dataset</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T231953Z" creationid="Yifei Ding" creationdate="20190211T231953Z">
@@ -17990,6 +17998,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232012Z" creationid="Yifei Ding" creationdate="20190211T232004Z">
         <seg>选择一个存储池来导入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a pool, dataset, or zvol.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T161301Z" creationid="Yifei Ding" creationdate="20190320T161301Z">
+        <seg>选择一个存储池，数据集，或zvol。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a time zone.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T161331Z" creationid="Yifei Ding" creationdate="20190320T161331Z">
+        <seg>选择一个时区。</seg>
       </tuv>
     </tu>
     <tu>
