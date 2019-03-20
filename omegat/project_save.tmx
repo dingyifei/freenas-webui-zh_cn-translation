@@ -128,8 +128,8 @@
       <tuv lang="EN-US">
         <seg>) before configuring other interfaces to avoid losing connection to the user interface.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T192056Z" creationid="Yifei Ding" creationdate="20190312T192056Z">
-        <seg>）前配置其他接口来避免丢失用户界面的连接。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T223634Z" creationid="Yifei Ding" creationdate="20190312T192056Z">
+        <seg>）前配置其他接口以避免丢失用户界面的连接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -306,6 +306,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T214758Z" creationid="Yifei Ding" creationdate="20190214T214748Z">
         <seg>：自动更新检查失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a href="%%docurl%%/sharing.html%%webversion%%#block-iscsi" target="_blank"&gt;iSCSI&lt;/a&gt; supports multiple authentication methods that are used by the target to discover valid devices.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T223706Z" creationid="Yifei Ding" creationdate="20190320T223706Z">
+        <seg>&lt;a href="%%docurl%%/sharing.html%%webversion%%#block-iscsi" target="_blank"&gt;iSCSI&lt;/a&gt;支持多种鉴定方式 that are used by the target to discover valid devices.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4488,8 +4496,8 @@
       <tuv lang="EN-US">
         <seg>Choosing a smaller size can reduce system performance.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T181918Z" creationid="Yifei Ding" creationdate="20190305T181918Z">
-        <seg>选择一个更小的尺寸可能会降低系统性能。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T223614Z" creationid="Yifei Ding" creationdate="20190305T181918Z">
+        <seg>选择一个更小的大小可能会降低系统性能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24524,8 +24532,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>is the minimum recommended record size.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190312T191949Z" creationid="Yifei Ding" creationdate="20190312T191949Z">
-        <seg>是最小推荐记录体积。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T223555Z" creationid="Yifei Ding" creationdate="20190312T191949Z">
+        <seg>是最小推荐记录数据大小。</seg>
       </tuv>
     </tu>
     <tu>
