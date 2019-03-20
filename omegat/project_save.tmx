@@ -950,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;i&gt;VirtIO&lt;/i&gt; uses paravirtualized drivers and can provide better performance, but requires the operating system installed in the VM to support VirtIO disk devices.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T225426Z" creationid="Yifei Ding" creationdate="20190320T225426Z">
+        <seg>&lt;i&gt;VirtIO&lt;/i&gt;使用半虚拟化驱动并可以提供更高的性能，但是需要安装在VM中的操作系统支持VirtIO磁盘设备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>?</seg>
       </tuv>
       <tuv lang="ZH-CN">
