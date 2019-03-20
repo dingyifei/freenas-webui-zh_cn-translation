@@ -318,10 +318,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a href="https://docs.pcloud.com/methods/intro/authentication.html" target="_blank"&gt;pCloud Access Token&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T224050Z" creationid="Yifei Ding" creationdate="20190320T224046Z">
+        <seg>&lt;a href="https://docs.pcloud.com/methods/intro/authentication.html" target="_blank"&gt;pCloud访问令牌&lt;/a&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a href="https://en.wikipedia.org/wiki/Extended_file_attributes"                target="_blank"&gt;Extended attributes&lt;/a&gt; are                preserved, but must be supported by both systems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T224110Z" creationid="Yifei Ding" creationdate="20190320T224110Z">
+        <seg>&lt;a href="https://en.wikipedia.org/wiki/Extended_file_attributes"                target="_blank"&gt;Extended attributes&lt;/a&gt; are preserved, but must be supported by both systems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a href="https://www.fastmail.com/help/technical/ssltlsstarttls.html" target="_blank"&gt;Email encryption&lt;/a&gt; type.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T004832Z" creationid="Yifei Ding" creationdate="20190319T004832Z">
         <seg>&lt;a href="https://www.fastmail.com/help/technical/ssltlsstarttls.html" target="_blank"&gt;邮件加密&lt;/a&gt;类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=geli&amp;manpath=FreeBSD+11.1-RELEASE+and+Ports" target="_blank"&gt;GELI&lt;/a&gt; encryption is available for ZFS pools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T224135Z" creationid="Yifei Ding" creationdate="20190320T224135Z">
+        <seg>&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=geli&amp;manpath=FreeBSD+11.1-RELEASE+and+Ports" target="_blank"&gt;GELI&lt;/a&gt;加密在ZFS存储池上可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=setfib&amp;sektion=1&amp;apropos=0&amp;manpath=FreeBSD+11.1-RELEASE+and+Ports" target="_blank"&gt;FIB &lt;/a&gt; (routing table) to set when running commands inside the jail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T224453Z" creationid="Yifei Ding" creationdate="20190320T224453Z">
+        <seg>&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=setfib&amp;sektion=1&amp;apropos=0&amp;manpath=FreeBSD+11.1-RELEASE+and+Ports" target="_blank"&gt;FIB &lt;/a&gt;（路由表）to set when running commands inside the jail.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20820,8 +20852,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>These tokens can expire and require extension.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T182414Z" creationid="Yifei Ding" creationdate="20190305T182414Z">
-        <seg>这些Token会失效并需要延期。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T224057Z" creationid="Yifei Ding" creationdate="20190305T182414Z">
+        <seg>这些令牌会失效并需要延期。</seg>
       </tuv>
     </tu>
     <tu>
