@@ -8622,6 +8622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter endpoint URL if using custom S3 API.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T223755Z" creationid="Yifei Ding" creationdate="20190320T223745Z">
+        <seg>如果使用自定义S3 API，输入endpoint URL。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter one option per line.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T223034Z" creationid="Yifei Ding" creationdate="20190228T223034Z">
@@ -16690,6 +16698,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refer to the AWS Documentation for a list of &lt;a href="https://docs.aws.amazon.com/general/latest/gr/rande.html#s3_website_region_endpoints" target="_blank"&gt;Simple Storage Service Website Endpoints&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T224016Z" creationid="Yifei Ding" creationdate="20190320T224016Z">
+        <seg>参考AWS文档的&lt;a href="https://docs.aws.amazon.com/general/latest/gr/rande.html#s3_website_region_endpoints" target="_blank"&gt;简单存储服务网页Endpoints&lt;/a&gt;列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refresh</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -21716,8 +21732,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>URL  general format:  &lt;i&gt;bucket-name.s3-website.region.amazonaws.com&lt;/i&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T182341Z" creationid="Yifei Ding" creationdate="20190305T182341Z">
-        <seg>URL基本格式：&lt;i&gt;bucket-name.s3-website.region.amazonaws.com&lt;/i&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T223909Z" creationid="Yifei Ding" creationdate="20190305T182341Z">
+        <seg>URL基本格式：&lt;i&gt;bucket-name.s3-website.region.amazonaws.com&lt;/i&gt;。</seg>
       </tuv>
     </tu>
     <tu>
