@@ -85,3 +85,4 @@ passphrase	口令
 passphrase	口令
 passphrase	密码短语
 recovery key	恢复密钥
+size	大小
