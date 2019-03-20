@@ -368,8 +368,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b&gt;Ctrl+C&lt;/b&gt; kills a foreground process.&lt;br&gt;                            Many utilities are built-in:&lt;br&gt; b&gt;Iperf&lt;/b&gt;,                            &lt;b&gt;Netperf&lt;/b&gt;, &lt;b&gt;IOzone&lt;/b&gt;, &lt;b&gt;arcsat&lt;/b&gt;,                            &lt;b&gt;tw_cli&lt;/b&gt;, &lt;br&gt;&lt;b&gt;MegaCli&lt;/b&gt;,                            &lt;b&gt;freenas-debug&lt;/b&gt;, &lt;b&gt;tmux&lt;/b&gt;,                            &lt;b&gt;Dmidecode&lt;/b&gt;.&lt;br&gt; Refer to the &lt;a                            href="%%docurl%%/cli.html%%webversion%%"                            target="_blank"&gt;Command Line Utilities&lt;/a&gt;                            chapter in the guide for usage information                            and examples.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T183220Z" creationid="Yifei Ding" creationdate="20190305T183220Z">
-        <seg>&lt;b&gt;Ctrl+C&lt;/b&gt;终止一个前台进程。&lt;br&gt;很多工具是内置的：&lt;br&gt; &lt;b&gt;Iperf&lt;/b&gt;， &lt;b&gt;Netperf&lt;/b&gt;，&lt;b&gt;IOzone&lt;/b&gt;，&lt;b&gt;arcsat&lt;/b&gt;，&lt;b&gt;tw_cli&lt;/b&gt;，&lt;br&gt;&lt;b&gt;MegaCli&lt;/b&gt;，&lt;b&gt;freenas-debug&lt;/b&gt;，&lt;b&gt;tmux&lt;/b&gt;，&lt;b&gt;Dmidecode&lt;/b&gt;。&lt;br&gt; 参考指南中的&lt;a                            href="%%docurl%%/cli.html%%webversion%%"                            target="_blank"&gt;Command Line Utilities&lt;/a&gt;章节中用法与例子。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T224534Z" creationid="Yifei Ding" creationdate="20190305T183220Z">
+        <seg>&lt;b&gt;Ctrl+C&lt;/b&gt;终止一个前台进程。&lt;br&gt;很多工具是内置的：&lt;br&gt; &lt;b&gt;Iperf&lt;/b&gt;， &lt;b&gt;Netperf&lt;/b&gt;，&lt;b&gt;IOzone&lt;/b&gt;，&lt;b&gt;arcsat&lt;/b&gt;，&lt;b&gt;tw_cli&lt;/b&gt;，&lt;br&gt;&lt;b&gt;MegaCli&lt;/b&gt;，&lt;b&gt;freenas-debug&lt;/b&gt;，&lt;b&gt;tmux&lt;/b&gt;，&lt;b&gt;Dmidecode&lt;/b&gt;。&lt;br&gt; 参考指南中的&lt;a href="%%docurl%%/cli.html%%webversion%%"  target="_blank"&gt;Command Line Utilities&lt;/a&gt;章节中用法与例子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1032,8 +1032,8 @@
       <tuv lang="EN-US">
         <seg>A password must be set for the &lt;i&gt;root&lt;/i&gt; user in &lt;a href="%%docurl%%/account.html%%webversion%%#users" target="_blank"&gt;Users&lt;/a&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T183348Z" creationid="Yifei Ding" creationdate="20190305T183348Z">
-        <seg>根据&lt;a href="%%docurl%%/account.html%%webversion%%#users" target="_blank"&gt;Users&lt;/a&gt;，&lt;i&gt;root&lt;/i&gt;用户必须设置一个密码。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T224622Z" creationid="Yifei Ding" creationdate="20190305T183348Z">
+        <seg>根据&lt;a href="%%docurl%%/account.html%%webversion%%#users" target="_blank"&gt;用户&lt;/a&gt;，&lt;i&gt;root&lt;/i&gt;用户必须设置一个密码。</seg>
       </tuv>
     </tu>
     <tu>
