@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a href="https://help.backblaze.com/hc/en-us/articles/224991568-Where-can-I-find-my-Account-ID-and-Application-Key-" target="_blank"&gt;Generating a new Master Application Key&lt;/a&gt; will invalidate the existing Master key and require updating this field.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190322T205033Z" creationid="Yifei Ding" creationdate="20190322T205033Z">
+        <seg>&lt;a href="https://help.backblaze.com/hc/en-us/articles/224991568-Where-can-I-find-my-Account-ID-and-Application-Key-" target="_blank"&gt;生成一个新的主应用密钥&lt;/a&gt;将会使旧的主密钥失效，你需要更新这个密钥。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a href="https://www.fastmail.com/help/technical/ssltlsstarttls.html" target="_blank"&gt;Email encryption&lt;/a&gt; type.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T004832Z" creationid="Yifei Ding" creationdate="20190319T004832Z">
