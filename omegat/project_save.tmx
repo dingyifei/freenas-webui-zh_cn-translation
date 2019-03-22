@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a href="https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteEndpoints.html" target="_blank"&gt;Endpoint URL&lt;/a&gt; for a bucket configured for website hosting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190322T163706Z" creationid="Yifei Ding" creationdate="20190322T163706Z">
+        <seg>&lt;a href="https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteEndpoints.html" target="_blank"&gt;Endpoint URL&lt;/a&gt;用于一个被配置为网页托管的存储桶。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a href="https://docs.pcloud.com/methods/intro/authentication.html" target="_blank"&gt;pCloud Access Token&lt;/a&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T224050Z" creationid="Yifei Ding" creationdate="20190320T224046Z">
@@ -23678,6 +23686,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>Xen Initiator 兼容模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yandex &lt;a href="https://tech.yandex.com/direct/doc/dg-v4/concepts/auth-token-docpage/" target="_blank"&gt;Access Token&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190322T163428Z" creationid="Yifei Ding" creationdate="20190322T163428Z">
+        <seg>Yandex &lt;a href="https://tech.yandex.com/direct/doc/dg-v4/concepts/auth-token-docpage/" target="_blank"&gt;访问令牌&lt;/a&gt;.</seg>
       </tuv>
     </tu>
     <tu>
