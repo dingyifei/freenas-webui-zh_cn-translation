@@ -5240,8 +5240,8 @@
       <tuv lang="EN-US">
         <seg>Consider downloading your configuration before proceeding, &lt;a href="%(url)s" target="_blank"&gt;click here&lt;/a&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>执行操作前，请考虑下载系统的配置文件，&lt;a href="%(url)s" target="_blank"&gt;点此下载&lt;/a&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190322T164504Z">
+        <seg>执行操作前，请考虑下载你的系统配置，&lt;a href="%(url)s" target="_blank"&gt;点此下载&lt;/a&gt;。</seg>
       </tuv>
     </tu>
     <tu>
