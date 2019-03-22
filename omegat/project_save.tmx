@@ -1838,6 +1838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Added disks are erased, then the pool is extended onto the new disks with the chosen topology.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190322T182221Z" creationid="Yifei Ding" creationdate="20190322T182221Z">
+        <seg>添加的磁盘被擦除，然后存储池将被扩展到新磁盘使用选择的拓扑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adding search domains can cause slow DNS lookups.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T223335Z" creationid="Yifei Ding" creationdate="20190227T223335Z">
