@@ -896,8 +896,8 @@
       <tuv lang="EN-US">
         <seg>&lt;i&gt;Pull&lt;/i&gt; receives data from cloud storage.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T221439Z" creationid="Yifei Ding" creationdate="20190214T221135Z">
-        <seg>&lt;i&gt;拉取&lt;/i&gt;从云存储拉取数据</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190322T163915Z" creationid="Yifei Ding" creationdate="20190214T221135Z">
+        <seg>&lt;i&gt;拉取&lt;/i&gt;从云存储拉取数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -970,6 +970,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T225426Z" creationid="Yifei Ding" creationdate="20190320T225426Z">
         <seg>&lt;i&gt;VirtIO&lt;/i&gt;使用半虚拟化驱动并可以提供更高的性能，但是需要安装在VM中的操作系统支持VirtIO磁盘设备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p&gt;The system will reboot to perform this operation!&lt;/p&gt; &lt;p&gt;&lt;font color="red"&gt;All passwords are reset when the  uploaded configuration database file was saved  without the Password Secret Seed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190322T164141Z" creationid="Yifei Ding" creationdate="20190322T164141Z">
+        <seg>&lt;p&gt;系统将会重启来进行此操作！&lt;/p&gt; &lt;p&gt;&lt;font color="red"&gt;如果配置数据库文件没有保存Password Secret Seed，全部密码将会在上传配置数据库后被重置。</seg>
       </tuv>
     </tu>
     <tu>
