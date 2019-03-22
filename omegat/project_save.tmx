@@ -1774,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add lines to the jail &lt;b&gt;resolv.conf&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190322T165011Z" creationid="Yifei Ding" creationdate="20190322T165011Z">
+        <seg>添加行到jail的&lt;b&gt;resolv.conf&lt;/b&gt;配置文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add more options from &lt;a href="https://www.freebsd.org/cgi/man.cgi?query=tftpd" target="_blank"&gt;tftpd(8)&lt;/a&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T054222Z" creationid="Yifei Ding" creationdate="20190301T054210Z">
@@ -8328,8 +8336,8 @@
       <tuv lang="EN-US">
         <seg>Enter &lt;i&gt;none&lt;/i&gt; to inherit &lt;b&gt;resolv.conf&lt;/b&gt; from the host.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T054127Z" creationid="Yifei Ding" creationdate="20190301T054127Z">
-        <seg>输入&lt;i&gt;none&lt;/i&gt;从主机继承&lt;b&gt;resolv.conf&lt;/b&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190322T165123Z" creationid="Yifei Ding" creationdate="20190301T054127Z">
+        <seg>输入&lt;i&gt;无&lt;/i&gt;从主机继承&lt;b&gt;resolv.conf&lt;/b&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9406,6 +9414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Existing data on the pool is kept intact.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190322T165228Z" creationid="Yifei Ding" creationdate="20190322T165228Z">
+        <seg>在存储池上的已有数据依旧被保留。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Existing data will be cleared</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -9874,6 +9890,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>光纤通道端口修改成功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fields must be delimited with a semicolon (;), This is translated as new lines in &lt;b&gt;resolv.conf&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190322T165117Z" creationid="Yifei Ding" creationdate="20190322T165117Z">
+        <seg>Fields must be delimited with a semicolon (;)，这被转换为在&lt;b&gt;resolv.conf&lt;/b&gt;中的新行。</seg>
       </tuv>
     </tu>
     <tu>
