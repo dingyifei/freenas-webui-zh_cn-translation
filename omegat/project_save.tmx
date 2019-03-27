@@ -2366,6 +2366,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allow or deny access to SYSV IPC message primitives.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190327T215335Z" creationid="Yifei Ding" creationdate="20190327T215335Z">
+        <seg>允许或拒绝访问SYSV IPC message primitives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow or deny access to SYSV IPC semaphore primitives.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190327T215402Z" creationid="Yifei Ding" creationdate="20190327T215402Z">
+        <seg>允许或拒绝访问SYSV IPC semaphore primitives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow password authentication</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190220T011649Z" creationid="Yifei Ding" creationdate="20190220T011649Z">
