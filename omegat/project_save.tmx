@@ -2302,6 +2302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allow configuring a non-standard port to access the GUI over &lt;i&gt;HTTPS&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190327T214659Z" creationid="Yifei Ding" creationdate="20190327T214659Z">
+        <seg>允许分配一个非标准端口来通过&lt;i&gt;HTTPS&lt;/i&gt;访问GUI。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow execute always</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -4218,6 +4226,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T175615Z" creationid="Yifei Ding" creationdate="20190318T175615Z">
         <seg>改回到稳定分支是不被支持的！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changing this setting might require changing a &lt;a href="https://www.redbrick.dcu.ie/~d_fens/articles/Firefox:_This_Address_is_Restricted" target="_blank"&gt;Firefox configuration setting&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190327T214640Z" creationid="Yifei Ding" creationdate="20190327T214640Z">
+        <seg>修改这个设置可能需要修改一个&lt;a href="https://www.redbrick.dcu.ie/~d_fens/articles/Firefox:_This_Address_is_Restricted" target="_blank"&gt;火狐配置设置&lt;/a&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9416,8 +9432,8 @@
       <tuv lang="EN-US">
         <seg>Example: all users with a group ID of &lt;i&gt;1&lt;/i&gt; will inherit the authentication profile associated with Group &lt;i&gt;1&lt;/i&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T225123Z" creationid="Yifei Ding" creationdate="20190227T225123Z">
-        <seg>例子：all users with a group ID of &lt;i&gt;1&lt;/i&gt; will inherit the authentication profile associated with Group &lt;i&gt;1&lt;/i&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190327T214846Z" creationid="Yifei Ding" creationdate="20190227T225123Z">
+        <seg>例子：所有有着群组ID&lt;i&gt;1&lt;/i&gt;的用户将会继承群组&lt;i&gt;1&lt;/i&gt;的验证Profile。</seg>
       </tuv>
     </tu>
     <tu>
