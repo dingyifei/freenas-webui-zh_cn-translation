@@ -2310,10 +2310,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allow different groups to be configured with different authentication profiles.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190327T214957Z" creationid="Yifei Ding" creationdate="20190327T214957Z">
+        <seg>允许不同的群组配置不同的验证配置文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow execute always</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>始终允许执行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow group members to use &lt;a href="https://www.freebsd.org/cgi/man.cgi?query=sudo&amp;manpath=FreeBSD+11.1-RELEASE+and+Ports" target="_blank"&gt;sudo&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190327T215023Z" creationid="Yifei Ding" creationdate="20190327T215023Z">
+        <seg>允许群组成员使用&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=sudo&amp;manpath=FreeBSD+11.1-RELEASE+and+Ports" target="_blank"&gt;sudo&lt;/a&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9432,8 +9448,8 @@
       <tuv lang="EN-US">
         <seg>Example: all users with a group ID of &lt;i&gt;1&lt;/i&gt; will inherit the authentication profile associated with Group &lt;i&gt;1&lt;/i&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190327T214846Z" creationid="Yifei Ding" creationdate="20190227T225123Z">
-        <seg>例子：所有有着群组ID&lt;i&gt;1&lt;/i&gt;的用户将会继承群组&lt;i&gt;1&lt;/i&gt;的验证Profile。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190327T215005Z" creationid="Yifei Ding" creationdate="20190227T225123Z">
+        <seg>例子：所有有着群组ID&lt;i&gt;1&lt;/i&gt;的用户将会继承群组&lt;i&gt;1&lt;/i&gt;的验证配置文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10466,6 +10482,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>组不存在：%s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Group members are prompted for their password when using &lt;b&gt;sudo&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190327T215313Z" creationid="Yifei Ding" creationdate="20190327T215313Z">
+        <seg>在使用&lt;b&gt;sudo&lt;/b&gt;时，群组成员会被要求输入他们的密码。</seg>
       </tuv>
     </tu>
     <tu>
