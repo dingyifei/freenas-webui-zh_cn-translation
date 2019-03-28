@@ -12414,6 +12414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jails cannot be created or managed until a pool is present for storing them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190328T234615Z" creationid="Yifei Ding" creationdate="20190328T234615Z">
+        <seg>Jails不能被创建或管理直到一个保存它们的存储池被设定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jails/Plugins</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -14668,8 +14676,8 @@ Content-Transfer-Encoding: 8bit</seg>
       <tuv lang="EN-US">
         <seg>No pools exist.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213949Z" creationid="Yifei Ding" creationdate="20190211T213949Z">
-        <seg>没有存储池被创建</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190328T234639Z" creationid="Yifei Ding" creationdate="20190211T213949Z">
+        <seg>没有存储池被创建。</seg>
       </tuv>
     </tu>
     <tu>
