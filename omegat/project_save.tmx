@@ -22178,10 +22178,26 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Update File Temporary Storage Location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190328T145217Z" creationid="Yifei Ding" creationdate="20190328T145217Z">
+        <seg>更新文件临时存储位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Update License</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>更新许可证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update Period</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190328T145228Z" creationid="Yifei Ding" creationdate="20190328T145228Z">
+        <seg>更新周期</seg>
       </tuv>
     </tu>
     <tu>
@@ -22262,6 +22278,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061921Z" creationid="Yifei Ding" creationdate="20190211T061921Z">
         <seg>更新下载成功</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updating group members</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190328T145243Z" creationid="Yifei Ding" creationdate="20190328T145243Z">
+        <seg>更新群组成员</seg>
       </tuv>
     </tu>
     <tu>
@@ -22362,6 +22386,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Upload the Service Account JSON credential file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190328T145332Z" creationid="Yifei Ding" creationdate="20190328T145332Z">
+        <seg>上传服务账户的JSON身份文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Upload your certificate file here.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -22382,6 +22414,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T030042Z" creationid="Yifei Ding" creationdate="20190211T030042Z">
         <seg>运行时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use --fast-list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190328T145344Z" creationid="Yifei Ding" creationdate="20190328T145344Z">
+        <seg>使用 --fast-list</seg>
       </tuv>
     </tu>
     <tu>
