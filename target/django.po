@@ -4250,7 +4250,7 @@ msgstr "地址"
 
 #: system/models.py:96 templates/system/ntpserver.html:6
 msgid "Burst"
-msgstr "突发传输"
+msgstr "突发"
 
 #: system/models.py:98
 msgid ""
@@ -8111,7 +8111,7 @@ msgstr "提交"
 msgid ""
 "Consider downloading your configuration before proceeding, <a "
 "href=\"%(url)s\" target=\"_blank\">click here</a>."
-msgstr "执行操作前，请考虑下载系统的配置文件，<a href=\"%(url)s\" target=\"_blank\">点此下载</a>。"
+msgstr "执行操作前，请考虑下载你的系统配置，<a href=\"%(url)s\" target=\"_blank\">点此下载</a>。"
 
 #: templates/system/reboot.html:79
 msgid "System is rebooting"
@@ -10638,7 +10638,7 @@ msgstr "禁止列表中的主机和网络访问此卷"
 #: sharing/nav.py:43
 #: templates/sharing/index.html:27
 msgid "Block (iSCSI)"
-msgstr "块(iSCSI)"
+msgstr "块级存储(iSCSI)"
 
 #: storage/admin.py:629
 #: storage/forms.py:1741
