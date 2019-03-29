@@ -8504,8 +8504,8 @@
       <tuv lang="EN-US">
         <seg>Enter a description of the cron job.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225108Z" creationid="Yifei Ding" creationdate="20190212T225102Z">
-        <seg>输入这个cron job的描述。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T212309Z" creationid="Yifei Ding" creationdate="20190212T225102Z">
+        <seg>输入这个计划任务的描述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18532,8 +18532,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Separate entries with a comma, space, or tab.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T170556Z" creationid="Yifei Ding" creationdate="20190213T170556Z">
-        <seg>使用逗号，空格，或tab分隔。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T212442Z" creationid="Yifei Ding" creationdate="20190213T170556Z">
+        <seg>使用逗号，空格，或制表符分隔。</seg>
       </tuv>
     </tu>
     <tu>
