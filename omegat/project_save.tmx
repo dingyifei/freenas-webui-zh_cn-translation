@@ -8534,6 +8534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter a list of denied hostnames or IP addresses.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T212505Z" creationid="Yifei Ding" creationdate="20190329T212505Z">
+        <seg>输入一个拒绝的域名或IP地址列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter a name for the VM.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225301Z" creationid="Yifei Ding" creationdate="20190212T225235Z">
@@ -8562,6 +8570,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225329Z" creationid="Yifei Ding" creationdate="20190212T225317Z">
         <seg>给这个快照克隆取个名字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a name for the new credential.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T212535Z" creationid="Yifei Ding" creationdate="20190329T212535Z">
+        <seg>给这个新的身份取个名字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8802,6 +8818,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190302T000020Z" creationid="Yifei Ding" creationdate="20190302T000020Z">
         <seg>输入一个8~16个字符的字母数字的用户名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter an email address to receive &lt;a href="%%docurl%%/services.html%%webversion%%#s-m-a-r-t" target="_blank"&gt;S.M.A.R.T.&lt;/a&gt; alerts; use a space to  separate multiple email addresses.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T212656Z" creationid="Yifei Ding" creationdate="20190329T212656Z">
+        <seg>输入一个邮箱来接收&lt;a href="%%docurl%%/services.html%%webversion%%#s-m-a-r-t" target="_blank"&gt;S.M.A.R.T.&lt;/a&gt; 警告；使用空格来分隔多个邮箱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13000,8 +13024,8 @@
       <tuv lang="EN-US">
         <seg>Limited to 15 characters.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T175839Z" creationid="Yifei Ding" creationdate="20190211T175839Z">
-        <seg>限制15字符。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T212603Z" creationid="Yifei Ding" creationdate="20190211T175839Z">
+        <seg>限制15个字符。</seg>
       </tuv>
     </tu>
     <tu>
