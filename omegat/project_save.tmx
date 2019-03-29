@@ -8824,8 +8824,24 @@
       <tuv lang="EN-US">
         <seg>Enter an email address to receive &lt;a href="%%docurl%%/services.html%%webversion%%#s-m-a-r-t" target="_blank"&gt;S.M.A.R.T.&lt;/a&gt; alerts; use a space to  separate multiple email addresses.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T212656Z" creationid="Yifei Ding" creationdate="20190329T212656Z">
-        <seg>输入一个邮箱来接收&lt;a href="%%docurl%%/services.html%%webversion%%#s-m-a-r-t" target="_blank"&gt;S.M.A.R.T.&lt;/a&gt; 警告；使用空格来分隔多个邮箱。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T212835Z" creationid="Yifei Ding" creationdate="20190329T212656Z">
+        <seg>输入一个邮箱来接收&lt;a href="%%docurl%%/services.html%%webversion%%#s-m-a-r-t" target="_blank"&gt;S.M.A.R.T.&lt;/a&gt; 警告；使用空格来分割多个邮箱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter an email address to receive messages from the &lt;a href="%%docurl%%/services.html%%webversion%%#snmp" target="_blank"&gt;SNMP service&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T212734Z" creationid="Yifei Ding" creationdate="20190329T212734Z">
+        <seg>输入一个邮箱来接收来自 &lt;a href="%%docurl%%/services.html%%webversion%%#snmp" target="_blank"&gt;SNMP服务&lt;/a&gt;的消息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter any email addresses to receive status updates.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T212809Z" creationid="Yifei Ding" creationdate="20190329T212809Z">
+        <seg>输入任何邮箱来接收状态更新。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18558,6 +18574,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T212442Z" creationid="Yifei Ding" creationdate="20190213T170556Z">
         <seg>使用逗号，空格，或制表符分隔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Separate multiple addresses with a &lt;b&gt;;&lt;/b&gt; .</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T212857Z" creationid="Yifei Ding" creationdate="20190329T212829Z">
+        <seg>使用“&lt;b&gt;;&lt;/b&gt;”来分割多个地址。</seg>
       </tuv>
     </tu>
     <tu>
