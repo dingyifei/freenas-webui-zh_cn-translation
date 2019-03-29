@@ -6926,6 +6926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Device Order</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T004955Z" creationid="Yifei Ding" creationdate="20190329T004955Z">
+        <seg>设备顺序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Difference</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -21738,6 +21746,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Time Machine Quota</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T004903Z" creationid="Yifei Ding" creationdate="20190329T004903Z">
+        <seg>时间机器 Quota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Time Server for Domain</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -21826,6 +21842,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Train</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T004910Z" creationid="Yifei Ding" creationdate="20190329T004910Z">
+        <seg>分支</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trains</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T182713Z" creationid="Yifei Ding" creationdate="20190318T182713Z">
@@ -21838,6 +21862,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>传输模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transfers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T004916Z" creationid="Yifei Ding" creationdate="20190329T004916Z">
+        <seg>传输</seg>
       </tuv>
     </tu>
     <tu>
@@ -21998,6 +22030,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>UNIX（NFS）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UNIX Charset</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T004920Z" creationid="Yifei Ding" creationdate="20190329T004920Z">
+        <seg>UNIX 字符集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>UNIX Extensions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T004924Z" creationid="Yifei Ding" creationdate="20190329T004924Z">
+        <seg>Unix 扩展</seg>
       </tuv>
     </tu>
     <tu>
@@ -25026,6 +25074,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>no</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T004814Z" creationid="Yifei Ding" creationdate="20190329T004814Z">
+        <seg>否</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>no more drives</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -25062,6 +25118,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>每 %(days)s 天</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T004756Z" creationid="Yifei Ding" creationdate="20190329T004756Z">
+        <seg>密码</seg>
       </tuv>
     </tu>
     <tu>
