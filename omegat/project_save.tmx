@@ -7472,8 +7472,8 @@
       <tuv lang="EN-US">
         <seg>Domain Controller</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>Domain Controller</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T211941Z">
+        <seg>域控制器</seg>
       </tuv>
     </tu>
     <tu>
@@ -7498,6 +7498,22 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>域树级别</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Domain Logons</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T211947Z" creationid="Yifei Ding" creationdate="20190329T211947Z">
+        <seg>域登陆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Domain Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T211957Z" creationid="Yifei Ding" creationdate="20190329T211957Z">
+        <seg>域名</seg>
       </tuv>
     </tu>
     <tu>
