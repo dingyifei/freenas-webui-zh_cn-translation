@@ -4491,10 +4491,10 @@ msgid "Media Status"
 msgstr "媒体状态"
 
 msgid "Member Disk"
-msgstr ""
+msgstr "成员磁盘"
 
 msgid "Members"
-msgstr "组成员"
+msgstr "成员"
 
 msgid "Members of"
 msgstr ""
@@ -4776,7 +4776,7 @@ msgstr "没有存储池"
 msgid ""
 "No pools exist. Jails cannot be created or managed until a pool is present "
 "for storing them. Please create a pool first."
-msgstr "没有存储池被创建Jails cannot be created or managed until a pool is present for storing them. 请先创建一个存储池"
+msgstr "没有存储池被创建。Jails不能被创建或管理直到一个保存它们的存储池被设定。请先创建一个存储池"
 
 msgid "No update found."
 msgstr "未找到更新"
@@ -5172,7 +5172,7 @@ msgid "Please wait"
 msgstr "请等待"
 
 msgid "Plugin Installed Successfully"
-msgstr ""
+msgstr "插件安装成功"
 
 msgid "Plugin Name"
 msgstr "插件名"
@@ -5451,7 +5451,7 @@ msgid "Redirecting to download. Make sure pop-ups are enabled in the browser."
 msgstr ""
 
 msgid "Register"
-msgstr ""
+msgstr "注册"
 
 msgid "Release"
 msgstr "发行"
@@ -5460,7 +5460,7 @@ msgid "Release Notes"
 msgstr "发行备注"
 
 msgid "Remote Auth Token"
-msgstr ""
+msgstr "远程认证令牌"
 
 msgid "Remote Encryption"
 msgstr ""
@@ -5499,7 +5499,7 @@ msgid "Remote SSH Port"
 msgstr "远程 SSH 端口"
 
 msgid "Remote ZFS Pool/Dataset"
-msgstr ""
+msgstr "远程 ZFS 存储池/数据集"
 
 msgid "Remove"
 msgstr "移除"
@@ -5535,7 +5535,7 @@ msgid "Reporting Database"
 msgstr "报告数据库"
 
 msgid "Reports"
-msgstr ""
+msgstr "报告"
 
 msgid "Require IDENT Authentication"
 msgstr "要求 IDENT 认证"
@@ -5603,7 +5603,7 @@ msgid "Resilver Priority"
 msgstr ""
 
 msgid "Resolution"
-msgstr ""
+msgstr "分辨率"
 
 msgid "Restart"
 msgstr "重启"
@@ -5632,7 +5632,7 @@ msgid ""
 msgstr ""
 
 msgid "Rollback"
-msgstr ""
+msgstr "回滚"
 
 msgid "Root Password"
 msgstr "Root密码"
@@ -5681,7 +5681,7 @@ msgid "S.M.A.R.T. Options"
 msgstr "S.M.A.R.T. 选项"
 
 msgid "S.M.A.R.T. Tests"
-msgstr "S.M.A.R.T. Tests"
+msgstr "S.M.A.R.T. 测试"
 
 msgid "S.M.A.R.T. extra options"
 msgstr "S.M.A.R.T. 额外选项"
@@ -5690,24 +5690,24 @@ msgid "SASL wrapping"
 msgstr "SASL 封装"
 
 msgid "SAVE CONFIGURATION"
-msgstr ""
+msgstr "保存配置"
 
 msgid "SED Password"
-msgstr ""
+msgstr "SED密码"
 
 msgid "SFTP log facility"
 msgstr ""
 
 msgid "SFTP log level"
-msgstr ""
+msgstr "SFTP日志级别"
 
 msgid "SMTP Authentication"
-msgstr ""
+msgstr "SMTP认证"
 
 msgid ""
 "SMTP port number. Typically <i>25,465</i> (secure SMTP), or <i>587</i> "
 "(submission)."
-msgstr ""
+msgstr "SMTP端口号。Typically <i>25,465</i> (secure SMTP), or <i>587</i> (submission)."
 
 msgid "SNMP v3 Support"
 msgstr ""

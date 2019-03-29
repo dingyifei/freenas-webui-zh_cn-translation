@@ -4637,7 +4637,7 @@ msgstr "S.M.A.R.T. 测试"
 
 #: system/models.py:757
 msgid "S.M.A.R.T. Tests"
-msgstr "S.M.A.R.T. Tests"
+msgstr "S.M.A.R.T. 测试"
 
 #: system/models.py:771 system/models.py:810 templates/system/sysctl.html:5
 #: templates/system/tunable.html:5
@@ -4738,7 +4738,7 @@ msgstr "登录"
 #: templates/account/bsdgroups.html:23 templates/account/bsdgroups.html:71
 #: templates/account/bsdgroups.html:84 templates/account/bsdgroups.html:86
 msgid "Members"
-msgstr "组成员"
+msgstr "成员"
 
 #~ msgid "Modify"
 #~ msgstr "修改"
