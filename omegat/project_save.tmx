@@ -13334,6 +13334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Log in to Legacy User Interface?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T005331Z" creationid="Yifei Ding" creationdate="20190329T005331Z">
+        <seg>登录到经典用户界面？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Log level</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -13386,6 +13394,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>逻辑单元类型映射到 LUN。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Logical block size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T005341Z" creationid="Yifei Ding" creationdate="20190329T005341Z">
+        <seg>逻辑块大小</seg>
       </tuv>
     </tu>
     <tu>
@@ -13498,6 +13514,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MOTD Banner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T005353Z" creationid="Yifei Ding" creationdate="20190329T005353Z">
+        <seg>MOTD横幅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MOTD banner</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -13518,6 +13542,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>设备后缀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mail Server Port</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T005406Z" creationid="Yifei Ding" creationdate="20190329T005406Z">
+        <seg>邮件服务器端口</seg>
       </tuv>
     </tu>
     <tu>
