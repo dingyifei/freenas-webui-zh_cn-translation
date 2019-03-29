@@ -16954,6 +16954,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Register</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190328T235708Z" creationid="Yifei Ding" creationdate="20190328T235708Z">
+        <seg>注册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Registration</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -17466,6 +17474,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resolution</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190328T235724Z" creationid="Yifei Ding" creationdate="20190328T235724Z">
+        <seg>分辨率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Restart</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T061128Z" creationid="Yifei Ding" creationdate="20190211T061128Z">
@@ -17558,6 +17574,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>返回设置向导</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rollback</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190328T235736Z" creationid="Yifei Ding" creationdate="20190328T235736Z">
+        <seg>回滚</seg>
       </tuv>
     </tu>
     <tu>
@@ -17754,6 +17778,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SAVE CONFIGURATION</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190328T235926Z" creationid="Yifei Ding" creationdate="20190328T235926Z">
+        <seg>保存配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SED Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190328T235917Z" creationid="Yifei Ding" creationdate="20190328T235917Z">
+        <seg>SED密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SFTP Log Facility</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -17766,6 +17806,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>SFTP 日志等级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SFTP log level</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190328T235914Z" creationid="Yifei Ding" creationdate="20190328T235914Z">
+        <seg>SFTP日志级别</seg>
       </tuv>
     </tu>
     <tu>
@@ -17918,6 +17966,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>SMB3_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SMTP Authentication</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190328T235937Z" creationid="Yifei Ding" creationdate="20190328T235937Z">
+        <seg>SMTP认证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SMTP port number.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190328T235956Z" creationid="Yifei Ding" creationdate="20190328T235956Z">
+        <seg>SMTP端口号。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19990,6 +20054,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>来自 %s 的测试消息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tests</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190328T235906Z" creationid="Yifei Ding" creationdate="20190328T235906Z">
+        <seg>测试</seg>
       </tuv>
     </tu>
     <tu>
