@@ -12798,6 +12798,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lagg Interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T005147Z" creationid="Yifei Ding" creationdate="20190329T005147Z">
+        <seg>链路聚合接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lagg Interface Group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T005155Z" creationid="Yifei Ding" creationdate="20190329T005155Z">
+        <seg>链路聚合接口组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lagg Interfaces</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T005157Z" creationid="Yifei Ding" creationdate="20190329T005157Z">
+        <seg>链路聚合接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lagg Priority Number</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T005229Z" creationid="Yifei Ding" creationdate="20190329T005205Z">
+        <seg>链路聚合优先级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lagg Protocol</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T005234Z" creationid="Yifei Ding" creationdate="20190329T005234Z">
+        <seg>链路聚合协议</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Language</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023039Z" creationid="Yifei Ding" creationdate="20190211T023039Z">
@@ -13142,6 +13182,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Local User Download Bandwidth</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T005255Z" creationid="Yifei Ding" creationdate="20190329T005255Z">
+        <seg>本地用户下载带宽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Local User Upload Bandwidth</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T005257Z" creationid="Yifei Ding" creationdate="20190329T005257Z">
+        <seg>本地用户上传带宽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Local user download bandwidth</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -13186,6 +13242,30 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>位置信息，例如系统物理地址：'x楼xxx房间'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lock</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T005302Z" creationid="Yifei Ding" creationdate="20190329T005302Z">
+        <seg>锁定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lock Pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T005310Z" creationid="Yifei Ding" creationdate="20190329T005310Z">
+        <seg>锁定存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lock User</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T005313Z" creationid="Yifei Ding" creationdate="20190329T005313Z">
+        <seg>锁定用户</seg>
       </tuv>
     </tu>
     <tu>
