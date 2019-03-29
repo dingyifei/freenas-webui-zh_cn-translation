@@ -400,8 +400,8 @@
       <tuv lang="EN-US">
         <seg>&lt;b&gt;Example:&lt;/b&gt; &lt;i&gt;1,2,3,4&lt;/i&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T213547Z" creationid="Yifei Ding" creationdate="20190211T213547Z">
-        <seg>&lt;b&gt;例子：&lt;/b&gt; &lt;i&gt;1,2,3,4&lt;/i&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T205746Z" creationid="Yifei Ding" creationdate="20190211T213547Z">
+        <seg>&lt;b&gt;样例：&lt;/b&gt; &lt;i&gt;1,2,3,4&lt;/i&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -578,6 +578,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T234505Z" creationid="Yifei Ding" creationdate="20190227T224928Z">
         <seg>&lt;br&gt;&lt;b&gt;禁用&lt;/b&gt;：Jail 不能进行任何&lt;b&gt;sysvshm&lt;/b&gt;相关系统调用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;br&gt;&lt;b&gt;Example hostid:&lt;/b&gt; &lt;i&gt;1a2bc345-678d-90e1-23fa-4b56c78901de&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T205738Z" creationid="Yifei Ding" creationdate="20190329T205738Z">
+        <seg>&lt;br&gt;&lt;b&gt;样例 hostid:&lt;/b&gt; &lt;i&gt;1a2bc345-678d-90e1-23fa-4b56c78901de&lt;/i&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6448,8 +6456,8 @@
       <tuv lang="EN-US">
         <seg>Define the jail data size in bytes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190308T224636Z" creationid="Yifei Ding" creationdate="20190308T224636Z">
-        <seg>定义Jail data size(bytes)。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T205803Z" creationid="Yifei Ding" creationdate="20190308T224636Z">
+        <seg>定义Jail数据大小(bytes)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8426,6 +8434,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>输入挂载点选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a ZFS filesystem name &lt;i&gt;without&lt;/i&gt; a pool name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T205912Z" creationid="Yifei Ding" creationdate="20190329T205912Z">
+        <seg>输入一个ZFS文件系统名称，&lt;i&gt;不包含&lt;/i&gt;存储池名称。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18374,6 +18390,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>安全</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See &lt;a href="https://www.freebsd.org/cgi/man.cgi?query=rctl&amp;manpath=FreeBSD+11.1-RELEASE+and+Ports" target="_blank"&gt;RCTL(8)&lt;/a&gt; for more details.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T205831Z" creationid="Yifei Ding" creationdate="20190329T205831Z">
+        <seg>查看&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=rctl&amp;manpath=FreeBSD+11.1-RELEASE+and+Ports" target="_blank"&gt;RCTL(8)&lt;/a&gt;获得更多信息。</seg>
       </tuv>
     </tu>
     <tu>
