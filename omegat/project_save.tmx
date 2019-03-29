@@ -12502,38 +12502,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Kerberos Keytab</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>Kerberos Keytab</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Kerberos Keytabs</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>Kerberos Keytabs</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Kerberos Realm</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>Kerberos Realm</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Kerberos Realms</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>Kerberos Realm</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Kerberos Settings</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -12646,34 +12614,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>LDAP</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>LDAP</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>LDAP Domain</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>LDAP Domain</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>LDAP Idmap</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>LDAP Idmap</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>LDAP Realm</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>LDAP Realm</seg>
       </tuv>
     </tu>
     <tu>
