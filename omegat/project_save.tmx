@@ -880,8 +880,8 @@
       <tuv lang="EN-US">
         <seg>&lt;i&gt;MOVE&lt;/i&gt; copies files from source to destination, deleting files from the source after the copy, similar to &lt;i&gt;mv&lt;/i&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T203123Z" creationid="Yifei Ding" creationdate="20190227T203123Z">
-        <seg>&lt;i&gt;移动&lt;/i&gt; copies files from source to destination, deleting files from the source after the copy，类似于&lt;i&gt;mv&lt;/i&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T205606Z" creationid="Yifei Ding" creationdate="20190227T203123Z">
+        <seg>&lt;i&gt;移动&lt;/i&gt;从源地址拷贝文件到目标地址，拷贝后删除源地址的文件，类似于&lt;i&gt;mv&lt;/i&gt;。</seg>
       </tuv>
     </tu>
     <tu>
