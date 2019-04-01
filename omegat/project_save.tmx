@@ -6440,8 +6440,8 @@
       <tuv lang="EN-US">
         <seg>Define an &lt;b&gt;existing&lt;/b&gt; pool or dataset as the user home directory and adjust the permissions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T184928Z" creationid="Yifei Ding" creationdate="20190307T184928Z">
-        <seg>定义一个&lt;b&gt;存在的&lt;/b&gt;存储池或数据集用于用户Home文件夹和修改权限。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T155536Z" creationid="Yifei Ding" creationdate="20190307T184928Z">
+        <seg>定义一个&lt;b&gt;现有&lt;/b&gt;的存储池或数据集用于用户Home文件夹和修改权限。</seg>
       </tuv>
     </tu>
     <tu>
