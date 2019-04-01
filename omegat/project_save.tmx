@@ -16066,6 +16066,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Physical interface of the selected member.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T214202Z" creationid="Yifei Ding" creationdate="20190401T214202Z">
+        <seg>选择成员的物理接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pick your NIC</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -16198,6 +16206,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>请登录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please read about &lt;a href="%%docurl%%/storage.html%%webversion%%#deduplication" target="_blank"&gt;deduplication&lt;/a&gt; before considering changing this setting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T214332Z" creationid="Yifei Ding" creationdate="20190401T214332Z">
+        <seg>请在考虑修改这个设置前参考&lt;a href="%%docurl%%/storage.html%%webversion%%#deduplication" target="_blank"&gt;deduplication&lt;/a&gt;。</seg>
       </tuv>
     </tu>
     <tu>
