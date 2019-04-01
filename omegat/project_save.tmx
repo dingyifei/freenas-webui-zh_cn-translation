@@ -4560,16 +4560,16 @@
       <tuv lang="EN-US">
         <seg>Choose &lt;i&gt;ON&lt;/i&gt; to update the access time for files when they are read.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190306T164933Z" creationid="Yifei Ding" creationdate="20190306T164933Z">
-        <seg>选择&lt;i&gt;ON&lt;/i&gt; to update the access time for files when they are read.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T162652Z" creationid="Yifei Ding" creationdate="20190306T164933Z">
+        <seg>选择&lt;i&gt;ON&lt;/i&gt;在文件访问被读取时更新访问时间。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Choose &lt;i&gt;Off&lt;/i&gt; to prevent producing log traffic when reading files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190306T164939Z" creationid="Yifei Ding" creationdate="20190306T164939Z">
-        <seg>选择&lt;i&gt;Off&lt;/i&gt; to prevent producing log traffic when reading files.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T162631Z" creationid="Yifei Ding" creationdate="20190306T164939Z">
+        <seg>选择&lt;i&gt;Off&lt;/i&gt;避免读取文件时产生日志流量。</seg>
       </tuv>
     </tu>
     <tu>
