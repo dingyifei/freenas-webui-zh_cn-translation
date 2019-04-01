@@ -7032,24 +7032,32 @@
       <tuv lang="EN-US">
         <seg>Directories &amp; Permissions</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T003318Z" creationid="Yifei Ding" creationdate="20190319T003318Z">
-        <seg>文件夹 &amp; 权限</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T215212Z" creationid="Yifei Ding" creationdate="20190319T003318Z">
+        <seg>目录 &amp; 权限</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Directory</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173928Z" creationid="Yifei Ding" creationdate="20190212T173928Z">
-        <seg>文件夹</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T215215Z" creationid="Yifei Ding" creationdate="20190212T173928Z">
+        <seg>目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Directory Mask</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T215208Z" creationid="Yifei Ding" creationdate="20190401T215208Z">
+        <seg>目录掩码</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Directory Permission</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T173924Z" creationid="Yifei Ding" creationdate="20190212T173924Z">
-        <seg>文件夹权限</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T215220Z" creationid="Yifei Ding" creationdate="20190212T173924Z">
+        <seg>目录权限</seg>
       </tuv>
     </tu>
     <tu>
