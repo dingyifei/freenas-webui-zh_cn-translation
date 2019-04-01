@@ -8984,8 +8984,32 @@
       <tuv lang="EN-US">
         <seg>Enter the IPv4 address for &lt;a href="https://www.freebsd.org/cgi/man.cgi?query=vnet" target="_blank"&gt;VNET(9)&lt;/a&gt; and shared IP jails.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T163245Z" creationid="Yifei Ding" creationdate="20190401T163245Z">
-        <seg>输入用于&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=vnet" target="_blank"&gt;VNET(9)&lt;/a&gt;和共享IPjails的IPv4地址。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T204042Z" creationid="Yifei Ding" creationdate="20190401T163245Z">
+        <seg>输入用于&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=vnet" target="_blank"&gt;VNET(9)&lt;/a&gt;和共享IP jails的IPv4地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter the IPv4 address for &lt;a href="https://www.freebsd.org/cgi/man.cgi?query=vnet&amp;apropos=0&amp;sektion=0&amp;manpath=FreeBSD+11.1-RELEASE+and+Ports" target="_blank"&gt;VNET(9)&lt;/a&gt; and shared IP jails.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T204116Z" creationid="Yifei Ding" creationdate="20190401T204116Z">
+        <seg>输入用于&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=vnet&amp;apropos=0&amp;sektion=0&amp;manpath=FreeBSD+11.1-RELEASE+and+Ports" target="_blank"&gt;VNET(9)&lt;/a&gt;和共享IP jails的IPv4地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter the IPv6 address for &lt;a href="https://www.freebsd.org/cgi/man.cgi?query=vnet" target="_blank"&gt;VNET(9)&lt;/a&gt; and shared IP jails.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T204149Z" creationid="Yifei Ding" creationdate="20190401T204149Z">
+        <seg>输入用于&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=vnet" target="_blank"&gt;VNET(9)&lt;/a&gt; 和共享IP jails的IPv6地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter the IPv6 address for &lt;a href="https://www.freebsd.org/cgi/man.cgi?query=vnet&amp;apropos=0&amp;sektion=0&amp;manpath=FreeBSD+11.1-RELEASE+and+Ports" target="_blank"&gt;VNET(9)&lt;/a&gt; and shared IP jails.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T204242Z" creationid="Yifei Ding" creationdate="20190401T204242Z">
+        <seg>输入用于&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=vnet&amp;apropos=0&amp;sektion=0&amp;manpath=FreeBSD+11.1-RELEASE+and+Ports" target="_blank"&gt;VNET(9)&lt;/a&gt; 和共享IP jails的IPv6地址。</seg>
       </tuv>
     </tu>
     <tu>
