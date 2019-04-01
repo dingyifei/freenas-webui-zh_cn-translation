@@ -1870,6 +1870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional &lt;a                   href="https://www.smartmontools.org/browser/trunk/smartmontools/smartctl.8.in"                   target="_blank"&gt;smartctl(8)&lt;/a&gt; options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T160602Z" creationid="Yifei Ding" creationdate="20190401T160602Z">
+        <seg>额外的&lt;a                   href="https://www.smartmontools.org/browser/trunk/smartmontools/smartctl.8.in"                   target="_blank"&gt;smartctl(8)&lt;/a&gt;选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional &lt;a href="http://netatalk.sourceforge.net/3.0/htmldocs/afp.conf.5.html" target="_blank"&gt;afp.conf(5)&lt;/a&gt; parameters.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T054259Z" creationid="Yifei Ding" creationdate="20190301T054259Z">
