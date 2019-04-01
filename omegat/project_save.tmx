@@ -1878,10 +1878,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional &lt;a                href="https://rsync.samba.org/ftp/rsync/rsync.html"                target="_blank"&gt;rsync(1)&lt;/a&gt; options to include.&lt;br&gt;                Note: The "*" character must be escaped with a                backslash (\*.txt) or used inside single quotes                ('*.txt').</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T160737Z" creationid="Yifei Ding" creationdate="20190401T160737Z">
+        <seg>额外的&lt;a href="https://rsync.samba.org/ftp/rsync/rsync.html" target="_blank"&gt;rsync(1)&lt;/a&gt;选项。&lt;br&gt;                Note: The "*" character must be escaped with a backslash (\*.txt) or used inside single quotes                ('*.txt').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional &lt;a href="http://netatalk.sourceforge.net/3.0/htmldocs/afp.conf.5.html" target="_blank"&gt;afp.conf(5)&lt;/a&gt; parameters.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T054259Z" creationid="Yifei Ding" creationdate="20190301T054259Z">
         <seg>额外的&lt;a href="http://netatalk.sourceforge.net/3.0/htmldocs/afp.conf.5.html" target="_blank"&gt;afp.conf(5)&lt;/a&gt;参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additional &lt;a href="http://netatalk.sourceforge.net/3.1/htmldocs/afp.conf.5.html" target="_blank"&gt;afp.conf&lt;/a&gt; parameters not covered by other option fields.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T160853Z" creationid="Yifei Ding" creationdate="20190401T160853Z">
+        <seg>额外的&lt;a href="http://netatalk.sourceforge.net/3.1/htmldocs/afp.conf.5.html" target="_blank"&gt;afp.conf&lt;/a&gt;参数 ，不被其他选项包含。</seg>
       </tuv>
     </tu>
     <tu>
