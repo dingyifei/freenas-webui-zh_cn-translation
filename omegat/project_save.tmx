@@ -1896,8 +1896,16 @@
       <tuv lang="EN-US">
         <seg>Additional &lt;a href="http://netatalk.sourceforge.net/3.1/htmldocs/afp.conf.5.html" target="_blank"&gt;afp.conf&lt;/a&gt; parameters not covered by other option fields.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T160853Z" creationid="Yifei Ding" creationdate="20190401T160853Z">
-        <seg>额外的&lt;a href="http://netatalk.sourceforge.net/3.1/htmldocs/afp.conf.5.html" target="_blank"&gt;afp.conf&lt;/a&gt;参数 ，不被其他选项包含。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T160946Z" creationid="Yifei Ding" creationdate="20190401T160853Z">
+        <seg>不被其他选项包含的&lt;a href="http://netatalk.sourceforge.net/3.1/htmldocs/afp.conf.5.html" target="_blank"&gt;afp.conf&lt;/a&gt;参数 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Additional &lt;a href="https://www.smartmontools.org/browser/trunk/smartmontools/smartctl.8.in" target="_blank"&gt;smartctl(8)&lt;/a&gt; options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T160929Z" creationid="Yifei Ding" creationdate="20190401T160929Z">
+        <seg>额外的&lt;a href="https://www.smartmontools.org/browser/trunk/smartmontools/smartctl.8.in" target="_blank"&gt;smartctl(8)&lt;/a&gt;参数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2056,8 +2064,8 @@
       <tuv lang="EN-US">
         <seg>After entering the &lt;b&gt;Hostname, Username&lt;/b&gt;, and &lt;b&gt;Password&lt;/b&gt;, click &lt;b&gt;Fetch Datastores&lt;/b&gt; and select the datastore to be synchronized.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T223608Z" creationid="Yifei Ding" creationdate="20190227T223608Z">
-        <seg>在输入&lt;b&gt;域名，用户名&lt;/b&gt;，和&lt;b&gt;密码&lt;/b&gt;后，点击&lt;b&gt;Fetch Datastores&lt;/b&gt; and select the datastore to be synchronized.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T161415Z" creationid="Yifei Ding" creationdate="20190227T223608Z">
+        <seg>在输入&lt;b&gt;域名，用户名&lt;/b&gt;，和&lt;b&gt;密码&lt;/b&gt;后，点击&lt;b&gt;获取数据存储区&lt;/b&gt;并选择同步的数据存储区。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18590,6 +18598,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>安全</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See &lt;a href="https://www.freebsd.org/cgi/man.cgi?query=hosts" target="_blank"&gt;hosts(5)&lt;/a&gt; for additional information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T161012Z" creationid="Yifei Ding" creationdate="20190401T161012Z">
+        <seg>查看&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=hosts" target="_blank"&gt;hosts(5)&lt;/a&gt;获得更多信息。</seg>
       </tuv>
     </tu>
     <tu>
