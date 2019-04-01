@@ -3742,6 +3742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browse to an &lt;b&gt;existing&lt;/b&gt; directory to use for storage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T155423Z" creationid="Yifei Ding" creationdate="20190401T155423Z">
+        <seg>浏览一个&lt;b&gt;现有&lt;/b&gt;文件夹用于存储。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browse to the operating system installer image file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T174452Z" creationid="Yifei Ding" creationdate="20190212T174435Z">
