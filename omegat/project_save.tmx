@@ -672,8 +672,8 @@
       <tuv lang="EN-US">
         <seg>&lt;br&gt;Single interface format: &lt;b&gt;[interface|]ip-address[/netmask]&lt;/b&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T060125Z" creationid="Yifei Ding" creationdate="20190212T060125Z">
-        <seg>&lt;br&gt;单接口格式：&lt;b&gt;[interface|]ip-address[/netmask]&lt;/b&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T163331Z" creationid="Yifei Ding" creationdate="20190212T060125Z">
+        <seg>&lt;br&gt;单接口格式：&lt;b&gt;[接口|]IP地址[/子网掩码]&lt;/b&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8982,6 +8982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter the IPv4 address for &lt;a href="https://www.freebsd.org/cgi/man.cgi?query=vnet" target="_blank"&gt;VNET(9)&lt;/a&gt; and shared IP jails.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T163245Z" creationid="Yifei Ding" creationdate="20190401T163245Z">
+        <seg>输入用于&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=vnet" target="_blank"&gt;VNET(9)&lt;/a&gt;和共享IPjails的IPv4地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter the S3 username.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T184328Z" creationid="Yifei Ding" creationdate="20190211T184328Z">
@@ -17158,6 +17166,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T224016Z" creationid="Yifei Ding" creationdate="20190320T224016Z">
         <seg>参考AWS文档的&lt;a href="https://docs.aws.amazon.com/general/latest/gr/rande.html#s3_website_region_endpoints" target="_blank"&gt;简单存储服务网页Endpoints&lt;/a&gt;列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refer to the guide section on &lt;a href="%%docurl%%/storage.html%%webversion%%#import-disk" target="_blank"&gt;importing disks&lt;/a&gt; for more details.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T163052Z" creationid="Yifei Ding" creationdate="20190401T163031Z">
+        <seg>查看指南的&lt;a href="%%docurl%%/storage.html%%webversion%%#import-disk" target="_blank"&gt;导入磁盘&lt;/a&gt;章节来获取更多细节。</seg>
       </tuv>
     </tu>
     <tu>
