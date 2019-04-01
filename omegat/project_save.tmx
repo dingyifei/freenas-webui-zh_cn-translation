@@ -18370,10 +18370,42 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Schedule a Cron Job</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T152829Z" creationid="Yifei Ding" creationdate="20190401T152829Z">
+        <seg>安排一个计划任务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Schedule the S.M.A.R.T.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T152845Z" creationid="Yifei Ding" creationdate="20190401T152845Z">
+        <seg>安排S.M.A.R.T。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Schedule the Scrub Task</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T152900Z" creationid="Yifei Ding" creationdate="20190401T152900Z">
+        <seg>安排数据校验任务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Schema Mode</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>Schema 模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Schema mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T152918Z" creationid="Yifei Ding" creationdate="20190401T152918Z">
+        <seg>Schema模式</seg>
       </tuv>
     </tu>
     <tu>
