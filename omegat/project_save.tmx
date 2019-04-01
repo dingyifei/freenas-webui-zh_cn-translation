@@ -6384,8 +6384,8 @@
       <tuv lang="EN-US">
         <seg>Default directory permissions</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190307T184433Z" creationid="Yifei Ding" creationdate="20190307T184433Z">
-        <seg>默认文件夹权限</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T215251Z" creationid="Yifei Ding" creationdate="20190307T184433Z">
+        <seg>默认目录权限</seg>
       </tuv>
     </tu>
     <tu>
@@ -6480,8 +6480,8 @@
       <tuv lang="EN-US">
         <seg>Define an &lt;b&gt;existing&lt;/b&gt; pool or dataset as the user home directory and adjust the permissions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T155536Z" creationid="Yifei Ding" creationdate="20190307T184928Z">
-        <seg>定义一个&lt;b&gt;现有&lt;/b&gt;的存储池或数据集用于用户Home文件夹和修改权限。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T215315Z" creationid="Yifei Ding" creationdate="20190307T184928Z">
+        <seg>定义一个&lt;b&gt;现有&lt;/b&gt;的存储池或数据集用于用户Home目录和修改权限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7096,8 +7096,8 @@
       <tuv lang="EN-US">
         <seg>Directory/Files</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T003331Z" creationid="Yifei Ding" creationdate="20190319T003331Z">
-        <seg>文件夹/文件</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T215226Z" creationid="Yifei Ding" creationdate="20190319T003331Z">
+        <seg>目录/文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -24964,8 +24964,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>You need to specify a filepath, not a directory.</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>您需要指定一个文件路径，而不是一个文件夹。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T215409Z">
+        <seg>您需要指定一个文件路径，而不是一个目录。</seg>
       </tuv>
     </tu>
     <tu>
