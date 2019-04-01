@@ -12942,6 +12942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leave empty to use the default port &lt;i&gt;22&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T152515Z" creationid="Yifei Ding" creationdate="20190401T152515Z">
+        <seg>留空来使用默认端口&lt;i&gt;22&lt;/i&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leaving this blank will give the volume a default path of /mnt/${VOLUME_NAME}</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -18186,6 +18194,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SNMP v3 Support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T152410Z" creationid="Yifei Ding" creationdate="20190401T152410Z">
+        <seg>SNMP v3支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SSD</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -18266,14 +18282,6 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Samba Schema</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>Samba Schema</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Samba will read asynchronously if request size is larger than this value.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -18326,6 +18334,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060944Z" creationid="Yifei Ding" creationdate="20190211T060944Z">
         <seg>保存网络接口更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save VLAN Interface Changes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T152616Z" creationid="Yifei Ding" creationdate="20190401T152616Z">
+        <seg>保存VLAN接口更改</seg>
       </tuv>
     </tu>
     <tu>
