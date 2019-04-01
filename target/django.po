@@ -1883,7 +1883,7 @@ msgstr "NOPIN 发送时间间隔以秒为单位（默认值为20）。"
 
 #: services/models.py:287
 msgid "Max. sessions"
-msgstr "最大sessions"
+msgstr "最大会话"
 
 #: services/models.py:288
 msgid "Maximum number of sessions holding at same time (16 by default)."
@@ -1891,7 +1891,7 @@ msgstr "在同一时间内保持的最大会话数（默认值为16）。"
 
 #: services/models.py:293
 msgid "Max. connections"
-msgstr "最大connections"
+msgstr "最大连接"
 
 #: services/models.py:294
 msgid "Maximum number of connections in each session (8 by default)."
@@ -2823,7 +2823,7 @@ msgstr "这些参数已经添加到ldap.conf。"
 #: services/models.py:1357 services/models.py:1358
 #: templates/services/core.html:74
 msgid "LDAP"
-msgstr "LDAP"
+msgstr ""
 
 # 根据上下文翻译（非直译）
 #: services/models.py:1369
@@ -6398,7 +6398,7 @@ msgstr "详细信息"
 #: services/models.py:2103
 #: services/models.py:2104
 msgid "Domain Controller"
-msgstr "Domain Controller"
+msgstr "域控制器"
 
 #: choices.py:711
 msgid "auth"
@@ -9398,7 +9398,7 @@ msgstr "在 LDAP 中为组(若设置了user_cn，则也包括用户)附加 @real
 
 #: directoryservice/models.py:369
 msgid "LDAP Domain"
-msgstr "LDAP Domain"
+msgstr ""
 
 #: directoryservice/models.py:372
 msgid ""
@@ -9432,7 +9432,7 @@ msgstr ""
 
 #: directoryservice/models.py:402
 msgid "LDAP Realm"
-msgstr "LDAP Realm"
+msgstr ""
 
 #: directoryservice/models.py:405
 msgid ""
@@ -9629,7 +9629,7 @@ msgstr ""
 #: directoryservice/models.py:700
 #: directoryservice/models.py:919
 msgid "Kerberos Keytab"
-msgstr "Kerberos Keytab"
+msgstr ""
 
 #: directoryservice/forms.py:498
 msgid "A keytab is required."
@@ -9683,7 +9683,7 @@ msgstr "Keytab"
 #: directoryservice/models.py:913
 #: services/models.py:1662
 msgid "Kerberos Realm"
-msgstr "Kerberos Realm"
+msgstr ""
 
 #: services/views.py:269
 msgid "SMB successfully updated."
@@ -9711,7 +9711,7 @@ msgstr "Kerberos Realm"
 
 #: templates/directoryservice/index.html:18
 msgid "Kerberos Keytabs"
-msgstr "Kerberos Keytabs"
+msgstr ""
 
 #: templates/system/initialwizard_shares.html:51
 #: templates/system/initialwizard_volume.html:92
@@ -9840,7 +9840,7 @@ msgstr "Idmap Backend"
 
 #: directoryservice/models.py:1056
 msgid "Samba Schema"
-msgstr "Samba Schema"
+msgstr ""
 
 #: jails/forms.py:92
 msgid "Template"
@@ -10509,7 +10509,7 @@ msgstr "当前版本"
 
 #: system/forms.py:1930
 msgid "Train"
-msgstr ""
+msgstr "分支"
 
 #: system/forms.py:1993
 #: system/forms.py:2378
@@ -11227,7 +11227,7 @@ msgstr ""
 
 #: services/models.py:1062
 msgid "SNMP v3 Support"
-msgstr ""
+msgstr "SNMP v3支持"
 
 #: services/models.py:1075
 msgid "MD5"
@@ -12405,7 +12405,7 @@ msgstr ""
 
 #: system/models.py:137
 msgid "Syslog level"
-msgstr ""
+msgstr "系统日志级别"
 
 #: system/models.py:138
 msgid ""
