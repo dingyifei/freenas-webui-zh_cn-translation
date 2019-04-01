@@ -14690,10 +14690,42 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NetBIOS Alias</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T213236Z" creationid="Yifei Ding" creationdate="20190401T213236Z">
+        <seg>NetBIOS 别名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBIOS Alias:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T213238Z" creationid="Yifei Ding" creationdate="20190401T213238Z">
+        <seg>NetBIOS 别名：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NetBIOS Name</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>NetBIOS 名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBIOS Name:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T213223Z" creationid="Yifei Ding" creationdate="20190401T213223Z">
+        <seg>NetBIOS 名称：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>NetBIOS alias</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T213244Z" creationid="Yifei Ding" creationdate="20190401T213244Z">
+        <seg>NetBIOS 别名</seg>
       </tuv>
     </tu>
     <tu>
@@ -14709,6 +14741,14 @@ Content-Transfer-Encoding: 8bit</seg>
         <seg>NetBIOS name</seg>
       </tuv>
       <tuv lang="ZH-CN">
+        <seg>NetBIOS 名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Netbios Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T213249Z" creationid="Yifei Ding" creationdate="20190401T213249Z">
         <seg>NetBIOS 名称</seg>
       </tuv>
     </tu>
@@ -15382,6 +15422,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023651Z" creationid="Yifei Ding" creationdate="20190211T023651Z">
         <seg>可选的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optional: Choose installation media image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T213359Z" creationid="Yifei Ding" creationdate="20190401T213359Z">
+        <seg>可选：选择安装介质映像</seg>
       </tuv>
     </tu>
     <tu>
