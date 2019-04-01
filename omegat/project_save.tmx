@@ -18578,6 +18578,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Configuration File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T153006Z" creationid="Yifei Ding" creationdate="20190401T153006Z">
+        <seg>选择配置文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Disk Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T153012Z" creationid="Yifei Ding" creationdate="20190401T153012Z">
+        <seg>选择磁盘类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select a keyboard layout.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232231Z" creationid="Yifei Ding" creationdate="20190211T232231Z">
