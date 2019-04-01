@@ -16498,6 +16498,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pool to import</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T214410Z" creationid="Yifei Ding" creationdate="20190401T214410Z">
+        <seg>导入的存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pool/Dataset</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024253Z" creationid="Yifei Ding" creationdate="20190211T024253Z">
@@ -16526,6 +16534,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>端口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Port or Hostname</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T214422Z" creationid="Yifei Ding" creationdate="20190401T214422Z">
+        <seg>端口或主机名</seg>
       </tuv>
     </tu>
     <tu>
@@ -16582,6 +16598,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T233720Z" creationid="Yifei Ding" creationdate="20190211T233720Z">
         <seg>电源管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power Mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T214532Z" creationid="Yifei Ding" creationdate="20190401T214532Z">
+        <seg>电源模式</seg>
       </tuv>
     </tu>
     <tu>
