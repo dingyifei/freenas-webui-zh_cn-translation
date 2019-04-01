@@ -9576,8 +9576,8 @@
       <tuv lang="EN-US">
         <seg>Existing data on the pool is kept intact.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190322T165228Z" creationid="Yifei Ding" creationdate="20190322T165228Z">
-        <seg>在存储池上的已有数据依旧被保留。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T154611Z" creationid="Yifei Ding" creationdate="20190322T165228Z">
+        <seg>在存储池上的现有数据依旧被保留。</seg>
       </tuv>
     </tu>
     <tu>
