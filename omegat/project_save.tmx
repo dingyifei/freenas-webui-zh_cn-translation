@@ -17650,6 +17650,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resilver Priority</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T152157Z" creationid="Yifei Ding" creationdate="20190401T152157Z">
+        <seg>Resilver 优先级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190328T235724Z" creationid="Yifei Ding" creationdate="20190328T235724Z">
@@ -18490,10 +18498,26 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See &lt;a href="https://www.freebsd.org/cgi/man.cgi?query=rctl" target="_blank"&gt;RCTL(8)&lt;/a&gt; for more details.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T152146Z" creationid="Yifei Ding" creationdate="20190401T152146Z">
+        <seg>查看&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=rctl" target="_blank"&gt;RCTL(8)&lt;/a&gt;获得更多信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See &lt;a href="https://www.freebsd.org/cgi/man.cgi?query=rctl&amp;manpath=FreeBSD+11.1-RELEASE+and+Ports" target="_blank"&gt;RCTL(8)&lt;/a&gt; for more details.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T205831Z" creationid="Yifei Ding" creationdate="20190329T205831Z">
         <seg>查看&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=rctl&amp;manpath=FreeBSD+11.1-RELEASE+and+Ports" target="_blank"&gt;RCTL(8)&lt;/a&gt;获得更多信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See &lt;a href="https://www.freebsd.org/cgi/man.cgi?query=smb.conf" target=_blank&gt;smb.conf(5)&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T152235Z" creationid="Yifei Ding" creationdate="20190401T152235Z">
+        <seg>查看&lt;a href="https://www.freebsd.org/cgi/man.cgi?query=smb.conf" target=_blank&gt;smb.conf(5)&lt;/a&gt;。</seg>
       </tuv>
     </tu>
     <tu>
