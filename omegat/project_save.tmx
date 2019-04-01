@@ -12854,6 +12854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LEGACY WEB INTERFACE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T212654Z" creationid="Yifei Ding" creationdate="20190401T212654Z">
+        <seg>经典用户界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LLDP</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -12938,6 +12946,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T005157Z" creationid="Yifei Ding" creationdate="20190329T005157Z">
         <seg>链路聚合接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lagg Physical NIC</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T212720Z" creationid="Yifei Ding" creationdate="20190401T212720Z">
+        <seg>链路聚合物理NIC</seg>
       </tuv>
     </tu>
     <tu>
@@ -14654,6 +14670,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T024525Z" creationid="Yifei Ding" creationdate="20190211T024525Z">
         <seg>域名服务器 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nameservers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T213213Z" creationid="Yifei Ding" creationdate="20190401T213213Z">
+        <seg>域名服务器</seg>
       </tuv>
     </tu>
     <tu>
@@ -20742,6 +20766,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>数据存储在VMware端，与文件系统相一致。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The default &lt;i&gt;0&lt;/i&gt; is unlimited.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T212745Z" creationid="Yifei Ding" creationdate="20190401T212745Z">
+        <seg>默认&lt;i&gt;0&lt;/i&gt;代表无限制。</seg>
       </tuv>
     </tu>
     <tu>
