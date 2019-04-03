@@ -19002,6 +19002,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select &lt;i&gt;None&lt;/i&gt; or an integer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T180016Z" creationid="Yifei Ding" creationdate="20190403T180016Z">
+        <seg>选择&lt;i&gt;None&lt;/i&gt;或一个整数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;i&gt;UEFI&lt;/i&gt; for newer operating systems or &lt;i&gt;UEFI-CSM&lt;/i&gt; (Compatibility Support Mode) for older operating systems that only support BIOS booting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T180112Z" creationid="Yifei Ding" creationdate="20190403T180112Z">
+        <seg>选择&lt;i&gt;UEFI&lt;/i&gt;用于较新的操作系统，&lt;i&gt;UEFI-CSM&lt;/i&gt;（兼容支持模式）用于只支持BIOS引导的操作系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Configuration File</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T153006Z" creationid="Yifei Ding" creationdate="20190401T153006Z">
