@@ -20692,16 +20692,16 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>TLS Common Name Required</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T211719Z" creationid="Yifei Ding" creationdate="20190403T211719Z">
-        <seg>TLS 必须提供通用名</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T211834Z" creationid="Yifei Ding" creationdate="20190403T211719Z">
+        <seg>需要TLS通用名</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>TLS DNS Name Required</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T211732Z" creationid="Yifei Ding" creationdate="20190403T211732Z">
-        <seg>TLS 要求DNS名称</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T211824Z" creationid="Yifei Ding" creationdate="20190403T211732Z">
+        <seg>需要TLS DNS名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -20716,8 +20716,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>TLS Enable Diagnostics</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T211735Z" creationid="Yifei Ding" creationdate="20190403T211735Z">
-        <seg>TLS 启用诊断</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T211843Z" creationid="Yifei Ding" creationdate="20190403T211735Z">
+        <seg>启用TLS诊断</seg>
       </tuv>
     </tu>
     <tu>
@@ -20740,8 +20740,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>TLS IP Address Required</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T211750Z" creationid="Yifei Ding" creationdate="20190403T211750Z">
-        <seg>TLS 要求设置IP地址</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T211902Z" creationid="Yifei Ding" creationdate="20190403T211750Z">
+        <seg>需要TLS IP地址</seg>
       </tuv>
     </tu>
     <tu>
@@ -20750,6 +20750,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>TLS 要求设置IP地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLS No Certificate Request</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T212147Z" creationid="Yifei Ding" creationdate="20190403T212147Z">
+        <seg>TLS 无证书请求</seg>
       </tuv>
     </tu>
     <tu>
