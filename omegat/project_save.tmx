@@ -9062,6 +9062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter the IP address or hostname for SNMP UPS.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T223847Z" creationid="Yifei Ding" creationdate="20190403T223847Z">
+        <seg>输入用于SNMP UPS的IP地址或域名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter the IPv4 address for &lt;a href="https://www.freebsd.org/cgi/man.cgi?query=vnet" target="_blank"&gt;VNET(9)&lt;/a&gt; and shared IP jails.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T204042Z" creationid="Yifei Ding" creationdate="20190401T163245Z">
