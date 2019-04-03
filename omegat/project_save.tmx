@@ -14362,6 +14362,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multi-domain support.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T174625Z" creationid="Yifei Ding" creationdate="20190403T174625Z">
+        <seg>多域名支持。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Multipath member</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -14374,6 +14382,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>多路径名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Multipaths</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T174640Z" creationid="Yifei Ding" creationdate="20190403T174640Z">
+        <seg>多路径</seg>
       </tuv>
     </tu>
     <tu>
@@ -14406,6 +14422,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>请先填写域名服务器 2 然后再填写域名服务器 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Must match Windows workgroup name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T174706Z" creationid="Yifei Ding" creationdate="20190403T174706Z">
+        <seg>必须和Windows工作组名称匹配。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20946,6 +20970,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The default limit is 50.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T174551Z" creationid="Yifei Ding" creationdate="20190403T174551Z">
+        <seg>默认限制是50。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The default of the zvol block size is chosen automatically based on the number of the disks in the pool for a general use case.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -20958,6 +20990,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T181832Z" creationid="Yifei Ding" creationdate="20190305T181832Z">
         <seg>默认端口是&lt;i&gt;3493&lt;/i&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The default timeout is 10 seconds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T174534Z" creationid="Yifei Ding" creationdate="20190403T174534Z">
+        <seg>默认超时是10秒。</seg>
       </tuv>
     </tu>
     <tu>
