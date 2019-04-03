@@ -17274,6 +17274,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Raw filesize</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222713Z" creationid="Yifei Ding" creationdate="20190403T222713Z">
+        <seg>原始文件大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -18430,6 +18438,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>SFTP 日志等级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SFTP log facility</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222633Z" creationid="Yifei Ding" creationdate="20190403T222633Z">
+        <seg>SFTP日志设备</seg>
       </tuv>
     </tu>
     <tu>
@@ -21414,6 +21430,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>用于搜索的默认基础 Distinguished Name (DN)，例如: dc=test,dc=org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The default is &lt;i&gt;docker&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222705Z" creationid="Yifei Ding" creationdate="20190403T222705Z">
+        <seg>默认是&lt;i&gt;docker&lt;/i&gt;。</seg>
       </tuv>
     </tu>
     <tu>
