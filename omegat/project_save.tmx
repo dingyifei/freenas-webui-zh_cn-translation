@@ -20058,6 +20058,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Speeds up the initial synchronization (seconds instead of minutes).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T211505Z" creationid="Yifei Ding" creationdate="20190403T211505Z">
+        <seg>加速初始同步（seconds instead of minutes）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Standard</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -20286,6 +20294,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060107Z" creationid="Yifei Ding" creationdate="20190211T060107Z">
         <seg>升级成功</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Successfully detached pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T211541Z" creationid="Yifei Ding" creationdate="20190403T211541Z">
+        <seg>成功分离存储池</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Successfully exported/disconnected '</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T211621Z" creationid="Yifei Ding" creationdate="20190403T211621Z">
+        <seg>成功导出/断开'</seg>
       </tuv>
     </tu>
     <tu>
@@ -20578,10 +20602,26 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>System is restarting...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T211701Z" creationid="Yifei Ding" creationdate="20190403T211701Z">
+        <seg>系统重启中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>System is shutting down</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>系统正在关机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System is shutting down...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T211647Z" creationid="Yifei Ding" creationdate="20190403T211647Z">
+        <seg>系统关机中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20650,10 +20690,58 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TLS Common Name Required</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T211719Z" creationid="Yifei Ding" creationdate="20190403T211719Z">
+        <seg>TLS 必须提供通用名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLS DNS Name Required</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T211732Z" creationid="Yifei Ding" creationdate="20190403T211732Z">
+        <seg>TLS 要求DNS名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TLS DNS name required</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>TLS 要求DNS名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLS Enable Diagnostics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T211735Z" creationid="Yifei Ding" creationdate="20190403T211735Z">
+        <seg>TLS 启用诊断</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLS Export Certificate Data</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T211739Z" creationid="Yifei Ding" creationdate="20190403T211739Z">
+        <seg>TLS导出证书数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLS Export Standard Vars</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T211746Z" creationid="Yifei Ding" creationdate="20190403T211746Z">
+        <seg>TLS 导出标准Vars</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TLS IP Address Required</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T211750Z" creationid="Yifei Ding" creationdate="20190403T211750Z">
+        <seg>TLS 要求设置IP地址</seg>
       </tuv>
     </tu>
     <tu>
