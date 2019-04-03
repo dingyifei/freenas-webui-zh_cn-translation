@@ -952,11 +952,11 @@ msgstr "Domain"
 
 #: network/models.py:51
 msgid "IPv4 Default Gateway"
-msgstr "IPv4默认网关"
+msgstr "IPv4 默认网关"
 
 #: network/models.py:56
 msgid "IPv6 Default Gateway"
-msgstr "IPv6默认网关"
+msgstr "IPv6 默认网关"
 
 #: network/models.py:61
 msgid "Nameserver 1"
@@ -999,11 +999,11 @@ msgstr "启用此项，将通过 DHCP 自动获得 IPv4 地址和默认网关等
 #: network/models.py:99 network/models.py:215
 #: templates/network/interface.html:8 templates/network/summary.html:6
 msgid "IPv4 Address"
-msgstr "IPv4地址"
+msgstr "IPv4 地址"
 
 #: network/models.py:108 network/models.py:224
 msgid "IPv4 Netmask"
-msgstr "IPv4子网掩码"
+msgstr "IPv4 子网掩码"
 
 #: network/models.py:112
 msgid "Auto configure IPv6"
@@ -1016,7 +1016,7 @@ msgstr "启用此项，将通过 rtsol(8) 自动配置 IPv6 地址。"
 #: network/models.py:116 network/models.py:228
 #: templates/network/interface.html:10
 msgid "IPv6 Address"
-msgstr "IPv6地址"
+msgstr "IPv6 地址"
 
 #: network/models.py:125 network/models.py:237
 msgid "IPv6 Prefix Length"
@@ -1821,7 +1821,7 @@ msgstr "最大连接"
 #: services/models.py:221
 msgid ""
 "Maximum number of connections permitted via AFP. The default limit is 50."
-msgstr ""
+msgstr "Maximum number of connections permitted via AFP. 默认限制是50。"
 
 #: services/models.py:226 services/models.py:227
 #: templates/services/core.html:4
@@ -2117,7 +2117,7 @@ msgstr "授权访问"
 
 #: services/models.py:632
 msgid "Target Name"
-msgstr "Target 名称"
+msgstr "目标名称"
 
 #: services/models.py:633
 msgid "Base Name will be appended automatically when starting without 'iqn.'."
@@ -2125,7 +2125,7 @@ msgstr "如果 Base Name 不带 \"iqn.\"，将自动在 Base Name 前面添加�
 
 #: services/models.py:640
 msgid "Target Alias"
-msgstr "Target 别名"
+msgstr "目标别名"
 
 #: services/models.py:641
 msgid "Optional user-friendly string of the target."
@@ -2196,7 +2196,7 @@ msgstr ""
 #: templates/services/iscsi_assoctargets.html:5
 #: templates/services/iscsi_targets.html:5
 msgid "Target"
-msgstr "Target"
+msgstr "目标"
 
 #: services/models.py:725
 msgid "Target this extent belongs to"
@@ -6962,7 +6962,7 @@ msgstr "0=无限制；例如：1GiB"
 
 #: storage/forms.py:1605
 msgid "Size for this zvol"
-msgstr "zvol 尺寸"
+msgstr "zvol容量"
 
 #: storage/forms.py:1626
 msgid ""
@@ -7440,7 +7440,7 @@ msgstr "没有请求"
 
 #: network/admin.py:44
 msgid "IPv4 Addresses"
-msgstr "IPv4地址"
+msgstr "IPv4 地址"
 
 #: network/forms.py:138
 msgid "Only one interface can be used for DHCP"
@@ -8374,7 +8374,7 @@ msgstr "媒体状态"
 
 #: network/admin.py:49
 msgid "IPv6 Addresses"
-msgstr "IPv6地址"
+msgstr "IPv6 地址"
 
 #: network/forms.py:311
 msgid "Channel"
@@ -9035,7 +9035,7 @@ msgstr "域登陆"
 
 #: network/admin.py:66
 msgid "Network connectivity will be interrupted. Do you want to proceed?"
-msgstr ""
+msgstr "网络连接将会被中断。Do you want to proceed?"
 
 #: services/admin.py:67
 msgid "Enabling experimental target requires a reboot. Do you want to proceed?"
@@ -12140,7 +12140,7 @@ msgstr ""
 
 #: services/models.py:422
 msgid "Support >16 groups"
-msgstr ""
+msgstr "支持多于16个组"
 
 #: services/models.py:424
 msgid ""
@@ -12430,7 +12430,7 @@ msgstr ""
 
 #: services/models.py:456
 msgid "Log mountd(8) requests"
-msgstr ""
+msgstr "记录mountd(8)请求"
 
 #: services/models.py:458
 msgid "This option enable mountd logging into syslog."
@@ -12438,7 +12438,7 @@ msgstr ""
 
 #: services/models.py:462
 msgid "Log rpc.statd(8) and rpc.lockd(8)"
-msgstr ""
+msgstr "记录rpc.statd(8)和rpc.lockd(8)"
 
 #: services/models.py:464
 msgid "This option enable statd and lockd logging into syslog."

@@ -1382,7 +1382,7 @@ msgstr "每天检查更新服务器，获取选择分支的更新。在一个更
 msgid ""
 "Check this to redirect <i>HTTP</i> connections to        <i>HTTPS</i>. "
 "<i>HTTPS</i> must be selected in        <b>Protocol</b>."
-msgstr "Check this to redirect <i>HTTP</i> connections to        <i>HTTPS</i>. <i>HTTPS</i>必须在<b>协议</b>中被选择。"
+msgstr "选择此选项来重定向<i>HTTP</i>连接到<i>HTTPS</i>。<i>HTTPS</i>必须在<b>协议</b>中被选择。"
 
 msgid "CheckIP Path"
 msgstr "CheckIP路径"
@@ -1854,7 +1854,7 @@ msgid "Confirm Privacy Passphrase"
 msgstr "确认隐私密码短语"
 
 msgid "Confirm SED Password"
-msgstr ""
+msgstr "确认SED密码"
 
 msgid "Confirm Secret Key"
 msgstr ""
@@ -2540,7 +2540,7 @@ msgid "Edit Disk(s)"
 msgstr "编辑磁盘"
 
 msgid "Edit Idmap"
-msgstr ""
+msgstr "编辑Idmap"
 
 msgid "Edit Interface"
 msgstr "编辑接口"
@@ -3181,7 +3181,7 @@ msgid ""
 msgstr ""
 
 msgid "Enter the IP address or hostname for SNMP UPS."
-msgstr ""
+msgstr "输入用于SNMP UPS的IP地址或域名。"
 
 msgid "Enter the IP address or hostname of a remote server running Graphite."
 msgstr ""
@@ -3691,7 +3691,7 @@ msgid "General"
 msgstr "常规"
 
 msgid "Generate Debug File"
-msgstr ""
+msgstr "生成调试文件"
 
 msgid ""
 "Give this user permission to use <a href=\"https://www.sudo.ws/\" "
@@ -3803,13 +3803,13 @@ msgid "Home Directory Permissions"
 msgstr "主目录权限"
 
 msgid "Host"
-msgstr ""
+msgstr "主机"
 
 msgid "Host name database"
-msgstr ""
+msgstr "主机名数据库"
 
 msgid "HostName"
-msgstr ""
+msgstr "主机名"
 
 msgid "Hostname"
 msgstr "主机名"
@@ -3861,28 +3861,28 @@ msgid "IPMI"
 msgstr "IPMI"
 
 msgid "IPv4 Address"
-msgstr "IPv4地址"
+msgstr "IPv4 地址"
 
 msgid "IPv4 Addresses"
-msgstr "IPv4地址"
+msgstr "IPv4 地址"
 
 msgid "IPv4 Default Gateway"
-msgstr "IPv4默认网关"
+msgstr "IPv4 默认网关"
 
 msgid "IPv4 Default Router"
-msgstr "IPv4默认路由"
+msgstr "IPv4 默认路由"
 
 msgid "IPv4 Interface"
-msgstr "IPv4接口"
+msgstr "IPv4 接口"
 
 msgid "IPv4 Netmask"
-msgstr "IPv4子网掩码"
+msgstr "IPv4 子网掩码"
 
 msgid "IPv4 address for the jail."
 msgstr "Jail的IPv4地址"
 
 msgid "IPv4 interface"
-msgstr "IPv4接口"
+msgstr "IPv4 接口"
 
 msgid "IPv4 interface for the jail."
 msgstr "Jail的IPv4接口"
@@ -3891,25 +3891,25 @@ msgid "IPv4 netmask for the jail."
 msgstr "Jail的IPv4子网掩码"
 
 msgid "IPv6 Address"
-msgstr "IPv6地址"
+msgstr "IPv6 地址"
 
 msgid "IPv6 Addresses"
-msgstr "IPv6地址"
+msgstr "IPv6 地址"
 
 msgid "IPv6 Auto Configure"
 msgstr "自动配置IPv6"
 
 msgid "IPv6 Default Gateway"
-msgstr "IPv6默认网关"
+msgstr "IPv6 默认网关"
 
 msgid "IPv6 Default Route"
-msgstr "IPv6默认路由"
+msgstr "IPv6 默认路由"
 
 msgid "IPv6 Default Router"
-msgstr "IPv6默认路由"
+msgstr "IPv6 默认路由"
 
 msgid "IPv6 Interface"
-msgstr "IPv6接口"
+msgstr "IPv6 接口"
 
 msgid "IPv6 Prefix"
 msgstr "IPv6 前缀"
@@ -3927,7 +3927,7 @@ msgid "IPv6 prefix for the jail."
 msgstr ""
 
 msgid "ISNS Servers"
-msgstr ""
+msgstr "ISNS 服务器"
 
 msgid "Id"
 msgstr ""
@@ -4253,7 +4253,7 @@ msgid "Lagg Interfaces"
 msgstr "链路聚合接口"
 
 msgid "Lagg Physical NIC"
-msgstr "链路聚合物理NIC"
+msgstr "链路聚合物理网卡"
 
 msgid "Lagg Priority Number"
 msgstr "链路聚合优先级"
@@ -4355,10 +4355,10 @@ msgid "Log in to Legacy User Interface?"
 msgstr "登录到经典用户界面？"
 
 msgid "Log mountd(8) requests"
-msgstr ""
+msgstr "记录mountd(8)请求"
 
 msgid "Log rpc.statd(8) and rpc.lockd(8)"
-msgstr ""
+msgstr "记录rpc.statd(8)和rpc.lockd(8)"
 
 msgid "Logical block size"
 msgstr "逻辑块大小"
@@ -4460,7 +4460,7 @@ msgid ""
 "commands have completed. When time is up the jail is removed, killing any "
 "remaining processes. When set to <i>0</i>, no SIGTERM is sent and the jail "
 "is immediately removed. The default timeout is 10 seconds."
-msgstr ""
+msgstr "Maximum amount of time in seconds to wait for jail processes to exit after sending a SIGTERM signal. The timeout starts after <b>exec.stop</b> commands have completed. When time is up the jail is removed, killing any remaining processes. When set to <i>0</i>, no SIGTERM is sent and the jail is immediately removed. 默认超时是10秒。"
 
 msgid ""
 "Maximum amount of time in seconds to wait for jail processes to exit after "
@@ -4482,7 +4482,7 @@ msgstr ""
 msgid ""
 "Maximum number of simultaneous connections permitted via AFP. The default "
 "limit is 50."
-msgstr ""
+msgstr "Maximum number of simultaneous connections permitted via AFP. 默认限制是50。"
 
 msgid "Maximum swap space to use for the jail."
 msgstr ""
@@ -4595,10 +4595,10 @@ msgid ""
 "Multi-domain support. Enter additional domains to secure, separated by "
 "spaces. For example, if the primary domain is example.com, entering "
 "www.example.com will secure both addresses."
-msgstr ""
+msgstr "多域名支持。Enter additional domains to secure, separated by spaces. For example, if the primary domain is example.com, entering www.example.com will secure both addresses."
 
 msgid "Multipaths"
-msgstr ""
+msgstr "多路径"
 
 msgid ""
 "Must match Windows workgroup name. This setting is ignored if the <a "
@@ -4606,7 +4606,7 @@ msgid ""
 "target=\"_blank\">Active Directory</a> or <a "
 "href=\"%%docurl%%/directoryservice.html%%webversion%%#ldap\" "
 "target=\"_blank\">LDAP</a> service is running."
-msgstr ""
+msgstr "必须和Windows工作组名称匹配。This setting is ignored if the <a href=\"%%docurl%%/directoryservice.html%%webversion%%#active-directory\" target=\"_blank\">Active Directory</a> or <a href=\"%%docurl%%/directoryservice.html%%webversion%%#ldap\" target=\"_blank\">LDAP</a> service is running."
 
 msgid "Mutual secret password. Must be different than <i>Secret</i>."
 msgstr ""
@@ -4708,7 +4708,7 @@ msgstr "NetBIOS 名称"
 msgid ""
 "Netbios Name of this NAS. This name must differ from the <i>Workgroup</i> "
 "name and be no greater than 15 characters."
-msgstr ""
+msgstr "这个NAS的Netbios名称。This name must differ from the <i>Workgroup</i> name and be no greater than 15 characters."
 
 msgid "Netwait IP list"
 msgstr "Netwait IP列表"
@@ -4734,16 +4734,16 @@ msgid ""
 msgstr ""
 
 msgid "Network connectivity will be interrupted. "
-msgstr ""
+msgstr "网络连接将会被中断。 "
 
 msgid "Network connectivity will be interrupted. Proceed?"
-msgstr "Network connectivity will be interrupted. 继续？"
+msgstr "网络连接将会被中断。继续？"
 
 msgid "New Password"
 msgstr "新密码"
 
 msgid "New Primary Group"
-msgstr ""
+msgstr "新建主用户组"
 
 msgid ""
 "New users are not given <b>su</b> permissions if <i>wheel</i> is their "
@@ -4854,13 +4854,13 @@ msgid ""
 "Number of virtual CPUs to allocate to the virtual machine. The maximum is "
 "16, or fewer if the host CPU limits the maximum. The VM operating system "
 "might also have operational or licensing restrictions on the number of CPUs."
-msgstr "分配给虚拟机的虚拟处理器数量The maximum is 16, or fewer if the host CPU limits the maximum. The VM operating system might also have operational or licensing restrictions on the number of CPUs."
+msgstr "分配给虚拟机的虚拟处理器数量最大是16或更少，如果主机处理器限制了最大。The VM operating system might also have operational or licensing restrictions on the number of CPUs."
 
 msgid ""
 "Numeric start priority for the jail at boot time. Valid priorities are "
 "between 1 and 99. <b>Smaller</b> values are <b>higher</b> priority. At "
 "system shutdown the priority is reversed. <br> <b>Example:</b> <i>99</i>"
-msgstr ""
+msgstr "Numeric start priority for the jail at boot time. Valid priorities are between 1 and 99. <b>Smaller</b> values are <b>higher</b> priority. At system shutdown the priority is reversed. <br> <b>样例：</b> <i>99</i>"
 
 msgid "Numeric value for the number of PTYs available to the jail."
 msgstr ""
@@ -4875,7 +4875,7 @@ msgid "OS Version"
 msgstr "系统版本"
 
 msgid "Obey Pam Restrictions"
-msgstr ""
+msgstr "服从 pam 管制"
 
 msgid ""
 "Off by default. When set, <a "
@@ -4966,7 +4966,7 @@ msgid ""
 msgstr ""
 
 msgid "Opening download window. Make sure pop-ups are enabled in the browser."
-msgstr ""
+msgstr "Opening download window. 确认浏览器的弹出窗口被启用。"
 
 msgid "Operating System"
 msgstr "操作系统"
@@ -5267,13 +5267,13 @@ msgid "Previous"
 msgstr "上一步"
 
 msgid "Primary DNS server."
-msgstr ""
+msgstr "主要DNS服务器"
 
 msgid "Primary Group"
 msgstr "主用户组"
 
 msgid "Primary NIC"
-msgstr ""
+msgstr "主要网卡"
 
 msgid "Priority Code Point"
 msgstr ""
@@ -5379,10 +5379,10 @@ msgid "Raw filename password"
 msgstr ""
 
 msgid "Raw filename password. The default is <i>docker</i>."
-msgstr ""
+msgstr "Raw filename password. 默认是<i>docker</i>。"
 
 msgid "Raw filesize"
-msgstr ""
+msgstr "原始文件大小"
 
 msgid "Re-key Pool"
 msgstr ""
@@ -5448,7 +5448,7 @@ msgid "Recursively Replicate Child Dataset Snapshots"
 msgstr ""
 
 msgid "Redirecting to download. Make sure pop-ups are enabled in the browser."
-msgstr ""
+msgstr "Redirecting to download. 确认浏览器的弹出窗口被启用。"
 
 msgid "Register"
 msgstr "注册"
@@ -5696,7 +5696,7 @@ msgid "SED Password"
 msgstr "SED密码"
 
 msgid "SFTP log facility"
-msgstr ""
+msgstr "SFTP日志设备"
 
 msgid "SFTP log level"
 msgstr "SFTP日志级别"
@@ -5776,10 +5776,10 @@ msgid "Script"
 msgstr "脚本"
 
 msgid "Script to execute after running sync."
-msgstr ""
+msgstr "在运行rsync后运行的脚本。"
 
 msgid "Script to execute before running sync."
-msgstr ""
+msgstr "在运行rsync前运行的脚本。"
 
 msgid "Scrub Boot Pool"
 msgstr "校验启动存储池"
@@ -5824,12 +5824,12 @@ msgid ""
 "Select <b>UEFI</b> for newer operating systems, or <b>UEFI-CSM</b> "
 "(Compatibility Support Mode) for older operating systems that only support "
 "BIOS booting."
-msgstr ""
+msgstr "选择<b>UEFI</b>用于较新的操作系统，<b>UEFI-CSM</b>（兼容支持模式）用于只支持BIOS引导的操作系统。"
 
 msgid ""
 "Select <i>Bug</i> when reporting an issue or <i>Feature</i> when requesting "
 "new functionality."
-msgstr ""
+msgstr "在回报一个问题的时候选择<i>Bug</i>或选择<i>Feature</i>请求新的特性。"
 
 msgid ""
 "Select <i>Command</i> for an executable or     <i>Script</i> for an "
@@ -5845,13 +5845,13 @@ msgstr ""
 msgid ""
 "Select <i>None</i> or an integer. This value represents the number of "
 "existing authorized accesses."
-msgstr ""
+msgstr "选择<i>None</i>或一个整数。This value represents the number of existing authorized accesses."
 
 msgid ""
 "Select <i>UEFI</i> for newer operating systems or <i>UEFI-CSM</i> "
 "(Compatibility Support Mode) for older operating systems that only support "
 "BIOS booting."
-msgstr ""
+msgstr "选择<i>UEFI</i>用于较新的操作系统，<i>UEFI-CSM</i>（兼容支持模式）用于只支持BIOS引导的操作系统。"
 
 msgid "Select Configuration File"
 msgstr "选择配置文件"
@@ -5894,7 +5894,7 @@ msgid "Select a pool, dataset, or zvol."
 msgstr "选择一个存储池，数据集，或zvol。"
 
 msgid "Select a power management profile from the menu."
-msgstr ""
+msgstr "从菜单中选择一个电源管理"
 
 msgid ""
 "Select a previously imported or created <a "
@@ -6085,10 +6085,10 @@ msgstr ""
 msgid ""
 "Select the disk to import. The import will copy the data from the chosen "
 "disk to an existing ZFS dataset. Only one disk can be imported at a time."
-msgstr ""
+msgstr "选择磁盘来导入。The import will copy the data from the chosen disk to an existing ZFS dataset. 每次只能导入一个磁盘。"
 
 msgid "Select the disks to decrypt."
-msgstr ""
+msgstr "选择磁盘来解密。"
 
 msgid "Select the disks to monitor."
 msgstr ""
@@ -6204,7 +6204,7 @@ msgid "Select which existing initiator group has access to the target."
 msgstr ""
 
 msgid "Select zvol"
-msgstr ""
+msgstr "选择zvol"
 
 msgid "Selected Jail(s) updated successfully."
 msgstr ""
@@ -6213,7 +6213,7 @@ msgid "Send Email Status Updates"
 msgstr "状态更新时发送邮件"
 
 msgid "Send Test Alert"
-msgstr ""
+msgstr "发送测试警报"
 
 msgid "Serial"
 msgstr "序列号"
@@ -6243,7 +6243,7 @@ msgid "Server Side Encryption"
 msgstr ""
 
 msgid "Service Account"
-msgstr ""
+msgstr "服务账户"
 
 msgid "Service failed to start"
 msgstr "服务启动失败"
@@ -6258,7 +6258,7 @@ msgid "Services"
 msgstr "服务"
 
 msgid "Set Keep Flag"
-msgstr ""
+msgstr "设置保留标志"
 
 msgid ""
 "Set by default if the disk supports S.M.A.R.T.                   Unset to "
@@ -7041,13 +7041,13 @@ msgid "Sharing"
 msgstr "共享"
 
 msgid "Sharing Controls"
-msgstr ""
+msgstr "共享控制"
 
 msgid "Shell"
 msgstr "命令行"
 
 msgid "Short Description"
-msgstr ""
+msgstr "摘要"
 
 msgid "Short description"
 msgstr "摘要"
@@ -7075,7 +7075,7 @@ msgid "Show advanced fields by default"
 msgstr "默认显示高级选项"
 
 msgid "Show console messages"
-msgstr ""
+msgstr "显示控制台消息"
 
 msgid "Show only entries that contain this text"
 msgstr ""
@@ -7129,10 +7129,10 @@ msgid "Site Name"
 msgstr "网站名称"
 
 msgid "Size (GiB)"
-msgstr ""
+msgstr "容量 (GiB)"
 
 msgid "Size for this zvol"
-msgstr "zvol 尺寸"
+msgstr "zvol容量"
 
 msgid ""
 "Skip automatic detection of the Endpoint URL region. Set this when "
@@ -7143,7 +7143,7 @@ msgid "Snapshot Lifetime"
 msgstr ""
 
 msgid "Snapshot directory"
-msgstr ""
+msgstr "快照目录"
 
 msgid "Snapshot successfully taken."
 msgstr "成功取得快照。"
@@ -7162,7 +7162,7 @@ msgstr ""
 msgid ""
 "Space-delimited list of allowed networks in network/mask CIDR notation. "
 "Example: <i>1.2.3.0/24</i>. Leave empty to allow all."
-msgstr ""
+msgstr "Space-delimited list of allowed networks in network/mask CIDR notation. 例子：<i>1.2.3.0/24</i>。Leave empty to allow all."
 
 msgid "Spaces are allowed."
 msgstr ""
@@ -7212,10 +7212,10 @@ msgid "Specify the physical location of the host."
 msgstr ""
 
 msgid "Speeds up the initial synchronization   (seconds instead of minutes)."
-msgstr ""
+msgstr "加速初始同步（seconds instead of minutes）。"
 
 msgid "Speeds up the initial synchronization (seconds instead of minutes)."
-msgstr ""
+msgstr "加速初始同步（seconds instead of minutes）。"
 
 msgid "Start"
 msgstr "启动"
@@ -7248,16 +7248,16 @@ msgid "Stop"
 msgstr "停止"
 
 msgid "Stop Scrub"
-msgstr ""
+msgstr "停止垃圾清理"
 
 msgid "Stop this service?"
 msgstr "停止这个服务？"
 
 msgid "Stopped the scrub on pool <i>"
-msgstr ""
+msgstr "已停止数据校验在存储池<i>"
 
 msgid "Stopping scrub on pool <i>"
-msgstr ""
+msgstr "正在停止数据校验在存储池 <i>"
 
 msgid "Storage"
 msgstr "存储"
@@ -7298,10 +7298,10 @@ msgid "Successfully deleted recovery key for "
 msgstr ""
 
 msgid "Successfully detached pool "
-msgstr ""
+msgstr "成功分离存储池 "
 
 msgid "Successfully exported/disconnected '"
-msgstr ""
+msgstr "成功导出/断开'"
 
 msgid "Successfully re-keyed pool "
 msgstr ""
@@ -7330,16 +7330,16 @@ msgid "Suffix to add to the system name when it is added to the LDAP directory."
 msgstr ""
 
 msgid "Suggest Layout"
-msgstr ""
+msgstr "推荐布局"
 
 msgid "Support"
 msgstr "支持"
 
 msgid "Support >16 groups"
-msgstr ""
+msgstr "支持多于16个组"
 
 msgid "Swap size in GiB"
-msgstr "交换空间大小(GiB)"
+msgstr "交换空间容量(GiB)"
 
 msgid "Switch Train"
 msgstr "切换分支"
@@ -7390,10 +7390,10 @@ msgid "System hostname."
 msgstr ""
 
 msgid "System is restarting..."
-msgstr ""
+msgstr "系统重启中..."
 
 msgid "System is shutting down..."
-msgstr ""
+msgstr "系统关机中..."
 
 msgid "TCP Port"
 msgstr "TCP端口"
@@ -7414,28 +7414,28 @@ msgid "TLS Allow Per User"
 msgstr ""
 
 msgid "TLS Common Name Required"
-msgstr ""
+msgstr "需要TLS通用名"
 
 msgid "TLS DNS Name Required"
-msgstr ""
+msgstr "需要TLS DNS名称"
 
 msgid "TLS Enable Diagnostics"
-msgstr ""
+msgstr "启用TLS诊断"
 
 msgid "TLS Export Certificate Data"
-msgstr ""
+msgstr "TLS导出证书数据"
 
 msgid "TLS Export Standard Vars"
-msgstr ""
+msgstr "TLS 导出标准Vars"
 
 msgid "TLS IP Address Required"
-msgstr ""
+msgstr "需要TLS IP地址"
 
 msgid "TLS No Certificate Request"
-msgstr ""
+msgstr "TLS 无证书请求"
 
 msgid "TLS No Empty Fragments"
-msgstr ""
+msgstr "TLS 无空片段"
 
 msgid "TLS No Session Reuse Required"
 msgstr ""
@@ -7444,16 +7444,16 @@ msgid "TLS Policy"
 msgstr ""
 
 msgid "Take Snapshot"
-msgstr ""
+msgstr "创建快照快照"
 
 msgid "Target"
-msgstr "Target"
+msgstr "目标"
 
 msgid "Target Alias"
-msgstr "Target 别名"
+msgstr "目标别名"
 
 msgid "Target Name"
-msgstr "Target 名称"
+msgstr "目标名称"
 
 msgid "Tasks"
 msgstr "任务"
@@ -7488,7 +7488,7 @@ msgid ""
 msgstr ""
 
 msgid "The UDP port number that listens for TFTP requests. Example: 8050"
-msgstr ""
+msgstr "The UDP port number that listens for TFTP requests. 例子：8050"
 
 msgid ""
 "The base name is automatically prepended if the target name does not start "
@@ -7511,7 +7511,7 @@ msgstr "正在刷新缓存。"
 msgid ""
 "The character set Samba uses when communicating with DOS and Windows 9x/ME "
 "clients. Default is CP437."
-msgstr ""
+msgstr "The character set Samba uses when communicating with DOS and Windows 9x/ME clients. 默认是CP437。"
 
 msgid "The contents of all added disks will be erased."
 msgstr ""
@@ -7524,7 +7524,7 @@ msgstr ""
 msgid ""
 "The default host to use for TFTP transfers. Enter an IP address. Example: "
 "192.0.2.1"
-msgstr ""
+msgstr "The default host to use for TFTP transfers. 输入一个IP地址。样例：192.0.2.1"
 
 msgid ""
 "The default of <i>davtest</i> is recommended to change. <i>davtest</i> is a "
@@ -7653,7 +7653,7 @@ msgstr ""
 msgid ""
 "The system will reboot and be briefly unavailable while applying updates. "
 "Apply updates and reboot?"
-msgstr ""
+msgstr "The system will reboot and be briefly unavailable while applying updates. 应用更新并重启？"
 
 msgid "The update file is temporarily stored here before being applied."
 msgstr ""
@@ -7670,7 +7670,7 @@ msgstr ""
 msgid ""
 "The web service must restart  for the protocol changes to take effect. The "
 "UI will be  temporarily unavailable. Restart the service?"
-msgstr "The web service must restart  for the protocol changes to take effect. The UI will be  temporarily unavailable. 重启服务？"
+msgstr "The web service must restart  for the protocol changes to take effect. 用户界面将会暂时不可用。重启服务？"
 
 msgid ""
 "The zvol default block size is automatically chosen based on the number of "
@@ -7716,7 +7716,7 @@ msgid ""
 msgstr ""
 
 msgid "This operation might take a long time. Proceed?"
-msgstr "This operation might take a long time. 继续？"
+msgstr "这项操作可能会需要很长时间。继续？"
 
 msgid "Threshold days"
 msgstr "阈值天数"
@@ -7728,7 +7728,7 @@ msgid "Time Machine Quota"
 msgstr "时间机器 Quota"
 
 msgid "Time Server For Domain"
-msgstr ""
+msgstr "作为域的时间服务器"
 
 msgid "Timeout"
 msgstr "超时"
@@ -7749,7 +7749,7 @@ msgstr ""
 msgid ""
 "Top level of the LDAP directory tree to be used when searching for "
 "resources. Example: <i>dc=test,dc=org</i>."
-msgstr ""
+msgstr "Top level of the LDAP directory tree to be used when searching for resources. 例子：<i>dc=test,dc=org</i>."
 
 msgid "Train"
 msgstr "分支"
@@ -7788,10 +7788,10 @@ msgid "UUID"
 msgstr ""
 
 msgid "Unencrypted pools can be imported directly."
-msgstr ""
+msgstr "未加密存储池可以被直接导入。"
 
 msgid "Unique LUN ID. The default is generated from the MAC address of the system."
-msgstr ""
+msgstr "独特的LUN ID。The default is generated from the MAC address of the system."
 
 msgid "Unix (NFS) Shares"
 msgstr "Unix (NFS) 共享列表"
@@ -7805,7 +7805,7 @@ msgstr "解锁"
 msgid ""
 "Unmask is used for newly created files. Default is <i>000</i> (anyone can "
 "read, write, and execute)."
-msgstr ""
+msgstr "Unmask is used for newly created files. 默认是<i>000</i>（所有人可读写和运行）。"
 
 msgid ""
 "Unselect this option to allow cross-domain authentication, users and groups "
