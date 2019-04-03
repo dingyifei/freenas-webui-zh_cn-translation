@@ -6422,6 +6422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default is &lt;i&gt;000&lt;/i&gt; (anyone can read, write, and execute).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T214723Z" creationid="Yifei Ding" creationdate="20190403T214723Z">
+        <seg>默认是&lt;i&gt;000&lt;/i&gt;（所有人可读写和运行）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default is &lt;i&gt;3260&lt;/i&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060401Z" creationid="Yifei Ding" creationdate="20190211T060401Z">
@@ -9666,6 +9674,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190214T223245Z" creationid="Yifei Ding" creationdate="20190214T223245Z">
         <seg>例子：&lt;i&gt;cn=Manager,dc=test,dc=org&lt;/i&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: &lt;i&gt;dc=test,dc=org&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T214622Z" creationid="Yifei Ding" creationdate="20190403T214622Z">
+        <seg>例子：&lt;i&gt;dc=test,dc=org&lt;/i&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21178,6 +21194,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The UI will be  temporarily unavailable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T214513Z" creationid="Yifei Ding" creationdate="20190403T214513Z">
+        <seg>用户界面将会暂时不可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The UPS service failed to reload.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -22490,6 +22514,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This operation might take a long time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T214544Z" creationid="Yifei Ding" creationdate="20190403T214544Z">
+        <seg>这项操作可能会需要很长时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This option DISABLES ENCRYPTION for replication tasks and should ONLY be used on a secure LAN!</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -22782,6 +22814,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T004903Z" creationid="Yifei Ding" creationdate="20190329T004903Z">
         <seg>时间机器 Quota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time Server For Domain</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T214603Z" creationid="Yifei Ding" creationdate="20190403T214603Z">
+        <seg>作为域的时间服务器</seg>
       </tuv>
     </tu>
     <tu>
@@ -23254,6 +23294,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>未加密</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unencrypted pools can be imported directly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T214640Z" creationid="Yifei Ding" creationdate="20190403T214640Z">
+        <seg>未加密存储池可以被直接导入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unique LUN ID.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T214647Z" creationid="Yifei Ding" creationdate="20190403T214647Z">
+        <seg>独特的LUN ID。</seg>
       </tuv>
     </tu>
     <tu>
