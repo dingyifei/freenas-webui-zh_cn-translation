@@ -9638,6 +9638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example: &lt;i&gt;1.2.3.0/24&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222010Z" creationid="Yifei Ding" creationdate="20190403T222010Z">
+        <seg>例子：&lt;i&gt;1.2.3.0/24&lt;/i&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example: &lt;i&gt;10.0.0.2&lt;/i&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T225858Z" creationid="Yifei Ding" creationdate="20190212T225858Z">
@@ -19170,6 +19178,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select zvol</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222103Z" creationid="Yifei Ding" creationdate="20190403T222103Z">
+        <seg>选择zvol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Self signed certificate</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -19886,6 +19902,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>快照名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Snapshot directory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222049Z" creationid="Yifei Ding" creationdate="20190403T222049Z">
+        <seg>快照目录</seg>
       </tuv>
     </tu>
     <tu>
