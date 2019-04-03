@@ -4486,6 +4486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check this to redirect &lt;i&gt;HTTP&lt;/i&gt; connections to        &lt;i&gt;HTTPS&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T223242Z" creationid="Yifei Ding" creationdate="20190403T223242Z">
+        <seg>选择此选项来重定向&lt;i&gt;HTTP&lt;/i&gt;连接到&lt;i&gt;HTTPS&lt;/i&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CheckIP Path</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T225812Z" creationid="Yifei Ding" creationdate="20190320T225812Z">
