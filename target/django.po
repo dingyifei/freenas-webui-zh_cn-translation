@@ -1347,7 +1347,7 @@ msgstr "文件权限"
 
 #: services/forms.py:170
 msgid "Directory Permission"
-msgstr "文件夹权限"
+msgstr "目录权限"
 
 #: services/forms.py:200
 msgid "This value must be between 1024 and 65535, inclusive. 0 for default"
@@ -1534,7 +1534,7 @@ msgstr "无效的网络"
 
 #: services/forms.py:771
 msgid "You need to specify a filepath, not a directory."
-msgstr "您需要指定一个文件路径，而不是一个文件夹。"
+msgstr "您需要指定一个文件路径，而不是一个目录。"
 
 #: services/forms.py:776
 msgid "You need to specify a file inside your volume/dataset."
@@ -2562,7 +2562,7 @@ msgstr "FTP"
 
 #: services/models.py:1113
 msgid "Directory"
-msgstr "文件夹"
+msgstr "目录"
 
 #: services/models.py:1114
 msgid ""
@@ -5447,7 +5447,9 @@ msgid_plural ""
 "\n"
 "        This will delete all files within the dataset and child datasets.\n"
 "        "
-msgstr[0] ""
+msgstr[0] "\n"
+"        这将会删除所有数据集内的文件。\n"
+"        "
 
 #: templates/storage/dataset_edit.html:2
 msgid "Edit Dataset"
@@ -12262,7 +12264,7 @@ msgstr "SMB3_11"
 
 #: services/models.py:92
 msgid "NetBIOS alias"
-msgstr ""
+msgstr "NetBIOS 别名"
 
 #: tools/update_check.py:100
 msgid ""
