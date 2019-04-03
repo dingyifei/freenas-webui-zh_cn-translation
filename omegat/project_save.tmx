@@ -20050,6 +20050,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Speeds up the initial synchronization   (seconds instead of minutes).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T211454Z" creationid="Yifei Ding" creationdate="20190403T211454Z">
+        <seg>加速初始同步（seconds instead of minutes）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Standard</seg>
       </tuv>
       <tuv lang="ZH-CN">
