@@ -20204,16 +20204,16 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Stopped the scrub on pool &lt;i&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T204447Z" creationid="Yifei Ding" creationdate="20190403T204447Z">
-        <seg>已停止在&lt;i&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T204505Z" creationid="Yifei Ding" creationdate="20190403T204447Z">
+        <seg>已停止数据校验在存储池&lt;i&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Stopping scrub on pool &lt;i&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T204434Z" creationid="Yifei Ding" creationdate="20190403T204434Z">
-        <seg>停止数据校验在存储池 &lt;i&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T204452Z" creationid="Yifei Ding" creationdate="20190403T204434Z">
+        <seg>正在停止数据校验在存储池 &lt;i&gt;</seg>
       </tuv>
     </tu>
     <tu>
