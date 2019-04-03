@@ -20762,6 +20762,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>TLS No Empty Fragments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T212155Z" creationid="Yifei Ding" creationdate="20190403T212155Z">
+        <seg>TLS 无空片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TLS allow client renegotiations</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -20846,6 +20854,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>TLS/SSL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take Snapshot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T213624Z" creationid="Yifei Ding" creationdate="20190403T213624Z">
+        <seg>创建快照快照</seg>
       </tuv>
     </tu>
     <tu>
