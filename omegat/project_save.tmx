@@ -14858,6 +14858,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Network connectivity will be interrupted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T174832Z" creationid="Yifei Ding" creationdate="20190403T174832Z">
+        <seg>网络连接将会被中断。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Never - Check the device regardless of its power mode</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -14878,6 +14886,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T023444Z" creationid="Yifei Ding" creationdate="20190211T023444Z">
         <seg>新密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Primary Group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T174848Z" creationid="Yifei Ding" creationdate="20190403T174848Z">
+        <seg>新建主用户组</seg>
       </tuv>
     </tu>
     <tu>
@@ -21158,6 +21174,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>LDAP 服务重载失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The maximum is 16, or fewer if the host CPU limits the maximum.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T175006Z" creationid="Yifei Ding" creationdate="20190403T175006Z">
+        <seg>最大是16或更少，如果主机处理器限制了最大。</seg>
       </tuv>
     </tu>
     <tu>
