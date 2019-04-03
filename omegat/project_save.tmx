@@ -19082,6 +19082,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select a power management profile from the menu.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T191756Z" creationid="Yifei Ding" creationdate="20190403T191756Z">
+        <seg>从菜单中选择一个电源管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select a time zone.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T161331Z" creationid="Yifei Ding" creationdate="20190320T161331Z">
