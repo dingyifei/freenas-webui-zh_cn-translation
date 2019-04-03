@@ -19138,6 +19138,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Send Test Alert</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T191808Z" creationid="Yifei Ding" creationdate="20190403T191808Z">
+        <seg>发送测试警报</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Send Test Mail</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -19506,10 +19514,26 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sharing Controls</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T191915Z" creationid="Yifei Ding" creationdate="20190403T191915Z">
+        <seg>共享控制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shell</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>命令行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Short Description</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T191921Z" creationid="Yifei Ding" creationdate="20190403T191921Z">
+        <seg>摘要</seg>
       </tuv>
     </tu>
     <tu>
@@ -19550,6 +19574,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>默认显示高级选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show console messages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T191946Z" creationid="Yifei Ding" creationdate="20190403T191946Z">
+        <seg>显示控制台消息</seg>
       </tuv>
     </tu>
     <tu>
