@@ -7886,6 +7886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit Idmap</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T223005Z" creationid="Yifei Ding" creationdate="20190403T223005Z">
+        <seg>编辑Idmap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit In Bulk</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -10646,6 +10654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generate Debug File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222949Z" creationid="Yifei Ding" creationdate="20190403T222949Z">
+        <seg>生成调试文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generating debug info</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -11086,6 +11102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Host</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222914Z" creationid="Yifei Ding" creationdate="20190403T222914Z">
+        <seg>主机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Host Private Key</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -11098,6 +11122,22 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>主机名数据库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Host name database</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222919Z" creationid="Yifei Ding" creationdate="20190403T222919Z">
+        <seg>主机名数据库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HostName</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222923Z" creationid="Yifei Ding" creationdate="20190403T222923Z">
+        <seg>主机名</seg>
       </tuv>
     </tu>
     <tu>
@@ -11320,16 +11360,16 @@
       <tuv lang="EN-US">
         <seg>IPv4 Address</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195936Z" creationid="Yifei Ding" creationdate="20190211T195936Z">
-        <seg>IPv4地址</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222910Z" creationid="Yifei Ding" creationdate="20190211T195936Z">
+        <seg>IPv4 地址</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>IPv4 Addresses</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195940Z" creationid="Yifei Ding" creationdate="20190211T195940Z">
-        <seg>IPv4地址</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222904Z" creationid="Yifei Ding" creationdate="20190211T195940Z">
+        <seg>IPv4 地址</seg>
       </tuv>
     </tu>
     <tu>
@@ -11344,32 +11384,32 @@
       <tuv lang="EN-US">
         <seg>IPv4 Default Gateway</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T195952Z" creationid="Yifei Ding" creationdate="20190211T195952Z">
-        <seg>IPv4默认网关</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222901Z" creationid="Yifei Ding" creationdate="20190211T195952Z">
+        <seg>IPv4 默认网关</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>IPv4 Default Router</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200001Z" creationid="Yifei Ding" creationdate="20190211T200001Z">
-        <seg>IPv4默认路由</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222859Z" creationid="Yifei Ding" creationdate="20190211T200001Z">
+        <seg>IPv4 默认路由</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>IPv4 Interface</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200009Z" creationid="Yifei Ding" creationdate="20190211T200009Z">
-        <seg>IPv4接口</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222857Z" creationid="Yifei Ding" creationdate="20190211T200009Z">
+        <seg>IPv4 接口</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>IPv4 Netmask</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200026Z" creationid="Yifei Ding" creationdate="20190211T200026Z">
-        <seg>IPv4子网掩码</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222854Z" creationid="Yifei Ding" creationdate="20190211T200026Z">
+        <seg>IPv4 子网掩码</seg>
       </tuv>
     </tu>
     <tu>
@@ -11456,8 +11496,8 @@
       <tuv lang="EN-US">
         <seg>IPv4 interface</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200036Z" creationid="Yifei Ding" creationdate="20190211T200036Z">
-        <seg>IPv4接口</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222850Z" creationid="Yifei Ding" creationdate="20190211T200036Z">
+        <seg>IPv4 接口</seg>
       </tuv>
     </tu>
     <tu>
@@ -11512,16 +11552,16 @@
       <tuv lang="EN-US">
         <seg>IPv6 Address</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200240Z" creationid="Yifei Ding" creationdate="20190211T200240Z">
-        <seg>IPv6地址</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222839Z" creationid="Yifei Ding" creationdate="20190211T200240Z">
+        <seg>IPv6 地址</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>IPv6 Addresses</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200246Z" creationid="Yifei Ding" creationdate="20190211T200246Z">
-        <seg>IPv6地址</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222833Z" creationid="Yifei Ding" creationdate="20190211T200246Z">
+        <seg>IPv6 地址</seg>
       </tuv>
     </tu>
     <tu>
@@ -11544,32 +11584,32 @@
       <tuv lang="EN-US">
         <seg>IPv6 Default Gateway</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200304Z" creationid="Yifei Ding" creationdate="20190211T200304Z">
-        <seg>IPv6默认网关</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222828Z" creationid="Yifei Ding" creationdate="20190211T200304Z">
+        <seg>IPv6 默认网关</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>IPv6 Default Route</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200313Z" creationid="Yifei Ding" creationdate="20190211T200313Z">
-        <seg>IPv6默认路由</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222825Z" creationid="Yifei Ding" creationdate="20190211T200313Z">
+        <seg>IPv6 默认路由</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>IPv6 Default Router</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200405Z" creationid="Yifei Ding" creationdate="20190211T200405Z">
-        <seg>IPv6默认路由</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222822Z" creationid="Yifei Ding" creationdate="20190211T200405Z">
+        <seg>IPv6 默认路由</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>IPv6 Interface</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T200412Z" creationid="Yifei Ding" creationdate="20190211T200412Z">
-        <seg>IPv6接口</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222819Z" creationid="Yifei Ding" creationdate="20190211T200412Z">
+        <seg>IPv6 接口</seg>
       </tuv>
     </tu>
     <tu>
@@ -11714,6 +11754,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>iSCSI 设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ISNS Servers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222817Z" creationid="Yifei Ding" creationdate="20190403T222817Z">
+        <seg>ISNS 服务器</seg>
       </tuv>
     </tu>
     <tu>
@@ -14902,6 +14950,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T213249Z" creationid="Yifei Ding" creationdate="20190401T213249Z">
         <seg>NetBIOS 名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Netbios Name of this NAS.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T222754Z" creationid="Yifei Ding" creationdate="20190403T222754Z">
+        <seg>这个NAS的Netbios名称。</seg>
       </tuv>
     </tu>
     <tu>
