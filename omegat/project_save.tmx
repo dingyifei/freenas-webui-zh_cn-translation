@@ -18788,16 +18788,16 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Script to execute after running sync.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T175617Z" creationid="Yifei Ding" creationdate="20190403T175617Z">
-        <seg>在运行rsync后运行的脚本</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T175631Z" creationid="Yifei Ding" creationdate="20190403T175617Z">
+        <seg>在运行rsync后运行的脚本。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Script to execute before running sync.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T175629Z" creationid="Yifei Ding" creationdate="20190403T175629Z">
-        <seg>在运行rsync前运行的脚本</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T175633Z" creationid="Yifei Ding" creationdate="20190403T175629Z">
+        <seg>在运行rsync前运行的脚本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18982,6 +18982,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T154252Z" creationid="Yifei Ding" creationdate="20190403T154252Z">
         <seg>查看 &lt;a href="https://tools.ietf.org/html/rfc3721.html" target="_blank"&gt;RFC3721&lt;/a&gt;的&lt;i&gt;Constructing iSCSI names using the iqn.format&lt;/i&gt;章节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;b&gt;UEFI&lt;/b&gt; for newer operating systems, or &lt;b&gt;UEFI-CSM&lt;/b&gt; (Compatibility Support Mode) for older operating systems that only support BIOS booting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T175819Z" creationid="Yifei Ding" creationdate="20190403T175819Z">
+        <seg>选择&lt;b&gt;UEFI&lt;/b&gt;用于较新的操作系统，&lt;b&gt;UEFI-CSM&lt;/b&gt;（兼容支持模式）用于只支持BIOS引导的操作系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select &lt;i&gt;Bug&lt;/i&gt; when reporting an issue or &lt;i&gt;Feature&lt;/i&gt; when requesting new functionality.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T175940Z" creationid="Yifei Ding" creationdate="20190403T175940Z">
+        <seg>在回报一个问题的时候选择&lt;i&gt;Bug&lt;/i&gt;或选择&lt;i&gt;Feature&lt;/i&gt;请求新的特性。</seg>
       </tuv>
     </tu>
     <tu>
