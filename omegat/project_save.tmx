@@ -13526,6 +13526,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Log mountd(8) requests</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T175349Z" creationid="Yifei Ding" creationdate="20190403T175349Z">
+        <seg>记录mountd(8)请求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Log rpc.statd(8) and rpc.lockd(8)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T175400Z" creationid="Yifei Ding" creationdate="20190403T175400Z">
+        <seg>记录rpc.statd(8)和rpc.lockd(8)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Logged Out</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -15422,6 +15438,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T214137Z" creationid="Yifei Ding" creationdate="20190211T214137Z">
         <seg>只有在&lt;i&gt;Device&lt;/i&gt;被选择时出现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only one disk can be imported at a time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T175515Z" creationid="Yifei Ding" creationdate="20190403T175515Z">
+        <seg>每次只能导入一个磁盘。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18762,6 +18786,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Script to execute after running sync.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T175617Z" creationid="Yifei Ding" creationdate="20190403T175617Z">
+        <seg>在运行rsync后运行的脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Script to execute before running sync.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T175629Z" creationid="Yifei Ding" creationdate="20190403T175629Z">
+        <seg>在运行rsync前运行的脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scrub</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T034837Z">
@@ -19014,6 +19054,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190320T161331Z" creationid="Yifei Ding" creationdate="20190320T161331Z">
         <seg>选择一个时区。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the disk to import.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T175500Z" creationid="Yifei Ding" creationdate="20190403T175500Z">
+        <seg>选择磁盘来导入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the disks to decrypt.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T175441Z" creationid="Yifei Ding" creationdate="20190403T175441Z">
+        <seg>选择磁盘来解密。</seg>
       </tuv>
     </tu>
     <tu>
