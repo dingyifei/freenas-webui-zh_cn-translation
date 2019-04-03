@@ -88,3 +88,4 @@ recovery key	恢复密钥
 size	大小
 paravirtualized	半虚拟化
 Authentication	认证
+Size	容量
