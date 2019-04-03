@@ -5310,6 +5310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Confirm SED Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T223428Z" creationid="Yifei Ding" creationdate="20190403T223428Z">
+        <seg>确认SED密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confirm Share Password</seg>
       </tuv>
       <tuv lang="ZH-CN">
