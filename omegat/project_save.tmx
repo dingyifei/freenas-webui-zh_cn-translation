@@ -13494,6 +13494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Log in as root with password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T153551Z" creationid="Yifei Ding" creationdate="20190403T153551Z">
+        <seg>允许 Root 密码登录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Log in to Legacy User Interface?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190329T005331Z" creationid="Yifei Ding" creationdate="20190329T005331Z">
