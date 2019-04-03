@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;br&gt; &lt;b&gt;Example:&lt;/b&gt; &lt;i&gt;99&lt;/i&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T175108Z" creationid="Yifei Ding" creationdate="20190403T175108Z">
+        <seg>&lt;br&gt; &lt;b&gt;样例：&lt;/b&gt; &lt;i&gt;99&lt;/i&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;br&gt; &lt;b&gt;Inherit&lt;/b&gt;: All IPC objects on the system are visible to the jail.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T234057Z" creationid="Yifei Ding" creationdate="20190301T234057Z">
@@ -12968,8 +12976,8 @@
       <tuv lang="EN-US">
         <seg>Lagg Physical NIC</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T212720Z" creationid="Yifei Ding" creationdate="20190401T212720Z">
-        <seg>链路聚合物理NIC</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T175321Z" creationid="Yifei Ding" creationdate="20190401T212720Z">
+        <seg>链路聚合物理网卡</seg>
       </tuv>
     </tu>
     <tu>
@@ -13726,6 +13734,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>邮件列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure pop-ups are enabled in the browser.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T175203Z" creationid="Yifei Ding" creationdate="20190403T175203Z">
+        <seg>确认浏览器的弹出窗口被启用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15250,6 +15266,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Obey Pam Restrictions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T175128Z" creationid="Yifei Ding" creationdate="20190403T175128Z">
+        <seg>服从 pam 管制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Obey pam restrictions</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -16762,6 +16786,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Primary DNS server.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T175301Z" creationid="Yifei Ding" creationdate="20190403T175301Z">
+        <seg>主要DNS服务器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Primary Group</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -16774,6 +16806,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>主用户组 ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Primary NIC</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T175311Z" creationid="Yifei Ding" creationdate="20190403T175311Z">
+        <seg>主要网卡</seg>
       </tuv>
     </tu>
     <tu>
