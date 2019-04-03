@@ -2774,6 +2774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply updates and reboot?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T214441Z" creationid="Yifei Ding" creationdate="20190403T214441Z">
+        <seg>应用更新并重启？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>April</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174912Z" creationid="Yifei Ding" creationdate="20190318T174912Z">
@@ -6422,6 +6430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default is CP437.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T214401Z" creationid="Yifei Ding" creationdate="20190403T214401Z">
+        <seg>默认是CP437。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default is UTF-8 which supports all characters in all languages.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T074254Z" creationid="Yifei Ding" creationdate="20190213T074245Z">
@@ -8850,6 +8866,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190301T235805Z" creationid="Yifei Ding" creationdate="20190301T235805Z">
         <seg>编辑额外&lt;b&gt;smb.conf&lt;/b&gt;参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter an IP address.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T214226Z" creationid="Yifei Ding" creationdate="20190403T214226Z">
+        <seg>输入一个IP地址。</seg>
       </tuv>
     </tu>
     <tu>
