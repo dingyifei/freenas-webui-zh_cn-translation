@@ -19762,6 +19762,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Size (GiB)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T193638Z" creationid="Yifei Ding" creationdate="20190403T193638Z">
+        <seg>容量 (GiB)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Size for this ZFS Volume</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -19772,8 +19780,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Size for this zvol</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>zvol 尺寸</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T193645Z">
+        <seg>zvol容量</seg>
       </tuv>
     </tu>
     <tu>
@@ -20178,6 +20186,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stop Scrub</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T193834Z" creationid="Yifei Ding" creationdate="20190403T193834Z">
+        <seg>停止垃圾清理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stop this service?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T062335Z" creationid="Yifei Ding" creationdate="20190211T062335Z">
@@ -20266,6 +20282,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Suggest Layout</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T193804Z" creationid="Yifei Ding" creationdate="20190403T193804Z">
+        <seg>推荐布局</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sunday</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174935Z" creationid="Yifei Ding" creationdate="20190318T174935Z">
@@ -20278,6 +20302,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support &gt;16 groups</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T193733Z" creationid="Yifei Ding" creationdate="20190403T193733Z">
+        <seg>支持多于16个组</seg>
       </tuv>
     </tu>
     <tu>
@@ -20324,8 +20356,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Swap size in GiB</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T060225Z" creationid="Yifei Ding" creationdate="20190211T060225Z">
-        <seg>交换空间大小(GiB)</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T193702Z" creationid="Yifei Ding" creationdate="20190211T060225Z">
+        <seg>交换空间容量(GiB)</seg>
       </tuv>
     </tu>
     <tu>
