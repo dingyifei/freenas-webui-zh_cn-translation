@@ -11974,6 +11974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Import a pool that exists but is not connected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190404T211757Z" creationid="Yifei Ding" creationdate="20190404T211757Z">
+        <seg>导入一个已知但未被导入的存储池。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import an existing Certificate</seg>
       </tuv>
       <tuv lang="ZH-CN">
