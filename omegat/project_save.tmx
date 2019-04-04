@@ -14130,6 +14130,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maximum amount of CPU time a jail process may consume.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190404T214918Z" creationid="Yifei Ding" creationdate="20190404T214918Z">
+        <seg>Jail进程最大可使用的CPU时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maximum amount of time in seconds to wait for a command to complete.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190404T214827Z" creationid="Yifei Ding" creationdate="20190404T214827Z">
@@ -14214,6 +14222,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190305T005425Z" creationid="Yifei Ding" creationdate="20190212T174348Z">
         <seg>极限路径长度是255个字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum swap space to use for the jail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190404T215039Z" creationid="Yifei Ding" creationdate="20190404T215039Z">
+        <seg>可用于Jail的最大Swap空间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14430,6 +14446,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>混合的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mixing disks of different sizes in a VDEV is not recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190404T215126Z" creationid="Yifei Ding" creationdate="20190404T215126Z">
+        <seg>在一个Vdev中混合使用不同容量的磁盘是不推荐的。</seg>
       </tuv>
     </tu>
     <tu>
