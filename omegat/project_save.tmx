@@ -12854,6 +12854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep user primary group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190404T214608Z" creationid="Yifei Ding" creationdate="20190404T214608Z">
+        <seg>保留用户主组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keeping the default is recommended.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190212T230245Z" creationid="Yifei Ding" creationdate="20190212T230245Z">
@@ -12898,6 +12906,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>Kerberos realm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key Length</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190404T214633Z" creationid="Yifei Ding" creationdate="20190404T214633Z">
+        <seg>密钥长度</seg>
       </tuv>
     </tu>
     <tu>
@@ -13098,14 +13114,6 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>LUN ID 以在当前 target 上使用。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>LUN RPM</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>LUN RPM</seg>
       </tuv>
     </tu>
     <tu>
@@ -13498,14 +13506,6 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>Local 7</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Local Master</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>Local Master</seg>
       </tuv>
     </tu>
     <tu>
@@ -14126,6 +14126,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T174906Z" creationid="Yifei Ding" creationdate="20190318T174906Z">
         <seg>最高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum amount of time in seconds to wait for a command to complete.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190404T214827Z" creationid="Yifei Ding" creationdate="20190404T214827Z">
+        <seg>等待一个命令运行完毕的最长等待时间。</seg>
       </tuv>
     </tu>
     <tu>
