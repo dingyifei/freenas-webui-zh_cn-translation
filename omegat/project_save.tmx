@@ -11694,6 +11694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IPv6 address for the jail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190404T144701Z" creationid="Yifei Ding" creationdate="20190404T144701Z">
+        <seg>Jail的IPv6地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IPv6 aliases</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -11734,6 +11742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IPv6 interface for the jail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190404T144708Z" creationid="Yifei Ding" creationdate="20190404T144708Z">
+        <seg>Jail的IPv6接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IPv6 network end address for jails and plugins</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -11754,6 +11770,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>用于 Jails 和插件的 IPv6 网络起始地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IPv6 prefix for the jail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190404T144726Z" creationid="Yifei Ding" creationdate="20190404T144726Z">
+        <seg>Jail的IPv6前缀</seg>
       </tuv>
     </tu>
     <tu>
@@ -11808,16 +11832,16 @@
       <tuv lang="EN-US">
         <seg>Idmap Backend</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>Idmap Backend</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190404T144737Z">
+        <seg>Idmap后端</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Idmap backend</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>Idmap backend</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190404T144743Z">
+        <seg>Idmap后端</seg>
       </tuv>
     </tu>
     <tu>
