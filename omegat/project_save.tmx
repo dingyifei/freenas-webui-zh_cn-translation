@@ -14634,6 +14634,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Must be different than &lt;i&gt;Secret&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190404T215153Z" creationid="Yifei Ding" creationdate="20190404T215153Z">
+        <seg>必须和&lt;i&gt;Secret&lt;/i&gt;不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Must fill out nameserver 1 before filling out nameserver 2</seg>
       </tuv>
       <tuv lang="ZH-CN">
