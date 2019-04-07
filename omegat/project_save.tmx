@@ -4048,8 +4048,8 @@
       <tuv lang="EN-US">
         <seg>Can be set to &lt;i&gt;0&lt;/i&gt;, left empty for FreeNAS to assign a port when the VM is started, or set to a fixed, preferred port number.</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>可以被设置为&lt;i&gt;0&lt;/i&gt;，留空FreeNas将会在虚拟机启动时自动分配端口，输入一个端口以让其不变。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190407T174534Z">
+        <seg>可以被设置为&lt;i&gt;0&lt;/i&gt;，留空FreeNAS将会在虚拟机启动时自动分配端口，输入一个端口以让其不变。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7242,6 +7242,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>禁用物理块尺寸报告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable when the network contains an AD or LDAP server.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190407T174403Z" creationid="Yifei Ding" creationdate="20190407T174403Z">
+        <seg>在网络里有一个AD或LDAP服务器时禁用。</seg>
       </tuv>
     </tu>
     <tu>
