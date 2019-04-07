@@ -1655,7 +1655,7 @@ msgstr "日志级别"
 
 #: services/models.py:109
 msgid "Local Master"
-msgstr "Local Master"
+msgstr ""
 
 #: services/models.py:111
 msgid "Time Server for Domain"
@@ -9486,7 +9486,7 @@ msgstr "使用默认域"
 #: directoryservice/models.py:702
 #: directoryservice/models.py:867
 msgid "Idmap backend"
-msgstr "Idmap backend"
+msgstr "Idmap后端"
 
 #: directoryservice/models.py:566
 #: directoryservice/models.py:705
@@ -9838,7 +9838,7 @@ msgstr "该参数指定添加到 LDAP 目录中的 SUDO 后缀，例如：ou=SUD
 
 #: directoryservice/models.py:1049
 msgid "Idmap Backend"
-msgstr "Idmap Backend"
+msgstr "Idmap后端"
 
 #: directoryservice/models.py:1056
 msgid "Samba Schema"
@@ -10045,7 +10045,7 @@ msgstr "用于下一个证书的序列号"
 #: system/forms.py:2282
 #: system/forms.py:2398
 msgid "Key Length"
-msgstr ""
+msgstr "密钥长度"
 
 #: system/forms.py:2003
 #: system/forms.py:2095
@@ -11164,7 +11164,7 @@ msgstr "数据集/zvol 剩余容量警告阀值"
 
 #: services/models.py:550
 msgid "LUN RPM"
-msgstr "LUN RPM"
+msgstr ""
 
 #: services/models.py:551
 msgid ""

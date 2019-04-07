@@ -3918,13 +3918,13 @@ msgid "IPv6 Prefix Length"
 msgstr "IPv6 前缀长度"
 
 msgid "IPv6 address for the jail."
-msgstr ""
+msgstr "Jail的IPv6地址"
 
 msgid "IPv6 interface for the jail."
-msgstr ""
+msgstr "Jail的IPv6接口"
 
 msgid "IPv6 prefix for the jail."
-msgstr ""
+msgstr "Jail的IPv6前缀"
 
 msgid "ISNS Servers"
 msgstr "ISNS 服务器"
@@ -3936,10 +3936,10 @@ msgid "Identifier"
 msgstr "标识"
 
 msgid "Idmap Backend"
-msgstr "Idmap Backend"
+msgstr "Idmap后端"
 
 msgid "Idmap backend"
-msgstr "Idmap backend"
+msgstr "Idmap后端"
 
 msgid "If selected, sets several environment variables."
 msgstr ""
@@ -3997,7 +3997,7 @@ msgid "Import Disk"
 msgstr "导入磁盘"
 
 msgid "Import a pool that exists but is not connected."
-msgstr ""
+msgstr "导入一个已知但未被导入的存储池。"
 
 msgid "Import an existing pool"
 msgstr "导入一个现有存储池"
@@ -4176,7 +4176,7 @@ msgid ""
 msgstr "保持zvol名称简短。使用一个长于63个字符的zvol名称会使zvol不能作为一个设备进行访问。"
 
 msgid "Keep user primary group"
-msgstr ""
+msgstr "保留用户主组"
 
 msgid "Kerberos Keytab"
 msgstr ""
@@ -4197,7 +4197,7 @@ msgid "Kerberos Settings"
 msgstr "Kerberos 设置"
 
 msgid "Key Length"
-msgstr ""
+msgstr "密钥长度"
 
 msgid "LDAP"
 msgstr ""
@@ -4241,7 +4241,7 @@ msgid "LUN ID"
 msgstr "LUN ID"
 
 msgid "LUN RPM"
-msgstr "LUN RPM"
+msgstr ""
 
 msgid "Lagg Interface"
 msgstr "链路聚合接口"
@@ -4313,7 +4313,7 @@ msgid "Load Average"
 msgstr "平均负载"
 
 msgid "Local Master"
-msgstr "Local Master"
+msgstr ""
 
 msgid "Local User Download Bandwidth"
 msgstr "本地用户下载带宽"
@@ -4441,18 +4441,18 @@ msgstr ""
 msgid ""
 "Maximum amount of CPU time a jail process may consume. The kernel "
 "terminates processes exceeding the specified limit."
-msgstr ""
+msgstr "Jail进程最大可使用的CPU时间。The kernel terminates processes exceeding the specified limit."
 
 msgid ""
 "Maximum amount of time in seconds to wait for a command to complete. A jail "
 "cannot be created or removed when a command is still running after the "
 "allotted time."
-msgstr ""
+msgstr "等待一个命令运行完毕的最长等待时间。A jail cannot be created or removed when a command is still running after the allotted time."
 
 msgid ""
 "Maximum amount of time in seconds to wait for a command to complete. If a "
 "command is still running after the allotted time, the jail is terminated."
-msgstr ""
+msgstr "等待一个命令运行完毕的最长等待时间。If a command is still running after the allotted time, the jail is terminated."
 
 msgid ""
 "Maximum amount of time in seconds to wait for jail processes to exit after "
@@ -4485,7 +4485,7 @@ msgid ""
 msgstr "Maximum number of simultaneous connections permitted via AFP. 默认限制是50。"
 
 msgid "Maximum swap space to use for the jail."
-msgstr ""
+msgstr "可用于Jail的最大Swap空间。"
 
 msgid "Media Status"
 msgstr "媒体状态"
@@ -4533,7 +4533,7 @@ msgid "Mirror"
 msgstr "镜像"
 
 msgid "Mixing disks of different sizes in a VDEV is not recommended."
-msgstr ""
+msgstr "在一个Vdev中混合使用不同容量的磁盘是不推荐的。"
 
 msgid "Mode"
 msgstr "模式"
@@ -4609,7 +4609,7 @@ msgid ""
 msgstr "必须和Windows工作组名称匹配。This setting is ignored if the <a href=\"%%docurl%%/directoryservice.html%%webversion%%#active-directory\" target=\"_blank\">Active Directory</a> or <a href=\"%%docurl%%/directoryservice.html%%webversion%%#ldap\" target=\"_blank\">LDAP</a> service is running."
 
 msgid "Mutual secret password. Must be different than <i>Secret</i>."
-msgstr ""
+msgstr "Mutual secret password. 必须和<i>Secret</i>不同。"
 
 msgid "N/A"
 msgstr "不可用"
