@@ -10863,7 +10863,7 @@ msgstr "卷导入错误"
 
 #: system/admin.py:129
 msgid "Attach"
-msgstr "附加"
+msgstr "连接"
 
 #: system/forms.py:164
 msgid "Only alphanumeric, underscores and dashes are allowed."
@@ -10892,7 +10892,7 @@ msgstr ""
 msgid ""
 "IP Address or hostname. Specify user@hostname or user@ip-address if your "
 "remote machine user and above rsync task user are different."
-msgstr ""
+msgstr "IP地址或主机名。Specify user@hostname or user@ip-address if your remote machine user and above rsync task user are different."
 
 #: templates/storage/import_stats.html:16
 msgid "Done"
@@ -10900,7 +10900,7 @@ msgstr "完成"
 
 #: templates/system/bootenv_pool_attach.html:3
 msgid "Attach Disk"
-msgstr "附加磁盘"
+msgstr "连接磁盘"
 
 #: templates/system/update.html:31
 msgid ""
@@ -11183,7 +11183,7 @@ msgstr ""
 
 #: services/models.py:835
 msgid "Fiber Channel"
-msgstr ""
+msgstr "光纤通道"
 
 #: services/models.py:836
 msgid "Both"
@@ -11191,11 +11191,11 @@ msgstr ""
 
 #: services/models.py:840
 msgid "Target Mode"
-msgstr "Target 模式"
+msgstr "目标模式"
 
 #: services/models.py:868
 msgid "Target this group belongs to"
-msgstr "Target 此组属于"
+msgstr "此组属于的目标"
 
 #: services/models.py:909
 #: services/models.py:910
@@ -11204,11 +11204,11 @@ msgstr "iSCSI 组"
 
 #: services/models.py:960
 msgid "Fiber Channel Target"
-msgstr ""
+msgstr "光纤通道目标"
 
 #: services/models.py:961
 msgid "Fiber Channel Targets"
-msgstr ""
+msgstr "光纤通道目标"
 
 #: services/models.py:978
 msgid ""
