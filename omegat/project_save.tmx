@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b&gt;VNET&lt;/b&gt; is required.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T193826Z" creationid="Yifei Ding" creationdate="20190408T193826Z">
+        <seg>&lt;b&gt;VNET&lt;/b&gt;是必须的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b&gt;WARNING:&lt;/b&gt; Read the &lt;a href="%%docurl%%/storage.html%%webversion%%#managing-encrypted-pools" target="_blank"&gt;Encryption section&lt;/a&gt; of the guide before activating this option.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -15914,6 +15922,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only one share can be the home share.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T193727Z" creationid="Yifei Ding" creationdate="20190408T193727Z">
+        <seg>只有一个共享可以是主目录共享。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only one share is allowed to be a home share.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -20046,6 +20062,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T192812Z" creationid="Yifei Ding" creationdate="20190408T192812Z">
         <seg>设置来允许FTP客户端来继续中断的传输。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set to confirm detaching the pool.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T193929Z" creationid="Yifei Ding" creationdate="20190408T193929Z">
+        <seg>设置来确认分离存储池。</seg>
       </tuv>
     </tu>
     <tu>
