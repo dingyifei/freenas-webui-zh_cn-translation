@@ -19946,10 +19946,34 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set up Users and Groups.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T192026Z" creationid="Yifei Ding" creationdate="20190408T192026Z">
+        <seg>配置用户和群组。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Settings</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setup Mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T192041Z" creationid="Yifei Ding" creationdate="20190408T191922Z">
+        <seg>配置模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setup Users and Groups.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T192033Z" creationid="Yifei Ding" creationdate="20190408T191931Z">
+        <seg>配置用户和群组</seg>
       </tuv>
     </tu>
     <tu>
@@ -20338,6 +20362,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Snapshot Lifetime</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T191856Z" creationid="Yifei Ding" creationdate="20190408T191856Z">
+        <seg>快照保留周期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Snapshot Name</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -20550,6 +20582,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>指定主机的物理位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify the physical location of the host.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T191814Z" creationid="Yifei Ding" creationdate="20190408T191801Z">
+        <seg>指定主机的物理位置。</seg>
       </tuv>
     </tu>
     <tu>
