@@ -4646,6 +4646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose &lt;i&gt;none&lt;/i&gt; to not set a default VNET interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T193306Z" creationid="Yifei Ding" creationdate="20190408T193306Z">
+        <seg>选择&lt;i&gt;none&lt;/i&gt;来不配置默认VNET接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose a &lt;a href="%%docurl%%/storage.html%%webversion%%#compression" target="_blank"&gt;compression algorithm&lt;/a&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -11058,6 +11066,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>硬盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has no effect on Windows clients.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T193208Z" creationid="Yifei Ding" creationdate="20190408T193208Z">
+        <seg>对Windows客户端没有影响。</seg>
       </tuv>
     </tu>
     <tu>
