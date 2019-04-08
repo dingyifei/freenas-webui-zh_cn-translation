@@ -19994,10 +19994,26 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set to allow FTP clients to resume interrupted transfers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T192812Z" creationid="Yifei Ding" creationdate="20190408T192812Z">
+        <seg>设置来允许FTP客户端来继续中断的传输。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set up Users and Groups.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T192026Z" creationid="Yifei Ding" creationdate="20190408T192026Z">
         <seg>配置用户和群组。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting multiple shares for &lt;b&gt;Time Machine&lt;/b&gt; use is not recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T192747Z" creationid="Yifei Ding" creationdate="20190408T192747Z">
+        <seg>在&lt;b&gt;时间机器&lt;/b&gt;上使用多个共享是不被推荐的。</seg>
       </tuv>
     </tu>
     <tu>
