@@ -19890,10 +19890,50 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set for &lt;a href="https://kb.iu.edu/d/adov" target="_blank"&gt;DHCP&lt;/a&gt; to automatically configure network settings.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T192206Z" creationid="Yifei Ding" creationdate="20190408T192206Z">
+        <seg>设置&lt;a href="https://kb.iu.edu/d/adov" target="_blank"&gt;DHCP&lt;/a&gt;来自动配置网络设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set if NFS clients need to use UDP.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T192313Z" creationid="Yifei Ding" creationdate="20190408T192313Z">
+        <seg>设置如果NFS客户端需要使用UDP。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set new root account password:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T192334Z" creationid="Yifei Ding" creationdate="20190408T192334Z">
+        <seg>设置新root账户密码：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set permission recursively</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>设置权限递归</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the default VNET interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T192345Z" creationid="Yifei Ding" creationdate="20190408T192345Z">
+        <seg>设置默认VNET接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the jail hostname.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T192359Z" creationid="Yifei Ding" creationdate="20190408T192359Z">
+        <seg>设置jail主机名。</seg>
       </tuv>
     </tu>
     <tu>
