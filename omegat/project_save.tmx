@@ -15922,6 +15922,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only takes effect when &lt;i&gt;VNET&lt;/i&gt; is set.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T193349Z" creationid="Yifei Ding" creationdate="20190408T193349Z">
+        <seg>只在&lt;i&gt;VNET&lt;/i&gt;设置时有效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Operating System</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -19802,10 +19810,34 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Server Maximum Protocol</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T193426Z" creationid="Yifei Ding" creationdate="20190408T193426Z">
+        <seg>服务器最高协议版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Server Minimum Protocol</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T193433Z" creationid="Yifei Ding" creationdate="20190408T193433Z">
+        <seg>服务器最低协议版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Server Role</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>服务器角色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Server Side Encryption</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T193446Z" creationid="Yifei Ding" creationdate="20190408T193446Z">
+        <seg>服务器端加密</seg>
       </tuv>
     </tu>
     <tu>
