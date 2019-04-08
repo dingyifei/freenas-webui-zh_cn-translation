@@ -1398,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Access Tokens expire periodically and must be refreshed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T191338Z" creationid="Yifei Ding" creationdate="20190408T191338Z">
+        <seg>访问令牌会定期失效并需要被更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Account</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -4048,8 +4056,8 @@
       <tuv lang="EN-US">
         <seg>Can be set to &lt;i&gt;0&lt;/i&gt;, left empty for FreeNAS to assign a port when the VM is started, or set to a fixed, preferred port number.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190407T174534Z">
-        <seg>可以被设置为&lt;i&gt;0&lt;/i&gt;，留空FreeNAS将会在虚拟机启动时自动分配端口，输入一个端口以让其不变。</seg>
+      <tuv lang="ZH-CN">
+        <seg>可以被设置为&lt;i&gt;0&lt;/i&gt;，留空FreeNas将会在虚拟机启动时自动分配端口，输入一个端口以让其不变。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21898,6 +21906,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The file used to manually update the system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T191449Z" creationid="Yifei Ding" creationdate="20190408T191449Z">
+        <seg>用于手动更新系统的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following IPs are bind to iSCSI Portal but were not found in the system: %s</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -22046,6 +22062,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T175006Z" creationid="Yifei Ding" creationdate="20190403T175006Z">
         <seg>最大是16或更少，如果主机处理器限制了最大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The maximum number of simultaneous clients.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T191428Z" creationid="Yifei Ding" creationdate="20190408T191428Z">
+        <seg>最大并发客户端数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The member interface to configure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T191425Z" creationid="Yifei Ding" creationdate="20190408T191425Z">
+        <seg>配置的成员接口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24278,6 +24310,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>使用默认域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use existing disk image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T191226Z" creationid="Yifei Ding" creationdate="20190408T191226Z">
+        <seg>使用已有磁盘映像</seg>
       </tuv>
     </tu>
     <tu>
