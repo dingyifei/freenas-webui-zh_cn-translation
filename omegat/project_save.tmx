@@ -19946,6 +19946,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set the size of the new raw file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T192654Z" creationid="Yifei Ding" creationdate="20190408T192654Z">
+        <seg>设置新的raw文件容量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set this if you want to allow Trusted Domains.</seg>
       </tuv>
       <tuv lang="ZH-CN">
