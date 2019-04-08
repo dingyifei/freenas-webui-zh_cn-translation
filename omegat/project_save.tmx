@@ -7486,6 +7486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not reuse a port.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T191706Z" creationid="Yifei Ding" creationdate="20190408T191706Z">
+        <seg>不要复用一个端口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not roll back until all desired snapshots have been backed up!</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -9818,6 +9826,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>例子：所有有着群组ID&lt;i&gt;1&lt;/i&gt;的用户将会继承群组&lt;i&gt;1&lt;/i&gt;的验证配置文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: dc=test,dc=org.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T191512Z" creationid="Yifei Ding" creationdate="20190408T191512Z">
+        <seg>例子：dc=test,dc=org.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15554,6 +15570,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not displayed to anonymous login users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T191755Z" creationid="Yifei Ding" creationdate="20190408T191755Z">
+        <seg>对匿名登录用户不显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -21090,10 +21114,26 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>System domain name, like &lt;i&gt;example.com&lt;/i&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T191600Z" creationid="Yifei Ding" creationdate="20190408T191600Z">
+        <seg>系统域名，例如&lt;i&gt;example.com&lt;/i&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>System hostname</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>系统主机名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System hostname.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T191541Z" creationid="Yifei Ding" creationdate="20190408T191541Z">
+        <seg>系统主机名。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21142,6 +21182,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>TCP端口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TCP port used to access the iSCSI target.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T191531Z" creationid="Yifei Ding" creationdate="20190408T191531Z">
+        <seg>用于访问iSCSI目标的TCP端口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21862,6 +21910,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>一般情况下，zvol逻辑块尺寸设置为自动，它会根据存储池中得磁盘数量自动设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The default port &lt;i&gt;8080&lt;/i&gt; is recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T191727Z" creationid="Yifei Ding" creationdate="20190408T191727Z">
+        <seg>推荐默认端口&lt;i&gt;8080&lt;/i&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The default port &lt;i&gt;8081&lt;/i&gt; is recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T191654Z" creationid="Yifei Ding" creationdate="20190408T191654Z">
+        <seg>推荐默认端口&lt;i&gt;8081&lt;/i&gt;。</seg>
       </tuv>
     </tu>
     <tu>
