@@ -17842,10 +17842,18 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recovery Attempts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190409T025546Z" creationid="Yifei Ding" creationdate="20190409T025546Z">
+        <seg>回复尝试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Recovery Key</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>Recovery Key</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190409T025554Z">
+        <seg>恢复密钥</seg>
       </tuv>
     </tu>
     <tu>
@@ -17854,6 +17862,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>Recovery 已被移除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recovery key added to pool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190409T025613Z" creationid="Yifei Ding" creationdate="20190409T025613Z">
+        <seg>恢复密钥已被加入到存储池</seg>
       </tuv>
     </tu>
     <tu>
@@ -17918,6 +17934,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>重定向标准输出（Stdout）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Redirecting to download.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190409T025623Z" creationid="Yifei Ding" creationdate="20190409T025623Z">
+        <seg>重定向到下载。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18050,10 +18074,42 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remote Encryption</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190409T025703Z" creationid="Yifei Ding" creationdate="20190409T025703Z">
+        <seg>远程加密</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remote HTTP/HTTPS Port</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190409T025715Z" creationid="Yifei Ding" creationdate="20190409T025715Z">
+        <seg>远程HTTP/HTTPS端口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remote HTTPS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190409T025719Z" creationid="Yifei Ding" creationdate="20190409T025719Z">
+        <seg>远程HTTPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remote Host</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>远程主机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remote Hostkey</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190409T025723Z" creationid="Yifei Ding" creationdate="20190409T025723Z">
+        <seg>远程主机密钥</seg>
       </tuv>
     </tu>
     <tu>
@@ -18316,8 +18372,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Replication Stream Compression</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>Replication 流压缩</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190409T025744Z">
+        <seg>复制流压缩</seg>
       </tuv>
     </tu>
     <tu>
@@ -18332,8 +18388,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Replication Tasks</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>Replication 任务</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190409T025735Z">
+        <seg>复制任务</seg>
       </tuv>
     </tu>
     <tu>
@@ -18774,6 +18830,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190409T025459Z" creationid="Yifei Ding" creationdate="20190409T025459Z">
         <seg>现在运行这个云同步？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run this cron job now?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190409T025513Z" creationid="Yifei Ding" creationdate="20190409T025513Z">
+        <seg>现在运行这个计划任务？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Run this rsync now?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190409T025533Z" creationid="Yifei Ding" creationdate="20190409T025533Z">
+        <seg>现在运行这个Rsync？</seg>
       </tuv>
     </tu>
     <tu>
