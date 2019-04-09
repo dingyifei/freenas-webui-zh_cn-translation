@@ -19978,6 +19978,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set only if required by the NFS client.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190409T025414Z" creationid="Yifei Ding" creationdate="20190409T025414Z">
+        <seg>只在NFS客户端需要时设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set permission recursively</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -20070,6 +20078,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T193929Z" creationid="Yifei Ding" creationdate="20190408T193929Z">
         <seg>设置来确认分离存储池。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set to enable DHCP.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T224353Z" creationid="Yifei Ding" creationdate="20190408T224353Z">
+        <seg>设置来启用DHCP。</seg>
       </tuv>
     </tu>
     <tu>
