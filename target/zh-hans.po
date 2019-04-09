@@ -5433,13 +5433,13 @@ msgid "Record Size"
 msgstr "记录大小"
 
 msgid "Recovery Attempts"
-msgstr ""
+msgstr "回复尝试"
 
 msgid "Recovery Key"
-msgstr "Recovery Key"
+msgstr "恢复密钥"
 
 msgid "Recovery key added to pool "
-msgstr ""
+msgstr "恢复密钥已被加入到存储池 "
 
 msgid "Recursive"
 msgstr "循环"
@@ -5448,7 +5448,7 @@ msgid "Recursively Replicate Child Dataset Snapshots"
 msgstr ""
 
 msgid "Redirecting to download. Make sure pop-ups are enabled in the browser."
-msgstr "Redirecting to download. 确认浏览器的弹出窗口被启用。"
+msgstr "重定向到下载。确认浏览器的弹出窗口被启用。"
 
 msgid "Register"
 msgstr "注册"
@@ -5463,22 +5463,22 @@ msgid "Remote Auth Token"
 msgstr "远程认证令牌"
 
 msgid "Remote Encryption"
-msgstr ""
+msgstr "远程加密"
 
 msgid "Remote Graphite Server Hostname"
 msgstr ""
 
 msgid "Remote HTTP/HTTPS Port"
-msgstr ""
+msgstr "远程HTTP/HTTPS端口"
 
 msgid "Remote HTTPS"
-msgstr ""
+msgstr "远程HTTPS"
 
 msgid "Remote Host"
 msgstr "远程主机"
 
 msgid "Remote Hostkey"
-msgstr ""
+msgstr "远程主机密钥"
 
 msgid "Remote Hostname"
 msgstr "远程主机名"
@@ -5520,10 +5520,10 @@ msgid "Rename the existing boot environment."
 msgstr "重命名现有启动环境"
 
 msgid "Replication Stream Compression"
-msgstr "Replication 流压缩"
+msgstr "复制流压缩"
 
 msgid "Replication Tasks"
-msgstr "Replication 任务"
+msgstr "复制任务"
 
 msgid "Report CPU usage in percentage"
 msgstr "以百分比显示处理器使用率"
@@ -5666,13 +5666,13 @@ msgid ""
 msgstr ""
 
 msgid "Run this cloud sync now?"
-msgstr ""
+msgstr "现在运行这个云同步？"
 
 msgid "Run this cron job now?"
-msgstr ""
+msgstr "现在运行这个计划任务？"
 
 msgid "Run this rsync now?"
-msgstr ""
+msgstr "现在运行这个Rsync？"
 
 msgid "S.M.A.R.T. Enabled"
 msgstr "S.M.A.R.T. 启用"
@@ -5746,7 +5746,7 @@ msgid "Save VLAN Interface Changes"
 msgstr "保存VLAN接口更改"
 
 msgid "Save configuration settings from this machine before updating?"
-msgstr ""
+msgstr "在更新前保存此机器的配置设置？"
 
 msgid "Save notes about the jail."
 msgstr ""
@@ -6326,7 +6326,7 @@ msgstr "设置新root账户密码："
 msgid ""
 "Set only if required by the NFS client. Set to allow serving non-root mount "
 "requests."
-msgstr ""
+msgstr "只在NFS客户端需要时设置。Set to allow serving non-root mount requests."
 
 msgid ""
 "Set resource limitations of the jail using the <a "
@@ -6663,7 +6663,7 @@ msgstr ""
 msgid ""
 "Set to enable DHCP. Leave unset to create a static IPv4 or IPv6 "
 "configuration. Only one interface can be configured for DHCP."
-msgstr ""
+msgstr "设置来启用DHCP。Leave unset to create a static IPv4 or IPv6 configuration. Only one interface can be configured for DHCP."
 
 msgid "Set to enable Samba to do DNS updates when joining a domain."
 msgstr ""
