@@ -19194,6 +19194,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SSH Host to connect to.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T184250Z" creationid="Yifei Ding" creationdate="20190410T184250Z">
+        <seg>连接的SSH主机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SSH Key Scan</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -19358,6 +19366,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>安排一个计划任务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Schedule the Cloud Sync Task</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T185801Z" creationid="Yifei Ding" creationdate="20190410T184308Z">
+        <seg>安排云同步任务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Schedule the Rsync Task</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T184318Z" creationid="Yifei Ding" creationdate="20190410T184318Z">
+        <seg>安排Rsync任务</seg>
       </tuv>
     </tu>
     <tu>
