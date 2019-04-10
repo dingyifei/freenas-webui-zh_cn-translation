@@ -90,3 +90,4 @@ paravirtualized	半虚拟化
 Authentication	认证
 Size	容量
 tunable	可调
+existing	现有
