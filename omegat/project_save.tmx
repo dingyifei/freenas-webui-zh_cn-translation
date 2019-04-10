@@ -1448,8 +1448,8 @@
       <tuv lang="EN-US">
         <seg>Account is required to have permissions to the shared pool or dataset.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T213425Z" creationid="Yifei Ding" creationdate="20190227T213425Z">
-        <seg>账户必须有权限来共享存储池或数据集。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T190841Z" creationid="Yifei Ding" creationdate="20190227T213425Z">
+        <seg>账户必须对共享存储池或数据集有权限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19834,6 +19834,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select an IP address to use for VNC sessions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T190739Z" creationid="Yifei Ding" creationdate="20190410T190739Z">
+        <seg>选择一个用于VNC会话的IP地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select an account to use for guest access.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T190747Z" creationid="Yifei Ding" creationdate="20190410T190747Z">
+        <seg>选择一个用于访客访问的账户。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the disk to import.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T175500Z" creationid="Yifei Ding" creationdate="20190403T175500Z">
@@ -23222,6 +23238,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>该 IP 已被使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This account must have permissions to the shared pool or dataset.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T190845Z" creationid="Yifei Ding" creationdate="20190410T190825Z">
+        <seg>这个账户必须对共享存储池或数据集有权限。</seg>
       </tuv>
     </tu>
     <tu>
