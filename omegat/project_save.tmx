@@ -19498,6 +19498,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scrub complete on pool &lt;i&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T185822Z" creationid="Yifei Ding" creationdate="20190410T185822Z">
+        <seg>数据校验完成在存储池&lt;i&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scrub interval successfully changed.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -19542,6 +19550,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>密码 (确认)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Secret Access Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T185848Z" creationid="Yifei Ding" creationdate="20190410T185833Z">
+        <seg>秘密访问密钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Secret Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T185842Z" creationid="Yifei Ding" creationdate="20190410T185842Z">
+        <seg>秘密密钥</seg>
       </tuv>
     </tu>
     <tu>
@@ -23358,6 +23382,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>磁盘的序列号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is used as a virtual hard drive for the VM. Select &lt;i&gt;Use existing disk image&lt;/i&gt; to use an existing zvol or file for the VM.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T190020Z" creationid="Yifei Ding" creationdate="20190410T190020Z">
+        <seg>这会被虚拟机作为虚拟硬盘。选择&lt;i&gt;使用已存在的磁盘映像&lt;/i&gt;来使用一个已知的zvol或文件作为虚拟机磁盘。</seg>
       </tuv>
     </tu>
     <tu>
