@@ -17852,8 +17852,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Recovery Key</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190409T025554Z">
-        <seg>恢复密钥</seg>
+      <tuv lang="ZH-CN">
+        <seg>Recovery Key</seg>
       </tuv>
     </tu>
     <tu>
@@ -18372,7 +18372,7 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Replication Stream Compression</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190409T025744Z">
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T183625Z">
         <seg>复制流压缩</seg>
       </tuv>
     </tu>
@@ -18388,7 +18388,7 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Replication Tasks</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190409T025735Z">
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T183629Z">
         <seg>复制任务</seg>
       </tuv>
     </tu>
@@ -18462,6 +18462,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190401T152000Z" creationid="Yifei Ding" creationdate="20190401T152000Z">
         <seg>&lt;i&gt;HTTPS&lt;/i&gt;必须。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required if &lt;b&gt;Anonymous Login&lt;/b&gt; is disabled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T183754Z" creationid="Yifei Ding" creationdate="20190410T183754Z">
+        <seg>在&lt;b&gt;匿名登录&lt;/b&gt;被禁用时是必须的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required unless &lt;b&gt;Enable password login&lt;/b&gt; is &lt;i&gt;No&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T183828Z" creationid="Yifei Ding" creationdate="20190410T183828Z">
+        <seg>必须除非&lt;b&gt;启用密码登录&lt;/b&gt;被设置为&lt;i&gt;否&lt;/i&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26044,8 +26060,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Yandex &lt;a href="https://tech.yandex.com/direct/doc/dg-v4/concepts/auth-token-docpage/" target="_blank"&gt;Access Token&lt;/a&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>Yandex &lt;a href="https://tech.yandex.com/direct/doc/dg-v4/concepts/auth-token-docpage/" target="_blank"&gt;访问令牌&lt;/a&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T183547Z">
+        <seg>Yandex &lt;a href="https://tech.yandex.com/direct/doc/dg-v4/concepts/auth-token-docpage/" target="_blank"&gt;访问令牌&lt;/a&gt;。</seg>
       </tuv>
     </tu>
     <tu>
