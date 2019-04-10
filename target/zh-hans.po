@@ -6207,7 +6207,7 @@ msgid "Select zvol"
 msgstr "选择zvol"
 
 msgid "Selected Jail(s) updated successfully."
-msgstr ""
+msgstr "选中的Jail更新成功。"
 
 msgid "Send Email Status Updates"
 msgstr "状态更新时发送邮件"
