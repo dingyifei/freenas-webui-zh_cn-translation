@@ -7013,7 +7013,7 @@ msgstr "密码错误"
 
 #: storage/forms.py:2396
 msgid "Recovery Key"
-msgstr "恢复密钥"
+msgstr "Recovery Key"
 
 #: storage/forms.py:2400
 msgid "Restart services"
