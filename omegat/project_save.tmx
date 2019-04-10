@@ -19794,10 +19794,42 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select a screen resolution to use for VNC sessions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T190514Z" creationid="Yifei Ding" creationdate="20190410T190451Z">
+        <seg>选择一个用于VNC会话的分辨率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a sector size in bytes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T190413Z" creationid="Yifei Ding" creationdate="20190410T190413Z">
+        <seg>选择一个扇区尺寸（bytes）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select a time zone.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>选择一个时区。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a user account to run the command.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T190355Z" creationid="Yifei Ding" creationdate="20190410T190355Z">
+        <seg>选择一个用户账户来运行命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a user to receive security output emails.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T190725Z" creationid="Yifei Ding" creationdate="20190410T190725Z">
+        <seg>选择一个用户来接受安全输出邮件。</seg>
       </tuv>
     </tu>
     <tu>
