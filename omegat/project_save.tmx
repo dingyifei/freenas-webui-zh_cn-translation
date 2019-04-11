@@ -13454,6 +13454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leave empty to allow all.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T192849Z" creationid="Yifei Ding" creationdate="20190411T192849Z">
+        <seg>留空来允许全部。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leave empty to use the default gateway.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190213T171211Z" creationid="Yifei Ding" creationdate="20190213T171211Z">
@@ -18018,6 +18026,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refer to &lt;a href="http://www.proftpd.org/docs/contrib/mod_tls.html" target="_blank"&gt;mod_tls&lt;/a&gt; for more details.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T192747Z" creationid="Yifei Ding" creationdate="20190411T192747Z">
+        <seg>参考&lt;a href="http://www.proftpd.org/docs/contrib/mod_tls.html" target="_blank"&gt;mod_tls&lt;/a&gt; 获得更多信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refer to &lt;a href="https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-functional-levels" target="_blank"&gt;Understanding Active Directory Domain Services (AD DS) Functional Levels&lt;/a&gt; for more details.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -20714,6 +20730,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Setting this option is discouraged as it increases security risk.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T192815Z" creationid="Yifei Ding" creationdate="20190411T192815Z">
+        <seg>设置这个选项是不被推荐的因为它提高系统安全风险。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Settings</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -21002,6 +21026,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sidebar Controls</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T192831Z" creationid="Yifei Ding" creationdate="20190411T192831Z">
+        <seg>侧栏控制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sign CSR</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T192836Z" creationid="Yifei Ding" creationdate="20190411T192836Z">
+        <seg>签发CSR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sign in</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -21250,10 +21290,26 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spaces are allowed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T192859Z" creationid="Yifei Ding" creationdate="20190411T192859Z">
+        <seg>允许空格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spaces or number signs are not allowed.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>不允许使用空格或数字符号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sparse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T192923Z" creationid="Yifei Ding" creationdate="20190411T192923Z">
+        <seg>备用</seg>
       </tuv>
     </tu>
     <tu>
@@ -21318,6 +21374,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>定义这个数据集的最大允许容量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specify a port for encrypted connections.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T192941Z" creationid="Yifei Ding" creationdate="20190411T192941Z">
+        <seg>规定一个用于加密连接的端口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23886,6 +23950,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>插件 %d 依赖此 Jail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This might make data inaccessible.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T192730Z" creationid="Yifei Ding" creationdate="20190411T192730Z">
+        <seg>这会使数据不可访问。</seg>
       </tuv>
     </tu>
     <tu>
