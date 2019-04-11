@@ -20458,6 +20458,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set to allow non-Windows SMB clients to access symbolic links and hard links.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T191617Z" creationid="Yifei Ding" creationdate="20190411T191605Z">
+        <seg>设置来允许非Windows的SMB客户端访问符号链接和硬链接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set to allow raw sockets.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T165020Z" creationid="Yifei Ding" creationdate="20190411T165020Z">
