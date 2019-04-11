@@ -20482,6 +20482,30 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set to display CPU usage as percentages in Reporting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T165500Z" creationid="Yifei Ding" creationdate="20190411T165500Z">
+        <seg>设置在报表中使用百分比来显示处理器使用量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set to display image upload options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T165652Z" creationid="Yifei Ding" creationdate="20190411T165652Z">
+        <seg>设置来显示镜像上传选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set to enable &lt;i&gt;receive&lt;/i&gt; mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T165619Z" creationid="Yifei Ding" creationdate="20190411T165619Z">
+        <seg>设置来启用&lt;i&gt;接收&lt;/i&gt;模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set to enable DHCP.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T224353Z" creationid="Yifei Ding" creationdate="20190408T224353Z">
