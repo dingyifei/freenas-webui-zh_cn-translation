@@ -19650,6 +19650,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See the &lt;a href="%%docurl%%/services.html%%webversion%%#smb" target="_blank"&gt;SMB&lt;/a&gt; service documentation for more information about guest user permissions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T164824Z" creationid="Yifei Ding" creationdate="20190411T164824Z">
+        <seg>查看&lt;a href="%%docurl%%/services.html%%webversion%%#smb" target="_blank"&gt;SMB&lt;/a&gt;服务文档来获得更多有关访客用户权限的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See the &lt;a href="%%docurl%%/storage.html%%webversion%%#pool-manager" target="_blank"&gt;Pool Manager&lt;/a&gt; section of the guide for more details.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -20306,6 +20314,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set the root directory for anonymous FTP connections.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T164656Z" creationid="Yifei Ding" creationdate="20190411T164656Z">
+        <seg>设置匿名FTP连接的根目录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set the share name.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190211T232503Z" creationid="Yifei Ding" creationdate="20190211T232503Z">
@@ -20366,6 +20382,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T192812Z" creationid="Yifei Ding" creationdate="20190408T192812Z">
         <seg>设置来允许FTP客户端来继续中断的传输。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set to allow access to this share without a password.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T164732Z" creationid="Yifei Ding" creationdate="20190411T164732Z">
+        <seg>设置来允许不使用密码访问这个共享。</seg>
       </tuv>
     </tu>
     <tu>
