@@ -20474,6 +20474,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set to auto-start the jail at system boot time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T190815Z" creationid="Yifei Ding" creationdate="20190411T190815Z">
+        <seg>设置来使jail在系统引导时启动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set to boot a debug kernel after the next system  reboot.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T165305Z" creationid="Yifei Ding" creationdate="20190411T165305Z">
