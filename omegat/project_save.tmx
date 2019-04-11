@@ -15898,6 +15898,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only one interface can be configured this way.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T165214Z" creationid="Yifei Ding" creationdate="20190411T165214Z">
+        <seg>只有一个接口可以被这样配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only one interface can be used for DHCP</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -20426,10 +20434,50 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set to apply changes to the mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T165115Z" creationid="Yifei Ding" creationdate="20190411T165115Z">
+        <seg>设置来应用对模式的更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set to apply changes to the user.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T165122Z" creationid="Yifei Ding" creationdate="20190411T165122Z">
+        <seg>设置来应用对用户的更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set to attempt to reduce latency over slow networks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T165153Z" creationid="Yifei Ding" creationdate="20190411T165153Z">
+        <seg>设置来尝试降低低速网络下的延迟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set to boot a debug kernel after the next system  reboot.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T165305Z" creationid="Yifei Ding" creationdate="20190411T165305Z">
+        <seg>设置在下一次系统重启时引导调试内核。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set to confirm detaching the pool.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T193929Z" creationid="Yifei Ding" creationdate="20190408T193929Z">
         <seg>设置来确认分离存储池。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set to create a new primary group with the same name as the user.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T165403Z" creationid="Yifei Ding" creationdate="20190411T165403Z">
+        <seg>设置来创建一个和用户同名的新主群组。</seg>
       </tuv>
     </tu>
     <tu>
