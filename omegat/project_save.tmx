@@ -9902,6 +9902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Existing files are not affected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T192059Z" creationid="Yifei Ding" creationdate="20190411T192059Z">
+        <seg>现有的文件将会不受影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exit</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -20598,6 +20606,38 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T185457Z" creationid="Yifei Ding" creationdate="20190411T185457Z">
         <seg>设置来启用活动目录服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set to make the module &lt;i&gt;read-only&lt;/i&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T192221Z" creationid="Yifei Ding" creationdate="20190411T192221Z">
+        <seg>设置来使一个模块&lt;i&gt;只读&lt;/i&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set to preserve modification times of files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T192253Z" creationid="Yifei Ding" creationdate="20190411T192253Z">
+        <seg>设置来保留文件修改次数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set to preserve original file permissions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T192311Z" creationid="Yifei Ding" creationdate="20190411T192311Z">
+        <seg>设置来保留源文件权限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set to prohibit writes to this share</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T192343Z" creationid="Yifei Ding" creationdate="20190411T192343Z">
+        <seg>设置来禁止对这个共享的写入。</seg>
       </tuv>
     </tu>
     <tu>
