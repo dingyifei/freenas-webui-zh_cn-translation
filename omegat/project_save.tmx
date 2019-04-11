@@ -22626,6 +22626,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The UDP port number that listens for TFTP requests.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T193335Z" creationid="Yifei Ding" creationdate="20190411T193335Z">
+        <seg>监听TFTP请求的UDP端口号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The UI will be  temporarily unavailable.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T214513Z" creationid="Yifei Ding" creationdate="20190403T214513Z">
@@ -22782,6 +22790,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>计划进程已启动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The cryptographic algorithm to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T193400Z" creationid="Yifei Ding" creationdate="20190411T193400Z">
+        <seg>使用的加密算法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23058,6 +23074,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The lifetime of the CA specified in days.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T193527Z" creationid="Yifei Ding" creationdate="20190411T193512Z">
+        <seg>CA的寿命，以天为单位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The maximum is 16, or fewer if the host CPU limits the maximum.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190403T175006Z" creationid="Yifei Ding" creationdate="20190403T175006Z">
@@ -23078,6 +23102,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T191425Z" creationid="Yifei Ding" creationdate="20190408T191425Z">
         <seg>配置的成员接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The message to show when a user logs in with SSH.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T193547Z" creationid="Yifei Ding" creationdate="20190411T193547Z">
+        <seg>当一个用户使用SSH登录时显示的消息</seg>
       </tuv>
     </tu>
     <tu>
