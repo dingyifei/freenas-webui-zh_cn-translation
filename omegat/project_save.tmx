@@ -20394,10 +20394,34 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set to allow raw sockets.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T165020Z" creationid="Yifei Ding" creationdate="20190411T165020Z">
+        <seg>设置来允许原生套接字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set to allow serving non-root mount requests.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T164250Z" creationid="Yifei Ding" creationdate="20190411T164250Z">
         <seg>设置以允许服务非root挂载请求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set to allow the client to mount any subdirectory within the &lt;b&gt;Path&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T164934Z" creationid="Yifei Ding" creationdate="20190411T164934Z">
+        <seg>设置来允许客户端挂载任何&lt;b&gt;路径&lt;/b&gt;内的任何子文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set to apply changes to the group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T165108Z" creationid="Yifei Ding" creationdate="20190411T165108Z">
+        <seg>设置来应用对组的更改</seg>
       </tuv>
     </tu>
     <tu>
