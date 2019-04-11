@@ -3930,7 +3930,7 @@ msgstr "复制任务"
 # The same word/phrase can be used to express plural or singular in chinese. So, like task and tasks both can be translate to “任务”
 #: storage/models.py:693
 msgid "Replication Tasks"
-msgstr "复制任务"
+msgstr "Replication 任务"
 
 #: storage/models.py:722 system/models.py:526 templates/storage/tasks.html:22
 msgid "Recursive"
@@ -7859,7 +7859,7 @@ msgstr "远程 ZFS 卷/数据集"
 # The same word/phrase can be used to express plural or singular in chinese. So, like task and tasks both can be translate to “任务”
 #: storage/models.py:886
 msgid "Replication Stream Compression"
-msgstr "复制流压缩"
+msgstr "Replication 流压缩"
 
 #: storage/models.py:951
 msgid "Sending"
