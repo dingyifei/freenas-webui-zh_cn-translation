@@ -18372,8 +18372,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Replication Stream Compression</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T183625Z">
-        <seg>复制流压缩</seg>
+      <tuv lang="ZH-CN">
+        <seg>Replication 流压缩</seg>
       </tuv>
     </tu>
     <tu>
@@ -18388,8 +18388,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Replication Tasks</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T183629Z">
-        <seg>复制任务</seg>
+      <tuv lang="ZH-CN">
+        <seg>Replication 任务</seg>
       </tuv>
     </tu>
     <tu>
@@ -20214,6 +20214,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>设置保留标志</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set by default if the disk supports S.M.A.R.T.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T164007Z" creationid="Yifei Ding" creationdate="20190411T164007Z">
+        <seg>如果磁盘支持S.M.A.R.T.则在默认情况下设置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23826,6 +23834,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This value represents the number of existing authorized accesses.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>This value represents the number of existing authorized accesses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This variable already exists</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -26260,8 +26276,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Yandex &lt;a href="https://tech.yandex.com/direct/doc/dg-v4/concepts/auth-token-docpage/" target="_blank"&gt;Access Token&lt;/a&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T183547Z">
-        <seg>Yandex &lt;a href="https://tech.yandex.com/direct/doc/dg-v4/concepts/auth-token-docpage/" target="_blank"&gt;访问令牌&lt;/a&gt;。</seg>
+      <tuv lang="ZH-CN">
+        <seg>Yandex &lt;a href="https://tech.yandex.com/direct/doc/dg-v4/concepts/auth-token-docpage/" target="_blank"&gt;访问令牌&lt;/a&gt;.</seg>
       </tuv>
     </tu>
     <tu>
