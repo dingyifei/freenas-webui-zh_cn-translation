@@ -21530,6 +21530,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starting job...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T193023Z" creationid="Yifei Ding" creationdate="20190411T193023Z">
+        <seg>开始任务...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Startup option</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -21642,10 +21650,26 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Storage &amp; Groups</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T193042Z" creationid="Yifei Ding" creationdate="20190411T193042Z">
+        <seg>存储 &amp; 群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Storage successfully added.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>存储已添加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Store reporting information on the system dataset.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T193106Z" creationid="Yifei Ding" creationdate="20190411T193106Z">
+        <seg>在系统数据集上存储报表信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21682,6 +21706,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subnet mask of the IPv4 address.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T193135Z" creationid="Yifei Ding" creationdate="20190411T193135Z">
+        <seg>IPv4地址的子网掩码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Success</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -21690,10 +21722,26 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Successfully Promoted</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T193147Z" creationid="Yifei Ding" creationdate="20190411T193147Z">
+        <seg>发起成功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Successfully Upgraded</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>升级成功</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Successfully deleted recovery key for</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T193207Z" creationid="Yifei Ding" creationdate="20190411T193207Z">
+        <seg>成功删除了恢复密钥用于</seg>
       </tuv>
     </tu>
     <tu>
@@ -22458,6 +22506,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Credential is valid.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T193228Z" creationid="Yifei Ding" creationdate="20190411T193228Z">
+        <seg>身份有效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Default Password is: davtest</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -22470,6 +22526,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>动态DNS 服务重载失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Group ID (GID) is a unique number used to identify a Unix group.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T193256Z" creationid="Yifei Ding" creationdate="20190411T193256Z">
+        <seg>组ID (GID)是一个用来分辨Unix组的独特的数字</seg>
       </tuv>
     </tu>
     <tu>
