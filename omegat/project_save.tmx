@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;b&gt;Caution:&lt;/b&gt; writes can fail when the pool is low on space.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T192441Z" creationid="Yifei Ding" creationdate="20190411T192441Z">
+        <seg>&lt;b&gt;警告：&lt;/b&gt;写入在存储池的可用空间低时可能失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b&gt;Ctrl+C&lt;/b&gt; kills a foreground process.&lt;br&gt;                            Many utilities are built-in:&lt;br&gt; &lt;b&gt;Iperf&lt;/b&gt;,                            &lt;b&gt;Netperf&lt;/b&gt;, &lt;b&gt;IOzone&lt;/b&gt;, &lt;b&gt;arcsat&lt;/b&gt;,                            &lt;b&gt;tw_cli&lt;/b&gt;, &lt;br&gt;&lt;b&gt;MegaCli&lt;/b&gt;,                            &lt;b&gt;freenas-debug&lt;/b&gt;, &lt;b&gt;tmux&lt;/b&gt;,                            &lt;b&gt;Dmidecode&lt;/b&gt;.&lt;br&gt; Refer to the &lt;a                            href="%%docurl%%/cli.html%%webversion%%"                            target="_blank"&gt;Command Line Utilities&lt;/a&gt;                            chapter in the guide for usage information                            and examples.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -17874,6 +17882,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recommended for slow connections.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T192517Z" creationid="Yifei Ding" creationdate="20190411T192517Z">
+        <seg>在低速连接推荐。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reconnect</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -20638,6 +20654,46 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T192343Z" creationid="Yifei Ding" creationdate="20190411T192343Z">
         <seg>设置来禁止对这个共享的写入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set to prohibit writing to the share.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T192401Z" creationid="Yifei Ding" creationdate="20190411T192401Z">
+        <seg>设置来禁止对这个共享的写入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set to reduce the size of data to transmit.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T192457Z" creationid="Yifei Ding" creationdate="20190411T192457Z">
+        <seg>设置来减少发送的数据大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set to set this jail as a template.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T192603Z" creationid="Yifei Ding" creationdate="20190411T192603Z">
+        <seg>设置来把这个jail作为模版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set to start this VM when the system boots.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T192632Z" creationid="Yifei Ding" creationdate="20190411T192632Z">
+        <seg>设置来使这个虚拟机在系统引导时启动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set to store the system log on the system dataset.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T192648Z" creationid="Yifei Ding" creationdate="20190411T192648Z">
+        <seg>设置在系统数据集上保存系统日志。</seg>
       </tuv>
     </tu>
     <tu>
