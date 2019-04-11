@@ -13454,6 +13454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leave unset to create a static IPv4 or IPv6 configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T190739Z" creationid="Yifei Ding" creationdate="20190411T190739Z">
+        <seg>保持未设置来创建一个静态IPv4或IPv6配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leaving this blank will give the volume a default path of /mnt/${VOLUME_NAME}</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -20518,6 +20526,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T224353Z" creationid="Yifei Ding" creationdate="20190408T224353Z">
         <seg>设置来启用DHCP。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set to enable encrypted connections.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T185434Z" creationid="Yifei Ding" creationdate="20190411T185434Z">
+        <seg>设置来启用加密连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set to enable the Active Directory service.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T185457Z" creationid="Yifei Ding" creationdate="20190411T185457Z">
+        <seg>设置来启用活动目录服务。</seg>
       </tuv>
     </tu>
     <tu>
