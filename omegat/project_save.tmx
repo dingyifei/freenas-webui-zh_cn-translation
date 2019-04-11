@@ -20380,8 +20380,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Set the size of the new raw file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T192654Z" creationid="Yifei Ding" creationdate="20190408T192654Z">
-        <seg>设置新的raw文件容量。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T191153Z" creationid="Yifei Ding" creationdate="20190408T192654Z">
+        <seg>设置新的原始文件容量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20426,10 +20426,26 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set to advertise FreeNAS as a Time Machine disk so it can be found by Macs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T191325Z" creationid="Yifei Ding" creationdate="20190411T191325Z">
+        <seg>设置来发布FreeNAS作为时间机器磁盘并让它可以被Mac找到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set to allow FTP clients to resume interrupted transfers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190408T192812Z" creationid="Yifei Ding" creationdate="20190408T192812Z">
         <seg>设置来允许FTP客户端来继续中断的传输。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set to allow a user account other than &lt;i&gt;root&lt;/i&gt;                 to be used for replication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T191412Z" creationid="Yifei Ding" creationdate="20190411T191412Z">
+        <seg>设置来允许非&lt;i&gt;root&lt;/i&gt;用户账户可以运行复制。</seg>
       </tuv>
     </tu>
     <tu>
