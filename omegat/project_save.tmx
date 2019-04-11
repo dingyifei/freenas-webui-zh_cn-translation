@@ -15898,6 +15898,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only one interface can be configured for DHCP.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T185418Z" creationid="Yifei Ding" creationdate="20190411T185418Z">
+        <seg>只有一个网络接口可以配置用于 DHCP。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only one interface can be configured this way.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T165214Z" creationid="Yifei Ding" creationdate="20190411T165214Z">
