@@ -4024,8 +4024,8 @@
       <tuv lang="EN-US">
         <seg>CPU Usage</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>处理器使用量</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190412T025302Z">
+        <seg>处理器利用率</seg>
       </tuv>
     </tu>
     <tu>
@@ -12734,6 +12734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is the pool encrypted?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190412T025519Z" creationid="Yifei Ding" creationdate="20190412T025519Z">
+        <seg>存储池已被加密？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Issuer</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -18492,8 +18500,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Report CPU usage in percentage</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>以百分比显示处理器使用率</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190412T025311Z">
+        <seg>以百分比显示处理器利用率</seg>
       </tuv>
     </tu>
     <tu>
@@ -20612,8 +20620,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Set to display CPU usage as percentages in Reporting.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190411T165500Z" creationid="Yifei Ding" creationdate="20190411T165500Z">
-        <seg>设置在报表中使用百分比来显示处理器使用量。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190412T025344Z" creationid="Yifei Ding" creationdate="20190411T165500Z">
+        <seg>设置在报表中使用百分比来显示处理器利用率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25252,24 +25260,24 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Upgrade selected jails failed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190412T023923Z">
-        <seg>升级选中的Jail失败。</seg>
+      <tuv lang="ZH-CN">
+        <seg>升级选中的Jail失败</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Upgrade selected jails started.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190412T023926Z">
-        <seg>开始升级选中的Jail。</seg>
+      <tuv lang="ZH-CN">
+        <seg>开始升级选中的Jail</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Upgrade selected jails succeeded.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190412T023927Z">
-        <seg>升级选中的Jail成功。</seg>
+      <tuv lang="ZH-CN">
+        <seg>升级选中的Jail成功</seg>
       </tuv>
     </tu>
     <tu>
