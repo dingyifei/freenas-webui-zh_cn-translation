@@ -7882,13 +7882,13 @@ msgid "Upgrade Pool"
 msgstr "升级存储池"
 
 msgid "Upgrade selected jails failed."
-msgstr "升级选中的Jail失败"
+msgstr "升级选中的Jail失败。"
 
 msgid "Upgrade selected jails started."
-msgstr "开始升级选中的Jail"
+msgstr "开始升级选中的Jail。"
 
 msgid "Upgrade selected jails succeeded."
-msgstr "升级选中的Jail成功"
+msgstr "升级选中的Jail成功。"
 
 msgid "Upgraded"
 msgstr "已升级"
