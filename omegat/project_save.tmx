@@ -25252,24 +25252,24 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Upgrade selected jails failed.</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>升级选中的Jail失败</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190412T023923Z">
+        <seg>升级选中的Jail失败。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Upgrade selected jails started.</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>开始升级选中的Jail</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190412T023926Z">
+        <seg>开始升级选中的Jail。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Upgrade selected jails succeeded.</seg>
       </tuv>
-      <tuv lang="ZH-CN">
-        <seg>升级选中的Jail成功</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190412T023927Z">
+        <seg>升级选中的Jail成功。</seg>
       </tuv>
     </tu>
     <tu>
