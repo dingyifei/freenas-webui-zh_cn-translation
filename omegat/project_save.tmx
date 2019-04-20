@@ -4024,8 +4024,8 @@
       <tuv lang="EN-US">
         <seg>CPU Usage</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190412T025302Z">
-        <seg>处理器利用率</seg>
+      <tuv lang="ZH-CN">
+        <seg>处理器使用量</seg>
       </tuv>
     </tu>
     <tu>
@@ -16690,6 +16690,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Periodic snapshots must be recursive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190420T021347Z" creationid="Yifei Ding" creationdate="20190420T021317Z">
+        <seg>定期快照必须是递归的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Permission Type</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -18500,8 +18508,8 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       <tuv lang="EN-US">
         <seg>Report CPU usage in percentage</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190412T025311Z">
-        <seg>以百分比显示处理器利用率</seg>
+      <tuv lang="ZH-CN">
+        <seg>以百分比显示处理器使用率</seg>
       </tuv>
     </tu>
     <tu>
@@ -19966,6 +19974,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T191018Z" creationid="Yifei Ding" creationdate="20190410T191018Z">
         <seg>选择一个ZFS存储池，数据集，或zvol。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select desired disk type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190420T021444Z" creationid="Yifei Ding" creationdate="20190420T021444Z">
+        <seg>选择希望的磁盘类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select interfaces for SSH to listen on.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190420T021503Z" creationid="Yifei Ding" creationdate="20190420T021503Z">
+        <seg>选择用于SSH的接口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25570,6 +25594,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>User Controls</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190420T021242Z" creationid="Yifei Ding" creationdate="20190420T021242Z">
+        <seg>用户管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>User DN</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -25822,6 +25854,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T180848Z" creationid="Yifei Ding" creationdate="20190318T180848Z">
         <seg>VNC网络接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VNET Virtual Networking</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190420T021226Z" creationid="Yifei Ding" creationdate="20190420T021226Z">
+        <seg>VNET虚拟网络</seg>
       </tuv>
     </tu>
     <tu>
