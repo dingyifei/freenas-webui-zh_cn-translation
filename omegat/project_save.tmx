@@ -6798,6 +6798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete recovery key for</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190420T021920Z" creationid="Yifei Ding" creationdate="20190420T021920Z">
+        <seg>删除恢复密钥用于</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete selections</seg>
       </tuv>
       <tuv lang="ZH-CN">
