@@ -3064,8 +3064,16 @@
       <tuv lang="EN-US">
         <seg>Attach</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190407T174137Z">
-        <seg>连接</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190420T021707Z">
+        <seg>附加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attach Debug</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190420T021653Z" creationid="Yifei Ding" creationdate="20190420T021617Z">
+        <seg>附加调试</seg>
       </tuv>
     </tu>
     <tu>
@@ -3080,16 +3088,16 @@
       <tuv lang="EN-US">
         <seg>Attach Disk</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190407T174143Z">
-        <seg>连接磁盘</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190420T021715Z">
+        <seg>附加磁盘</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Attach NIC</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190407T174129Z" creationid="Yifei Ding" creationdate="20190407T174129Z">
-        <seg>连接网卡</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190420T021701Z" creationid="Yifei Ding" creationdate="20190407T174129Z">
+        <seg>附加网卡</seg>
       </tuv>
     </tu>
     <tu>
