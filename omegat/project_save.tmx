@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.0.0_0_10713" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1342,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>APPLY CHANGES</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190515T203331Z" creationid="Yifei Ding" creationdate="20190515T203331Z">
+        <seg>应用修改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ATA Security User</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -2206,6 +2214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Disks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190515T193147Z" creationid="Yifei Ding" creationdate="20190515T193147Z">
+        <seg>所有磁盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All data on that pool was destroyed.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -2274,6 +2290,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>允许匿名登录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allow Blocks Larger than 128KB</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190515T193205Z" creationid="Yifei Ding" creationdate="20190515T193205Z">
+        <seg>允许大于128KB的块</seg>
       </tuv>
     </tu>
     <tu>
