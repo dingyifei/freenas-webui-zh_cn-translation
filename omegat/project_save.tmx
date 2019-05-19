@@ -5262,6 +5262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Commit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155612Z" creationid="Yifei Ding" creationdate="20190519T155612Z">
+        <seg>提交</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Common Name</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -6094,6 +6102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create or Choose Block Device</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155625Z" creationid="Yifei Ding" creationdate="20190519T155625Z">
+        <seg>创建或选择块设备</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create or Import Pool</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -6282,6 +6298,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>DHCP自动配置IPv4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DISCARD CHANGES</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155635Z" creationid="Yifei Ding" creationdate="20190519T155635Z">
+        <seg>取消修改</seg>
       </tuv>
     </tu>
     <tu>
@@ -6846,6 +6870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete Path</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155717Z" creationid="Yifei Ding" creationdate="20190519T155717Z">
+        <seg>删除路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete Recovery Key</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -6962,6 +6994,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>删除这个设备？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete this path.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155729Z" creationid="Yifei Ding" creationdate="20190519T155729Z">
+        <seg>删除这个路径。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7198,6 +7238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Destroy the reporting database.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155744Z" creationid="Yifei Ding" creationdate="20190519T155744Z">
+        <seg>删除报告数据库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Destroy this snapshot</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -7262,10 +7310,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Device Busy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155801Z" creationid="Yifei Ding" creationdate="20190519T155801Z">
+        <seg>设备正忙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Device Order</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>设备顺序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Devices</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155804Z" creationid="Yifei Ding" creationdate="20190519T155804Z">
+        <seg>设备</seg>
       </tuv>
     </tu>
     <tu>
@@ -12414,14 +12478,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Increase this value if DNS queries timeout.</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>Increase this value if DNS queries timeout.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Info</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -13778,6 +13834,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>链路聚合成员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Link Aggregation combines multiple network connections into a single interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155543Z" creationid="Yifei Ding" creationdate="20190519T155543Z">
+        <seg>链路聚合可以合并多个网络连接为单个接口。</seg>
       </tuv>
     </tu>
     <tu>
