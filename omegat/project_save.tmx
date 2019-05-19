@@ -10678,6 +10678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File Mask</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T160139Z" creationid="Yifei Ding" creationdate="20190519T160139Z">
+        <seg>文件掩码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File Permission</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -10738,6 +10746,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190228T221119Z" creationid="Yifei Ding" creationdate="20190228T221119Z">
         <seg>从源地址中删除的文件也将会从目标地址中删除，类似于&lt;i&gt;rsync --delete&lt;/i&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filesize</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T160146Z" creationid="Yifei Ding" creationdate="20190519T160146Z">
+        <seg>文件大小</seg>
       </tuv>
     </tu>
     <tu>
@@ -10874,6 +10890,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>强制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Force Delete</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T160200Z" creationid="Yifei Ding" creationdate="20190519T160200Z">
+        <seg>强制删除</seg>
       </tuv>
     </tu>
     <tu>
@@ -13318,10 +13342,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep Network Changes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T160252Z" creationid="Yifei Ding" creationdate="20190519T160252Z">
+        <seg>保留网络更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep snapshot for</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>保存快照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep the name short.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T160259Z" creationid="Yifei Ding" creationdate="20190519T160259Z">
+        <seg>保持名称简短。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13634,6 +13674,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>链路聚合物理网卡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lagg Ports</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T160537Z" creationid="Yifei Ding" creationdate="20190519T160537Z">
+        <seg>链路聚合端口</seg>
       </tuv>
     </tu>
     <tu>
