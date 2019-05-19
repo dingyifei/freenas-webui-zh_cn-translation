@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;i&gt;Bridge&lt;/i&gt; creates a logical link between multiple networks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155513Z" creationid="Yifei Ding" creationdate="20190519T155513Z">
+        <seg>&lt;i&gt;桥接&lt;/i&gt;creates a logical link between multiple networks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;i&gt;COPY&lt;/i&gt; copies files from source to destination, skipping files that are identical, similar to &lt;i&gt;rsync&lt;/i&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190227T191336Z" creationid="Yifei Ding" creationdate="20190227T191336Z">
@@ -2790,6 +2798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply Network Changes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155247Z" creationid="Yifei Ding" creationdate="20190519T155247Z">
+        <seg>应用网络修改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply Owner (group)</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -2838,6 +2854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply network changes?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155250Z" creationid="Yifei Ding" creationdate="20190519T155250Z">
+        <seg>应用网络修改？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply permissions recursively</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -2846,10 +2870,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apply permissions recursively all child datasets within the current dataset</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155314Z" creationid="Yifei Ding" creationdate="20190519T155314Z">
+        <seg>递归的应用权限到所有当前数据集内的数据集。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply permissions recursively to all directories and files within the current dataset</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>递归的应用权限到所有当前数据集内的文件夹和文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply permissions to child datasets</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155328Z" creationid="Yifei Ding" creationdate="20190519T155328Z">
+        <seg>应用权限刀子数据集</seg>
       </tuv>
     </tu>
     <tu>
@@ -3182,6 +3222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Authenticate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155346Z" creationid="Yifei Ding" creationdate="20190519T155346Z">
+        <seg>认证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Authentication Group ID</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -3434,6 +3482,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>附加参数 （upsd.conf）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auxiliary arguments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155359Z" creationid="Yifei Ding" creationdate="20190519T155359Z">
+        <seg>附加参数</seg>
       </tuv>
     </tu>
     <tu>
@@ -3762,6 +3818,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>块级存储(iSCSI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Block Size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155418Z" creationid="Yifei Ding" creationdate="20190519T155418Z">
+        <seg>块大小</seg>
       </tuv>
     </tu>
     <tu>
@@ -4890,6 +4954,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>选择磁盘的文件系统类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose the type of interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155444Z" creationid="Yifei Ding" creationdate="20190519T155444Z">
+        <seg>选择接口类型。</seg>
       </tuv>
     </tu>
     <tu>
