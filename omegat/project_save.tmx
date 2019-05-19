@@ -1352,8 +1352,8 @@
       <tuv lang="EN-US">
         <seg>APPLY CHANGES</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190515T203331Z" creationid="Yifei Ding" creationdate="20190515T203331Z">
-        <seg>应用修改</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155958Z" creationid="Yifei Ding" creationdate="20190515T203331Z">
+        <seg>应用更改</seg>
       </tuv>
     </tu>
     <tu>
@@ -2800,8 +2800,8 @@
       <tuv lang="EN-US">
         <seg>Apply Network Changes</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155247Z" creationid="Yifei Ding" creationdate="20190519T155247Z">
-        <seg>应用网络修改</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T160003Z" creationid="Yifei Ding" creationdate="20190519T155247Z">
+        <seg>应用网络更改</seg>
       </tuv>
     </tu>
     <tu>
@@ -2856,8 +2856,8 @@
       <tuv lang="EN-US">
         <seg>Apply network changes?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155250Z" creationid="Yifei Ding" creationdate="20190519T155250Z">
-        <seg>应用网络修改？</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155949Z" creationid="Yifei Ding" creationdate="20190519T155250Z">
+        <seg>应用网络更改？</seg>
       </tuv>
     </tu>
     <tu>
@@ -6304,8 +6304,8 @@
       <tuv lang="EN-US">
         <seg>DISCARD CHANGES</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155635Z" creationid="Yifei Ding" creationdate="20190519T155635Z">
-        <seg>取消修改</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155901Z" creationid="Yifei Ding" creationdate="20190519T155635Z">
+        <seg>放弃修改</seg>
       </tuv>
     </tu>
     <tu>
@@ -7522,6 +7522,30 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>禁用操作将不会停止任何正在进行的Replications任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155852Z" creationid="Yifei Ding" creationdate="20190519T155852Z">
+        <seg>放弃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard Network Changes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155931Z" creationid="Yifei Ding" creationdate="20190519T155912Z">
+        <seg>放弃网络更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard unapplied network changes?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T155941Z" creationid="Yifei Ding" creationdate="20190519T155922Z">
+        <seg>放弃未被应用的网络更改？</seg>
       </tuv>
     </tu>
     <tu>
@@ -10526,6 +10550,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failover</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T160039Z" creationid="Yifei Ding" creationdate="20190519T160039Z">
+        <seg>故障转移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failover Group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T160045Z" creationid="Yifei Ding" creationdate="20190519T160045Z">
+        <seg>故障转移组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failover IP Address</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T160100Z" creationid="Yifei Ding" creationdate="20190519T160100Z">
+        <seg>故障转移IP地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fast</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -10562,6 +10610,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>获取 Datastores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fetch and Install Updates</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T160122Z" creationid="Yifei Ding" creationdate="20190519T160122Z">
+        <seg>获取并安装更新</seg>
       </tuv>
     </tu>
     <tu>
