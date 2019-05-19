@@ -15466,6 +15466,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Name &amp; Contact</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T160741Z" creationid="Yifei Ding" creationdate="20190519T160741Z">
+        <seg>名称和联系方式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Name Map</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -15650,6 +15658,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Netmask</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T160754Z" creationid="Yifei Ding" creationdate="20190519T160754Z">
+        <seg>网络掩码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Netwait IP list</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -15694,6 +15710,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>网络概要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Network changes discarded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T160814Z" creationid="Yifei Ding" creationdate="20190519T160814Z">
+        <seg>网络更改已放弃。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19618,6 +19642,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SSH Connection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T160902Z" creationid="Yifei Ding" creationdate="20190519T160902Z">
+        <seg>SSH连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SSH Connections</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T160903Z" creationid="Yifei Ding" creationdate="20190519T160903Z">
+        <seg>SSH连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SSH Host to connect to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190410T184250Z" creationid="Yifei Ding" creationdate="20190410T184250Z">
@@ -19786,6 +19826,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Schedule</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T160919Z" creationid="Yifei Ding" creationdate="20190519T160919Z">
+        <seg>安排</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Schedule a Cron Job</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -19950,6 +19998,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>垃圾清理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Secondary Contact (optional)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T160934Z" creationid="Yifei Ding" creationdate="20190519T160934Z">
+        <seg>第二联系方式（可选）</seg>
       </tuv>
     </tu>
     <tu>
