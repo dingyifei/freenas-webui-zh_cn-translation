@@ -13902,6 +13902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Limit (kbps)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T160542Z" creationid="Yifei Ding" creationdate="20190519T160542Z">
+        <seg>限制 (kpbs)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Limit (kpbs)</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -13954,6 +13962,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>链路聚合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Link State</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T160555Z" creationid="Yifei Ding" creationdate="20190519T160555Z">
+        <seg>链接状态</seg>
       </tuv>
     </tu>
     <tu>
