@@ -1606,6 +1606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Active storage controller.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T161905Z" creationid="Yifei Ding" creationdate="20190519T161905Z">
+        <seg>活跃存储控制器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adapter Type</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -10838,6 +10846,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T161643Z" creationid="Yifei Ding" creationdate="20190519T161643Z">
+        <seg>标志</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flags Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T161647Z" creationid="Yifei Ding" creationdate="20190519T161647Z">
+        <seg>标志类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flip</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -11774,6 +11798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IP Addresses</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T161712Z" creationid="Yifei Ding" creationdate="20190519T161712Z">
+        <seg>IP 地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IP Server</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -12510,6 +12542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Importing pools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T161725Z" creationid="Yifei Ding" creationdate="20190519T161725Z">
+        <seg>导入存储池中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Progress</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -13122,6 +13162,14 @@
       </tuv>
       <tuv lang="ZH-CN">
         <seg>Jail类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jail Update Failed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T161740Z" creationid="Yifei Ding" creationdate="20190519T161740Z">
+        <seg>Jail更新失败</seg>
       </tuv>
     </tu>
     <tu>
@@ -16010,6 +16058,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not run since last boot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T161825Z" creationid="Yifei Ding" creationdate="20190519T161825Z">
+        <seg>自上次启动后未运行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -16378,6 +16434,14 @@ Content-Transfer-Encoding: 8bit</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Operation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T161829Z" creationid="Yifei Ding" creationdate="20190519T161829Z">
+        <seg>操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Optional comment.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -16574,6 +16638,14 @@ Content-Transfer-Encoding: 8bit</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>分区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Passive storage controller.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T161848Z" creationid="Yifei Ding" creationdate="20190519T161848Z">
+        <seg>被动存储控制器。</seg>
       </tuv>
     </tu>
     <tu>
