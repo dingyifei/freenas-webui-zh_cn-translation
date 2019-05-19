@@ -26218,6 +26218,22 @@ X-POOTLE-MTIME: 1463296042.0</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>VNC Port</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T161346Z" creationid="Yifei Ding" creationdate="20190519T161346Z">
+        <seg>VNC端口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VNC network interface IP address.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T161401Z" creationid="Yifei Ding" creationdate="20190519T161353Z">
+        <seg>VNC网络接口IP地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>VNC network interface.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190318T180848Z" creationid="Yifei Ding" creationdate="20190318T180848Z">
@@ -26502,6 +26518,14 @@ X-POOTLE-MTIME: 1463296042.0</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>虚拟 IP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Virtual IP Address</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T161418Z" creationid="Yifei Ding" creationdate="20190519T161418Z">
+        <seg>虚拟IP地址</seg>
       </tuv>
     </tu>
     <tu>
