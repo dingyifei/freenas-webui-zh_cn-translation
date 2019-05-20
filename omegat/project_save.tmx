@@ -1598,6 +1598,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Active Media Subtype</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T161950Z" creationid="Yifei Ding" creationdate="20190519T161950Z">
+        <seg>活动媒体子类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Active Media Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T161934Z" creationid="Yifei Ding" creationdate="20190519T161934Z">
+        <seg>活动媒体类型Active Media Type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Active Volumes</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -1608,8 +1624,8 @@
       <tuv lang="EN-US">
         <seg>Active storage controller.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T161905Z" creationid="Yifei Ding" creationdate="20190519T161905Z">
-        <seg>活跃存储控制器。</seg>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190519T161933Z" creationid="Yifei Ding" creationdate="20190519T161905Z">
+        <seg>活动存储控制器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10274,14 +10290,6 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190319T034708Z">
         <seg>扩展加密卷将重置密码短语和恢复密钥！</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Extent</seg>
-      </tuv>
-      <tuv lang="ZH-CN">
-        <seg>Extent</seg>
       </tuv>
     </tu>
     <tu>
