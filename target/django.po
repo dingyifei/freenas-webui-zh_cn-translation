@@ -2053,7 +2053,7 @@ msgstr "这里输入可供辨认的描述性文字。"
 #: templates/services/iscsi_assoctargets.html:6
 #: templates/services/iscsi_dextents.html:5
 msgid "Extent"
-msgstr "Extent"
+msgstr ""
 
 #: services/models.py:475 services/models.py:664
 msgid "Portal Group ID"
@@ -10863,7 +10863,7 @@ msgstr "卷导入错误"
 
 #: system/admin.py:129
 msgid "Attach"
-msgstr "连接"
+msgstr "附加"
 
 #: system/forms.py:164
 msgid "Only alphanumeric, underscores and dashes are allowed."
@@ -10900,7 +10900,7 @@ msgstr "完成"
 
 #: templates/system/bootenv_pool_attach.html:3
 msgid "Attach Disk"
-msgstr "连接磁盘"
+msgstr "附加磁盘"
 
 #: templates/system/update.html:31
 msgid ""
