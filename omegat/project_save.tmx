@@ -11654,6 +11654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hostname (Storage Controller 2)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yifei Ding" changedate="20190521T015009Z" creationid="Yifei Ding" creationdate="20190521T015009Z">
+        <seg>主机名（cun'chukongzhiqi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hostname cannot be blank.</seg>
       </tuv>
       <tuv lang="ZH-CN">
